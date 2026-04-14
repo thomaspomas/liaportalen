@@ -6,9 +6,9 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --blue:      #2e7d52;
-  --blue-dark: #1c5c3a;
-  --blue-light:#e8f5ee;
+  --blue:      #e86e2c;
+  --blue-dark: #ba5822;
+  --blue-light:#fdf0e8;
   --accent:    #f59e0b;
   --green:     #059669;
   --red:       #dc2626;
@@ -112,7 +112,7 @@ body {
 }
 
 .hero-company {
-  background: linear-gradient(135deg, #1a4f35 0%, #2e7d52 100%);
+  background: linear-gradient(135deg, #8b3a0d 0%, #e86e2c 100%);
 }
 
 .hero h1 {
