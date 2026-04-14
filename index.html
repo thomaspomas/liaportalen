@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LIA-portalen – Hitta din praktikplats</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="logo">
+        <span class="logo-icon">🎓</span>
+        <span class="logo-text">LIA<span class="logo-accent">portalen</span></span>
+      </div>
+      <nav class="main-nav">
+        <button class="nav-btn active" data-view="student">Hitta LIA-plats</button>
+        <button class="nav-btn" data-view="company">Är du ett företag?</button>
+      </nav>
+    </div>
+  </header>
+
+  <!-- STUDENT VIEW -->
+  <main id="view-student" class="view active">
+
+    <section class="hero">
+      <div class="container">
+        <h1>Hitta din LIA-plats</h1>
+        <p class="hero-sub">Bläddra bland lediga praktikplatser för yrkeshögskolestudenter</p>
+
+        <div class="search-bar-wrap">
+          <input
+            type="text"
+            id="search-input"
+            placeholder="Sök på företag, roll eller ort…"
+            autocomplete="off"
+          />
+          <button id="search-clear" class="clear-btn" title="Rensa sökning">✕</button>
+        </div>
+      </div>
+    </section>
+
+    <div class="container main-content">
+
+      <!-- FILTER BAR -->
+      <div class="filter-bar">
+        <div class="filter-group">
+          <label for="filter-ort">Ort</label>
+          <select id="filter-ort">
+            <option value="">Alla orter</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label for="filter-utbildning">Utbildning</label>
+          <select id="filter-utbildning">
+            <option value="">Alla utbildningar</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label for="filter-sort">Sortera</label>
+          <select id="filter-sort">
+            <option value="newest">Nyast först</option>
+            <option value="deadline">Sista ansökningsdag</option>
+            <option value="ort">Ort (A–Ö)</option>
+            <option value="utbildning">Utbildning (A–Ö)</option>
+          </select>
+        </div>
+
+        <button id="reset-filters" class="reset-btn">Återställ filter</button>
+      </div>
+
+      <!-- RESULTS COUNT -->
+      <div class="results-meta">
+        <span id="results-count">Laddar…</span>
+      </div>
+
+      <!-- LISTINGS GRID -->
+      <div id="listings-grid" class="listings-grid"></div>
+
+      <!-- EMPTY STATE -->
+      <div id="empty-state" class="empty-state hidden">
+        <div class="empty-icon">🔍</div>
+        <p>Inga LIA-platser matchar din sökning.</p>
+        <button id="empty-reset" class="btn-secondary">Rensa filter</button>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- COMPANY VIEW -->
+  <main id="view-company" class="view">
+    <section class="hero hero-company">
+      <div class="container">
+        <h1>Lista en LIA-plats</h1>
+        <p class="hero-sub">Nå ut till motiverade YH-studenter som söker praktikplats</p>
+      </div>
+    </section>
+
+    <!-- MYH INFO SECTION -->
+    <section class="myh-section">
+      <div class="container">
+        <div class="myh-header">
+          <h2>Vad är LIA?</h2>
+          <span class="myh-source">Källa: Myndigheten för yrkeshögskolan (MYH)</span>
+        </div>
+        <div class="myh-grid">
+          <div class="myh-card">
+            <div class="myh-card-icon">📚</div>
+            <h3>Lärande i Arbete</h3>
+            <p>LIA – Lärande i Arbete – är en obligatorisk del av alla utbildningar inom yrkeshögskolan. Under LIA arbetar studenten på riktigt hos ett företag och tillämpar sina kunskaper i verklig miljö.</p>
+          </div>
+          <div class="myh-card">
+            <div class="myh-card-icon">⏱</div>
+            <h3>Hur stor del är LIA?</h3>
+            <p>LIA utgör vanligtvis <strong>25–50 %</strong> av utbildningstiden. Den exakta andelen bestäms av utbildningens ledningsgrupp och varierar beroende på yrke och program.</p>
+          </div>
+          <div class="myh-card">
+            <div class="myh-card-icon">🧑‍🏫</div>
+            <h3>Företagets roll</h3>
+            <p>Som värdföretag utser ni en <strong>LIA-handledare</strong> som vägleder studenten. Handledaren behöver inte vara pedagog – yrkeskunnande och vilja att dela med sig räcker.</p>
+          </div>
+          <div class="myh-card">
+            <div class="myh-card-icon">💰</div>
+            <h3>Lön eller ersättning?</h3>
+            <p>Det finns <strong>inget lagkrav på lön</strong> under LIA. Studenten är inskriven vid skolan och har studiemedel. Många arbetsgivare väljer ändå att ge viss ersättning som en uppskattningsgest.</p>
+          </div>
+          <div class="myh-card">
+            <div class="myh-card-icon">🔄</div>
+            <h3>Inflytande över utbildningen</h3>
+            <p>Arbetsgivare som tar emot LIA-studenter bjuds ofta in till utbildningens <strong>ledningsgrupp</strong>, där ni kan påverka innehållet så att framtida studenter matchar branschens behov.</p>
+          </div>
+          <div class="myh-card">
+            <div class="myh-card-icon">🚀</div>
+            <h3>Vägen till anställning</h3>
+            <p>LIA är ett av de <strong>mest effektiva rekryteringsverktygen</strong> som finns. En stor andel studenter erbjuds jobb hos sin LIA-arbetsgivare direkt efter examen.</p>
+          </div>
+        </div>
+        <p class="myh-link-row">Läs mer på <a href="https://www.myh.se" target="_blank" rel="noopener">myh.se</a></p>
+      </div>
+    </section>
+
+    <div class="container company-layout">
+
+      <!-- BENEFITS -->
+      <div class="benefits-panel">
+        <h2>Varför lista på LIA-portalen?</h2>
+        <ul class="benefits-list">
+          <li>
+            <span class="benefit-icon">🎯</span>
+            <div>
+              <strong>Rätt målgrupp direkt</strong>
+              <p>Alla studenter är YH-studenter som aktivt söker LIA-plats.</p>
+            </div>
+          </li>
+          <li>
+            <span class="benefit-icon">🆓</span>
+            <div>
+              <strong>Helt kostnadsfritt</strong>
+              <p>Publicera hur många annonser du vill utan kostnad.</p>
+            </div>
+          </li>
+          <li>
+            <span class="benefit-icon">⚡</span>
+            <div>
+              <strong>Publiceras direkt</strong>
+              <p>Din annons syns omedelbart för alla studenter på plattformen.</p>
+            </div>
+          </li>
+          <li>
+            <span class="benefit-icon">🤝</span>
+            <div>
+              <strong>Bygg framtida talanger</strong>
+              <p>LIA är ett utmärkt sätt att rekrytera och forma nästa generations kompetens.</p>
+            </div>
+          </li>
+        </ul>
+      </div>
+
+      <!-- POST FORM -->
+      <div class="form-panel">
+        <h2>Annonsera LIA-plats</h2>
+        <form id="post-form" novalidate>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label for="f-company">Företagsnamn *</label>
+              <input type="text" id="f-company" required placeholder="Ex. Teknik AB" />
+              <span class="field-error"></span>
+            </div>
+            <div class="form-group">
+              <label for="f-role">Roll/titel *</label>
+              <input type="text" id="f-role" required placeholder="Ex. Webbutvecklare" />
+              <span class="field-error"></span>
+            </div>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label for="f-ort">Ort *</label>
+              <input type="text" id="f-ort" required placeholder="Ex. Stockholm" />
+              <span class="field-error"></span>
+            </div>
+            <div class="form-group">
+              <label for="f-utbildning">Relevant utbildning *</label>
+              <input type="text" id="f-utbildning" required placeholder="Ex. Systemutvecklare" />
+              <span class="field-error"></span>
+            </div>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label for="f-period">LIA-period</label>
+              <input type="text" id="f-period" placeholder="Ex. HT 2025, jan–mar 2026" />
+            </div>
+            <div class="form-group">
+              <label for="f-deadline">Sista ansökningsdag</label>
+              <input type="date" id="f-deadline" />
+            </div>
+          </div>
+
+          <div class="form-group full-width">
+            <label for="f-desc">Beskrivning *</label>
+            <textarea id="f-desc" rows="5" required placeholder="Beskriv vad studenten kommer att arbeta med, vilka verktyg/tekniker som används, och vad ni söker…"></textarea>
+            <span class="field-error"></span>
+            <span class="char-count" id="desc-count">0 / 800</span>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label for="f-contact">Kontaktperson</label>
+              <input type="text" id="f-contact" placeholder="Ex. Anna Svensson" />
+            </div>
+            <div class="form-group">
+              <label for="f-email">E-post för ansökan *</label>
+              <input type="email" id="f-email" required placeholder="Ex. hr@foretag.se" />
+              <span class="field-error"></span>
+            </div>
+          </div>
+
+          <div class="form-group full-width">
+            <label for="f-antal">Antal platser</label>
+            <input type="number" id="f-antal" min="1" max="99" value="1" />
+          </div>
+
+          <div class="form-actions">
+            <button type="submit" class="btn-primary" id="submit-btn">Publicera annons</button>
+          </div>
+
+          <div id="form-success" class="form-success hidden">
+            ✅ Din annons har publicerats! <a href="#" id="go-to-listings">Se alla annonser</a>
+          </div>
+
+        </form>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- MODAL: full listing detail -->
+  <div id="modal-overlay" class="modal-overlay hidden">
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <button class="modal-close" id="modal-close" aria-label="Stäng">✕</button>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <span class="logo-text" style="font-size:1rem;">LIA<span class="logo-accent">portalen</span></span>
+      <p>En plattform för YH-studenter och företag som vill mötas.</p>
+    </div>
+  </footer>
+
+  <script src="data/jobbsafari-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

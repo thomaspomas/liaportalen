@@ -1,0 +1,36 @@
+name: Uppdatera Jobbsafari-annonser
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # Varje natt kl. 03:00 UTC (05:00 svensk tid)
+  workflow_dispatch:       # Tillåt manuell körning från GitHub-gränssnittet
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write      # Behövs för att kunna committa tillbaka
+
+    steps:
+      - name: Hämta koden
+        uses: actions/checkout@v4
+
+      - name: Sätt upp Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Kör scrapern
+        run: node scraper.js
+
+      - name: Committa om det finns ändringar
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/jobbsafari-data.js
+          if git diff --cached --quiet; then
+            echo "Inga nya annonser – inget att committa."
+          else
+            git commit -m "chore: uppdatera Jobbsafari-annonser $(date -u '+%Y-%m-%d')"
+            git push
+          fi
