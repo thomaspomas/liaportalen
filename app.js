@@ -722,7 +722,6 @@ postForm.addEventListener("submit", e => {
     period:      val("f-period"),
     deadline:    val("f-deadline"),
     desc:        val("f-desc"),
-    contact:     val("f-contact"),
     email:       val("f-email"),
     antal:       parseInt(val("f-antal") || "1", 10),
     postedAt:    new Date().toISOString().slice(0, 10),
@@ -822,8 +821,9 @@ document.getElementById("empty-reset").addEventListener("click",  resetFilters);
 
 // Form field live-validation clear
 ["f-company","f-role","f-ort","f-utbildning","f-desc","f-email"].forEach(id => {
-  document.getElementById(id).addEventListener("input", () => {
-    const el = document.getElementById(id);
+  const el = document.getElementById(id);
+  if (!el) return;
+  el.addEventListener("input", () => {
     el.classList.remove("invalid");
     el.closest(".form-group").querySelector(".field-error").textContent = "";
   });
