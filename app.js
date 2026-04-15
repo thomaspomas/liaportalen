@@ -431,9 +431,18 @@ const state = {
 };
 
 // ── STORAGE ──────────────────────────────────────────────────────────────────
+const USER_LISTING_TTL_DAYS = 120;
+
 function getUserListings() {
   try {
-    return JSON.parse(localStorage.getItem("lia_listings") || "[]");
+    const stored = JSON.parse(localStorage.getItem("lia_listings") || "[]");
+    const cutoff = Date.now() - USER_LISTING_TTL_DAYS * 86400000;
+    const active = stored.filter(l => new Date(l.postedAt).getTime() >= cutoff);
+    // Spara tillbaka om utgångna annonser rensades
+    if (active.length !== stored.length) {
+      localStorage.setItem("lia_listings", JSON.stringify(active));
+    }
+    return active;
   } catch {
     return [];
   }
