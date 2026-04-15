@@ -73,7 +73,7 @@ body {
 }
 
 .header-logo { height: 28px; width: auto; display: block; }
-.logo-accent { color: var(--blue); }
+.logo-text { color: var(--gray-900) !important; }
 
 .main-nav {
   display: flex;
