@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-04-15T05:27:00.561Z
+// Autogenererad av scraper.js – 2026-04-16T05:33:29.176Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -50,20 +50,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://deutsche-windtechnik.softgarden.io/job/60677372/LIA-PRAKTIK?jobDbPVId=269715483&l=en&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20099678",
-    "company": "Ecareer AB",
-    "role": "Marknadsförare, LIA/Praktik",
-    "ort": "Göteborg",
-    "utbildning": "Förare",
+    "id": "js-19686553",
+    "company": "Done",
+    "role": "LiA/Praktik: B2B-försäljning",
+    "ort": "Stockholm",
+    "utbildning": "Försäljning",
     "period": "",
-    "deadline": "2026-09-12",
-    "desc": "LIA-praktik inom marknadsföring\n\nOm praktikplatsen\n\nVi söker en driven och kreativ LIA-praktikant inom marknadsföring som vill vara med och stärka vår digitala närvaro. Hos oss får du arbeta praktiskt med allt från innehållsskapande och sociala medier till analys och kampanjoptimering.\n\nPraktiken passar dig som vill utvecklas inom modern, datadriven marknadsföring och som trivs med att kombinera kreativitet med strategi. Du kommer att få en inblick i hur vi bygger vårt varumärke och når ut till våra målgrupper i olika kanaler.\n\nExempel på arbetsuppgifter\n\nUnder din LIA kan du komma att arbeta med:\n\nContent Creation: Skapa engagerande innehåll (text, bild och video) för sociala medier och web",
+    "deadline": null,
+    "desc": "Är du student inom B2B-försäljning och vill utveckla dina kunskaper inom försäljning, kundkommunikation och account management? Trivs du i en inspirerande miljö där det digitala står i fokus? Söker du praktikperiod under vintern/våren 2025/2026? Då kan du vara den vi letar efter!\n\nI rollen som säljare ansvarar du bland annat för att hitta, kontakta och följa upp med nya och existerande företag anknutna till Done. Då vi är en snabbväxande startup innebär rollen mycket eget ansvar och möjlighet att växa med bolaget även efter praktiken.\n\nExempel på arbetsuppgifter och projekt:Prospektering: hitta Sveriges bästa hantverkare.Nykundsbearbetning: från lead till aktiv hantverkare.Kontinuerlig uppfö",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-03-15",
+    "postedAt": "2025-10-17",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.ecareer.se/jobs/7395692-marknadsforare-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20099710",
@@ -82,6 +82,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.ecareer.se/jobs/7395299-kommunikator-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-18827660",
+    "company": "CBRE",
+    "role": "LIA praktikanter inom fastighetsdrift",
+    "ort": "Stockholm",
+    "utbildning": "Fastighetsförvaltning och underhåll",
+    "period": "",
+    "deadline": null,
+    "desc": "Nu söker vi på CBRE GWS LIA praktikanter inom fastighetsdrift med start januari/februari!\n\nTa chansen att göra din LIA praktik i ett internationellt företag med lokal förankring och familjär känsla! Här får du en aktiv och utbildande praktik i ett engagerat team där du får arbeta med både människor och struktur - och där ingen dag är den andra lik. Sök tjänsten idag då urval sker löpande! \n\nCBRE&#x27;s uppdrag är att leverera service och underhåll av fastigheter och utveckla de fastighetsrelaterade tjänsterna, allt för att säkerställa att vår kund och dess medarbetare har en väl fungerande arbetsplats. Genom att arbeta med ständiga förbättringar, utvecklar vi metoder och processer för att al",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2025-12-04",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://careers.cbre.com/en_US/careers/JobDetail/LIA-praktikanter-inom-fastighetsdrift/197392?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20025464",
     "company": "Astek Sweden AB",
     "role": "LIA Internship- Recruiter",
@@ -98,36 +114,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://astekswedenab.teamtailor.com/jobs/7238616-lia-internship-recruiter?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-19686553",
-    "company": "Done",
-    "role": "LiA/Praktik: B2B-försäljning",
-    "ort": "Stockholm",
-    "utbildning": "Försäljning",
+    "id": "js-20099678",
+    "company": "Ecareer AB",
+    "role": "Marknadsförare, LIA/Praktik",
+    "ort": "Göteborg",
+    "utbildning": "Förare",
     "period": "",
-    "deadline": null,
-    "desc": "Är du student inom B2B-försäljning och vill utveckla dina kunskaper inom försäljning, kundkommunikation och account management? Trivs du i en inspirerande miljö där det digitala står i fokus? Söker du praktikperiod under vintern/våren 2025/2026? Då kan du vara den vi letar efter!\n\nI rollen som säljare ansvarar du bland annat för att hitta, kontakta och följa upp med nya och existerande företag anknutna till Done. Då vi är en snabbväxande startup innebär rollen mycket eget ansvar och möjlighet att växa med bolaget även efter praktiken.\n\nExempel på arbetsuppgifter och projekt:Prospektering: hitta Sveriges bästa hantverkare.Nykundsbearbetning: från lead till aktiv hantverkare.Kontinuerlig uppfö",
+    "deadline": "2026-09-12",
+    "desc": "LIA-praktik inom marknadsföring\n\nOm praktikplatsen\n\nVi söker en driven och kreativ LIA-praktikant inom marknadsföring som vill vara med och stärka vår digitala närvaro. Hos oss får du arbeta praktiskt med allt från innehållsskapande och sociala medier till analys och kampanjoptimering.\n\nPraktiken passar dig som vill utvecklas inom modern, datadriven marknadsföring och som trivs med att kombinera kreativitet med strategi. Du kommer att få en inblick i hur vi bygger vårt varumärke och når ut till våra målgrupper i olika kanaler.\n\nExempel på arbetsuppgifter\n\nUnder din LIA kan du komma att arbeta med:\n\nContent Creation: Skapa engagerande innehåll (text, bild och video) för sociala medier och web",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2025-10-17",
+    "postedAt": "2026-03-15",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-18827660",
-    "company": "CBRE",
-    "role": "LIA praktikanter inom fastighetsdrift",
-    "ort": "Stockholm",
-    "utbildning": "Fastighetsförvaltning och underhåll",
-    "period": "",
-    "deadline": null,
-    "desc": "Nu söker vi på CBRE GWS LIA praktikanter inom fastighetsdrift med start januari/februari!\n\nTa chansen att göra din LIA praktik i ett internationellt företag med lokal förankring och familjär känsla! Här får du en aktiv och utbildande praktik i ett engagerat team där du får arbeta med både människor och struktur - och där ingen dag är den andra lik. Sök tjänsten idag då urval sker löpande! \n\nCBRE&#x27;s uppdrag är att leverera service och underhåll av fastigheter och utveckla de fastighetsrelaterade tjänsterna, allt för att säkerställa att vår kund och dess medarbetare har en väl fungerande arbetsplats. Genom att arbeta med ständiga förbättringar, utvecklar vi metoder och processer för att al",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2025-12-04",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.cbre.com/en_US/careers/JobDetail/LIA-praktikanter-inom-fastighetsdrift/197392?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://jobb.ecareer.se/jobs/7395692-marknadsforare-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19219738",
@@ -194,22 +194,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8212199005140678540&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20129473",
-    "company": "Eletive AB",
-    "role": "Sales Development Intern (LIA) - B2B SaaS",
-    "ort": "Malmö",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": null,
-    "desc": "Join Eletive and learn how modern B2B SaaS sales works in practice \n\nDid you know that engaged employees feel a stronger sense of meaningfulness in their work and are 3x more likely to stay with their company? At Eletive, we believe engaged employees are the key to thriving organizations. That&#x27;s why our vision is simple: a world where people thrive at work and feel motivated and empowered to perform at their best.\n\nEletive is an intelligent People Success Platform that helps organizations measure and increase engagement, fostering workplaces where people truly thrive. \n\nWe are now looking for a curious and ambitious student who wants to complete their LIA or internship within Business D",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-03-15",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.eletive.com/jobs/7392234-sales-development-intern-lia-b2b-saas?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20037692",
     "company": "First Camp",
     "role": "Praktik/LIA inom marknadsföring på First Camp",
@@ -258,22 +242,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/67b3cdce25aca324d57229b4?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20105825",
-    "company": "Eletive AB",
-    "role": "Sales Development Intern (LIA) - B2B SaaS",
-    "ort": "Malmö",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": null,
-    "desc": "Join Eletive and learn how modern B2B SaaS sales works in practice 💜 \nDid you know that engaged employees feel a stronger sense of meaningfulness in their work and are 3x more likely to stay with their company? At Eletive, we believe engaged employees are the key to thriving organizations. That&#x27;s why our vision is simple: a world where people thrive at work and feel motivated and empowered to perform at their best.\n\nEletive is an intelligent People Success Platform that helps organizations measure and increase engagement, fostering workplaces where people truly thrive. \n\nWe are now looking for a curious and ambitious student who wants to complete their LIA or internship within Business",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-03-19",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://thehub.io/jobs/69bb3cb8a1803bcda6301ddc?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20168924",
     "company": "Jobway AB",
     "role": "LIA inom Digital Marknadsföring - Content & SEO/AEO",
@@ -290,20 +258,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://pnty-apply.ponty-system.se/jobway?id=5604&pnty_src=platsbanken&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-18246365",
-    "company": "Conversionista!",
-    "role": "Internship (LIA) at Conversionista - Inbound Marketer",
-    "ort": "Stockholm",
-    "utbildning": "Praktikplatser",
+    "id": "js-20105825",
+    "company": "Eletive AB",
+    "role": "Sales Development Intern (LIA) - B2B SaaS",
+    "ort": "Malmö",
+    "utbildning": "Försäljning",
     "period": "",
     "deadline": null,
-    "desc": "Internship Overview\n\nLocation: Conversionista, Stockholm \nDuration: 3 Months (with possibility of extension)\nStartdate: 19th of August \n\nAre you a marketing enthusiast with a passion for creating engaging content and driving organic growth? Do you have a talent for understanding customer journeys and converting visitors into leads? Join us at Conversionista as an Inbound Marketing Intern and kickstart your career in a dynamic, data-driven environment! \nAs an intern at Conversionista, you will work alongside our expert consultants, commercial team, and MarCom department, and get the opportunity to engage with established, well-known companies. This hands-on experience will allow you to apply ",
+    "desc": "Join Eletive and learn how modern B2B SaaS sales works in practice 💜 \nDid you know that engaged employees feel a stronger sense of meaningfulness in their work and are 3x more likely to stay with their company? At Eletive, we believe engaged employees are the key to thriving organizations. That&#x27;s why our vision is simple: a world where people thrive at work and feel motivated and empowered to perform at their best.\n\nEletive is an intelligent People Success Platform that helps organizations measure and increase engagement, fostering workplaces where people truly thrive. \n\nWe are now looking for a curious and ambitious student who wants to complete their LIA or internship within Business",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2024-05-23",
+    "postedAt": "2026-03-19",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://thehub.io/jobs/69bb3cb8a1803bcda6301ddc?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20129417",
@@ -322,36 +290,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV344169ENGLOBALEXTERNAL/LIA-Praktikplats-Freight-Forwarding-Specialist-AFR-flygspedit%C3%B6r?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-19901880",
-    "company": "AmpSociety",
-    "role": "LIA-praktik inom Copy & Content till techbolaget Amp Society",
-    "ort": "De nordiska länderna",
-    "utbildning": "Distansarbete",
+    "id": "js-18246365",
+    "company": "Conversionista!",
+    "role": "Internship (LIA) at Conversionista - Inbound Marketer",
+    "ort": "Stockholm",
+    "utbildning": "Praktikplatser",
     "period": "",
     "deadline": null,
-    "desc": "Amp Society är på en spännande resa för att elektrifiera samhället med transformativa, väldesignade och framtidssäkra laddlösningar. Nu bygger vi ett internationellt varumärke där ord, tonalitet och berättelser spelar en avgörande roll i hur vi kommunicerar innovation, teknik och hållbarhet.\n\nVi söker nu en copywriter-student för LIA-praktik som vill vara med och forma Amp Societys röst och bidra till att bygga ett tydligt, relevant och premiumbetonat varumärke från grunden.\n\nOm rollen\n\nSom LIA inom copywriting och marknad hos Amp Society arbetar du med ett varumärke i uppbyggnadsfas - där strategi, innehåll och affär möts. Du får möjlighet att skriva texter som används i verkliga projekt, k",
+    "desc": "Internship Overview\n\nLocation: Conversionista, Stockholm \nDuration: 3 Months (with possibility of extension)\nStartdate: 19th of August \n\nAre you a marketing enthusiast with a passion for creating engaging content and driving organic growth? Do you have a talent for understanding customer journeys and converting visitors into leads? Join us at Conversionista as an Inbound Marketing Intern and kickstart your career in a dynamic, data-driven environment! \nAs an intern at Conversionista, you will work alongside our expert consultants, commercial team, and MarCom department, and get the opportunity to engage with established, well-known companies. This hands-on experience will allow you to apply ",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-01-12",
+    "postedAt": "2024-05-23",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://ampsociety1.teamtailor.com/jobs/7045438-lia-praktik-inom-copy-content-till-techbolaget-amp-society?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20102589",
-    "company": "Bilvision",
-    "role": "LIA inom .NET / Javascript / Data Science / BI (hösten 2026)",
-    "ort": "Göteborg",
-    "utbildning": "",
-    "period": "",
-    "deadline": null,
-    "desc": "Vill du göra din LIA hos oss i höst?\n\nKul att du är intresserad av att lära känna oss bättre under din studietid! Klassrum och tentor i all ära, vi tror att det är ute i verkligheten man tar de stora kliven i sin yrkesutveckling. Därför har vi ett par idéer på hur en LIA-period hos oss på Bilvision skulle kunna se ut, där du kan få omsätta teori till praktik, lära känna Bilvision och förhoppningsvis ha väldigt kul på vägen!\n\nLIA hos oss\n\nDina arbetsuppgifter kommer att bli ett konkret case som utformas tillsammans med dig baserad på de behov vi har just under kommande LIA-period. Du blir en del i något av våra utvecklingsteam och ditt uppdrag hos oss kan vara inom följande områden:\n.NET-utve",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-03-12",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://bilvision.teamtailor.com/jobs/7384695-lia-inom-net-javascript-data-science-bi-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20123970",
@@ -370,6 +322,38 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://dpdhlgroup.avature.net/sv_SE/jobs/ApplicationMethods?jobId=344169&source=careers.dhl.com&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20102589",
+    "company": "Bilvision",
+    "role": "LIA inom .NET / Javascript / Data Science / BI (hösten 2026)",
+    "ort": "Göteborg",
+    "utbildning": "",
+    "period": "",
+    "deadline": null,
+    "desc": "Vill du göra din LIA hos oss i höst?\n\nKul att du är intresserad av att lära känna oss bättre under din studietid! Klassrum och tentor i all ära, vi tror att det är ute i verkligheten man tar de stora kliven i sin yrkesutveckling. Därför har vi ett par idéer på hur en LIA-period hos oss på Bilvision skulle kunna se ut, där du kan få omsätta teori till praktik, lära känna Bilvision och förhoppningsvis ha väldigt kul på vägen!\n\nLIA hos oss\n\nDina arbetsuppgifter kommer att bli ett konkret case som utformas tillsammans med dig baserad på de behov vi har just under kommande LIA-period. Du blir en del i något av våra utvecklingsteam och ditt uppdrag hos oss kan vara inom följande områden:\n.NET-utve",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-03-12",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://bilvision.teamtailor.com/jobs/7384695-lia-inom-net-javascript-data-science-bi-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-19901880",
+    "company": "AmpSociety",
+    "role": "LIA-praktik inom Copy & Content till techbolaget Amp Society",
+    "ort": "De nordiska länderna",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": null,
+    "desc": "Amp Society är på en spännande resa för att elektrifiera samhället med transformativa, väldesignade och framtidssäkra laddlösningar. Nu bygger vi ett internationellt varumärke där ord, tonalitet och berättelser spelar en avgörande roll i hur vi kommunicerar innovation, teknik och hållbarhet.\n\nVi söker nu en copywriter-student för LIA-praktik som vill vara med och forma Amp Societys röst och bidra till att bygga ett tydligt, relevant och premiumbetonat varumärke från grunden.\n\nOm rollen\n\nSom LIA inom copywriting och marknad hos Amp Society arbetar du med ett varumärke i uppbyggnadsfas - där strategi, innehåll och affär möts. Du får möjlighet att skriva texter som används i verkliga projekt, k",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-01-12",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://ampsociety1.teamtailor.com/jobs/7045438-lia-praktik-inom-copy-content-till-techbolaget-amp-society?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-18917062",
     "company": "DSV A/S",
     "role": "Sök din Praktik eller LIA hos oss på DSV i Landskrona! (Öppen Ansökan)",
@@ -384,22 +368,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-03-22",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobs.dsv.com/job/Landskrona-S%C3%83%C2%B6k-din-Praktik-eller-LIA-hos-oss-p%C3%83%C2%A5-DSV-i-Landskrona!-(%C3%83-ppen-Ans%C3%83%C2%B6kan)-Skaa-261-51/1153217701/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-19951249",
-    "company": "Bengt Dahlgren AB",
-    "role": "LIA praktik hösten 2026 Stockholm, Uppsala, Sundsvall och Skellefteå",
-    "ort": "Stockholm",
-    "utbildning": "Juniorbefattningar",
-    "period": "",
-    "deadline": null,
-    "desc": "Välkommen att söka praktik hos oss!\n\nVi är samhällsbyggnadskonsulterna som genom ett nyfiket mindset vågar hitta nya lösningar för att möta de utmaningar våra kunder, samhället och planeten står inför. Vi är stora nog för de mest spännande helhetsuppdragen och lagom små för att behålla den familjära känslan. Vi välkomnar gärna fler Bengtar som vill utvecklas tillsammans med oss.\n\nVill du prova på att vara en Bengt på jobbet? Välkommen att ansöka praktik hos oss till hösten 2026.\n\nVi erbjuder\n\nKunder vänder sig ofta till oss när det är extra svårt och komplext. Det tolkar vi som ett tecken på att vi har en hög teknisk kompetens och vi är stolta över att vi just därför ofta får de mest prestig",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-01-28",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.bengtdahlgren.se/jobs/7135441-lia-praktik-hosten-2026-stockholm-uppsala-sundsvall-och-skelleftea?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20064970",
