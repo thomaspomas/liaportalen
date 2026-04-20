@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-04-19T05:31:54.554Z
+// Autogenererad av scraper.js – 2026-04-20T05:44:47.192Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -66,6 +66,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.ecareer.se/jobs/7395692-marknadsforare-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-18827660",
+    "company": "CBRE",
+    "role": "LIA praktikanter inom fastighetsdrift",
+    "ort": "Stockholm",
+    "utbildning": "Fastighetsförvaltning och underhåll",
+    "period": "",
+    "deadline": null,
+    "desc": "Nu söker vi på CBRE GWS LIA praktikanter inom fastighetsdrift med start januari/februari!\n\nTa chansen att göra din LIA praktik i ett internationellt företag med lokal förankring och familjär känsla! Här får du en aktiv och utbildande praktik i ett engagerat team där du får arbeta med både människor och struktur - och där ingen dag är den andra lik. Sök tjänsten idag då urval sker löpande! \n\nCBRE&#x27;s uppdrag är att leverera service och underhåll av fastigheter och utveckla de fastighetsrelaterade tjänsterna, allt för att säkerställa att vår kund och dess medarbetare har en väl fungerande arbetsplats. Genom att arbeta med ständiga förbättringar, utvecklar vi metoder och processer för att al",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2025-12-04",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://careers.cbre.com/en_US/careers/JobDetail/LIA-praktikanter-inom-fastighetsdrift/197392?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20099710",
     "company": "Ecareer AB",
     "role": "Kommunikatör, LIA/Praktik",
@@ -96,22 +112,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-02-15",
     "source": "jobbsafari.se",
     "sourceUrl": "https://astekswedenab.teamtailor.com/jobs/7238616-lia-internship-recruiter?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-18827660",
-    "company": "CBRE",
-    "role": "LIA praktikanter inom fastighetsdrift",
-    "ort": "Stockholm",
-    "utbildning": "Fastighetsförvaltning och underhåll",
-    "period": "",
-    "deadline": null,
-    "desc": "Nu söker vi på CBRE GWS LIA praktikanter inom fastighetsdrift med start januari/februari!\n\nTa chansen att göra din LIA praktik i ett internationellt företag med lokal förankring och familjär känsla! Här får du en aktiv och utbildande praktik i ett engagerat team där du får arbeta med både människor och struktur - och där ingen dag är den andra lik. Sök tjänsten idag då urval sker löpande! \n\nCBRE&#x27;s uppdrag är att leverera service och underhåll av fastigheter och utveckla de fastighetsrelaterade tjänsterna, allt för att säkerställa att vår kund och dess medarbetare har en väl fungerande arbetsplats. Genom att arbeta med ständiga förbättringar, utvecklar vi metoder och processer för att al",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2025-12-04",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.cbre.com/en_US/careers/JobDetail/LIA-praktikanter-inom-fastighetsdrift/197392?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19686553",
@@ -178,38 +178,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.ecareer.se/jobs/7396178-fullstackutvecklare-java-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20037692",
-    "company": "First Camp",
-    "role": "Praktik/LIA inom marknadsföring på First Camp",
-    "ort": "Göteborg",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": null,
-    "desc": "Studerar du marknadsföring och söker en lärorik och rolig praktikplats?\n\nVi tar emot spontanansökningar till vår marknadsavdelning på First Camp! Här skapar vi campinglycka varje dag genom kreativ kommunikation, innehåll och digital marknadsföring.\n\nVilka är First Camp? \n\nFirst Camp är norra Europas ledande campingkedja med över 70 destinationer i Sverige, Danmark, Norge, Finland, Schweiz och Tyskland. Vi är på en spännande tillväxtresa och har som mål att bli världens ledande campingkedja.\n\nTillsammans med över 2 500 medarbetare arbetar vi varje dag för att skapa minnesvärda upplevelser för våra gäster. Marknadsavdelningen spelar en viktig roll i att förmedla känslan av campinglycka, och ho",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-02-04",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.firstcamp.se/jobs/7176636-praktik-lia-inom-marknadsforing-pa-first-camp?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-19972971",
-    "company": "Adavo AB",
-    "role": "LIA student sökes inom Branding & Marknadsföring",
-    "ort": "Stockholm",
-    "utbildning": "Marknadsföring",
-    "period": "",
-    "deadline": null,
-    "desc": "På Adavo söker vi nu en LIA-student inom digital marknadsföring och branding som vill vara med och forma hur vi syns och uppfattas utåt. \n\n Du kommer arbeta med vår närvaro i sociala medier, till exempel LinkedIn, och vara delaktig i att bygga vår digitala identitet från grunden. \n\n Vi är på en tydlig tillväxtresa, vilket gör detta till en unik möjlighet för dig som vill vara med från start, testa idéer i praktiken och faktiskt se resultatet av ditt arbete. \n\n Om rollen\n\nSom LIA-praktikant inom marknadsföring och branding får du vara med och bygga vår externa närvaro över tid.\nDu får möjlighet till både kreativ frihet och strategiskt ansvar - från idé till genomförande och uppföljning.\n\nDu a",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-01-22",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://adavoab.teamtailor.com/jobs/7101107-lia-student-sokes-inom-branding-marknadsforing?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-19888869",
     "company": "Region Västernorrland",
     "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
@@ -240,6 +208,38 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-03-15",
     "source": "jobbsafari.se",
     "sourceUrl": "https://careers.eletive.com/jobs/7392234-sales-development-intern-lia-b2b-saas?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20037692",
+    "company": "First Camp",
+    "role": "Praktik/LIA inom marknadsföring på First Camp",
+    "ort": "Göteborg",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": null,
+    "desc": "Studerar du marknadsföring och söker en lärorik och rolig praktikplats?\n\nVi tar emot spontanansökningar till vår marknadsavdelning på First Camp! Här skapar vi campinglycka varje dag genom kreativ kommunikation, innehåll och digital marknadsföring.\n\nVilka är First Camp? \n\nFirst Camp är norra Europas ledande campingkedja med över 70 destinationer i Sverige, Danmark, Norge, Finland, Schweiz och Tyskland. Vi är på en spännande tillväxtresa och har som mål att bli världens ledande campingkedja.\n\nTillsammans med över 2 500 medarbetare arbetar vi varje dag för att skapa minnesvärda upplevelser för våra gäster. Marknadsavdelningen spelar en viktig roll i att förmedla känslan av campinglycka, och ho",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-02-04",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://careers.firstcamp.se/jobs/7176636-praktik-lia-inom-marknadsforing-pa-first-camp?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-19972971",
+    "company": "Adavo AB",
+    "role": "LIA student sökes inom Branding & Marknadsföring",
+    "ort": "Stockholm",
+    "utbildning": "Marknadsföring",
+    "period": "",
+    "deadline": null,
+    "desc": "På Adavo söker vi nu en LIA-student inom digital marknadsföring och branding som vill vara med och forma hur vi syns och uppfattas utåt. \n\n Du kommer arbeta med vår närvaro i sociala medier, till exempel LinkedIn, och vara delaktig i att bygga vår digitala identitet från grunden. \n\n Vi är på en tydlig tillväxtresa, vilket gör detta till en unik möjlighet för dig som vill vara med från start, testa idéer i praktiken och faktiskt se resultatet av ditt arbete. \n\n Om rollen\n\nSom LIA-praktikant inom marknadsföring och branding får du vara med och bygga vår externa närvaro över tid.\nDu får möjlighet till både kreativ frihet och strategiskt ansvar - från idé till genomförande och uppföljning.\n\nDu a",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-01-22",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://adavoab.teamtailor.com/jobs/7101107-lia-student-sokes-inom-branding-marknadsforing?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19032143",
