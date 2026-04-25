@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-04-24T05:38:32.211Z
+// Autogenererad av scraper.js – 2026-04-25T05:14:59.386Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -18,22 +18,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://kone.wd3.myworkdayjobs.com/en-US/Careers/job/LIA-plats-fr-studerande-p-Xenter-Distansutbildning-2026-2027_R0659486-1?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20202268",
-    "company": "Atea",
-    "role": "LIA",
-    "ort": "Borlänge",
-    "utbildning": "HR och rekrytering",
-    "period": "",
-    "deadline": "2026-05-31",
-    "desc": "Är du nyfiken på hur det är att arbeta som konsult på Atea? Ta chansen att prova på! Tillsammans med våra konsulter får du jobba med spännande kunder och skaffa dig värdefull arbetslivserfarenhet.\n Din roll på Atea\n \n Hos oss får du under den första tiden av din LIA följa med våra erfarna konsulter i deras arbete för att att skaffa dig inblick i Ateas olika teknikområden och vad det innebär att jobba som konsult inom it-branschen. Under senare delen av din LIA finns möjlighet att fördjupa sig mer inom ett område som exempelvis datacenter, dataintegritet, nätverkskommunikation, Microsoft 365, klienthantering och identitetshantering. Innehållet i praktiken kommer att anpassas utifrån din profi",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-21",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-19404697",
     "company": "Performiq AB",
     "role": "LIA-praktik för dig med idrottspuls och säljglöd!",
@@ -48,6 +32,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-01-07",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobb.performiq.se/jobb/8692/ansok/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20202268",
+    "company": "Atea",
+    "role": "LIA",
+    "ort": "Borlänge",
+    "utbildning": "HR och rekrytering",
+    "period": "",
+    "deadline": "2026-05-31",
+    "desc": "Är du nyfiken på hur det är att arbeta som konsult på Atea? Ta chansen att prova på! Tillsammans med våra konsulter får du jobba med spännande kunder och skaffa dig värdefull arbetslivserfarenhet.\n Din roll på Atea\n \n Hos oss får du under den första tiden av din LIA följa med våra erfarna konsulter i deras arbete för att att skaffa dig inblick i Ateas olika teknikområden och vad det innebär att jobba som konsult inom it-branschen. Under senare delen av din LIA finns möjlighet att fördjupa sig mer inom ett område som exempelvis datacenter, dataintegritet, nätverkskommunikation, Microsoft 365, klienthantering och identitetshantering. Innehållet i praktiken kommer att anpassas utifrån din profi",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-21",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20200926",
@@ -114,22 +114,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.ecareer.se/jobs/7395299-kommunikator-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20025464",
-    "company": "Astek Sweden AB",
-    "role": "LIA Internship- Recruiter",
-    "ort": "Stockholm",
-    "utbildning": "HR och rekrytering",
-    "period": "",
-    "deadline": null,
-    "desc": "Do you want to do your internship in recruitment within a technical consulting company?\n\nAre you studying recruitment and looking for an internship (LIA) during spring 2026? Would you like hands-on experience in an international engineering consultancy where people, business and technology come together?\n\nThen you are warmly welcome to apply for an internship with Astek Sweden in Stockholm.\n\nAbout the Role\n\nAs a Recruitment Intern at Astek, you will join our recruitment team and gain insight into the full recruitment process, primarily focused on technical roles such as mechanical design, electronics, software, and project management.\n\nYou will support our recruiters in several parts of the ",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-02-15",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://astekswedenab.teamtailor.com/jobs/7238616-lia-internship-recruiter?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20099678",
     "company": "Ecareer AB",
     "role": "Marknadsförare, LIA/Praktik",
@@ -144,22 +128,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-03-15",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobb.ecareer.se/jobs/7395692-marknadsforare-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-19686553",
-    "company": "Done",
-    "role": "LiA/Praktik: B2B-försäljning",
-    "ort": "Stockholm",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": null,
-    "desc": "Är du student inom B2B-försäljning och vill utveckla dina kunskaper inom försäljning, kundkommunikation och account management? Trivs du i en inspirerande miljö där det digitala står i fokus? Söker du praktikperiod under vintern/våren 2025/2026? Då kan du vara den vi letar efter!\n\nI rollen som säljare ansvarar du bland annat för att hitta, kontakta och följa upp med nya och existerande företag anknutna till Done. Då vi är en snabbväxande startup innebär rollen mycket eget ansvar och möjlighet att växa med bolaget även efter praktiken.\n\nExempel på arbetsuppgifter och projekt:Prospektering: hitta Sveriges bästa hantverkare.Nykundsbearbetning: från lead till aktiv hantverkare.Kontinuerlig uppfö",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2025-10-17",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-18827660",
@@ -194,6 +162,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "http://www.performiq.se/job/8692/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-19686553",
+    "company": "Done",
+    "role": "LiA/Praktik: B2B-försäljning",
+    "ort": "Stockholm",
+    "utbildning": "Försäljning",
+    "period": "",
+    "deadline": null,
+    "desc": "Är du student inom B2B-försäljning och vill utveckla dina kunskaper inom försäljning, kundkommunikation och account management? Trivs du i en inspirerande miljö där det digitala står i fokus? Söker du praktikperiod under vintern/våren 2025/2026? Då kan du vara den vi letar efter!\n\nI rollen som säljare ansvarar du bland annat för att hitta, kontakta och följa upp med nya och existerande företag anknutna till Done. Då vi är en snabbväxande startup innebär rollen mycket eget ansvar och möjlighet att växa med bolaget även efter praktiken.\n\nExempel på arbetsuppgifter och projekt:Prospektering: hitta Sveriges bästa hantverkare.Nykundsbearbetning: från lead till aktiv hantverkare.Kontinuerlig uppfö",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2025-10-17",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20171735",
     "company": "Stadium Sweden Aktiebolag",
     "role": "LIA Logistik - Stadium Solutions",
@@ -224,22 +208,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-03-15",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobb.ecareer.se/jobs/7396178-fullstackutvecklare-java-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-19888869",
-    "company": "Region Västernorrland",
-    "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
-    "ort": "Härnösand",
-    "utbildning": "Tandvård",
-    "period": "",
-    "deadline": "2026-06-14",
-    "desc": "Vi är en kraft som binder ihop, håller samman och utvecklar länet. Inom Region Västernorrland är vi alla en del av något större. \n\nFolktandvården Västernorrlands grundläggande uppdrag är att bidra till liv och hälsa i Västernorrland genom att verka för en god munhälsa på lika villkor. Vi erbjuder allmäntandvård och specialisttandvård inom samtliga specialiteter.\nArbetsuppgifter\n\nÅrligen tar Folktandvården i Region Västernorrland emot tandsköterskestuderande för lärande i arbetslivet, LIA. Vi erbjuder dig som studerar till tandsköterska LIA i mån av plats. Du har stöd av Folktandvårdens erfarna handledare. Vi har en nära dialog med skolans handledare under LIA-perioderna.\n\nRegion Västernorrla",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-01-12",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8212199005140678540&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20037692",
@@ -274,6 +242,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://adavoab.teamtailor.com/jobs/7101107-lia-student-sokes-inom-branding-marknadsforing?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-19888869",
+    "company": "Region Västernorrland",
+    "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
+    "ort": "Härnösand",
+    "utbildning": "Tandvård",
+    "period": "",
+    "deadline": "2026-06-14",
+    "desc": "Vi är en kraft som binder ihop, håller samman och utvecklar länet. Inom Region Västernorrland är vi alla en del av något större. \n\nFolktandvården Västernorrlands grundläggande uppdrag är att bidra till liv och hälsa i Västernorrland genom att verka för en god munhälsa på lika villkor. Vi erbjuder allmäntandvård och specialisttandvård inom samtliga specialiteter.\nArbetsuppgifter\n\nÅrligen tar Folktandvården i Region Västernorrland emot tandsköterskestuderande för lärande i arbetslivet, LIA. Vi erbjuder dig som studerar till tandsköterska LIA i mån av plats. Du har stöd av Folktandvårdens erfarna handledare. Vi har en nära dialog med skolans handledare under LIA-perioderna.\n\nRegion Västernorrla",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-01-12",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8212199005140678540&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-19032143",
     "company": "SimpleSign",
     "role": "Customer Success Manager LIA (internship)",
@@ -290,20 +274,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/67b3cdce25aca324d57229b4?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20203128",
-    "company": "Corporation Service Company",
-    "role": "LIA 2 som Lönekonsult för internationella klienter - HT-26",
-    "ort": "Stockholm",
-    "utbildning": "HR och rekrytering",
+    "id": "js-20129473",
+    "company": "Eletive AB",
+    "role": "Sales Development Intern (LIA) - B2B SaaS",
+    "ort": "Malmö",
+    "utbildning": "Försäljning",
     "period": "",
     "deadline": null,
-    "desc": "Job Description\n\nLIA 2 som Lönekonsult för internationella klienter - HT-26\n\nRoll: LIA-praktikant, Client Payroll & HR Intern\nPlacering: Stockholm, Sverige. På kontoret under hela praktikperioden\nArbetstider: Heltid, måndag-fredag\nTyp av praktik: LIA 2 inom Yrkeshögskolan\nPeriod: Enligt utbildningens upplägg\n\nVill du få en djup inblick i hela löneprocessen och erfarenhet av att arbeta som konsult i ett internationellt bolag? Då kan en LIA-praktik hos oss på CSC vara det perfekta steget i din karriär inom lön!\n\nVi erbjuder en outsourcad lönefunktion för internationella företag som vill etablera sig och verka på den svenska marknaden. Tänk dig ett framgångsrikt retail-företag från Spanien som ",
+    "desc": "Join Eletive and learn how modern B2B SaaS sales works in practice \n\nDid you know that engaged employees feel a stronger sense of meaningfulness in their work and are 3x more likely to stay with their company? At Eletive, we believe engaged employees are the key to thriving organizations. That&#x27;s why our vision is simple: a world where people thrive at work and feel motivated and empowered to perform at their best.\n\nEletive is an intelligent People Success Platform that helps organizations measure and increase engagement, fostering workplaces where people truly thrive. \n\nWe are now looking for a curious and ambitious student who wants to complete their LIA or internship within Business D",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-04-19",
+    "postedAt": "2026-03-15",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/15689?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://careers.eletive.com/jobs/7392234-sales-development-intern-lia-b2b-saas?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20105825",
@@ -386,34 +370,18 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://ampsociety1.teamtailor.com/jobs/7045438-lia-praktik-inom-copy-content-till-techbolaget-amp-society?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20123970",
-    "company": "DHL Express (Sweden) AB",
-    "role": "LIA Praktikplats Freight Forwarding Specialist – AFR (flygspeditör)",
-    "ort": "Stockholms län",
-    "utbildning": "Spedition",
-    "period": "",
-    "deadline": null,
-    "desc": "DHL är marknadsledande inom logistikbranschen och är &quot;logistikbolaget för hela världen&quot;. DHL erbjuder expertis inom internationell express-, flyg- och sjöfrakt, väg- och tågtransport, kontraktslogistik samt internationella brevtjänster. Med ett globalt nätverk som består av mer än 220 länder och territorier och med 550 000 medarbetare över hela världen erbjuds kunder högsta kvalitet kombinerat med god lokal kännedom. \n\nAllt för att på bästa sätt kunna tillgodose kundens behov av tjänster som täcker hela varuflödeskedjan. DHL tar sitt sociala ansvar genom att löpande arbeta med åtgärder för att minska klimatpåverkan och genom att bidra med katastrofhantering samt utbildning. DHL Glo",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-03-25",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://dpdhlgroup.avature.net/sv_SE/jobs/ApplicationMethods?jobId=344169&source=careers.dhl.com&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-18917062",
     "company": "DSV A/S",
     "role": "Sök din Praktik eller LIA hos oss på DSV i Landskrona! (Öppen Ansökan)",
     "ort": "Landskrona",
     "utbildning": "Juniorbefattningar",
     "period": "",
-    "deadline": "2026-05-19",
+    "deadline": "2026-05-23",
     "desc": "Vi kan erbjuda dig en härlig arbetsmiljö med högt i tak, spännande arbetsuppgifter - och nära samarbete med kompetenta och erfarna kollegor. DSV är ett företag i som ständigt växer och där du får möjlighet att påverka utvecklingen.\n\nFrån vårt svenska huvudkontor i Landkrona hjälper vi både stora och små kunder med import och export av varor och vardagen präglas av viljan att alltid leverera Sveriges bästa logistiklösning till våra kunder Vi är ett engagerat och positivt team med varierad kompetens- och branscherfarenhet. Det vi har gemensamt är att vi brinner för våra kunder, lag-arbete och för att leverera logistiklösningar i världsklass.\n\nVi har stort fokus på flexibilitet i vardagen samt ",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-03-22",
+    "postedAt": "2026-04-20",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobs.dsv.com/job/Landskrona-S%C3%83%C2%B6k-din-Praktik-eller-LIA-hos-oss-p%C3%83%C2%A5-DSV-i-Landskrona!-(%C3%83-ppen-Ans%C3%83%C2%B6kan)-Skaa-261-51/1153217701/?utm_source=jobbsafari.se&utm_medium=referral"
   },
