@@ -1,22 +1,6 @@
-// Autogenererad av scraper.js – 2026-04-29T05:57:28.432Z
+// Autogenererad av scraper.js – 2026-04-30T06:07:21.310Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
-  {
-    "id": "js-20177613",
-    "company": "KONE Sweden",
-    "role": "LIA plats för studerande på Xenter Distansutbildning 2026/2027",
-    "ort": "Kista",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": null,
-    "desc": "ENDAST för nuvarande hiss-, rulltrapps-, port- och dörr -teknikerstudenter på Xenter Distansutbildning 2026/2027 \n\nVill du ta nästa steg i din teknikerresa? Sök din LIA hos KONE!\nVill du vara på en arbetsplats där du får praktisk erfarenhet, stöd av erfarna tekniker och en inspirerande introduktion till ett framtidsyrke?\nDå är LIA på KONE helt rätt för dig.\n\nHär får du komma ännu närmare verkligheten i rollen som hiss-, rulltrapps-, port- och dörrtekniker. Du har med dig kunskap från skolan och vi vill hjälpa dig ta nästa steg och bygga vidare på den.\n\nVad du kan förvänta dig under LIA hos oss\n\n✔ Fördjupad inblick i teknikerrollen\n✔ Praktiskt lärande i verklig miljö tillsammans med din handl",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-12",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://kone.wd3.myworkdayjobs.com/en-US/Careers/job/LIA-plats-fr-studerande-p-Xenter-Distansutbildning-2026-2027_R0659486-1?utm_source=jobbsafari.se&utm_medium=referral"
-  },
   {
     "id": "js-19404697",
     "company": "Performiq AB",
@@ -98,22 +82,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20208604",
-    "company": "Trafikverket",
-    "role": "LIA som systemutvecklare C# i Göteborg",
-    "ort": "Göteborg",
-    "utbildning": "Programmerare och programvaruutveckling",
-    "period": "",
-    "deadline": "2026-05-06",
-    "desc": "På Trafikverkets avdelning för Digitalisering och vägsystem arbetar vi med att skapa ett säkert, hållbart och effektivt vägtrafiksystem, både för oss idag och för kommande generationer. Här utvecklar vi digital infrastruktur och innovativa tjänster som säkerställer att våra lösningar fungerar optimalt på ett smidigt, grönt och tryggt sätt. Nu söker vi dig som är LIA-student och vill göra din praktik hos oss inom C-ITS (Cooperative Intelligent Transport Systems).\n\nVarmt välkommen med din ansökan!\nOm jobbet\nUnder din praktik kommer du att arbeta med utveckling av applikationer och tjänster i Visual Studio med C#/.NET. Du blir en del av arbetet med att vidareutveckla och förbättra våra C-ITS-lö",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-22",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://trv.heroma.se/prod/TRVpp01/ExternWebbV2/Ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8284250025909452604&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20099710",
     "company": "Ecareer AB",
     "role": "Kommunikatör, LIA/Praktik",
@@ -146,22 +114,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.ecareer.se/jobs/7395692-marknadsforare-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-19686553",
-    "company": "Done",
-    "role": "LiA/Praktik: B2B-försäljning",
-    "ort": "Stockholm",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": null,
-    "desc": "Är du student inom B2B-försäljning och vill utveckla dina kunskaper inom försäljning, kundkommunikation och account management? Trivs du i en inspirerande miljö där det digitala står i fokus? Söker du praktikperiod under vintern/våren 2025/2026? Då kan du vara den vi letar efter!\n\nI rollen som säljare ansvarar du bland annat för att hitta, kontakta och följa upp med nya och existerande företag anknutna till Done. Då vi är en snabbväxande startup innebär rollen mycket eget ansvar och möjlighet att växa med bolaget även efter praktiken.\n\nExempel på arbetsuppgifter och projekt:Prospektering: hitta Sveriges bästa hantverkare.Nykundsbearbetning: från lead till aktiv hantverkare.Kontinuerlig uppfö",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2025-10-17",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-18827660",
     "company": "CBRE",
     "role": "LIA praktikanter inom fastighetsdrift",
@@ -176,6 +128,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2025-12-04",
     "source": "jobbsafari.se",
     "sourceUrl": "https://careers.cbre.com/en_US/careers/JobDetail/LIA-praktikanter-inom-fastighetsdrift/197392?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20208604",
+    "company": "Trafikverket",
+    "role": "LIA som systemutvecklare C# i Göteborg",
+    "ort": "Göteborg",
+    "utbildning": "Programmerare och programvaruutveckling",
+    "period": "",
+    "deadline": "2026-05-06",
+    "desc": "På Trafikverkets avdelning för Digitalisering och vägsystem arbetar vi med att skapa ett säkert, hållbart och effektivt vägtrafiksystem, både för oss idag och för kommande generationer. Här utvecklar vi digital infrastruktur och innovativa tjänster som säkerställer att våra lösningar fungerar optimalt på ett smidigt, grönt och tryggt sätt. Nu söker vi dig som är LIA-student och vill göra din praktik hos oss inom C-ITS (Cooperative Intelligent Transport Systems).\n\nVarmt välkommen med din ansökan!\nOm jobbet\nUnder din praktik kommer du att arbeta med utveckling av applikationer och tjänster i Visual Studio med C#/.NET. Du blir en del av arbetet med att vidareutveckla och förbättra våra C-ITS-lö",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-22",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://trv.heroma.se/prod/TRVpp01/ExternWebbV2/Ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8284250025909452604&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19219738",
@@ -210,36 +178,36 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.ecareer.se/jobs/7396178-fullstackutvecklare-java-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-19888869",
-    "company": "Region Västernorrland",
-    "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
-    "ort": "Härnösand",
-    "utbildning": "Tandvård",
-    "period": "",
-    "deadline": "2026-06-14",
-    "desc": "Vi är en kraft som binder ihop, håller samman och utvecklar länet. Inom Region Västernorrland är vi alla en del av något större. \n\nFolktandvården Västernorrlands grundläggande uppdrag är att bidra till liv och hälsa i Västernorrland genom att verka för en god munhälsa på lika villkor. Vi erbjuder allmäntandvård och specialisttandvård inom samtliga specialiteter.\nArbetsuppgifter\n\nÅrligen tar Folktandvården i Region Västernorrland emot tandsköterskestuderande för lärande i arbetslivet, LIA. Vi erbjuder dig som studerar till tandsköterska LIA i mån av plats. Du har stöd av Folktandvårdens erfarna handledare. Vi har en nära dialog med skolans handledare under LIA-perioderna.\n\nRegion Västernorrla",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-01-12",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8212199005140678540&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20037692",
-    "company": "First Camp",
-    "role": "Praktik/LIA inom marknadsföring på First Camp",
-    "ort": "Göteborg",
-    "utbildning": "Distansarbete",
+    "id": "js-19686553",
+    "company": "Done",
+    "role": "LiA/Praktik: B2B-försäljning",
+    "ort": "Stockholm",
+    "utbildning": "Försäljning",
     "period": "",
     "deadline": null,
-    "desc": "Studerar du marknadsföring och söker en lärorik och rolig praktikplats?\n\nVi tar emot spontanansökningar till vår marknadsavdelning på First Camp! Här skapar vi campinglycka varje dag genom kreativ kommunikation, innehåll och digital marknadsföring.\n\nVilka är First Camp? \n\nFirst Camp är norra Europas ledande campingkedja med över 70 destinationer i Sverige, Danmark, Norge, Finland, Schweiz och Tyskland. Vi är på en spännande tillväxtresa och har som mål att bli världens ledande campingkedja.\n\nTillsammans med över 2 500 medarbetare arbetar vi varje dag för att skapa minnesvärda upplevelser för våra gäster. Marknadsavdelningen spelar en viktig roll i att förmedla känslan av campinglycka, och ho",
+    "desc": "Är du student inom B2B-försäljning och vill utveckla dina kunskaper inom försäljning, kundkommunikation och account management? Trivs du i en inspirerande miljö där det digitala står i fokus? Söker du praktikperiod under vintern/våren 2025/2026? Då kan du vara den vi letar efter!\n\nI rollen som säljare ansvarar du bland annat för att hitta, kontakta och följa upp med nya och existerande företag anknutna till Done. Då vi är en snabbväxande startup innebär rollen mycket eget ansvar och möjlighet att växa med bolaget även efter praktiken.\n\nExempel på arbetsuppgifter och projekt:Prospektering: hitta Sveriges bästa hantverkare.Nykundsbearbetning: från lead till aktiv hantverkare.Kontinuerlig uppfö",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-02-04",
+    "postedAt": "2025-10-17",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.firstcamp.se/jobs/7176636-praktik-lia-inom-marknadsforing-pa-first-camp?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20232184",
+    "company": "Sokigo AB",
+    "role": "Sokigo söker en LIA-praktikant inom test och kvalitet",
+    "ort": "Sundbyberg",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": "2026-05-31",
+    "desc": "Studerar du inom IT och söker en LIA-plats där du får arbeta med test, kvalitet och moderna systemlösningar? Vill du vara med och säkerställa att lösningar som används av Sveriges kommuner håller hög kvalitet och fungerar i praktiken? Då kan det här vara rätt möjlighet för dig.\n\nSokigo utvecklar och levererar IT-lösningar till offentlig sektor över hela Sverige. Våra system används dagligen i kommuner, regioner och myndigheter vilket ställer höga krav på stabilitet, säkerhet och användbarhet. Nu söker vi en LIA-praktikant som vill bidra till vårt arbete med test och kvalitetssäkring.\n\nOm LIA-platsen\n\nSom LIA-praktikant inom test och kvalitet blir du en del av vårt utvecklings- och testteam. ",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-28",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://karriar.sokigo.com/jobs/7609530-sokigo-soker-en-lia-praktikant-inom-test-och-kvalitet/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19972971",
@@ -274,22 +242,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/67b3cdce25aca324d57229b4?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20168924",
-    "company": "Jobway AB",
-    "role": "LIA inom Digital Marknadsföring - Content & SEO/AEO",
-    "ort": "Stockholm",
-    "utbildning": "Dataanalys och datahantering",
-    "period": "",
-    "deadline": "2026-04-30",
-    "desc": "LIA inom Digital Marknadsföring - Content & SEO/AEO (2 platser)\n\nVill du få praktisk erfarenhet av hur digital marknadsföring faktiskt driver trafik och affär? Vi söker nu 2 LIA-praktikanter som vill utvecklas inom content, SEO och AI-sök (AEO).\n\nDet här kommer du jobba med:\n\nSkapa content och optimera texter för både Google och AI-sök\n\nGöra enklare analyser av trafik, ranking och innehållets prestation\n\nStötta i produktion av content och utskick inom email marknadsföring\n\nVara med och testa vad som faktiskt fungerar och iterera därefter\n\nDu kommer få lära dig:\n\nHur digital marknadsföring driver trafik, leads och affär\n\nHur man optimerar för att ranka på Google \n\nHur man optimerar content fö",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-07",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://pnty-apply.ponty-system.se/jobway?id=5604&pnty_src=platsbanken&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20203128",
     "company": "Corporation Service Company",
     "role": "LIA 2 som Lönekonsult för internationella klienter - HT-26",
@@ -304,6 +256,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-04-19",
     "source": "jobbsafari.se",
     "sourceUrl": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/15689?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20168924",
+    "company": "Jobway AB",
+    "role": "LIA inom Digital Marknadsföring - Content & SEO/AEO",
+    "ort": "Stockholm",
+    "utbildning": "Dataanalys och datahantering",
+    "period": "",
+    "deadline": "2026-04-30",
+    "desc": "LIA inom Digital Marknadsföring - Content & SEO/AEO (2 platser)\n\nVill du få praktisk erfarenhet av hur digital marknadsföring faktiskt driver trafik och affär? Vi söker nu 2 LIA-praktikanter som vill utvecklas inom content, SEO och AI-sök (AEO).\n\nDet här kommer du jobba med:\n\nSkapa content och optimera texter för både Google och AI-sök\n\nGöra enklare analyser av trafik, ranking och innehållets prestation\n\nStötta i produktion av content och utskick inom email marknadsföring\n\nVara med och testa vad som faktiskt fungerar och iterera därefter\n\nDu kommer få lära dig:\n\nHur digital marknadsföring driver trafik, leads och affär\n\nHur man optimerar för att ranka på Google \n\nHur man optimerar content fö",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-07",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://pnty-apply.ponty-system.se/jobway?id=5604&pnty_src=platsbanken&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20105825",
@@ -322,6 +290,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/69bb3cb8a1803bcda6301ddc?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-19888869",
+    "company": "Region Västernorrland",
+    "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
+    "ort": "Härnösand",
+    "utbildning": "Tandvård",
+    "period": "",
+    "deadline": "2026-06-14",
+    "desc": "Vi är en kraft som binder ihop, håller samman och utvecklar länet. Inom Region Västernorrland är vi alla en del av något större. \n\nFolktandvården Västernorrlands grundläggande uppdrag är att bidra till liv och hälsa i Västernorrland genom att verka för en god munhälsa på lika villkor. Vi erbjuder allmäntandvård och specialisttandvård inom samtliga specialiteter.\nArbetsuppgifter\n\nÅrligen tar Folktandvården i Region Västernorrland emot tandsköterskestuderande för lärande i arbetslivet, LIA. Vi erbjuder dig som studerar till tandsköterska LIA i mån av plats. Du har stöd av Folktandvårdens erfarna handledare. Vi har en nära dialog med skolans handledare under LIA-perioderna.\n\nRegion Västernorrla",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-01-12",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8212199005140678540&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-18246365",
     "company": "Conversionista!",
     "role": "Internship (LIA) at Conversionista - Inbound Marketer",
@@ -338,20 +322,36 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20223835",
-    "company": "Tieto AB",
-    "role": "LIA (internship) SW Developer - Tieto Caretech (m/f/d)",
+    "id": "js-20129473",
+    "company": "Eletive AB",
+    "role": "Sales Development Intern (LIA) - B2B SaaS",
     "ort": "Malmö",
-    "utbildning": "Praktikplatser",
+    "utbildning": "Försäljning",
     "period": "",
     "deadline": null,
-    "desc": "Job Description\n\n🚀 We are looking for LIA interns for our office in Malmö 🚀\n\nAre you a Systems Development/Software Development student and looking for your LIA2 internship for fall 2026? We are now looking for driven and curious LIA interns who want to grow and develop together with us in Malmö. Please note that this position is exclusively for students completing a mandatory LIA 2 internship as part of their education.\n\nWho we are \n\nAt Tieto Caretech, we build technology that supports healthcare professionals in their daily work - making systems smoother, processes smarter, and care better. This fall, we&#x27;re looking for curious and motivateds LIA-interns who want to learn, grow, and ",
+    "desc": "Join Eletive and learn how modern B2B SaaS sales works in practice \n\nDid you know that engaged employees feel a stronger sense of meaningfulness in their work and are 3x more likely to stay with their company? At Eletive, we believe engaged employees are the key to thriving organizations. That&#x27;s why our vision is simple: a world where people thrive at work and feel motivated and empowered to perform at their best.\n\nEletive is an intelligent People Success Platform that helps organizations measure and increase engagement, fostering workplaces where people truly thrive. \n\nWe are now looking for a curious and ambitious student who wants to complete their LIA or internship within Business D",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-04-26",
+    "postedAt": "2026-03-15",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.tieto.com/job/lia-internship-sw-developer-tieto-caretech-m-f-d-in-malmoe-sweden-jid-2179?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://careers.eletive.com/jobs/7392234-sales-development-intern-lia-b2b-saas?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20233325",
+    "company": "Tieto AB",
+    "role": "LIA (internship) SW Developer - Tieto Caretech (m/f/d)",
+    "ort": "Luleå",
+    "utbildning": "Praktikplatser",
+    "period": "",
+    "deadline": null,
+    "desc": "Job Description\n\n🚀 We are looking for LIA interns for our office in Luleå 🚀\n\nAre you a Systems Development/Software Development student and looking for your LIA2 internship for fall 2026? We are now looking for driven and curious LIA interns who want to grow and develop together with us in Luleå. \n\nPlease note that this position is exclusively for students completing a mandatory LIA 2 internship as part of their education.\n\nWho we are \n\nAt Tieto Caretech, we build technology that supports healthcare professionals in their daily work - making systems smoother, processes smarter, and care better. This fall, we&#x27;re looking for curious and motivateds LIA-interns who want to learn, grow, an",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-28",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://careers.tieto.com/job/lia-internship-sw-developer-tieto-caretech-m-f-d-in-lulea-sweden-jid-2201?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19901880",
@@ -368,6 +368,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-01-12",
     "source": "jobbsafari.se",
     "sourceUrl": "https://ampsociety1.teamtailor.com/jobs/7045438-lia-praktik-inom-copy-content-till-techbolaget-amp-society?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20223835",
+    "company": "Tieto AB",
+    "role": "LIA (internship) SW Developer - Tieto Caretech (m/f/d)",
+    "ort": "Malmö",
+    "utbildning": "Praktikplatser",
+    "period": "",
+    "deadline": null,
+    "desc": "Job Description\n\n🚀 We are looking for LIA interns for our office in Malmö 🚀\n\nAre you a Systems Development/Software Development student and looking for your LIA2 internship for fall 2026? We are now looking for driven and curious LIA interns who want to grow and develop together with us in Malmö. Please note that this position is exclusively for students completing a mandatory LIA 2 internship as part of their education.\n\nWho we are \n\nAt Tieto Caretech, we build technology that supports healthcare professionals in their daily work - making systems smoother, processes smarter, and care better. This fall, we&#x27;re looking for curious and motivateds LIA-interns who want to learn, grow, and ",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-26",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://careers.tieto.com/job/lia-internship-sw-developer-tieto-caretech-m-f-d-in-malmoe-sweden-jid-2179?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-18917062",
