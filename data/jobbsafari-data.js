@@ -1,21 +1,21 @@
-// Autogenererad av scraper.js – 2026-05-02T05:39:34.900Z
+// Autogenererad av scraper.js – 2026-05-03T06:07:38.044Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
-    "id": "js-20177613",
-    "company": "KONE Sweden",
-    "role": "LIA plats för studerande på Xenter Distansutbildning 2026/2027",
-    "ort": "Kista",
-    "utbildning": "Distansarbete",
+    "id": "js-20202268",
+    "company": "Atea",
+    "role": "LIA",
+    "ort": "Borlänge",
+    "utbildning": "HR och rekrytering",
     "period": "",
-    "deadline": null,
-    "desc": "ENDAST för nuvarande hiss-, rulltrapps-, port- och dörr -teknikerstudenter på Xenter Distansutbildning 2026/2027 \n\nVill du ta nästa steg i din teknikerresa? Sök din LIA hos KONE!\nVill du vara på en arbetsplats där du får praktisk erfarenhet, stöd av erfarna tekniker och en inspirerande introduktion till ett framtidsyrke?\nDå är LIA på KONE helt rätt för dig.\n\nHär får du komma ännu närmare verkligheten i rollen som hiss-, rulltrapps-, port- och dörrtekniker. Du har med dig kunskap från skolan och vi vill hjälpa dig ta nästa steg och bygga vidare på den.\n\nVad du kan förvänta dig under LIA hos oss\n\n✔ Fördjupad inblick i teknikerrollen\n✔ Praktiskt lärande i verklig miljö tillsammans med din handl",
+    "deadline": "2026-05-31",
+    "desc": "Är du nyfiken på hur det är att arbeta som konsult på Atea? Ta chansen att prova på! Tillsammans med våra konsulter får du jobba med spännande kunder och skaffa dig värdefull arbetslivserfarenhet.\n Din roll på Atea\n \n Hos oss får du under den första tiden av din LIA följa med våra erfarna konsulter i deras arbete för att att skaffa dig inblick i Ateas olika teknikområden och vad det innebär att jobba som konsult inom it-branschen. Under senare delen av din LIA finns möjlighet att fördjupa sig mer inom ett område som exempelvis datacenter, dataintegritet, nätverkskommunikation, Microsoft 365, klienthantering och identitetshantering. Innehållet i praktiken kommer att anpassas utifrån din profi",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-04-29",
+    "postedAt": "2026-04-21",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://kone.wd3.myworkdayjobs.com/en-US/Careers/job/LIA-plats-fr-studerande-p-Xenter-Distansutbildning-2026-2027_R0659486-1?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19404697",
@@ -32,22 +32,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-01-07",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobb.performiq.se/jobb/8692/ansok/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20202268",
-    "company": "Atea",
-    "role": "LIA",
-    "ort": "Borlänge",
-    "utbildning": "HR och rekrytering",
-    "period": "",
-    "deadline": "2026-05-31",
-    "desc": "Är du nyfiken på hur det är att arbeta som konsult på Atea? Ta chansen att prova på! Tillsammans med våra konsulter får du jobba med spännande kunder och skaffa dig värdefull arbetslivserfarenhet.\n Din roll på Atea\n \n Hos oss får du under den första tiden av din LIA följa med våra erfarna konsulter i deras arbete för att att skaffa dig inblick i Ateas olika teknikområden och vad det innebär att jobba som konsult inom it-branschen. Under senare delen av din LIA finns möjlighet att fördjupa sig mer inom ett område som exempelvis datacenter, dataintegritet, nätverkskommunikation, Microsoft 365, klienthantering och identitetshantering. Innehållet i praktiken kommer att anpassas utifrån din profi",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-21",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20200926",
@@ -146,20 +130,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://careers.cbre.com/en_US/careers/JobDetail/LIA-praktikanter-inom-fastighetsdrift/197392?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20099678",
-    "company": "Ecareer AB",
-    "role": "Marknadsförare, LIA/Praktik",
+    "id": "js-20208604",
+    "company": "Trafikverket",
+    "role": "LIA som systemutvecklare C# i Göteborg",
     "ort": "Göteborg",
-    "utbildning": "Förare",
+    "utbildning": "Programmerare och programvaruutveckling",
     "period": "",
-    "deadline": "2026-09-12",
-    "desc": "LIA-praktik inom marknadsföring\n\nOm praktikplatsen\n\nVi söker en driven och kreativ LIA-praktikant inom marknadsföring som vill vara med och stärka vår digitala närvaro. Hos oss får du arbeta praktiskt med allt från innehållsskapande och sociala medier till analys och kampanjoptimering.\n\nPraktiken passar dig som vill utvecklas inom modern, datadriven marknadsföring och som trivs med att kombinera kreativitet med strategi. Du kommer att få en inblick i hur vi bygger vårt varumärke och når ut till våra målgrupper i olika kanaler.\n\nExempel på arbetsuppgifter\n\nUnder din LIA kan du komma att arbeta med:\n\nContent Creation: Skapa engagerande innehåll (text, bild och video) för sociala medier och web",
+    "deadline": "2026-05-06",
+    "desc": "På Trafikverkets avdelning för Digitalisering och vägsystem arbetar vi med att skapa ett säkert, hållbart och effektivt vägtrafiksystem, både för oss idag och för kommande generationer. Här utvecklar vi digital infrastruktur och innovativa tjänster som säkerställer att våra lösningar fungerar optimalt på ett smidigt, grönt och tryggt sätt. Nu söker vi dig som är LIA-student och vill göra din praktik hos oss inom C-ITS (Cooperative Intelligent Transport Systems).\n\nVarmt välkommen med din ansökan!\nOm jobbet\nUnder din praktik kommer du att arbeta med utveckling av applikationer och tjänster i Visual Studio med C#/.NET. Du blir en del av arbetet med att vidareutveckla och förbättra våra C-ITS-lö",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-03-15",
+    "postedAt": "2026-04-22",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.ecareer.se/jobs/7395692-marknadsforare-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://trv.heroma.se/prod/TRVpp01/ExternWebbV2/Ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8284250025909452604&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19219738",
@@ -178,20 +162,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "http://www.performiq.se/job/8692/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20208604",
-    "company": "Trafikverket",
-    "role": "LIA som systemutvecklare C# i Göteborg",
+    "id": "js-20099678",
+    "company": "Ecareer AB",
+    "role": "Marknadsförare, LIA/Praktik",
     "ort": "Göteborg",
-    "utbildning": "Programmerare och programvaruutveckling",
+    "utbildning": "Förare",
     "period": "",
-    "deadline": "2026-05-06",
-    "desc": "På Trafikverkets avdelning för Digitalisering och vägsystem arbetar vi med att skapa ett säkert, hållbart och effektivt vägtrafiksystem, både för oss idag och för kommande generationer. Här utvecklar vi digital infrastruktur och innovativa tjänster som säkerställer att våra lösningar fungerar optimalt på ett smidigt, grönt och tryggt sätt. Nu söker vi dig som är LIA-student och vill göra din praktik hos oss inom C-ITS (Cooperative Intelligent Transport Systems).\n\nVarmt välkommen med din ansökan!\nOm jobbet\nUnder din praktik kommer du att arbeta med utveckling av applikationer och tjänster i Visual Studio med C#/.NET. Du blir en del av arbetet med att vidareutveckla och förbättra våra C-ITS-lö",
+    "deadline": "2026-09-12",
+    "desc": "LIA-praktik inom marknadsföring\n\nOm praktikplatsen\n\nVi söker en driven och kreativ LIA-praktikant inom marknadsföring som vill vara med och stärka vår digitala närvaro. Hos oss får du arbeta praktiskt med allt från innehållsskapande och sociala medier till analys och kampanjoptimering.\n\nPraktiken passar dig som vill utvecklas inom modern, datadriven marknadsföring och som trivs med att kombinera kreativitet med strategi. Du kommer att få en inblick i hur vi bygger vårt varumärke och når ut till våra målgrupper i olika kanaler.\n\nExempel på arbetsuppgifter\n\nUnder din LIA kan du komma att arbeta med:\n\nContent Creation: Skapa engagerande innehåll (text, bild och video) för sociala medier och web",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-04-22",
+    "postedAt": "2026-03-15",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://trv.heroma.se/prod/TRVpp01/ExternWebbV2/Ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8284250025909452604&utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://jobb.ecareer.se/jobs/7395692-marknadsforare-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20099779",
@@ -290,6 +274,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://karriar.sokigo.com/jobs/7609530-sokigo-soker-en-lia-praktikant-inom-test-och-kvalitet/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20203128",
+    "company": "Corporation Service Company",
+    "role": "LIA 2 som Lönekonsult för internationella klienter - HT-26",
+    "ort": "Stockholm",
+    "utbildning": "HR och rekrytering",
+    "period": "",
+    "deadline": null,
+    "desc": "Job Description\n\nLIA 2 som Lönekonsult för internationella klienter - HT-26\n\nRoll: LIA-praktikant, Client Payroll & HR Intern\nPlacering: Stockholm, Sverige. På kontoret under hela praktikperioden\nArbetstider: Heltid, måndag-fredag\nTyp av praktik: LIA 2 inom Yrkeshögskolan\nPeriod: Enligt utbildningens upplägg\n\nVill du få en djup inblick i hela löneprocessen och erfarenhet av att arbeta som konsult i ett internationellt bolag? Då kan en LIA-praktik hos oss på CSC vara det perfekta steget i din karriär inom lön!\n\nVi erbjuder en outsourcad lönefunktion för internationella företag som vill etablera sig och verka på den svenska marknaden. Tänk dig ett framgångsrikt retail-företag från Spanien som ",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-19",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/15689?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-19888869",
     "company": "Region Västernorrland",
     "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
@@ -336,22 +336,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2024-05-23",
     "source": "jobbsafari.se",
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20203128",
-    "company": "Corporation Service Company",
-    "role": "LIA 2 som Lönekonsult för internationella klienter - HT-26",
-    "ort": "Stockholm",
-    "utbildning": "HR och rekrytering",
-    "period": "",
-    "deadline": null,
-    "desc": "Job Description\n\nLIA 2 som Lönekonsult för internationella klienter - HT-26\n\nRoll: LIA-praktikant, Client Payroll & HR Intern\nPlacering: Stockholm, Sverige. På kontoret under hela praktikperioden\nArbetstider: Heltid, måndag-fredag\nTyp av praktik: LIA 2 inom Yrkeshögskolan\nPeriod: Enligt utbildningens upplägg\n\nVill du få en djup inblick i hela löneprocessen och erfarenhet av att arbeta som konsult i ett internationellt bolag? Då kan en LIA-praktik hos oss på CSC vara det perfekta steget i din karriär inom lön!\n\nVi erbjuder en outsourcad lönefunktion för internationella företag som vill etablera sig och verka på den svenska marknaden. Tänk dig ett framgångsrikt retail-företag från Spanien som ",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-19",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/15689?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19901880",
