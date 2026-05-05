@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-05-04T06:16:15.550Z
+// Autogenererad av scraper.js – 2026-05-05T05:46:03.480Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -66,20 +66,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://deutsche-windtechnik.softgarden.io/job/60677372/LIA-PRAKTIK?jobDbPVId=269715483&l=en&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20099710",
-    "company": "Ecareer AB",
-    "role": "Kommunikatör, LIA/Praktik",
-    "ort": "Göteborg",
-    "utbildning": "Kommunikation",
+    "id": "js-20237733",
+    "company": "CGI Sverige AB",
+    "role": "LIA-praktik CGI - Där Din Framtid i IT Börjar!",
+    "ort": "Bromölla",
+    "utbildning": "",
     "period": "",
-    "deadline": "2026-09-12",
-    "desc": "LIA-praktik inom kommunikation\n\nOm praktikplatsen\n\nVi söker en kommunikatörspraktikant som brinner för att förmedla budskap som känns. Som kommunikatör hos oss får du en bred roll där du arbetar med både intern och extern kommunikation för att stärka vår röst och nå ut till våra målgrupper på rätt sätt.\n\nPraktiken passar dig som gillar att paketera komplex information för olika målgrupper och som vill lära dig hur man jobbar med strategisk kommunikation i praktiken.\n\nExempel på arbetsuppgifter\n\nUnder din LIA kan du komma att arbeta med:\n\nRedaktionellt arbete: Skriva artiklar, pressmeddelanden och nyheter för både interna och externa kanaler.\n\nStrategisk kommunikation: Assistera i arbetet med",
+    "deadline": null,
+    "desc": "LIA-praktik CGI - Där Din Framtid i IT Börjar! \n\n Beskrivning av tjänsten \n Vill du vara med och forma framtiden inom teknik och IT? På CGI erbjuder vi en unik möjlighet för studenter att utforska och växa inom en av världens ledande företag inom IT och konsulttjänster. CGI är inte bara ett företag; det är en plats där innovation, passion och framåtsträvan är i fokus. \n\nDina framtida arbetsuppgifter \n Här är några skäl till varför du borde överväga att göra din LIA-praktik hos oss:\nMentorskap och Lärande:\nVi tror på att stödja och utbilda nästa generation av IT-proffs. Som LIA-student på CGI kommer du att ha tillgång till branschexperter och mentorskap som hjälper dig att växa och utvecklas.",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-03-15",
+    "postedAt": "2026-05-04",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.ecareer.se/jobs/7395299-kommunikator-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://clients.njoyn.com/corp/ex/JobBoards/JobBoards_jobdetails.asp?CLID=21001&BDID=22427&JID=J0526-0045&BRID=1296295&LGID=1&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20225451",
@@ -114,22 +114,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-18827660",
-    "company": "CBRE",
-    "role": "LIA praktikanter inom fastighetsdrift",
-    "ort": "Stockholm",
-    "utbildning": "Fastighetsförvaltning och underhåll",
-    "period": "",
-    "deadline": null,
-    "desc": "Nu söker vi på CBRE GWS LIA praktikanter inom fastighetsdrift med start januari/februari!\n\nTa chansen att göra din LIA praktik i ett internationellt företag med lokal förankring och familjär känsla! Här får du en aktiv och utbildande praktik i ett engagerat team där du får arbeta med både människor och struktur - och där ingen dag är den andra lik. Sök tjänsten idag då urval sker löpande! \n\nCBRE&#x27;s uppdrag är att leverera service och underhåll av fastigheter och utveckla de fastighetsrelaterade tjänsterna, allt för att säkerställa att vår kund och dess medarbetare har en väl fungerande arbetsplats. Genom att arbeta med ständiga förbättringar, utvecklar vi metoder och processer för att al",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2025-12-04",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.cbre.com/en_US/careers/JobDetail/LIA-praktikanter-inom-fastighetsdrift/197392?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20208604",
     "company": "Trafikverket",
     "role": "LIA som systemutvecklare C# i Göteborg",
@@ -146,20 +130,36 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://trv.heroma.se/prod/TRVpp01/ExternWebbV2/Ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8284250025909452604&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-19219738",
-    "company": "Perfomiq",
-    "role": "LIA-praktik för dig med idrottspuls och säljglöd!",
+    "id": "js-18827660",
+    "company": "CBRE",
+    "role": "LIA praktikanter inom fastighetsdrift",
     "ort": "Stockholm",
-    "utbildning": "",
+    "utbildning": "Fastighetsförvaltning och underhåll",
     "period": "",
-    "deadline": "2026-06-30",
-    "desc": "Tjänstebeskrivning & erbjudande\nÄr du en tävlingsmänniska som trivs bäst när det finns mål att jaga? \n Har du svårt att sitta still och älskar när det händer grejer? \n Då har du hittat rätt.\n\nVi på PerformIQ letar efter LIA-praktikanter med idrottsbakgrund som vill få in en fot i näringslivet, utan att tappa bort lagkänslan. Här blir du en del av ett gäng som brinner för både försäljning och fredagsmatcher i pingisrummet (vi tar det på blodigt allvar).\n\nVad får du göra hos oss?\n • Vara en del av vårt säljteam på riktigt - ingen kaffe-och-kopiera-praktik här.\n • Lära dig hela säljprocessen: boka möten, gå på möten, snacka behov, förhandla och skriva offert.\n • Bidra till att fler företag får ",
+    "deadline": null,
+    "desc": "Nu söker vi på CBRE GWS LIA praktikanter inom fastighetsdrift med start januari/februari!\n\nTa chansen att göra din LIA praktik i ett internationellt företag med lokal förankring och familjär känsla! Här får du en aktiv och utbildande praktik i ett engagerat team där du får arbeta med både människor och struktur - och där ingen dag är den andra lik. Sök tjänsten idag då urval sker löpande! \n\nCBRE&#x27;s uppdrag är att leverera service och underhåll av fastigheter och utveckla de fastighetsrelaterade tjänsterna, allt för att säkerställa att vår kund och dess medarbetare har en väl fungerande arbetsplats. Genom att arbeta med ständiga förbättringar, utvecklar vi metoder och processer för att al",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-01-09",
+    "postedAt": "2025-12-04",
     "source": "jobbsafari.se",
-    "sourceUrl": "http://www.performiq.se/job/8692/?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://careers.cbre.com/en_US/careers/JobDetail/LIA-praktikanter-inom-fastighetsdrift/197392?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20099710",
+    "company": "Ecareer AB",
+    "role": "Kommunikatör, LIA/Praktik",
+    "ort": "Göteborg",
+    "utbildning": "Kommunikation",
+    "period": "",
+    "deadline": "2026-09-12",
+    "desc": "LIA-praktik inom kommunikation\n\nOm praktikplatsen\n\nVi söker en kommunikatörspraktikant som brinner för att förmedla budskap som känns. Som kommunikatör hos oss får du en bred roll där du arbetar med både intern och extern kommunikation för att stärka vår röst och nå ut till våra målgrupper på rätt sätt.\n\nPraktiken passar dig som gillar att paketera komplex information för olika målgrupper och som vill lära dig hur man jobbar med strategisk kommunikation i praktiken.\n\nExempel på arbetsuppgifter\n\nUnder din LIA kan du komma att arbeta med:\n\nRedaktionellt arbete: Skriva artiklar, pressmeddelanden och nyheter för både interna och externa kanaler.\n\nStrategisk kommunikation: Assistera i arbetet med",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-03-15",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.ecareer.se/jobs/7395299-kommunikator-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20099678",
@@ -178,20 +178,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.ecareer.se/jobs/7395692-marknadsforare-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20099779",
-    "company": "Ecareer AB",
-    "role": "Fullstackutvecklare - Java, LIA/Praktik",
-    "ort": "Göteborg",
-    "utbildning": "Programmerare och programvaruutveckling",
+    "id": "js-19219738",
+    "company": "Perfomiq",
+    "role": "LIA-praktik för dig med idrottspuls och säljglöd!",
+    "ort": "Stockholm",
+    "utbildning": "",
     "period": "",
-    "deadline": "2026-09-12",
-    "desc": "LIA/Praktik som fullstackutvecklare - Java\n\nOm praktikplatsen\n\nVill du förstå hur hela maskineriet hänger ihop - från databas till knappen på skärmen? Vi söker en Fullstack-praktikant med fokus på Java som vill arbeta med robusta och affärskritiska system. Här får du chansen att bygga logiken bakom kulisserna och koppla ihop den med ett snyggt gränssnitt.\n\nExempel på arbetsuppgifter\n\nUtveckling av backend-logik och API:er i Java.\n\nIntegration av frontend mot våra tjänster.\n\nDatabasdesign och hantering av datatransaktioner.\n\nEnhetstestning och felsökning i hela stacken.\n\nTekniker vi gärna ser att du har testat\n\nBackend: Java (gärna Spring Boot).\n\nFrontend: JavaScript och något ramverk (t.ex. ",
+    "deadline": "2026-06-30",
+    "desc": "Tjänstebeskrivning & erbjudande\nÄr du en tävlingsmänniska som trivs bäst när det finns mål att jaga? \n Har du svårt att sitta still och älskar när det händer grejer? \n Då har du hittat rätt.\n\nVi på PerformIQ letar efter LIA-praktikanter med idrottsbakgrund som vill få in en fot i näringslivet, utan att tappa bort lagkänslan. Här blir du en del av ett gäng som brinner för både försäljning och fredagsmatcher i pingisrummet (vi tar det på blodigt allvar).\n\nVad får du göra hos oss?\n • Vara en del av vårt säljteam på riktigt - ingen kaffe-och-kopiera-praktik här.\n • Lära dig hela säljprocessen: boka möten, gå på möten, snacka behov, förhandla och skriva offert.\n • Bidra till att fler företag får ",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-03-15",
+    "postedAt": "2026-01-09",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.ecareer.se/jobs/7396178-fullstackutvecklare-java-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "http://www.performiq.se/job/8692/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19686553",
@@ -208,6 +208,38 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2025-10-17",
     "source": "jobbsafari.se",
     "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20099779",
+    "company": "Ecareer AB",
+    "role": "Fullstackutvecklare - Java, LIA/Praktik",
+    "ort": "Göteborg",
+    "utbildning": "Programmerare och programvaruutveckling",
+    "period": "",
+    "deadline": "2026-09-12",
+    "desc": "LIA/Praktik som fullstackutvecklare - Java\n\nOm praktikplatsen\n\nVill du förstå hur hela maskineriet hänger ihop - från databas till knappen på skärmen? Vi söker en Fullstack-praktikant med fokus på Java som vill arbeta med robusta och affärskritiska system. Här får du chansen att bygga logiken bakom kulisserna och koppla ihop den med ett snyggt gränssnitt.\n\nExempel på arbetsuppgifter\n\nUtveckling av backend-logik och API:er i Java.\n\nIntegration av frontend mot våra tjänster.\n\nDatabasdesign och hantering av datatransaktioner.\n\nEnhetstestning och felsökning i hela stacken.\n\nTekniker vi gärna ser att du har testat\n\nBackend: Java (gärna Spring Boot).\n\nFrontend: JavaScript och något ramverk (t.ex. ",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-03-15",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.ecareer.se/jobs/7396178-fullstackutvecklare-java-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-19032143",
+    "company": "SimpleSign",
+    "role": "Customer Success Manager LIA (internship)",
+    "ort": "Stockholm",
+    "utbildning": "Ledande befattningar",
+    "period": "",
+    "deadline": null,
+    "desc": "Brinner du för kundrelationer, teknik och att skapa en fantastisk kundupplevelse? Vill du få chansen att utvecklas i en snabbväxande tech-startup? Då är detta din chans!\n\nOm SimpleSign SimpleSign är en innovativ och snabbväxande SaaS-plattform som hjälper företag att digitalisera och automatisera sina dokumentflöden med e-signering och smarta integrationer. Vi växer snabbt och söker nu en passionerad och engagerad LIA-praktikant som vill växa med oss!\n\nOm rollen Som Customer Success Manager hos oss blir du en nyckelperson i att bygga starka kundrelationer och se till att våra kunder får maximal nytta av vår plattform. Du kommer att arbeta nära vårt Customer Success-team och få praktisk erfar",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2025-02-18",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://thehub.io/jobs/67b3cdce25aca324d57229b4?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20037692",
@@ -240,22 +272,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-01-22",
     "source": "jobbsafari.se",
     "sourceUrl": "https://adavoab.teamtailor.com/jobs/7101107-lia-student-sokes-inom-branding-marknadsforing?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-19032143",
-    "company": "SimpleSign",
-    "role": "Customer Success Manager LIA (internship)",
-    "ort": "Stockholm",
-    "utbildning": "Ledande befattningar",
-    "period": "",
-    "deadline": null,
-    "desc": "Brinner du för kundrelationer, teknik och att skapa en fantastisk kundupplevelse? Vill du få chansen att utvecklas i en snabbväxande tech-startup? Då är detta din chans!\n\nOm SimpleSign SimpleSign är en innovativ och snabbväxande SaaS-plattform som hjälper företag att digitalisera och automatisera sina dokumentflöden med e-signering och smarta integrationer. Vi växer snabbt och söker nu en passionerad och engagerad LIA-praktikant som vill växa med oss!\n\nOm rollen Som Customer Success Manager hos oss blir du en nyckelperson i att bygga starka kundrelationer och se till att våra kunder får maximal nytta av vår plattform. Du kommer att arbeta nära vårt Customer Success-team och få praktisk erfar",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2025-02-18",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://thehub.io/jobs/67b3cdce25aca324d57229b4?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20232184",
