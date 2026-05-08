@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-05-07T06:13:22.224Z
+// Autogenererad av scraper.js – 2026-05-08T05:31:53.285Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -66,22 +66,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://deutsche-windtechnik.softgarden.io/job/60677372/LIA-PRAKTIK?jobDbPVId=269715483&l=en&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20237733",
-    "company": "CGI Sverige AB",
-    "role": "LIA-praktik CGI - Där Din Framtid i IT Börjar!",
-    "ort": "Bromölla",
-    "utbildning": "",
-    "period": "",
-    "deadline": null,
-    "desc": "LIA-praktik CGI - Där Din Framtid i IT Börjar! \n\n Beskrivning av tjänsten \n Vill du vara med och forma framtiden inom teknik och IT? På CGI erbjuder vi en unik möjlighet för studenter att utforska och växa inom en av världens ledande företag inom IT och konsulttjänster. CGI är inte bara ett företag; det är en plats där innovation, passion och framåtsträvan är i fokus. \n\nDina framtida arbetsuppgifter \n Här är några skäl till varför du borde överväga att göra din LIA-praktik hos oss:\nMentorskap och Lärande:\nVi tror på att stödja och utbilda nästa generation av IT-proffs. Som LIA-student på CGI kommer du att ha tillgång till branschexperter och mentorskap som hjälper dig att växa och utvecklas.",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-04",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://clients.njoyn.com/corp/ex/JobBoards/JobBoards_jobdetails.asp?CLID=21001&BDID=22427&JID=J0526-0045&BRID=1296295&LGID=1&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20225451",
     "company": "Atea",
     "role": "Spontanansökan för LIA - Region Mitt",
@@ -98,20 +82,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20099710",
-    "company": "Ecareer AB",
-    "role": "Kommunikatör, LIA/Praktik",
-    "ort": "Göteborg",
-    "utbildning": "Kommunikation",
+    "id": "js-20237733",
+    "company": "CGI Sverige AB",
+    "role": "LIA-praktik CGI - Där Din Framtid i IT Börjar!",
+    "ort": "Bromölla",
+    "utbildning": "",
     "period": "",
-    "deadline": "2026-09-12",
-    "desc": "LIA-praktik inom kommunikation\n\nOm praktikplatsen\n\nVi söker en kommunikatörspraktikant som brinner för att förmedla budskap som känns. Som kommunikatör hos oss får du en bred roll där du arbetar med både intern och extern kommunikation för att stärka vår röst och nå ut till våra målgrupper på rätt sätt.\n\nPraktiken passar dig som gillar att paketera komplex information för olika målgrupper och som vill lära dig hur man jobbar med strategisk kommunikation i praktiken.\n\nExempel på arbetsuppgifter\n\nUnder din LIA kan du komma att arbeta med:\n\nRedaktionellt arbete: Skriva artiklar, pressmeddelanden och nyheter för både interna och externa kanaler.\n\nStrategisk kommunikation: Assistera i arbetet med",
+    "deadline": null,
+    "desc": "LIA-praktik CGI - Där Din Framtid i IT Börjar! \n\n Beskrivning av tjänsten \n Vill du vara med och forma framtiden inom teknik och IT? På CGI erbjuder vi en unik möjlighet för studenter att utforska och växa inom en av världens ledande företag inom IT och konsulttjänster. CGI är inte bara ett företag; det är en plats där innovation, passion och framåtsträvan är i fokus. \n\nDina framtida arbetsuppgifter \n Här är några skäl till varför du borde överväga att göra din LIA-praktik hos oss:\nMentorskap och Lärande:\nVi tror på att stödja och utbilda nästa generation av IT-proffs. Som LIA-student på CGI kommer du att ha tillgång till branschexperter och mentorskap som hjälper dig att växa och utvecklas.",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-03-15",
+    "postedAt": "2026-05-04",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.ecareer.se/jobs/7395299-kommunikator-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://clients.njoyn.com/corp/ex/JobBoards/JobBoards_jobdetails.asp?CLID=21001&BDID=22427&JID=J0526-0045&BRID=1296295&LGID=1&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20235014",
@@ -144,6 +128,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2025-12-04",
     "source": "jobbsafari.se",
     "sourceUrl": "https://careers.cbre.com/en_US/careers/JobDetail/LIA-praktikanter-inom-fastighetsdrift/197392?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20099710",
+    "company": "Ecareer AB",
+    "role": "Kommunikatör, LIA/Praktik",
+    "ort": "Göteborg",
+    "utbildning": "Kommunikation",
+    "period": "",
+    "deadline": "2026-09-12",
+    "desc": "LIA-praktik inom kommunikation\n\nOm praktikplatsen\n\nVi söker en kommunikatörspraktikant som brinner för att förmedla budskap som känns. Som kommunikatör hos oss får du en bred roll där du arbetar med både intern och extern kommunikation för att stärka vår röst och nå ut till våra målgrupper på rätt sätt.\n\nPraktiken passar dig som gillar att paketera komplex information för olika målgrupper och som vill lära dig hur man jobbar med strategisk kommunikation i praktiken.\n\nExempel på arbetsuppgifter\n\nUnder din LIA kan du komma att arbeta med:\n\nRedaktionellt arbete: Skriva artiklar, pressmeddelanden och nyheter för både interna och externa kanaler.\n\nStrategisk kommunikation: Assistera i arbetet med",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-03-15",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.ecareer.se/jobs/7395299-kommunikator-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20099678",
@@ -210,6 +210,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-19032143",
+    "company": "SimpleSign",
+    "role": "Customer Success Manager LIA (internship)",
+    "ort": "Stockholm",
+    "utbildning": "Ledande befattningar",
+    "period": "",
+    "deadline": null,
+    "desc": "Brinner du för kundrelationer, teknik och att skapa en fantastisk kundupplevelse? Vill du få chansen att utvecklas i en snabbväxande tech-startup? Då är detta din chans!\n\nOm SimpleSign SimpleSign är en innovativ och snabbväxande SaaS-plattform som hjälper företag att digitalisera och automatisera sina dokumentflöden med e-signering och smarta integrationer. Vi växer snabbt och söker nu en passionerad och engagerad LIA-praktikant som vill växa med oss!\n\nOm rollen Som Customer Success Manager hos oss blir du en nyckelperson i att bygga starka kundrelationer och se till att våra kunder får maximal nytta av vår plattform. Du kommer att arbeta nära vårt Customer Success-team och få praktisk erfar",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2025-02-18",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://thehub.io/jobs/67b3cdce25aca324d57229b4?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20037692",
     "company": "First Camp",
     "role": "Praktik/LIA inom marknadsföring på First Camp",
@@ -240,22 +256,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-01-22",
     "source": "jobbsafari.se",
     "sourceUrl": "https://adavoab.teamtailor.com/jobs/7101107-lia-student-sokes-inom-branding-marknadsforing?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-19032143",
-    "company": "SimpleSign",
-    "role": "Customer Success Manager LIA (internship)",
-    "ort": "Stockholm",
-    "utbildning": "Ledande befattningar",
-    "period": "",
-    "deadline": null,
-    "desc": "Brinner du för kundrelationer, teknik och att skapa en fantastisk kundupplevelse? Vill du få chansen att utvecklas i en snabbväxande tech-startup? Då är detta din chans!\n\nOm SimpleSign SimpleSign är en innovativ och snabbväxande SaaS-plattform som hjälper företag att digitalisera och automatisera sina dokumentflöden med e-signering och smarta integrationer. Vi växer snabbt och söker nu en passionerad och engagerad LIA-praktikant som vill växa med oss!\n\nOm rollen Som Customer Success Manager hos oss blir du en nyckelperson i att bygga starka kundrelationer och se till att våra kunder får maximal nytta av vår plattform. Du kommer att arbeta nära vårt Customer Success-team och få praktisk erfar",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2025-02-18",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://thehub.io/jobs/67b3cdce25aca324d57229b4?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20232184",
@@ -322,22 +322,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/69bb3cb8a1803bcda6301ddc?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-18246365",
-    "company": "Conversionista!",
-    "role": "Internship (LIA) at Conversionista - Inbound Marketer",
-    "ort": "Stockholm",
-    "utbildning": "Praktikplatser",
-    "period": "",
-    "deadline": null,
-    "desc": "Internship Overview\n\nLocation: Conversionista, Stockholm \nDuration: 3 Months (with possibility of extension)\nStartdate: 19th of August \n\nAre you a marketing enthusiast with a passion for creating engaging content and driving organic growth? Do you have a talent for understanding customer journeys and converting visitors into leads? Join us at Conversionista as an Inbound Marketing Intern and kickstart your career in a dynamic, data-driven environment! \nAs an intern at Conversionista, you will work alongside our expert consultants, commercial team, and MarCom department, and get the opportunity to engage with established, well-known companies. This hands-on experience will allow you to apply ",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2024-05-23",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20203128",
     "company": "Corporation Service Company",
     "role": "LIA 2 som Lönekonsult för internationella klienter - HT-26",
@@ -352,6 +336,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-04-19",
     "source": "jobbsafari.se",
     "sourceUrl": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/15689?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-18246365",
+    "company": "Conversionista!",
+    "role": "Internship (LIA) at Conversionista - Inbound Marketer",
+    "ort": "Stockholm",
+    "utbildning": "Praktikplatser",
+    "period": "",
+    "deadline": null,
+    "desc": "Internship Overview\n\nLocation: Conversionista, Stockholm \nDuration: 3 Months (with possibility of extension)\nStartdate: 19th of August \n\nAre you a marketing enthusiast with a passion for creating engaging content and driving organic growth? Do you have a talent for understanding customer journeys and converting visitors into leads? Join us at Conversionista as an Inbound Marketing Intern and kickstart your career in a dynamic, data-driven environment! \nAs an intern at Conversionista, you will work alongside our expert consultants, commercial team, and MarCom department, and get the opportunity to engage with established, well-known companies. This hands-on experience will allow you to apply ",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2024-05-23",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20243217",
