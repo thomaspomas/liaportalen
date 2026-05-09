@@ -1,6 +1,22 @@
-// Autogenererad av scraper.js – 2026-05-08T05:31:53.285Z
+// Autogenererad av scraper.js – 2026-05-09T05:50:34.345Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
+  {
+    "id": "js-20177613",
+    "company": "KONE Sweden",
+    "role": "LIA plats för studerande på Xenter Distansutbildning 2026/2027",
+    "ort": "Kista",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": null,
+    "desc": "ENDAST för nuvarande hiss-, rulltrapps-, port- och dörr -teknikerstudenter på Xenter Distansutbildning 2026/2027 \n\nVill du ta nästa steg i din teknikerresa? Sök din LIA hos KONE!\nVill du vara på en arbetsplats där du får praktisk erfarenhet, stöd av erfarna tekniker och en inspirerande introduktion till ett framtidsyrke?\nDå är LIA på KONE helt rätt för dig.\n\nHär får du komma ännu närmare verkligheten i rollen som hiss-, rulltrapps-, port- och dörrtekniker. Du har med dig kunskap från skolan och vi vill hjälpa dig ta nästa steg och bygga vidare på den.\n\nVad du kan förvänta dig under LIA hos oss\n\n✔ Fördjupad inblick i teknikerrollen\n✔ Praktiskt lärande i verklig miljö tillsammans med din handl",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-07",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://kone.wd3.myworkdayjobs.com/en-US/Careers/job/LIA-plats-fr-studerande-p-Xenter-Distansutbildning-2026-2027_R0659486-1?utm_source=jobbsafari.se&utm_medium=referral"
+  },
   {
     "id": "js-19404697",
     "company": "Performiq AB",
@@ -66,6 +82,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://deutsche-windtechnik.softgarden.io/job/60677372/LIA-PRAKTIK?jobDbPVId=269715483&l=en&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20258368",
+    "company": "Electrolux Group",
+    "role": "Branding Intern (LIA)",
+    "ort": "Stockholm",
+    "utbildning": "",
+    "period": "",
+    "deadline": null,
+    "desc": "Marketing\n\nInternship / Global Electrolux Talent (GET)\n\nJob Description\n\nSolve complex problems. Decode the future.\n\nAt Electrolux Group, as a leading global appliance company, we strive every day to shape living for the better for our consumers, our people, and our planet. We share ideas and collaborate so that together, we can develop solutions that deliver enjoyable and sustainable living. Come join us as you are. We believe diverse perspectives make us stronger and more innovative. In our global community of people from 100+ countries, we listen to each other, actively contribute, and grow together.\n\nPurpose of the Internship \n\nThe internship is designed as a project-based assignment whe",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-06",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://electrolux.wd3.myworkdayjobs.com/AdHocAfterAdvertising/job/Branding-Intern--LIA-_JR77884?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20225451",
     "company": "Atea",
     "role": "Spontanansökan för LIA - Region Mitt",
@@ -78,38 +110,6 @@ window.JOBBSAFARI_DATA = [
     "email": "",
     "antal": 1,
     "postedAt": "2026-04-28",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20237733",
-    "company": "CGI Sverige AB",
-    "role": "LIA-praktik CGI - Där Din Framtid i IT Börjar!",
-    "ort": "Bromölla",
-    "utbildning": "",
-    "period": "",
-    "deadline": null,
-    "desc": "LIA-praktik CGI - Där Din Framtid i IT Börjar! \n\n Beskrivning av tjänsten \n Vill du vara med och forma framtiden inom teknik och IT? På CGI erbjuder vi en unik möjlighet för studenter att utforska och växa inom en av världens ledande företag inom IT och konsulttjänster. CGI är inte bara ett företag; det är en plats där innovation, passion och framåtsträvan är i fokus. \n\nDina framtida arbetsuppgifter \n Här är några skäl till varför du borde överväga att göra din LIA-praktik hos oss:\nMentorskap och Lärande:\nVi tror på att stödja och utbilda nästa generation av IT-proffs. Som LIA-student på CGI kommer du att ha tillgång till branschexperter och mentorskap som hjälper dig att växa och utvecklas.",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-04",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://clients.njoyn.com/corp/ex/JobBoards/JobBoards_jobdetails.asp?CLID=21001&BDID=22427&JID=J0526-0045&BRID=1296295&LGID=1&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20235014",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-30",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
@@ -146,6 +146,38 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.ecareer.se/jobs/7395299-kommunikator-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20235014",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-30",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20237733",
+    "company": "CGI Sverige AB",
+    "role": "LIA-praktik CGI - Där Din Framtid i IT Börjar!",
+    "ort": "Bromölla",
+    "utbildning": "",
+    "period": "",
+    "deadline": null,
+    "desc": "LIA-praktik CGI - Där Din Framtid i IT Börjar! \n\n Beskrivning av tjänsten \n Vill du vara med och forma framtiden inom teknik och IT? På CGI erbjuder vi en unik möjlighet för studenter att utforska och växa inom en av världens ledande företag inom IT och konsulttjänster. CGI är inte bara ett företag; det är en plats där innovation, passion och framåtsträvan är i fokus. \n\nDina framtida arbetsuppgifter \n Här är några skäl till varför du borde överväga att göra din LIA-praktik hos oss:\nMentorskap och Lärande:\nVi tror på att stödja och utbilda nästa generation av IT-proffs. Som LIA-student på CGI kommer du att ha tillgång till branschexperter och mentorskap som hjälper dig att växa och utvecklas.",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-04",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://clients.njoyn.com/corp/ex/JobBoards/JobBoards_jobdetails.asp?CLID=21001&BDID=22427&JID=J0526-0045&BRID=1296295&LGID=1&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20099678",
     "company": "Ecareer AB",
     "role": "Marknadsförare, LIA/Praktik",
@@ -178,6 +210,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "http://www.performiq.se/job/8692/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-19686553",
+    "company": "Done",
+    "role": "LiA/Praktik: B2B-försäljning",
+    "ort": "Stockholm",
+    "utbildning": "Försäljning",
+    "period": "",
+    "deadline": null,
+    "desc": "Är du student inom B2B-försäljning och vill utveckla dina kunskaper inom försäljning, kundkommunikation och account management? Trivs du i en inspirerande miljö där det digitala står i fokus? Söker du praktikperiod under vintern/våren 2025/2026? Då kan du vara den vi letar efter!\n\nI rollen som säljare ansvarar du bland annat för att hitta, kontakta och följa upp med nya och existerande företag anknutna till Done. Då vi är en snabbväxande startup innebär rollen mycket eget ansvar och möjlighet att växa med bolaget även efter praktiken.\n\nExempel på arbetsuppgifter och projekt:Prospektering: hitta Sveriges bästa hantverkare.Nykundsbearbetning: från lead till aktiv hantverkare.Kontinuerlig uppfö",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2025-10-17",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20099779",
     "company": "Ecareer AB",
     "role": "Fullstackutvecklare - Java, LIA/Praktik",
@@ -194,20 +242,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.ecareer.se/jobs/7396178-fullstackutvecklare-java-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-19686553",
-    "company": "Done",
-    "role": "LiA/Praktik: B2B-försäljning",
-    "ort": "Stockholm",
-    "utbildning": "Försäljning",
+    "id": "js-20232184",
+    "company": "Sokigo AB",
+    "role": "Sokigo söker en LIA-praktikant inom test och kvalitet",
+    "ort": "Sundbyberg",
+    "utbildning": "Distansarbete",
     "period": "",
-    "deadline": null,
-    "desc": "Är du student inom B2B-försäljning och vill utveckla dina kunskaper inom försäljning, kundkommunikation och account management? Trivs du i en inspirerande miljö där det digitala står i fokus? Söker du praktikperiod under vintern/våren 2025/2026? Då kan du vara den vi letar efter!\n\nI rollen som säljare ansvarar du bland annat för att hitta, kontakta och följa upp med nya och existerande företag anknutna till Done. Då vi är en snabbväxande startup innebär rollen mycket eget ansvar och möjlighet att växa med bolaget även efter praktiken.\n\nExempel på arbetsuppgifter och projekt:Prospektering: hitta Sveriges bästa hantverkare.Nykundsbearbetning: från lead till aktiv hantverkare.Kontinuerlig uppfö",
+    "deadline": "2026-05-31",
+    "desc": "Studerar du inom IT och söker en LIA-plats där du får arbeta med test, kvalitet och moderna systemlösningar? Vill du vara med och säkerställa att lösningar som används av Sveriges kommuner håller hög kvalitet och fungerar i praktiken? Då kan det här vara rätt möjlighet för dig.\n\nSokigo utvecklar och levererar IT-lösningar till offentlig sektor över hela Sverige. Våra system används dagligen i kommuner, regioner och myndigheter vilket ställer höga krav på stabilitet, säkerhet och användbarhet. Nu söker vi en LIA-praktikant som vill bidra till vårt arbete med test och kvalitetssäkring.\n\nOm LIA-platsen\n\nSom LIA-praktikant inom test och kvalitet blir du en del av vårt utvecklings- och testteam. ",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2025-10-17",
+    "postedAt": "2026-04-28",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://karriar.sokigo.com/jobs/7609530-sokigo-soker-en-lia-praktikant-inom-test-och-kvalitet/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19032143",
@@ -258,22 +306,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://adavoab.teamtailor.com/jobs/7101107-lia-student-sokes-inom-branding-marknadsforing?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20232184",
-    "company": "Sokigo AB",
-    "role": "Sokigo söker en LIA-praktikant inom test och kvalitet",
-    "ort": "Sundbyberg",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": "2026-05-31",
-    "desc": "Studerar du inom IT och söker en LIA-plats där du får arbeta med test, kvalitet och moderna systemlösningar? Vill du vara med och säkerställa att lösningar som används av Sveriges kommuner håller hög kvalitet och fungerar i praktiken? Då kan det här vara rätt möjlighet för dig.\n\nSokigo utvecklar och levererar IT-lösningar till offentlig sektor över hela Sverige. Våra system används dagligen i kommuner, regioner och myndigheter vilket ställer höga krav på stabilitet, säkerhet och användbarhet. Nu söker vi en LIA-praktikant som vill bidra till vårt arbete med test och kvalitetssäkring.\n\nOm LIA-platsen\n\nSom LIA-praktikant inom test och kvalitet blir du en del av vårt utvecklings- och testteam. ",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-28",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://karriar.sokigo.com/jobs/7609530-sokigo-soker-en-lia-praktikant-inom-test-och-kvalitet/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-19888869",
     "company": "Region Västernorrland",
     "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
@@ -288,22 +320,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-01-12",
     "source": "jobbsafari.se",
     "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8212199005140678540&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20129473",
-    "company": "Eletive AB",
-    "role": "Sales Development Intern (LIA) - B2B SaaS",
-    "ort": "Malmö",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": null,
-    "desc": "Join Eletive and learn how modern B2B SaaS sales works in practice \n\nDid you know that engaged employees feel a stronger sense of meaningfulness in their work and are 3x more likely to stay with their company? At Eletive, we believe engaged employees are the key to thriving organizations. That&#x27;s why our vision is simple: a world where people thrive at work and feel motivated and empowered to perform at their best.\n\nEletive is an intelligent People Success Platform that helps organizations measure and increase engagement, fostering workplaces where people truly thrive. \n\nWe are now looking for a curious and ambitious student who wants to complete their LIA or internship within Business D",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-03-15",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.eletive.com/jobs/7392234-sales-development-intern-lia-b2b-saas?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20105825",
@@ -322,20 +338,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/69bb3cb8a1803bcda6301ddc?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20203128",
-    "company": "Corporation Service Company",
-    "role": "LIA 2 som Lönekonsult för internationella klienter - HT-26",
-    "ort": "Stockholm",
-    "utbildning": "HR och rekrytering",
+    "id": "js-20257913",
+    "company": "Green Tech Andersson AB",
+    "role": "LIA-plats för studenter inom marknadsföring, SEO & sälj hos Recycletroop",
+    "ort": "Mölndal",
+    "utbildning": "Dataanalys och datahantering",
     "period": "",
-    "deadline": null,
-    "desc": "Job Description\n\nLIA 2 som Lönekonsult för internationella klienter - HT-26\n\nRoll: LIA-praktikant, Client Payroll & HR Intern\nPlacering: Stockholm, Sverige. På kontoret under hela praktikperioden\nArbetstider: Heltid, måndag-fredag\nTyp av praktik: LIA 2 inom Yrkeshögskolan\nPeriod: Enligt utbildningens upplägg\n\nVill du få en djup inblick i hela löneprocessen och erfarenhet av att arbeta som konsult i ett internationellt bolag? Då kan en LIA-praktik hos oss på CSC vara det perfekta steget i din karriär inom lön!\n\nVi erbjuder en outsourcad lönefunktion för internationella företag som vill etablera sig och verka på den svenska marknaden. Tänk dig ett framgångsrikt retail-företag från Spanien som ",
+    "deadline": "2026-06-06",
+    "desc": "Vi på Green Tech Andersson AB driver varumärket Recycletroop, ett företag som kombinerar teknik och hållbarhet. Vi arbetar inom:\n\n📱 Försäljning av reservdelar för mobiltelefoner - till mobilreparationsföretag\n\n📲 Försäljning av begagnade mobiler - både till konsumenter via vår hemsida och till B2B-aktörer i Europa\n\n🔄 Renovering & återvinning av mobildelar - för att ge komponenter ett andra liv\n\nVi har ett tydligt miljöfokus: alla våra mobiltillbehör är miljövänliga, våra förpackningar är helt plastfria och vi samarbetar med en organisation som planterar träd. 🌱\n\n🎯 Vad vi erbjuder studenterna\n\nVi söker nu drivna LIA-studenter inom marknadsföring, SEO och sälj som vill vara med och växa ti",
     "contact": "",
-    "email": "",
+    "email": "mailto:info@recycletroop.com",
     "antal": 1,
-    "postedAt": "2026-04-19",
+    "postedAt": "2026-05-06",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/15689?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "mailto:info@recycletroop.com"
   },
   {
     "id": "js-18246365",
@@ -352,6 +368,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2024-05-23",
     "source": "jobbsafari.se",
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20203128",
+    "company": "Corporation Service Company",
+    "role": "LIA 2 som Lönekonsult för internationella klienter - HT-26",
+    "ort": "Stockholm",
+    "utbildning": "HR och rekrytering",
+    "period": "",
+    "deadline": null,
+    "desc": "Job Description\n\nLIA 2 som Lönekonsult för internationella klienter - HT-26\n\nRoll: LIA-praktikant, Client Payroll & HR Intern\nPlacering: Stockholm, Sverige. På kontoret under hela praktikperioden\nArbetstider: Heltid, måndag-fredag\nTyp av praktik: LIA 2 inom Yrkeshögskolan\nPeriod: Enligt utbildningens upplägg\n\nVill du få en djup inblick i hela löneprocessen och erfarenhet av att arbeta som konsult i ett internationellt bolag? Då kan en LIA-praktik hos oss på CSC vara det perfekta steget i din karriär inom lön!\n\nVi erbjuder en outsourcad lönefunktion för internationella företag som vill etablera sig och verka på den svenska marknaden. Tänk dig ett framgångsrikt retail-företag från Spanien som ",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-19",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/15689?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20243217",
@@ -386,22 +418,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://ampsociety1.teamtailor.com/jobs/7045438-lia-praktik-inom-copy-content-till-techbolaget-amp-society?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-18917062",
-    "company": "DSV A/S",
-    "role": "Sök din Praktik eller LIA hos oss på DSV i Landskrona! (Öppen Ansökan)",
-    "ort": "Landskrona",
-    "utbildning": "Juniorbefattningar",
-    "period": "",
-    "deadline": "2026-06-03",
-    "desc": "Vi kan erbjuda dig en härlig arbetsmiljö med högt i tak, spännande arbetsuppgifter - och nära samarbete med kompetenta och erfarna kollegor. DSV är ett företag i som ständigt växer och där du får möjlighet att påverka utvecklingen.\n\nFrån vårt svenska huvudkontor i Landkrona hjälper vi både stora och små kunder med import och export av varor och vardagen präglas av viljan att alltid leverera Sveriges bästa logistiklösning till våra kunder Vi är ett engagerat och positivt team med varierad kompetens- och branscherfarenhet. Det vi har gemensamt är att vi brinner för våra kunder, lag-arbete och för att leverera logistiklösningar i världsklass.\n\nVi har stort fokus på flexibilitet i vardagen samt ",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-20",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobs.dsv.com/job/Landskrona-S%C3%83%C2%B6k-din-Praktik-eller-LIA-hos-oss-p%C3%83%C2%A5-DSV-i-Landskrona!-(%C3%83-ppen-Ans%C3%83%C2%B6kan)-Skaa-261-51/1153217701/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20233325",
     "company": "Tieto AB",
     "role": "LIA (internship) SW Developer - Tieto Caretech (m/f/d)",
@@ -416,6 +432,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-04-28",
     "source": "jobbsafari.se",
     "sourceUrl": "https://careers.tieto.com/job/lia-internship-sw-developer-tieto-caretech-m-f-d-in-lulea-sweden-jid-2201?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-18917062",
+    "company": "DSV A/S",
+    "role": "Sök din Praktik eller LIA hos oss på DSV i Landskrona! (Öppen Ansökan)",
+    "ort": "Landskrona",
+    "utbildning": "Juniorbefattningar",
+    "period": "",
+    "deadline": "2026-06-04",
+    "desc": "Vi kan erbjuda dig en härlig arbetsmiljö med högt i tak, spännande arbetsuppgifter - och nära samarbete med kompetenta och erfarna kollegor. DSV är ett företag i som ständigt växer och där du får möjlighet att påverka utvecklingen.\n\nFrån vårt svenska huvudkontor i Landkrona hjälper vi både stora och små kunder med import och export av varor och vardagen präglas av viljan att alltid leverera Sveriges bästa logistiklösning till våra kunder Vi är ett engagerat och positivt team med varierad kompetens- och branscherfarenhet. Det vi har gemensamt är att vi brinner för våra kunder, lag-arbete och för att leverera logistiklösningar i världsklass.\n\nVi har stort fokus på flexibilitet i vardagen samt ",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-20",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobs.dsv.com/job/Landskrona-S%C3%83%C2%B6k-din-Praktik-eller-LIA-hos-oss-p%C3%83%C2%A5-DSV-i-Landskrona!-(%C3%83-ppen-Ans%C3%83%C2%B6kan)-Skaa-261-51/1153217701/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20064970",
