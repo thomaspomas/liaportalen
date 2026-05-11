@@ -1,22 +1,6 @@
-// Autogenererad av scraper.js – 2026-05-10T06:14:41.824Z
+// Autogenererad av scraper.js – 2026-05-11T06:41:33.806Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
-  {
-    "id": "js-20177613",
-    "company": "KONE Sweden",
-    "role": "LIA plats för studerande på Xenter Distansutbildning 2026/2027",
-    "ort": "Kista",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": null,
-    "desc": "ENDAST för nuvarande hiss-, rulltrapps-, port- och dörr -teknikerstudenter på Xenter Distansutbildning 2026/2027 \n\nVill du ta nästa steg i din teknikerresa? Sök din LIA hos KONE!\nVill du vara på en arbetsplats där du får praktisk erfarenhet, stöd av erfarna tekniker och en inspirerande introduktion till ett framtidsyrke?\nDå är LIA på KONE helt rätt för dig.\n\nHär får du komma ännu närmare verkligheten i rollen som hiss-, rulltrapps-, port- och dörrtekniker. Du har med dig kunskap från skolan och vi vill hjälpa dig ta nästa steg och bygga vidare på den.\n\nVad du kan förvänta dig under LIA hos oss\n\n✔ Fördjupad inblick i teknikerrollen\n✔ Praktiskt lärande i verklig miljö tillsammans med din handl",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-07",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://kone.wd3.myworkdayjobs.com/en-US/Careers/job/LIA-plats-fr-studerande-p-Xenter-Distansutbildning-2026-2027_R0659486-1?utm_source=jobbsafari.se&utm_medium=referral"
-  },
   {
     "id": "js-19404697",
     "company": "Performiq AB",
@@ -34,22 +18,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.performiq.se/jobb/8692/ansok/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20200926",
-    "company": "Atea",
-    "role": "LIA",
-    "ort": "Borlänge",
-    "utbildning": "HR och rekrytering",
-    "period": "",
-    "deadline": "2026-05-31",
-    "desc": "Är du nyfiken på hur det är att arbeta som konsult på Atea? Ta chansen att prova på! Tillsammans med våra konsulter får du jobba med spännande kunder och skaffa dig värdefull arbetslivserfarenhet.\n Din roll på Atea \n Hos oss får du under den första tiden av din LIA följa med våra erfarna konsulter i deras arbete för att att skaffa dig inblick i Ateas olika teknikområden och vad det innebär att jobba som konsult inom it-branschen. Under senare delen av din LIA finns möjlighet att fördjupa sig mer inom ett område som exempelvis datacenter, dataintegritet, nätverkskommunikation, Microsoft 365, klienthantering och identitetshantering. Innehållet i praktiken kommer att anpassas utifrån din profil",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-20",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20202268",
     "company": "Atea",
     "role": "LIA",
@@ -62,6 +30,22 @@ window.JOBBSAFARI_DATA = [
     "email": "",
     "antal": 1,
     "postedAt": "2026-04-21",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20200926",
+    "company": "Atea",
+    "role": "LIA",
+    "ort": "Borlänge",
+    "utbildning": "HR och rekrytering",
+    "period": "",
+    "deadline": "2026-05-31",
+    "desc": "Är du nyfiken på hur det är att arbeta som konsult på Atea? Ta chansen att prova på! Tillsammans med våra konsulter får du jobba med spännande kunder och skaffa dig värdefull arbetslivserfarenhet.\n Din roll på Atea \n Hos oss får du under den första tiden av din LIA följa med våra erfarna konsulter i deras arbete för att att skaffa dig inblick i Ateas olika teknikområden och vad det innebär att jobba som konsult inom it-branschen. Under senare delen av din LIA finns möjlighet att fördjupa sig mer inom ett område som exempelvis datacenter, dataintegritet, nätverkskommunikation, Microsoft 365, klienthantering och identitetshantering. Innehållet i praktiken kommer att anpassas utifrån din profil",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-20",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA&utm_source=jobbsafari.se&utm_medium=referral"
   },
@@ -114,6 +98,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20235014",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-30",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-18827660",
     "company": "CBRE",
     "role": "LIA praktikanter inom fastighetsdrift",
@@ -144,6 +144,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-03-15",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobb.ecareer.se/jobs/7395299-kommunikator-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20099678",
+    "company": "Ecareer AB",
+    "role": "Marknadsförare, LIA/Praktik",
+    "ort": "Göteborg",
+    "utbildning": "Förare",
+    "period": "",
+    "deadline": "2026-09-12",
+    "desc": "LIA-praktik inom marknadsföring\n\nOm praktikplatsen\n\nVi söker en driven och kreativ LIA-praktikant inom marknadsföring som vill vara med och stärka vår digitala närvaro. Hos oss får du arbeta praktiskt med allt från innehållsskapande och sociala medier till analys och kampanjoptimering.\n\nPraktiken passar dig som vill utvecklas inom modern, datadriven marknadsföring och som trivs med att kombinera kreativitet med strategi. Du kommer att få en inblick i hur vi bygger vårt varumärke och når ut till våra målgrupper i olika kanaler.\n\nExempel på arbetsuppgifter\n\nUnder din LIA kan du komma att arbeta med:\n\nContent Creation: Skapa engagerande innehåll (text, bild och video) för sociala medier och web",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-03-15",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.ecareer.se/jobs/7395692-marknadsforare-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20237733",
@@ -178,36 +194,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "http://www.performiq.se/job/8692/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20235014",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
+    "id": "js-19686553",
+    "company": "Done",
+    "role": "LiA/Praktik: B2B-försäljning",
+    "ort": "Stockholm",
+    "utbildning": "Försäljning",
     "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "deadline": null,
+    "desc": "Är du student inom B2B-försäljning och vill utveckla dina kunskaper inom försäljning, kundkommunikation och account management? Trivs du i en inspirerande miljö där det digitala står i fokus? Söker du praktikperiod under vintern/våren 2025/2026? Då kan du vara den vi letar efter!\n\nI rollen som säljare ansvarar du bland annat för att hitta, kontakta och följa upp med nya och existerande företag anknutna till Done. Då vi är en snabbväxande startup innebär rollen mycket eget ansvar och möjlighet att växa med bolaget även efter praktiken.\n\nExempel på arbetsuppgifter och projekt:Prospektering: hitta Sveriges bästa hantverkare.Nykundsbearbetning: från lead till aktiv hantverkare.Kontinuerlig uppfö",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-04-30",
+    "postedAt": "2025-10-17",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20099678",
-    "company": "Ecareer AB",
-    "role": "Marknadsförare, LIA/Praktik",
-    "ort": "Göteborg",
-    "utbildning": "Förare",
-    "period": "",
-    "deadline": "2026-09-12",
-    "desc": "LIA-praktik inom marknadsföring\n\nOm praktikplatsen\n\nVi söker en driven och kreativ LIA-praktikant inom marknadsföring som vill vara med och stärka vår digitala närvaro. Hos oss får du arbeta praktiskt med allt från innehållsskapande och sociala medier till analys och kampanjoptimering.\n\nPraktiken passar dig som vill utvecklas inom modern, datadriven marknadsföring och som trivs med att kombinera kreativitet med strategi. Du kommer att få en inblick i hur vi bygger vårt varumärke och når ut till våra målgrupper i olika kanaler.\n\nExempel på arbetsuppgifter\n\nUnder din LIA kan du komma att arbeta med:\n\nContent Creation: Skapa engagerande innehåll (text, bild och video) för sociala medier och web",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-03-15",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.ecareer.se/jobs/7395692-marknadsforare-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20099779",
@@ -224,22 +224,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-03-15",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobb.ecareer.se/jobs/7396178-fullstackutvecklare-java-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-19686553",
-    "company": "Done",
-    "role": "LiA/Praktik: B2B-försäljning",
-    "ort": "Stockholm",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": null,
-    "desc": "Är du student inom B2B-försäljning och vill utveckla dina kunskaper inom försäljning, kundkommunikation och account management? Trivs du i en inspirerande miljö där det digitala står i fokus? Söker du praktikperiod under vintern/våren 2025/2026? Då kan du vara den vi letar efter!\n\nI rollen som säljare ansvarar du bland annat för att hitta, kontakta och följa upp med nya och existerande företag anknutna till Done. Då vi är en snabbväxande startup innebär rollen mycket eget ansvar och möjlighet att växa med bolaget även efter praktiken.\n\nExempel på arbetsuppgifter och projekt:Prospektering: hitta Sveriges bästa hantverkare.Nykundsbearbetning: från lead till aktiv hantverkare.Kontinuerlig uppfö",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2025-10-17",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19032143",
@@ -322,22 +306,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8212199005140678540&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20129473",
-    "company": "Eletive AB",
-    "role": "Sales Development Intern (LIA) - B2B SaaS",
-    "ort": "Malmö",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": null,
-    "desc": "Join Eletive and learn how modern B2B SaaS sales works in practice \n\nDid you know that engaged employees feel a stronger sense of meaningfulness in their work and are 3x more likely to stay with their company? At Eletive, we believe engaged employees are the key to thriving organizations. That&#x27;s why our vision is simple: a world where people thrive at work and feel motivated and empowered to perform at their best.\n\nEletive is an intelligent People Success Platform that helps organizations measure and increase engagement, fostering workplaces where people truly thrive. \n\nWe are now looking for a curious and ambitious student who wants to complete their LIA or internship within Business D",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-03-15",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.eletive.com/jobs/7392234-sales-development-intern-lia-b2b-saas?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20105825",
     "company": "Eletive AB",
     "role": "Sales Development Intern (LIA) - B2B SaaS",
@@ -386,6 +354,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/15689?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-19901880",
+    "company": "AmpSociety",
+    "role": "LIA-praktik inom Copy & Content till techbolaget Amp Society",
+    "ort": "De nordiska länderna",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": null,
+    "desc": "Amp Society är på en spännande resa för att elektrifiera samhället med transformativa, väldesignade och framtidssäkra laddlösningar. Nu bygger vi ett internationellt varumärke där ord, tonalitet och berättelser spelar en avgörande roll i hur vi kommunicerar innovation, teknik och hållbarhet.\n\nVi söker nu en copywriter-student för LIA-praktik som vill vara med och forma Amp Societys röst och bidra till att bygga ett tydligt, relevant och premiumbetonat varumärke från grunden.\n\nOm rollen\n\nSom LIA inom copywriting och marknad hos Amp Society arbetar du med ett varumärke i uppbyggnadsfas - där strategi, innehåll och affär möts. Du får möjlighet att skriva texter som används i verkliga projekt, k",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-01-12",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://ampsociety1.teamtailor.com/jobs/7045438-lia-praktik-inom-copy-content-till-techbolaget-amp-society?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20257913",
     "company": "Green Tech Andersson AB",
     "role": "LIA-plats för studenter inom marknadsföring, SEO & sälj hos Recycletroop",
@@ -416,22 +400,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-03",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-19901880",
-    "company": "AmpSociety",
-    "role": "LIA-praktik inom Copy & Content till techbolaget Amp Society",
-    "ort": "De nordiska länderna",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": null,
-    "desc": "Amp Society är på en spännande resa för att elektrifiera samhället med transformativa, väldesignade och framtidssäkra laddlösningar. Nu bygger vi ett internationellt varumärke där ord, tonalitet och berättelser spelar en avgörande roll i hur vi kommunicerar innovation, teknik och hållbarhet.\n\nVi söker nu en copywriter-student för LIA-praktik som vill vara med och forma Amp Societys röst och bidra till att bygga ett tydligt, relevant och premiumbetonat varumärke från grunden.\n\nOm rollen\n\nSom LIA inom copywriting och marknad hos Amp Society arbetar du med ett varumärke i uppbyggnadsfas - där strategi, innehåll och affär möts. Du får möjlighet att skriva texter som används i verkliga projekt, k",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-01-12",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://ampsociety1.teamtailor.com/jobs/7045438-lia-praktik-inom-copy-content-till-techbolaget-amp-society?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-18917062",
@@ -480,5 +448,21 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-03-04",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobs.smartrecruiters.com/Devoteam/744000112946910-hosten-2026-business-development-representative-bdr-lia-gor-jobbet-lar-dig-spelet?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-18186921",
+    "company": "Conversionista!",
+    "role": "Internship (LIA) at Conversionista - Analytics, Data Quality, User Research, UX, and CRO",
+    "ort": "Stockholm",
+    "utbildning": "Design och produktutveckling",
+    "period": "",
+    "deadline": null,
+    "desc": "Internship Overview\n\nWe are excited to offer several internship positions across our dynamic teams in Stockholm, Gothenburg, and Malmö. We are looking for enthusiastic, talented and motivated interns that wants to learn and progress in one or several of the following areas:\nWeb Analytics / Data Analytics / Growth Analytics / Business Intelligence / Digital Analytics / Data ScienceData Quality / Tracking Implementation / Analytics Engineering / Data EngineeringUser ResearchUX DesignConversion Rate Optimization Specialist / Conversion ManagerDigital Marketing Manager / Marketing Coordinator / Marketing Automation / Inbound Marketing\nAs an intern at Conversionista, you will collaborate with our",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2024-05-07",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://emp.jobylon.com/jobs/236081-conversionista-internship-lia-at-conversionista-analytics-data-quality-user-research-ux-and-cro/?utm_source=jobbsafari.se&utm_medium=referral"
   }
 ];
