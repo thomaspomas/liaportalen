@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-05-11T06:41:33.806Z
+// Autogenererad av scraper.js – 2026-05-12T06:16:58.119Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -82,6 +82,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://electrolux.wd3.myworkdayjobs.com/AdHocAfterAdvertising/job/Branding-Intern--LIA-_JR77884?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20099710",
+    "company": "Ecareer AB",
+    "role": "Kommunikatör, LIA/Praktik",
+    "ort": "Göteborg",
+    "utbildning": "Kommunikation",
+    "period": "",
+    "deadline": "2026-09-12",
+    "desc": "LIA-praktik inom kommunikation\n\nOm praktikplatsen\n\nVi söker en kommunikatörspraktikant som brinner för att förmedla budskap som känns. Som kommunikatör hos oss får du en bred roll där du arbetar med både intern och extern kommunikation för att stärka vår röst och nå ut till våra målgrupper på rätt sätt.\n\nPraktiken passar dig som gillar att paketera komplex information för olika målgrupper och som vill lära dig hur man jobbar med strategisk kommunikation i praktiken.\n\nExempel på arbetsuppgifter\n\nUnder din LIA kan du komma att arbeta med:\n\nRedaktionellt arbete: Skriva artiklar, pressmeddelanden och nyheter för både interna och externa kanaler.\n\nStrategisk kommunikation: Assistera i arbetet med",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-03-15",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.ecareer.se/jobs/7395299-kommunikator-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20225451",
     "company": "Atea",
     "role": "Spontanansökan för LIA - Region Mitt",
@@ -130,22 +146,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://careers.cbre.com/en_US/careers/JobDetail/LIA-praktikanter-inom-fastighetsdrift/197392?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20099710",
-    "company": "Ecareer AB",
-    "role": "Kommunikatör, LIA/Praktik",
-    "ort": "Göteborg",
-    "utbildning": "Kommunikation",
-    "period": "",
-    "deadline": "2026-09-12",
-    "desc": "LIA-praktik inom kommunikation\n\nOm praktikplatsen\n\nVi söker en kommunikatörspraktikant som brinner för att förmedla budskap som känns. Som kommunikatör hos oss får du en bred roll där du arbetar med både intern och extern kommunikation för att stärka vår röst och nå ut till våra målgrupper på rätt sätt.\n\nPraktiken passar dig som gillar att paketera komplex information för olika målgrupper och som vill lära dig hur man jobbar med strategisk kommunikation i praktiken.\n\nExempel på arbetsuppgifter\n\nUnder din LIA kan du komma att arbeta med:\n\nRedaktionellt arbete: Skriva artiklar, pressmeddelanden och nyheter för både interna och externa kanaler.\n\nStrategisk kommunikation: Assistera i arbetet med",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-03-15",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.ecareer.se/jobs/7395299-kommunikator-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20099678",
     "company": "Ecareer AB",
     "role": "Marknadsförare, LIA/Praktik",
@@ -160,22 +160,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-03-15",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobb.ecareer.se/jobs/7395692-marknadsforare-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20237733",
-    "company": "CGI Sverige AB",
-    "role": "LIA-praktik CGI - Där Din Framtid i IT Börjar!",
-    "ort": "Bromölla",
-    "utbildning": "",
-    "period": "",
-    "deadline": null,
-    "desc": "LIA-praktik CGI - Där Din Framtid i IT Börjar! \n\n Beskrivning av tjänsten \n Vill du vara med och forma framtiden inom teknik och IT? På CGI erbjuder vi en unik möjlighet för studenter att utforska och växa inom en av världens ledande företag inom IT och konsulttjänster. CGI är inte bara ett företag; det är en plats där innovation, passion och framåtsträvan är i fokus. \n\nDina framtida arbetsuppgifter \n Här är några skäl till varför du borde överväga att göra din LIA-praktik hos oss:\nMentorskap och Lärande:\nVi tror på att stödja och utbilda nästa generation av IT-proffs. Som LIA-student på CGI kommer du att ha tillgång till branschexperter och mentorskap som hjälper dig att växa och utvecklas.",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-04",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://clients.njoyn.com/corp/ex/JobBoards/JobBoards_jobdetails.asp?CLID=21001&BDID=22427&JID=J0526-0045&BRID=1296295&LGID=1&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19219738",
@@ -226,22 +210,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.ecareer.se/jobs/7396178-fullstackutvecklare-java-lia-praktik/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-19032143",
-    "company": "SimpleSign",
-    "role": "Customer Success Manager LIA (internship)",
-    "ort": "Stockholm",
-    "utbildning": "Ledande befattningar",
-    "period": "",
-    "deadline": null,
-    "desc": "Brinner du för kundrelationer, teknik och att skapa en fantastisk kundupplevelse? Vill du få chansen att utvecklas i en snabbväxande tech-startup? Då är detta din chans!\n\nOm SimpleSign SimpleSign är en innovativ och snabbväxande SaaS-plattform som hjälper företag att digitalisera och automatisera sina dokumentflöden med e-signering och smarta integrationer. Vi växer snabbt och söker nu en passionerad och engagerad LIA-praktikant som vill växa med oss!\n\nOm rollen Som Customer Success Manager hos oss blir du en nyckelperson i att bygga starka kundrelationer och se till att våra kunder får maximal nytta av vår plattform. Du kommer att arbeta nära vårt Customer Success-team och få praktisk erfar",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2025-02-18",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://thehub.io/jobs/67b3cdce25aca324d57229b4?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20037692",
     "company": "First Camp",
     "role": "Praktik/LIA inom marknadsföring på First Camp",
@@ -272,6 +240,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-01-22",
     "source": "jobbsafari.se",
     "sourceUrl": "https://adavoab.teamtailor.com/jobs/7101107-lia-student-sokes-inom-branding-marknadsforing?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-19032143",
+    "company": "SimpleSign",
+    "role": "Customer Success Manager LIA (internship)",
+    "ort": "Stockholm",
+    "utbildning": "Ledande befattningar",
+    "period": "",
+    "deadline": null,
+    "desc": "Brinner du för kundrelationer, teknik och att skapa en fantastisk kundupplevelse? Vill du få chansen att utvecklas i en snabbväxande tech-startup? Då är detta din chans!\n\nOm SimpleSign SimpleSign är en innovativ och snabbväxande SaaS-plattform som hjälper företag att digitalisera och automatisera sina dokumentflöden med e-signering och smarta integrationer. Vi växer snabbt och söker nu en passionerad och engagerad LIA-praktikant som vill växa med oss!\n\nOm rollen Som Customer Success Manager hos oss blir du en nyckelperson i att bygga starka kundrelationer och se till att våra kunder får maximal nytta av vår plattform. Du kommer att arbeta nära vårt Customer Success-team och få praktisk erfar",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2025-02-18",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://thehub.io/jobs/67b3cdce25aca324d57229b4?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20232184",
@@ -338,6 +322,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20233325",
+    "company": "Tieto AB",
+    "role": "LIA (internship) SW Developer - Tieto Caretech (m/f/d)",
+    "ort": "Luleå",
+    "utbildning": "Praktikplatser",
+    "period": "",
+    "deadline": null,
+    "desc": "Job Description\n\n🚀 We are looking for LIA interns for our office in Luleå 🚀\n\nAre you a Systems Development/Software Development student and looking for your LIA2 internship for fall 2026? We are now looking for driven and curious LIA interns who want to grow and develop together with us in Luleå. \n\nPlease note that this position is exclusively for students completing a mandatory LIA 2 internship as part of their education.\n\nWho we are \n\nAt Tieto Caretech, we build technology that supports healthcare professionals in their daily work - making systems smoother, processes smarter, and care better. This fall, we&#x27;re looking for curious and motivateds LIA-interns who want to learn, grow, an",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-10",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://careers.tieto.com/job/lia-internship-sw-developer-tieto-caretech-m-f-d-in-lulea-sweden-jid-2201?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20203128",
     "company": "Corporation Service Company",
     "role": "LIA 2 som Lönekonsult för internationella klienter - HT-26",
@@ -370,22 +370,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://ampsociety1.teamtailor.com/jobs/7045438-lia-praktik-inom-copy-content-till-techbolaget-amp-society?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20257913",
-    "company": "Green Tech Andersson AB",
-    "role": "LIA-plats för studenter inom marknadsföring, SEO & sälj hos Recycletroop",
-    "ort": "Mölndal",
-    "utbildning": "Dataanalys och datahantering",
-    "period": "",
-    "deadline": "2026-06-06",
-    "desc": "Vi på Green Tech Andersson AB driver varumärket Recycletroop, ett företag som kombinerar teknik och hållbarhet. Vi arbetar inom:\n\n📱 Försäljning av reservdelar för mobiltelefoner - till mobilreparationsföretag\n\n📲 Försäljning av begagnade mobiler - både till konsumenter via vår hemsida och till B2B-aktörer i Europa\n\n🔄 Renovering & återvinning av mobildelar - för att ge komponenter ett andra liv\n\nVi har ett tydligt miljöfokus: alla våra mobiltillbehör är miljövänliga, våra förpackningar är helt plastfria och vi samarbetar med en organisation som planterar träd. 🌱\n\n🎯 Vad vi erbjuder studenterna\n\nVi söker nu drivna LIA-studenter inom marknadsföring, SEO och sälj som vill vara med och växa ti",
-    "contact": "",
-    "email": "mailto:info@recycletroop.com",
-    "antal": 1,
-    "postedAt": "2026-05-06",
-    "source": "jobbsafari.se",
-    "sourceUrl": "mailto:info@recycletroop.com"
-  },
-  {
     "id": "js-20243217",
     "company": "+Moveco AB",
     "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
@@ -402,13 +386,29 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20257913",
+    "company": "Green Tech Andersson AB",
+    "role": "LIA-plats för studenter inom marknadsföring, SEO & sälj hos Recycletroop",
+    "ort": "Mölndal",
+    "utbildning": "Dataanalys och datahantering",
+    "period": "",
+    "deadline": "2026-06-06",
+    "desc": "Vi på Green Tech Andersson AB driver varumärket Recycletroop, ett företag som kombinerar teknik och hållbarhet. Vi arbetar inom:\n\n📱 Försäljning av reservdelar för mobiltelefoner - till mobilreparationsföretag\n\n📲 Försäljning av begagnade mobiler - både till konsumenter via vår hemsida och till B2B-aktörer i Europa\n\n🔄 Renovering & återvinning av mobildelar - för att ge komponenter ett andra liv\n\nVi har ett tydligt miljöfokus: alla våra mobiltillbehör är miljövänliga, våra förpackningar är helt plastfria och vi samarbetar med en organisation som planterar träd. 🌱\n\n🎯 Vad vi erbjuder studenterna\n\nVi söker nu drivna LIA-studenter inom marknadsföring, SEO och sälj som vill vara med och växa ti",
+    "contact": "",
+    "email": "mailto:info@recycletroop.com",
+    "antal": 1,
+    "postedAt": "2026-05-06",
+    "source": "jobbsafari.se",
+    "sourceUrl": "mailto:info@recycletroop.com"
+  },
+  {
     "id": "js-18917062",
     "company": "DSV A/S",
     "role": "Sök din Praktik eller LIA hos oss på DSV i Landskrona! (Öppen Ansökan)",
     "ort": "Landskrona",
     "utbildning": "Juniorbefattningar",
     "period": "",
-    "deadline": "2026-06-07",
+    "deadline": "2026-06-08",
     "desc": "Vi kan erbjuda dig en härlig arbetsmiljö med högt i tak, spännande arbetsuppgifter - och nära samarbete med kompetenta och erfarna kollegor. DSV är ett företag i som ständigt växer och där du får möjlighet att påverka utvecklingen.\n\nFrån vårt svenska huvudkontor i Landkrona hjälper vi både stora och små kunder med import och export av varor och vardagen präglas av viljan att alltid leverera Sveriges bästa logistiklösning till våra kunder Vi är ett engagerat och positivt team med varierad kompetens- och branscherfarenhet. Det vi har gemensamt är att vi brinner för våra kunder, lag-arbete och för att leverera logistiklösningar i världsklass.\n\nVi har stort fokus på flexibilitet i vardagen samt ",
     "contact": "",
     "email": "",
@@ -416,22 +416,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-04-20",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobs.dsv.com/job/Landskrona-S%C3%83%C2%B6k-din-Praktik-eller-LIA-hos-oss-p%C3%83%C2%A5-DSV-i-Landskrona!-(%C3%83-ppen-Ans%C3%83%C2%B6kan)-Skaa-261-51/1153217701/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20233325",
-    "company": "Tieto AB",
-    "role": "LIA (internship) SW Developer - Tieto Caretech (m/f/d)",
-    "ort": "Luleå",
-    "utbildning": "Praktikplatser",
-    "period": "",
-    "deadline": null,
-    "desc": "Job Description\n\n🚀 We are looking for LIA interns for our office in Luleå 🚀\n\nAre you a Systems Development/Software Development student and looking for your LIA2 internship for fall 2026? We are now looking for driven and curious LIA interns who want to grow and develop together with us in Luleå. \n\nPlease note that this position is exclusively for students completing a mandatory LIA 2 internship as part of their education.\n\nWho we are \n\nAt Tieto Caretech, we build technology that supports healthcare professionals in their daily work - making systems smoother, processes smarter, and care better. This fall, we&#x27;re looking for curious and motivateds LIA-interns who want to learn, grow, an",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-28",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.tieto.com/job/lia-internship-sw-developer-tieto-caretech-m-f-d-in-lulea-sweden-jid-2201?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20064970",
