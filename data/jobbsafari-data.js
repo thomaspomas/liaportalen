@@ -1,6 +1,22 @@
-// Autogenererad av scraper.js – 2026-05-13T06:28:53.034Z
+// Autogenererad av scraper.js – 2026-05-14T06:26:55.709Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
+  {
+    "id": "js-20177613",
+    "company": "KONE Sweden",
+    "role": "LIA plats för studerande på Xenter Distansutbildning 2026/2027",
+    "ort": "Kista",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": null,
+    "desc": "ENDAST för nuvarande hiss-, rulltrapps-, port- och dörr -teknikerstudenter på Xenter Distansutbildning 2026/2027 \n\nVill du ta nästa steg i din teknikerresa? Sök din LIA hos KONE!\nVill du vara på en arbetsplats där du får praktisk erfarenhet, stöd av erfarna tekniker och en inspirerande introduktion till ett framtidsyrke?\nDå är LIA på KONE helt rätt för dig.\n\nHär får du komma ännu närmare verkligheten i rollen som hiss-, rulltrapps-, port- och dörrtekniker. Du har med dig kunskap från skolan och vi vill hjälpa dig ta nästa steg och bygga vidare på den.\n\nVad du kan förvänta dig under LIA hos oss\n\n✔ Fördjupad inblick i teknikerrollen\n✔ Praktiskt lärande i verklig miljö tillsammans med din handl",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-12",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://kone.wd3.myworkdayjobs.com/en-US/Careers/job/LIA-plats-fr-studerande-p-Xenter-Distansutbildning-2026-2027_R0659486-1?utm_source=jobbsafari.se&utm_medium=referral"
+  },
   {
     "id": "js-19404697",
     "company": "Performiq AB",
@@ -18,22 +34,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.performiq.se/jobb/8692/ansok/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20202268",
-    "company": "Atea",
-    "role": "LIA",
-    "ort": "Borlänge",
-    "utbildning": "HR och rekrytering",
-    "period": "",
-    "deadline": "2026-05-31",
-    "desc": "Är du nyfiken på hur det är att arbeta som konsult på Atea? Ta chansen att prova på! Tillsammans med våra konsulter får du jobba med spännande kunder och skaffa dig värdefull arbetslivserfarenhet.\n Din roll på Atea\n \n Hos oss får du under den första tiden av din LIA följa med våra erfarna konsulter i deras arbete för att att skaffa dig inblick i Ateas olika teknikområden och vad det innebär att jobba som konsult inom it-branschen. Under senare delen av din LIA finns möjlighet att fördjupa sig mer inom ett område som exempelvis datacenter, dataintegritet, nätverkskommunikation, Microsoft 365, klienthantering och identitetshantering. Innehållet i praktiken kommer att anpassas utifrån din profi",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-21",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20200926",
     "company": "Atea",
     "role": "LIA",
@@ -46,6 +46,22 @@ window.JOBBSAFARI_DATA = [
     "email": "",
     "antal": 1,
     "postedAt": "2026-04-20",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20202268",
+    "company": "Atea",
+    "role": "LIA",
+    "ort": "Borlänge",
+    "utbildning": "HR och rekrytering",
+    "period": "",
+    "deadline": "2026-05-31",
+    "desc": "Är du nyfiken på hur det är att arbeta som konsult på Atea? Ta chansen att prova på! Tillsammans med våra konsulter får du jobba med spännande kunder och skaffa dig värdefull arbetslivserfarenhet.\n Din roll på Atea\n \n Hos oss får du under den första tiden av din LIA följa med våra erfarna konsulter i deras arbete för att att skaffa dig inblick i Ateas olika teknikområden och vad det innebär att jobba som konsult inom it-branschen. Under senare delen av din LIA finns möjlighet att fördjupa sig mer inom ett område som exempelvis datacenter, dataintegritet, nätverkskommunikation, Microsoft 365, klienthantering och identitetshantering. Innehållet i praktiken kommer att anpassas utifrån din profi",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-21",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA&utm_source=jobbsafari.se&utm_medium=referral"
   },
@@ -290,22 +306,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20233325",
-    "company": "Tieto AB",
-    "role": "LIA (internship) SW Developer - Tieto Caretech (m/f/d)",
-    "ort": "Luleå",
-    "utbildning": "Praktikplatser",
-    "period": "",
-    "deadline": null,
-    "desc": "Job Description\n\n🚀 We are looking for LIA interns for our office in Luleå 🚀\n\nAre you a Systems Development/Software Development student and looking for your LIA2 internship for fall 2026? We are now looking for driven and curious LIA interns who want to grow and develop together with us in Luleå. \n\nPlease note that this position is exclusively for students completing a mandatory LIA 2 internship as part of their education.\n\nWho we are \n\nAt Tieto Caretech, we build technology that supports healthcare professionals in their daily work - making systems smoother, processes smarter, and care better. This fall, we&#x27;re looking for curious and motivateds LIA-interns who want to learn, grow, an",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-10",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.tieto.com/job/lia-internship-sw-developer-tieto-caretech-m-f-d-in-lulea-sweden-jid-2201?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20203128",
     "company": "Corporation Service Company",
     "role": "LIA 2 som Lönekonsult för internationella klienter - HT-26",
@@ -338,6 +338,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://dpdhlgroup.avature.net/sv_SE/jobs/ApplicationMethods?jobId=344169&source=careers.dhl.com&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-19901880",
+    "company": "AmpSociety",
+    "role": "LIA-praktik inom Copy & Content till techbolaget Amp Society",
+    "ort": "De nordiska länderna",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": null,
+    "desc": "Amp Society är på en spännande resa för att elektrifiera samhället med transformativa, väldesignade och framtidssäkra laddlösningar. Nu bygger vi ett internationellt varumärke där ord, tonalitet och berättelser spelar en avgörande roll i hur vi kommunicerar innovation, teknik och hållbarhet.\n\nVi söker nu en copywriter-student för LIA-praktik som vill vara med och forma Amp Societys röst och bidra till att bygga ett tydligt, relevant och premiumbetonat varumärke från grunden.\n\nOm rollen\n\nSom LIA inom copywriting och marknad hos Amp Society arbetar du med ett varumärke i uppbyggnadsfas - där strategi, innehåll och affär möts. Du får möjlighet att skriva texter som används i verkliga projekt, k",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-01-12",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://ampsociety1.teamtailor.com/jobs/7045438-lia-praktik-inom-copy-content-till-techbolaget-amp-society?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20243217",
     "company": "+Moveco AB",
     "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
@@ -354,20 +370,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-19901880",
-    "company": "AmpSociety",
-    "role": "LIA-praktik inom Copy & Content till techbolaget Amp Society",
-    "ort": "De nordiska länderna",
-    "utbildning": "Distansarbete",
+    "id": "js-20233325",
+    "company": "Tieto AB",
+    "role": "LIA (internship) SW Developer - Tieto Caretech (m/f/d)",
+    "ort": "Luleå",
+    "utbildning": "Praktikplatser",
     "period": "",
     "deadline": null,
-    "desc": "Amp Society är på en spännande resa för att elektrifiera samhället med transformativa, väldesignade och framtidssäkra laddlösningar. Nu bygger vi ett internationellt varumärke där ord, tonalitet och berättelser spelar en avgörande roll i hur vi kommunicerar innovation, teknik och hållbarhet.\n\nVi söker nu en copywriter-student för LIA-praktik som vill vara med och forma Amp Societys röst och bidra till att bygga ett tydligt, relevant och premiumbetonat varumärke från grunden.\n\nOm rollen\n\nSom LIA inom copywriting och marknad hos Amp Society arbetar du med ett varumärke i uppbyggnadsfas - där strategi, innehåll och affär möts. Du får möjlighet att skriva texter som används i verkliga projekt, k",
+    "desc": "Job Description\n\n🚀 We are looking for LIA interns for our office in Luleå 🚀\n\nAre you a Systems Development/Software Development student and looking for your LIA2 internship for fall 2026? We are now looking for driven and curious LIA interns who want to grow and develop together with us in Luleå. \n\nPlease note that this position is exclusively for students completing a mandatory LIA 2 internship as part of their education.\n\nWho we are \n\nAt Tieto Caretech, we build technology that supports healthcare professionals in their daily work - making systems smoother, processes smarter, and care better. This fall, we&#x27;re looking for curious and motivateds LIA-interns who want to learn, grow, an",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-01-12",
+    "postedAt": "2026-05-10",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://ampsociety1.teamtailor.com/jobs/7045438-lia-praktik-inom-copy-content-till-techbolaget-amp-society?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://careers.tieto.com/job/lia-internship-sw-developer-tieto-caretech-m-f-d-in-lulea-sweden-jid-2201?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20257913",
