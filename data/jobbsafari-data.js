@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-05-14T06:26:55.709Z
+// Autogenererad av scraper.js – 2026-05-15T06:35:49.182Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -72,30 +72,14 @@ window.JOBBSAFARI_DATA = [
     "ort": "De nordiska länderna",
     "utbildning": "Energirelaterad verksamhet",
     "period": "",
-    "deadline": "2028-04-11",
+    "deadline": "2028-05-12",
     "desc": "LIA - Praktik inom vindkraft hos Deutsche Windtechnik\n\nPlats: Flera orter i Sverige\nPeriod: Enligt överenskommelse\nOmfattning: Heltid under praktikperioden\nVill du få praktisk erfarenhet i en framtidsbransch?\n\nDeutsche Windtechnik söker engagerade och nyfikna LIA-praktikanter som vill vara med och driva den gröna omställningen! Som praktikant hos oss får du en unik inblick i hur det är att arbeta som servicetekniker inom vindkraft.\nOm rollen\n\nUnder din LIA kommer du att:\nFölja och assistera erfarna servicetekniker vid service, felsökning och underhåll av vindkraftverk.Lära dig om säkerhetsrutiner, dokumentation och kvalitetssystem i en internationell organisation.Delta i arbetet med mekanisk",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-04-10",
+    "postedAt": "2026-05-11",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://deutsche-windtechnik.softgarden.io/job/60677372/LIA-PRAKTIK?jobDbPVId=269715483&l=en&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20258368",
-    "company": "Electrolux Group",
-    "role": "Branding Intern (LIA)",
-    "ort": "Stockholm",
-    "utbildning": "",
-    "period": "",
-    "deadline": null,
-    "desc": "Marketing\n\nInternship / Global Electrolux Talent (GET)\n\nJob Description\n\nSolve complex problems. Decode the future.\n\nAt Electrolux Group, as a leading global appliance company, we strive every day to shape living for the better for our consumers, our people, and our planet. We share ideas and collaborate so that together, we can develop solutions that deliver enjoyable and sustainable living. Come join us as you are. We believe diverse perspectives make us stronger and more innovative. In our global community of people from 100+ countries, we listen to each other, actively contribute, and grow together.\n\nPurpose of the Internship \n\nThe internship is designed as a project-based assignment whe",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-06",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://electrolux.wd3.myworkdayjobs.com/AdHocAfterAdvertising/job/Branding-Intern--LIA-_JR77884?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://deutsche-windtechnik.softgarden.io/job/60677372/LIA-PRAKTIK?jobDbPVId=272858969&l=en&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20225451",
@@ -112,6 +96,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-04-28",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20258368",
+    "company": "Electrolux Group",
+    "role": "Branding Intern (LIA)",
+    "ort": "Stockholm",
+    "utbildning": "",
+    "period": "",
+    "deadline": null,
+    "desc": "Marketing\n\nInternship / Global Electrolux Talent (GET)\n\nJob Description\n\nSolve complex problems. Decode the future.\n\nAt Electrolux Group, as a leading global appliance company, we strive every day to shape living for the better for our consumers, our people, and our planet. We share ideas and collaborate so that together, we can develop solutions that deliver enjoyable and sustainable living. Come join us as you are. We believe diverse perspectives make us stronger and more innovative. In our global community of people from 100+ countries, we listen to each other, actively contribute, and grow together.\n\nPurpose of the Internship \n\nThe internship is designed as a project-based assignment whe",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-06",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://electrolux.wd3.myworkdayjobs.com/AdHocAfterAdvertising/job/Branding-Intern--LIA-_JR77884?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-18827660",
@@ -226,22 +226,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/67b3cdce25aca324d57229b4?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20270979",
-    "company": "Connecting Stockholm AB",
-    "role": "LIA-praktik inom Lön på Connecting Stockholm, ht 2026",
-    "ort": "Stockholm",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": "2026-05-31",
-    "desc": "Om Connecting Stockholm\n\nSom ansvariga för Stockholms tunnelbana driver vi en samhällsbärande verksamhet där säkerhet, tillgänglighet och punktlighet står i centrum. Vi kombinerar erfarenhet och nytänkande för att skapa en tunnelbana som är trygg idag och hållbar för framtiden.\n\nVårt uppdrag handlar om mer än trafik - det handlar om människor, ansvar och tillit. Varje dag möter vi hundratusentals resenärer, och genom ett varmt, respektfullt och professionellt bemötande skapar vi en reseupplevelse där alla känner sig varmt välkomna och trygga. Hos oss är kulturen en viktig del av uppdraget. Vi tror på samarbetets kraft, på relationer som bygger förtroende och på ett ledarskap som präglas av p",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-11",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://hire.vismatalent.com/spa/public/apply?guidAssignment=b23821aa-10ed-45e0-95fd-31a42ae61a5c&publishCode=PB&TK=4cc03c8b-cc7a-4f2b-b436-118b1957ee89&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20232184",
     "company": "Sokigo AB",
     "role": "Sokigo söker en LIA-praktikant inom test och kvalitet",
@@ -272,6 +256,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-01-12",
     "source": "jobbsafari.se",
     "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8212199005140678540&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20270979",
+    "company": "Connecting Stockholm AB",
+    "role": "LIA-praktik inom Lön på Connecting Stockholm, ht 2026",
+    "ort": "Stockholm",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": "2026-05-31",
+    "desc": "Om Connecting Stockholm\n\nSom ansvariga för Stockholms tunnelbana driver vi en samhällsbärande verksamhet där säkerhet, tillgänglighet och punktlighet står i centrum. Vi kombinerar erfarenhet och nytänkande för att skapa en tunnelbana som är trygg idag och hållbar för framtiden.\n\nVårt uppdrag handlar om mer än trafik - det handlar om människor, ansvar och tillit. Varje dag möter vi hundratusentals resenärer, och genom ett varmt, respektfullt och professionellt bemötande skapar vi en reseupplevelse där alla känner sig varmt välkomna och trygga. Hos oss är kulturen en viktig del av uppdraget. Vi tror på samarbetets kraft, på relationer som bygger förtroende och på ett ledarskap som präglas av p",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-11",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://hire.vismatalent.com/spa/public/apply?guidAssignment=b23821aa-10ed-45e0-95fd-31a42ae61a5c&publishCode=PB&TK=4cc03c8b-cc7a-4f2b-b436-118b1957ee89&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20105825",
@@ -306,22 +306,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20203128",
-    "company": "Corporation Service Company",
-    "role": "LIA 2 som Lönekonsult för internationella klienter - HT-26",
-    "ort": "Stockholm",
-    "utbildning": "HR och rekrytering",
-    "period": "",
-    "deadline": null,
-    "desc": "Job Description\n\nLIA 2 som Lönekonsult för internationella klienter - HT-26\n\nRoll: LIA-praktikant, Client Payroll & HR Intern\nPlacering: Stockholm, Sverige. På kontoret under hela praktikperioden\nArbetstider: Heltid, måndag-fredag\nTyp av praktik: LIA 2 inom Yrkeshögskolan\nPeriod: Enligt utbildningens upplägg\n\nVill du få en djup inblick i hela löneprocessen och erfarenhet av att arbeta som konsult i ett internationellt bolag? Då kan en LIA-praktik hos oss på CSC vara det perfekta steget i din karriär inom lön!\n\nVi erbjuder en outsourcad lönefunktion för internationella företag som vill etablera sig och verka på den svenska marknaden. Tänk dig ett framgångsrikt retail-företag från Spanien som ",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-19",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/15689?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20123970",
     "company": "DHL Express (Sweden) AB",
     "role": "LIA Praktikplats Freight Forwarding Specialist – AFR (flygspeditör)",
@@ -338,6 +322,38 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://dpdhlgroup.avature.net/sv_SE/jobs/ApplicationMethods?jobId=344169&source=careers.dhl.com&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20203128",
+    "company": "Corporation Service Company",
+    "role": "LIA 2 som Lönekonsult för internationella klienter - HT-26",
+    "ort": "Stockholm",
+    "utbildning": "HR och rekrytering",
+    "period": "",
+    "deadline": null,
+    "desc": "Job Description\n\nLIA 2 som Lönekonsult för internationella klienter - HT-26\n\nRoll: LIA-praktikant, Client Payroll & HR Intern\nPlacering: Stockholm, Sverige. På kontoret under hela praktikperioden\nArbetstider: Heltid, måndag-fredag\nTyp av praktik: LIA 2 inom Yrkeshögskolan\nPeriod: Enligt utbildningens upplägg\n\nVill du få en djup inblick i hela löneprocessen och erfarenhet av att arbeta som konsult i ett internationellt bolag? Då kan en LIA-praktik hos oss på CSC vara det perfekta steget i din karriär inom lön!\n\nVi erbjuder en outsourcad lönefunktion för internationella företag som vill etablera sig och verka på den svenska marknaden. Tänk dig ett framgångsrikt retail-företag från Spanien som ",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-19",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/15689?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20129417",
+    "company": "DHL Express (Sweden) AB",
+    "role": "LIA Praktikplats Freight Forwarding Specialist - AFR (flygspeditör)",
+    "ort": "Sverige",
+    "utbildning": "Spedition",
+    "period": "",
+    "deadline": null,
+    "desc": "DHL är marknadsledande inom logistikbranschen och är &quot;logistikbolaget för hela världen&quot;. DHL erbjuder expertis inom internationell express-, flyg- och sjöfrakt, väg- och tågtransport, kontraktslogistik samt internationella brevtjänster. Med ett globalt nätverk som består av mer än 220 länder och territorier och med 550 000 medarbetare över hela världen erbjuds kunder högsta kvalitet kombinerat med god lokal kännedom. \n\n Allt för att på bästa sätt kunna tillgodose kundens behov av tjänster som täcker hela varuflödeskedjan. DHL tar sitt sociala ansvar genom att löpande arbeta med åtgärder för att minska klimatpåverkan och genom att bidra med katastrofhantering samt utbildning. DHL Gl",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-03-23",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV344169ENGLOBALEXTERNAL/LIA-Praktikplats-Freight-Forwarding-Specialist-AFR-flygspedit%C3%B6r?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-19901880",
     "company": "AmpSociety",
     "role": "LIA-praktik inom Copy & Content till techbolaget Amp Society",
@@ -352,22 +368,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-01-12",
     "source": "jobbsafari.se",
     "sourceUrl": "https://ampsociety1.teamtailor.com/jobs/7045438-lia-praktik-inom-copy-content-till-techbolaget-amp-society?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20243217",
-    "company": "+Moveco AB",
-    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
-    "ort": "Stockholm",
-    "utbildning": "Juniorbefattningar",
-    "period": "",
-    "deadline": "2026-10-31",
-    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-03",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20233325",
@@ -400,6 +400,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-06",
     "source": "jobbsafari.se",
     "sourceUrl": "mailto:info@recycletroop.com"
+  },
+  {
+    "id": "js-20243217",
+    "company": "+Moveco AB",
+    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
+    "ort": "Stockholm",
+    "utbildning": "Juniorbefattningar",
+    "period": "",
+    "deadline": "2026-10-31",
+    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-03",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-18917062",
