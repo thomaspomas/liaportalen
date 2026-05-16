@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-05-15T06:35:49.182Z
+// Autogenererad av scraper.js – 2026-05-16T05:56:46.076Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -271,7 +271,7 @@ window.JOBBSAFARI_DATA = [
     "antal": 1,
     "postedAt": "2026-05-11",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://hire.vismatalent.com/spa/public/apply?guidAssignment=b23821aa-10ed-45e0-95fd-31a42ae61a5c&publishCode=PB&TK=4cc03c8b-cc7a-4f2b-b436-118b1957ee89&utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://hire.vismatalent.com/spa/public/apply?guidAssignment=b23821aa-10ed-45e0-95fd-31a42ae61a5c&publishCode=PB&TK=28aca82a-d91f-4081-91af-c2bff6dab6d4&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20105825",
@@ -370,22 +370,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://ampsociety1.teamtailor.com/jobs/7045438-lia-praktik-inom-copy-content-till-techbolaget-amp-society?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20233325",
-    "company": "Tieto AB",
-    "role": "LIA (internship) SW Developer - Tieto Caretech (m/f/d)",
-    "ort": "Luleå",
-    "utbildning": "Praktikplatser",
-    "period": "",
-    "deadline": null,
-    "desc": "Job Description\n\n🚀 We are looking for LIA interns for our office in Luleå 🚀\n\nAre you a Systems Development/Software Development student and looking for your LIA2 internship for fall 2026? We are now looking for driven and curious LIA interns who want to grow and develop together with us in Luleå. \n\nPlease note that this position is exclusively for students completing a mandatory LIA 2 internship as part of their education.\n\nWho we are \n\nAt Tieto Caretech, we build technology that supports healthcare professionals in their daily work - making systems smoother, processes smarter, and care better. This fall, we&#x27;re looking for curious and motivateds LIA-interns who want to learn, grow, an",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-10",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.tieto.com/job/lia-internship-sw-developer-tieto-caretech-m-f-d-in-lulea-sweden-jid-2201?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20257913",
     "company": "Green Tech Andersson AB",
     "role": "LIA-plats för studenter inom marknadsföring, SEO & sälj hos Recycletroop",
@@ -418,13 +402,29 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20233325",
+    "company": "Tieto AB",
+    "role": "LIA (internship) SW Developer - Tieto Caretech (m/f/d)",
+    "ort": "Luleå",
+    "utbildning": "Praktikplatser",
+    "period": "",
+    "deadline": null,
+    "desc": "Job Description\n\n🚀 We are looking for LIA interns for our office in Luleå 🚀\n\nAre you a Systems Development/Software Development student and looking for your LIA2 internship for fall 2026? We are now looking for driven and curious LIA interns who want to grow and develop together with us in Luleå. \n\nPlease note that this position is exclusively for students completing a mandatory LIA 2 internship as part of their education.\n\nWho we are \n\nAt Tieto Caretech, we build technology that supports healthcare professionals in their daily work - making systems smoother, processes smarter, and care better. This fall, we&#x27;re looking for curious and motivateds LIA-interns who want to learn, grow, an",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-10",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://careers.tieto.com/job/lia-internship-sw-developer-tieto-caretech-m-f-d-in-lulea-sweden-jid-2201?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-18917062",
     "company": "DSV A/S",
     "role": "Sök din Praktik eller LIA hos oss på DSV i Landskrona! (Öppen Ansökan)",
     "ort": "Landskrona",
     "utbildning": "Juniorbefattningar",
     "period": "",
-    "deadline": "2026-06-10",
+    "deadline": "2026-06-13",
     "desc": "Vi kan erbjuda dig en härlig arbetsmiljö med högt i tak, spännande arbetsuppgifter - och nära samarbete med kompetenta och erfarna kollegor. DSV är ett företag i som ständigt växer och där du får möjlighet att påverka utvecklingen.\n\nFrån vårt svenska huvudkontor i Landkrona hjälper vi både stora och små kunder med import och export av varor och vardagen präglas av viljan att alltid leverera Sveriges bästa logistiklösning till våra kunder Vi är ett engagerat och positivt team med varierad kompetens- och branscherfarenhet. Det vi har gemensamt är att vi brinner för våra kunder, lag-arbete och för att leverera logistiklösningar i världsklass.\n\nVi har stort fokus på flexibilitet i vardagen samt ",
     "contact": "",
     "email": "",
