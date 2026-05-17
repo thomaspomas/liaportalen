@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-05-16T05:56:46.076Z
+// Autogenererad av scraper.js – 2026-05-17T06:25:02.669Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -98,22 +98,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20258368",
-    "company": "Electrolux Group",
-    "role": "Branding Intern (LIA)",
-    "ort": "Stockholm",
-    "utbildning": "",
-    "period": "",
-    "deadline": null,
-    "desc": "Marketing\n\nInternship / Global Electrolux Talent (GET)\n\nJob Description\n\nSolve complex problems. Decode the future.\n\nAt Electrolux Group, as a leading global appliance company, we strive every day to shape living for the better for our consumers, our people, and our planet. We share ideas and collaborate so that together, we can develop solutions that deliver enjoyable and sustainable living. Come join us as you are. We believe diverse perspectives make us stronger and more innovative. In our global community of people from 100+ countries, we listen to each other, actively contribute, and grow together.\n\nPurpose of the Internship \n\nThe internship is designed as a project-based assignment whe",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-06",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://electrolux.wd3.myworkdayjobs.com/AdHocAfterAdvertising/job/Branding-Intern--LIA-_JR77884?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-18827660",
     "company": "CBRE",
     "role": "LIA praktikanter inom fastighetsdrift",
@@ -128,6 +112,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2025-12-04",
     "source": "jobbsafari.se",
     "sourceUrl": "https://careers.cbre.com/en_US/careers/JobDetail/LIA-praktikanter-inom-fastighetsdrift/197392?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20258368",
+    "company": "Electrolux Group",
+    "role": "Branding Intern (LIA)",
+    "ort": "Stockholm",
+    "utbildning": "",
+    "period": "",
+    "deadline": null,
+    "desc": "Marketing\n\nInternship / Global Electrolux Talent (GET)\n\nJob Description\n\nSolve complex problems. Decode the future.\n\nAt Electrolux Group, as a leading global appliance company, we strive every day to shape living for the better for our consumers, our people, and our planet. We share ideas and collaborate so that together, we can develop solutions that deliver enjoyable and sustainable living. Come join us as you are. We believe diverse perspectives make us stronger and more innovative. In our global community of people from 100+ countries, we listen to each other, actively contribute, and grow together.\n\nPurpose of the Internship \n\nThe internship is designed as a project-based assignment whe",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-06",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://electrolux.wd3.myworkdayjobs.com/AdHocAfterAdvertising/job/Branding-Intern--LIA-_JR77884?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20235014",
@@ -370,22 +370,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://ampsociety1.teamtailor.com/jobs/7045438-lia-praktik-inom-copy-content-till-techbolaget-amp-society?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20257913",
-    "company": "Green Tech Andersson AB",
-    "role": "LIA-plats för studenter inom marknadsföring, SEO & sälj hos Recycletroop",
-    "ort": "Mölndal",
-    "utbildning": "Dataanalys och datahantering",
-    "period": "",
-    "deadline": "2026-06-06",
-    "desc": "Vi på Green Tech Andersson AB driver varumärket Recycletroop, ett företag som kombinerar teknik och hållbarhet. Vi arbetar inom:\n\n📱 Försäljning av reservdelar för mobiltelefoner - till mobilreparationsföretag\n\n📲 Försäljning av begagnade mobiler - både till konsumenter via vår hemsida och till B2B-aktörer i Europa\n\n🔄 Renovering & återvinning av mobildelar - för att ge komponenter ett andra liv\n\nVi har ett tydligt miljöfokus: alla våra mobiltillbehör är miljövänliga, våra förpackningar är helt plastfria och vi samarbetar med en organisation som planterar träd. 🌱\n\n🎯 Vad vi erbjuder studenterna\n\nVi söker nu drivna LIA-studenter inom marknadsföring, SEO och sälj som vill vara med och växa ti",
-    "contact": "",
-    "email": "mailto:info@recycletroop.com",
-    "antal": 1,
-    "postedAt": "2026-05-06",
-    "source": "jobbsafari.se",
-    "sourceUrl": "mailto:info@recycletroop.com"
-  },
-  {
     "id": "js-20243217",
     "company": "+Moveco AB",
     "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
@@ -400,6 +384,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-03",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20257913",
+    "company": "Green Tech Andersson AB",
+    "role": "LIA-plats för studenter inom marknadsföring, SEO & sälj hos Recycletroop",
+    "ort": "Mölndal",
+    "utbildning": "Dataanalys och datahantering",
+    "period": "",
+    "deadline": "2026-06-06",
+    "desc": "Vi på Green Tech Andersson AB driver varumärket Recycletroop, ett företag som kombinerar teknik och hållbarhet. Vi arbetar inom:\n\n📱 Försäljning av reservdelar för mobiltelefoner - till mobilreparationsföretag\n\n📲 Försäljning av begagnade mobiler - både till konsumenter via vår hemsida och till B2B-aktörer i Europa\n\n🔄 Renovering & återvinning av mobildelar - för att ge komponenter ett andra liv\n\nVi har ett tydligt miljöfokus: alla våra mobiltillbehör är miljövänliga, våra förpackningar är helt plastfria och vi samarbetar med en organisation som planterar träd. 🌱\n\n🎯 Vad vi erbjuder studenterna\n\nVi söker nu drivna LIA-studenter inom marknadsföring, SEO och sälj som vill vara med och växa ti",
+    "contact": "",
+    "email": "mailto:info@recycletroop.com",
+    "antal": 1,
+    "postedAt": "2026-05-06",
+    "source": "jobbsafari.se",
+    "sourceUrl": "mailto:info@recycletroop.com"
   },
   {
     "id": "js-20233325",
