@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-05-17T06:25:02.669Z
+// Autogenererad av scraper.js – 2026-05-18T06:59:17.245Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -226,22 +226,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/67b3cdce25aca324d57229b4?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20232184",
-    "company": "Sokigo AB",
-    "role": "Sokigo söker en LIA-praktikant inom test och kvalitet",
-    "ort": "Sundbyberg",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": "2026-05-31",
-    "desc": "Studerar du inom IT och söker en LIA-plats där du får arbeta med test, kvalitet och moderna systemlösningar? Vill du vara med och säkerställa att lösningar som används av Sveriges kommuner håller hög kvalitet och fungerar i praktiken? Då kan det här vara rätt möjlighet för dig.\n\nSokigo utvecklar och levererar IT-lösningar till offentlig sektor över hela Sverige. Våra system används dagligen i kommuner, regioner och myndigheter vilket ställer höga krav på stabilitet, säkerhet och användbarhet. Nu söker vi en LIA-praktikant som vill bidra till vårt arbete med test och kvalitetssäkring.\n\nOm LIA-platsen\n\nSom LIA-praktikant inom test och kvalitet blir du en del av vårt utvecklings- och testteam. ",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-28",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://karriar.sokigo.com/jobs/7609530-sokigo-soker-en-lia-praktikant-inom-test-och-kvalitet/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-19888869",
     "company": "Region Västernorrland",
     "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
@@ -258,20 +242,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8212199005140678540&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20270979",
-    "company": "Connecting Stockholm AB",
-    "role": "LIA-praktik inom Lön på Connecting Stockholm, ht 2026",
-    "ort": "Stockholm",
+    "id": "js-20232184",
+    "company": "Sokigo AB",
+    "role": "Sokigo söker en LIA-praktikant inom test och kvalitet",
+    "ort": "Sundbyberg",
     "utbildning": "Distansarbete",
     "period": "",
     "deadline": "2026-05-31",
-    "desc": "Om Connecting Stockholm\n\nSom ansvariga för Stockholms tunnelbana driver vi en samhällsbärande verksamhet där säkerhet, tillgänglighet och punktlighet står i centrum. Vi kombinerar erfarenhet och nytänkande för att skapa en tunnelbana som är trygg idag och hållbar för framtiden.\n\nVårt uppdrag handlar om mer än trafik - det handlar om människor, ansvar och tillit. Varje dag möter vi hundratusentals resenärer, och genom ett varmt, respektfullt och professionellt bemötande skapar vi en reseupplevelse där alla känner sig varmt välkomna och trygga. Hos oss är kulturen en viktig del av uppdraget. Vi tror på samarbetets kraft, på relationer som bygger förtroende och på ett ledarskap som präglas av p",
+    "desc": "Studerar du inom IT och söker en LIA-plats där du får arbeta med test, kvalitet och moderna systemlösningar? Vill du vara med och säkerställa att lösningar som används av Sveriges kommuner håller hög kvalitet och fungerar i praktiken? Då kan det här vara rätt möjlighet för dig.\n\nSokigo utvecklar och levererar IT-lösningar till offentlig sektor över hela Sverige. Våra system används dagligen i kommuner, regioner och myndigheter vilket ställer höga krav på stabilitet, säkerhet och användbarhet. Nu söker vi en LIA-praktikant som vill bidra till vårt arbete med test och kvalitetssäkring.\n\nOm LIA-platsen\n\nSom LIA-praktikant inom test och kvalitet blir du en del av vårt utvecklings- och testteam. ",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-05-11",
+    "postedAt": "2026-04-28",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://hire.vismatalent.com/spa/public/apply?guidAssignment=b23821aa-10ed-45e0-95fd-31a42ae61a5c&publishCode=PB&TK=28aca82a-d91f-4081-91af-c2bff6dab6d4&utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://karriar.sokigo.com/jobs/7609530-sokigo-soker-en-lia-praktikant-inom-test-och-kvalitet/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20105825",
@@ -304,6 +288,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2024-05-23",
     "source": "jobbsafari.se",
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20270979",
+    "company": "Connecting Stockholm AB",
+    "role": "LIA-praktik inom Lön på Connecting Stockholm, ht 2026",
+    "ort": "Stockholm",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": "2026-05-31",
+    "desc": "Om Connecting Stockholm\n\nSom ansvariga för Stockholms tunnelbana driver vi en samhällsbärande verksamhet där säkerhet, tillgänglighet och punktlighet står i centrum. Vi kombinerar erfarenhet och nytänkande för att skapa en tunnelbana som är trygg idag och hållbar för framtiden.\n\nVårt uppdrag handlar om mer än trafik - det handlar om människor, ansvar och tillit. Varje dag möter vi hundratusentals resenärer, och genom ett varmt, respektfullt och professionellt bemötande skapar vi en reseupplevelse där alla känner sig varmt välkomna och trygga. Hos oss är kulturen en viktig del av uppdraget. Vi tror på samarbetets kraft, på relationer som bygger förtroende och på ett ledarskap som präglas av p",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-11",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://hire.vismatalent.com/spa/public/apply?guidAssignment=b23821aa-10ed-45e0-95fd-31a42ae61a5c&publishCode=PB&TK=28aca82a-d91f-4081-91af-c2bff6dab6d4&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20123970",
@@ -370,22 +370,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://ampsociety1.teamtailor.com/jobs/7045438-lia-praktik-inom-copy-content-till-techbolaget-amp-society?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20243217",
-    "company": "+Moveco AB",
-    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
-    "ort": "Stockholm",
-    "utbildning": "Juniorbefattningar",
-    "period": "",
-    "deadline": "2026-10-31",
-    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-03",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20257913",
     "company": "Green Tech Andersson AB",
     "role": "LIA-plats för studenter inom marknadsföring, SEO & sälj hos Recycletroop",
@@ -402,20 +386,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "mailto:info@recycletroop.com"
   },
   {
-    "id": "js-20233325",
-    "company": "Tieto AB",
-    "role": "LIA (internship) SW Developer - Tieto Caretech (m/f/d)",
-    "ort": "Luleå",
-    "utbildning": "Praktikplatser",
+    "id": "js-20243217",
+    "company": "+Moveco AB",
+    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
+    "ort": "Stockholm",
+    "utbildning": "Juniorbefattningar",
     "period": "",
-    "deadline": null,
-    "desc": "Job Description\n\n🚀 We are looking for LIA interns for our office in Luleå 🚀\n\nAre you a Systems Development/Software Development student and looking for your LIA2 internship for fall 2026? We are now looking for driven and curious LIA interns who want to grow and develop together with us in Luleå. \n\nPlease note that this position is exclusively for students completing a mandatory LIA 2 internship as part of their education.\n\nWho we are \n\nAt Tieto Caretech, we build technology that supports healthcare professionals in their daily work - making systems smoother, processes smarter, and care better. This fall, we&#x27;re looking for curious and motivateds LIA-interns who want to learn, grow, an",
+    "deadline": "2026-10-31",
+    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-05-10",
+    "postedAt": "2026-05-03",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.tieto.com/job/lia-internship-sw-developer-tieto-caretech-m-f-d-in-lulea-sweden-jid-2201?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-18917062",
@@ -432,6 +416,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-04-20",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobs.dsv.com/job/Landskrona-S%C3%83%C2%B6k-din-Praktik-eller-LIA-hos-oss-p%C3%83%C2%A5-DSV-i-Landskrona!-(%C3%83-ppen-Ans%C3%83%C2%B6kan)-Skaa-261-51/1153217701/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20233325",
+    "company": "Tieto AB",
+    "role": "LIA (internship) SW Developer - Tieto Caretech (m/f/d)",
+    "ort": "Luleå",
+    "utbildning": "Praktikplatser",
+    "period": "",
+    "deadline": null,
+    "desc": "Job Description\n\n🚀 We are looking for LIA interns for our office in Luleå 🚀\n\nAre you a Systems Development/Software Development student and looking for your LIA2 internship for fall 2026? We are now looking for driven and curious LIA interns who want to grow and develop together with us in Luleå. \n\nPlease note that this position is exclusively for students completing a mandatory LIA 2 internship as part of their education.\n\nWho we are \n\nAt Tieto Caretech, we build technology that supports healthcare professionals in their daily work - making systems smoother, processes smarter, and care better. This fall, we&#x27;re looking for curious and motivateds LIA-interns who want to learn, grow, an",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-10",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://careers.tieto.com/job/lia-internship-sw-developer-tieto-caretech-m-f-d-in-lulea-sweden-jid-2201?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20064970",
