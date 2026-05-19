@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-05-18T06:59:17.245Z
+// Autogenererad av scraper.js – 2026-05-19T06:51:47.772Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -34,22 +34,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.performiq.se/jobb/8692/ansok/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20200926",
-    "company": "Atea",
-    "role": "LIA",
-    "ort": "Borlänge",
-    "utbildning": "HR och rekrytering",
-    "period": "",
-    "deadline": "2026-05-31",
-    "desc": "Är du nyfiken på hur det är att arbeta som konsult på Atea? Ta chansen att prova på! Tillsammans med våra konsulter får du jobba med spännande kunder och skaffa dig värdefull arbetslivserfarenhet.\n Din roll på Atea \n Hos oss får du under den första tiden av din LIA följa med våra erfarna konsulter i deras arbete för att att skaffa dig inblick i Ateas olika teknikområden och vad det innebär att jobba som konsult inom it-branschen. Under senare delen av din LIA finns möjlighet att fördjupa sig mer inom ett område som exempelvis datacenter, dataintegritet, nätverkskommunikation, Microsoft 365, klienthantering och identitetshantering. Innehållet i praktiken kommer att anpassas utifrån din profil",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-20",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20202268",
     "company": "Atea",
     "role": "LIA",
@@ -62,6 +46,22 @@ window.JOBBSAFARI_DATA = [
     "email": "",
     "antal": 1,
     "postedAt": "2026-04-21",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20200926",
+    "company": "Atea",
+    "role": "LIA",
+    "ort": "Borlänge",
+    "utbildning": "HR och rekrytering",
+    "period": "",
+    "deadline": "2026-05-31",
+    "desc": "Är du nyfiken på hur det är att arbeta som konsult på Atea? Ta chansen att prova på! Tillsammans med våra konsulter får du jobba med spännande kunder och skaffa dig värdefull arbetslivserfarenhet.\n Din roll på Atea \n Hos oss får du under den första tiden av din LIA följa med våra erfarna konsulter i deras arbete för att att skaffa dig inblick i Ateas olika teknikområden och vad det innebär att jobba som konsult inom it-branschen. Under senare delen av din LIA finns möjlighet att fördjupa sig mer inom ett område som exempelvis datacenter, dataintegritet, nätverkskommunikation, Microsoft 365, klienthantering och identitetshantering. Innehållet i praktiken kommer att anpassas utifrån din profil",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-20",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA&utm_source=jobbsafari.se&utm_medium=referral"
   },
@@ -80,38 +80,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-11",
     "source": "jobbsafari.se",
     "sourceUrl": "https://deutsche-windtechnik.softgarden.io/job/60677372/LIA-PRAKTIK?jobDbPVId=272858969&l=en&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20225451",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n\nViktigt att veta:\n\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-28",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-18827660",
-    "company": "CBRE",
-    "role": "LIA praktikanter inom fastighetsdrift",
-    "ort": "Stockholm",
-    "utbildning": "Fastighetsförvaltning och underhåll",
-    "period": "",
-    "deadline": null,
-    "desc": "Nu söker vi på CBRE GWS LIA praktikanter inom fastighetsdrift med start januari/februari!\n\nTa chansen att göra din LIA praktik i ett internationellt företag med lokal förankring och familjär känsla! Här får du en aktiv och utbildande praktik i ett engagerat team där du får arbeta med både människor och struktur - och där ingen dag är den andra lik. Sök tjänsten idag då urval sker löpande! \n\nCBRE&#x27;s uppdrag är att leverera service och underhåll av fastigheter och utveckla de fastighetsrelaterade tjänsterna, allt för att säkerställa att vår kund och dess medarbetare har en väl fungerande arbetsplats. Genom att arbeta med ständiga förbättringar, utvecklar vi metoder och processer för att al",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2025-12-04",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.cbre.com/en_US/careers/JobDetail/LIA-praktikanter-inom-fastighetsdrift/197392?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20258368",
@@ -144,6 +112,38 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-04-30",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20225451",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n\nViktigt att veta:\n\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-28",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-18827660",
+    "company": "CBRE",
+    "role": "LIA praktikanter inom fastighetsdrift",
+    "ort": "Stockholm",
+    "utbildning": "Fastighetsförvaltning och underhåll",
+    "period": "",
+    "deadline": null,
+    "desc": "Nu söker vi på CBRE GWS LIA praktikanter inom fastighetsdrift med start januari/februari!\n\nTa chansen att göra din LIA praktik i ett internationellt företag med lokal förankring och familjär känsla! Här får du en aktiv och utbildande praktik i ett engagerat team där du får arbeta med både människor och struktur - och där ingen dag är den andra lik. Sök tjänsten idag då urval sker löpande! \n\nCBRE&#x27;s uppdrag är att leverera service och underhåll av fastigheter och utveckla de fastighetsrelaterade tjänsterna, allt för att säkerställa att vår kund och dess medarbetare har en väl fungerande arbetsplats. Genom att arbeta med ständiga förbättringar, utvecklar vi metoder och processer för att al",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2025-12-04",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://careers.cbre.com/en_US/careers/JobDetail/LIA-praktikanter-inom-fastighetsdrift/197392?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19219738",
@@ -306,22 +306,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://hire.vismatalent.com/spa/public/apply?guidAssignment=b23821aa-10ed-45e0-95fd-31a42ae61a5c&publishCode=PB&TK=28aca82a-d91f-4081-91af-c2bff6dab6d4&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20123970",
-    "company": "DHL Express (Sweden) AB",
-    "role": "LIA Praktikplats Freight Forwarding Specialist – AFR (flygspeditör)",
-    "ort": "Stockholms län",
-    "utbildning": "Spedition",
-    "period": "",
-    "deadline": null,
-    "desc": "DHL är marknadsledande inom logistikbranschen och är &quot;logistikbolaget för hela världen&quot;. DHL erbjuder expertis inom internationell express-, flyg- och sjöfrakt, väg- och tågtransport, kontraktslogistik samt internationella brevtjänster. Med ett globalt nätverk som består av mer än 220 länder och territorier och med 550 000 medarbetare över hela världen erbjuds kunder högsta kvalitet kombinerat med god lokal kännedom.\n\nAllt för att på bästa sätt kunna tillgodose kundens behov av tjänster som täcker hela varuflödeskedjan. DHL tar sitt sociala ansvar genom att löpande arbeta med åtgärder för att minska klimatpåverkan och genom att bidra med katastrofhantering samt utbildning. DHL Glob",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-03-25",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://dpdhlgroup.avature.net/sv_SE/jobs/ApplicationMethods?jobId=344169&source=careers.dhl.com&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20203128",
     "company": "Corporation Service Company",
     "role": "LIA 2 som Lönekonsult för internationella klienter - HT-26",
@@ -368,6 +352,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-01-12",
     "source": "jobbsafari.se",
     "sourceUrl": "https://ampsociety1.teamtailor.com/jobs/7045438-lia-praktik-inom-copy-content-till-techbolaget-amp-society?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20123970",
+    "company": "DHL Express (Sweden) AB",
+    "role": "LIA Praktikplats Freight Forwarding Specialist – AFR (flygspeditör)",
+    "ort": "Stockholms län",
+    "utbildning": "Spedition",
+    "period": "",
+    "deadline": null,
+    "desc": "DHL är marknadsledande inom logistikbranschen och är &quot;logistikbolaget för hela världen&quot;. DHL erbjuder expertis inom internationell express-, flyg- och sjöfrakt, väg- och tågtransport, kontraktslogistik samt internationella brevtjänster. Med ett globalt nätverk som består av mer än 220 länder och territorier och med 550 000 medarbetare över hela världen erbjuds kunder högsta kvalitet kombinerat med god lokal kännedom.\n\nAllt för att på bästa sätt kunna tillgodose kundens behov av tjänster som täcker hela varuflödeskedjan. DHL tar sitt sociala ansvar genom att löpande arbeta med åtgärder för att minska klimatpåverkan och genom att bidra med katastrofhantering samt utbildning. DHL Glob",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-03-25",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://dpdhlgroup.avature.net/sv_SE/jobs/ApplicationMethods?jobId=344169&source=careers.dhl.com&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20257913",
