@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-05-19T06:51:47.772Z
+// Autogenererad av scraper.js – 2026-05-20T06:51:01.467Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -80,6 +80,38 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-11",
     "source": "jobbsafari.se",
     "sourceUrl": "https://deutsche-windtechnik.softgarden.io/job/60677372/LIA-PRAKTIK?jobDbPVId=272858969&l=en&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20284919",
+    "company": "Miljonbemanning AB",
+    "role": "LIA - Account Manager",
+    "ort": "Botkyrka",
+    "utbildning": "Försäljning",
+    "period": "",
+    "deadline": "2026-06-28",
+    "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-17",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.miljonbemanning.se/jobs/6946350-lia-account-manager/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20284922",
+    "company": "Miljonbemanning AB",
+    "role": "LIA - Account Manager",
+    "ort": "Botkyrka",
+    "utbildning": "Försäljning",
+    "period": "",
+    "deadline": "2026-06-30",
+    "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-17",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.miljonbemanning.se/jobs/6946350-lia-account-manager/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20258368",
@@ -322,20 +354,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/15689?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20129417",
+    "id": "js-20123970",
     "company": "DHL Express (Sweden) AB",
-    "role": "LIA Praktikplats Freight Forwarding Specialist - AFR (flygspeditör)",
-    "ort": "Sverige",
+    "role": "LIA Praktikplats Freight Forwarding Specialist – AFR (flygspeditör)",
+    "ort": "Stockholms län",
     "utbildning": "Spedition",
     "period": "",
     "deadline": null,
-    "desc": "DHL är marknadsledande inom logistikbranschen och är &quot;logistikbolaget för hela världen&quot;. DHL erbjuder expertis inom internationell express-, flyg- och sjöfrakt, väg- och tågtransport, kontraktslogistik samt internationella brevtjänster. Med ett globalt nätverk som består av mer än 220 länder och territorier och med 550 000 medarbetare över hela världen erbjuds kunder högsta kvalitet kombinerat med god lokal kännedom. \n\n Allt för att på bästa sätt kunna tillgodose kundens behov av tjänster som täcker hela varuflödeskedjan. DHL tar sitt sociala ansvar genom att löpande arbeta med åtgärder för att minska klimatpåverkan och genom att bidra med katastrofhantering samt utbildning. DHL Gl",
+    "desc": "DHL är marknadsledande inom logistikbranschen och är &quot;logistikbolaget för hela världen&quot;. DHL erbjuder expertis inom internationell express-, flyg- och sjöfrakt, väg- och tågtransport, kontraktslogistik samt internationella brevtjänster. Med ett globalt nätverk som består av mer än 220 länder och territorier och med 550 000 medarbetare över hela världen erbjuds kunder högsta kvalitet kombinerat med god lokal kännedom.\n\nAllt för att på bästa sätt kunna tillgodose kundens behov av tjänster som täcker hela varuflödeskedjan. DHL tar sitt sociala ansvar genom att löpande arbeta med åtgärder för att minska klimatpåverkan och genom att bidra med katastrofhantering samt utbildning. DHL Glob",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-03-23",
+    "postedAt": "2026-03-25",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV344169ENGLOBALEXTERNAL/LIA-Praktikplats-Freight-Forwarding-Specialist-AFR-flygspedit%C3%B6r?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://dpdhlgroup.avature.net/sv_SE/jobs/ApplicationMethods?jobId=344169&source=careers.dhl.com&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19901880",
@@ -354,20 +386,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://ampsociety1.teamtailor.com/jobs/7045438-lia-praktik-inom-copy-content-till-techbolaget-amp-society?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20123970",
+    "id": "js-20129417",
     "company": "DHL Express (Sweden) AB",
-    "role": "LIA Praktikplats Freight Forwarding Specialist – AFR (flygspeditör)",
-    "ort": "Stockholms län",
+    "role": "LIA Praktikplats Freight Forwarding Specialist - AFR (flygspeditör)",
+    "ort": "Sverige",
     "utbildning": "Spedition",
     "period": "",
     "deadline": null,
-    "desc": "DHL är marknadsledande inom logistikbranschen och är &quot;logistikbolaget för hela världen&quot;. DHL erbjuder expertis inom internationell express-, flyg- och sjöfrakt, väg- och tågtransport, kontraktslogistik samt internationella brevtjänster. Med ett globalt nätverk som består av mer än 220 länder och territorier och med 550 000 medarbetare över hela världen erbjuds kunder högsta kvalitet kombinerat med god lokal kännedom.\n\nAllt för att på bästa sätt kunna tillgodose kundens behov av tjänster som täcker hela varuflödeskedjan. DHL tar sitt sociala ansvar genom att löpande arbeta med åtgärder för att minska klimatpåverkan och genom att bidra med katastrofhantering samt utbildning. DHL Glob",
+    "desc": "DHL är marknadsledande inom logistikbranschen och är &quot;logistikbolaget för hela världen&quot;. DHL erbjuder expertis inom internationell express-, flyg- och sjöfrakt, väg- och tågtransport, kontraktslogistik samt internationella brevtjänster. Med ett globalt nätverk som består av mer än 220 länder och territorier och med 550 000 medarbetare över hela världen erbjuds kunder högsta kvalitet kombinerat med god lokal kännedom. \n\n Allt för att på bästa sätt kunna tillgodose kundens behov av tjänster som täcker hela varuflödeskedjan. DHL tar sitt sociala ansvar genom att löpande arbeta med åtgärder för att minska klimatpåverkan och genom att bidra med katastrofhantering samt utbildning. DHL Gl",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-03-25",
+    "postedAt": "2026-03-23",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://dpdhlgroup.avature.net/sv_SE/jobs/ApplicationMethods?jobId=344169&source=careers.dhl.com&utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV344169ENGLOBALEXTERNAL/LIA-Praktikplats-Freight-Forwarding-Specialist-AFR-flygspedit%C3%B6r?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20257913",
@@ -448,21 +480,5 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-03-04",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobs.smartrecruiters.com/Devoteam/744000112946910-hosten-2026-business-development-representative-bdr-lia-gor-jobbet-lar-dig-spelet?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-18186921",
-    "company": "Conversionista!",
-    "role": "Internship (LIA) at Conversionista - Analytics, Data Quality, User Research, UX, and CRO",
-    "ort": "Stockholm",
-    "utbildning": "Design och produktutveckling",
-    "period": "",
-    "deadline": null,
-    "desc": "Internship Overview\n\nWe are excited to offer several internship positions across our dynamic teams in Stockholm, Gothenburg, and Malmö. We are looking for enthusiastic, talented and motivated interns that wants to learn and progress in one or several of the following areas:\nWeb Analytics / Data Analytics / Growth Analytics / Business Intelligence / Digital Analytics / Data ScienceData Quality / Tracking Implementation / Analytics Engineering / Data EngineeringUser ResearchUX DesignConversion Rate Optimization Specialist / Conversion ManagerDigital Marketing Manager / Marketing Coordinator / Marketing Automation / Inbound Marketing\nAs an intern at Conversionista, you will collaborate with our",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2024-05-07",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://emp.jobylon.com/jobs/236081-conversionista-internship-lia-at-conversionista-analytics-data-quality-user-research-ux-and-cro/?utm_source=jobbsafari.se&utm_medium=referral"
   }
 ];
