@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-05-21T06:55:37.419Z
+// Autogenererad av scraper.js – 2026-05-22T06:51:24.320Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -30,22 +30,6 @@ window.JOBBSAFARI_DATA = [
     "email": "",
     "antal": 1,
     "postedAt": "2026-04-21",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20200926",
-    "company": "Atea",
-    "role": "LIA",
-    "ort": "Borlänge",
-    "utbildning": "HR och rekrytering",
-    "period": "",
-    "deadline": "2026-05-31",
-    "desc": "Är du nyfiken på hur det är att arbeta som konsult på Atea? Ta chansen att prova på! Tillsammans med våra konsulter får du jobba med spännande kunder och skaffa dig värdefull arbetslivserfarenhet.\n Din roll på Atea \n Hos oss får du under den första tiden av din LIA följa med våra erfarna konsulter i deras arbete för att att skaffa dig inblick i Ateas olika teknikområden och vad det innebär att jobba som konsult inom it-branschen. Under senare delen av din LIA finns möjlighet att fördjupa sig mer inom ett område som exempelvis datacenter, dataintegritet, nätverkskommunikation, Microsoft 365, klienthantering och identitetshantering. Innehållet i praktiken kommer att anpassas utifrån din profil",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-20",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA&utm_source=jobbsafari.se&utm_medium=referral"
   },
@@ -82,22 +66,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://electrolux.wd3.myworkdayjobs.com/AdHocAfterAdvertising/job/Branding-Intern--LIA-_JR77884?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20284922",
-    "company": "Miljonbemanning AB",
-    "role": "LIA - Account Manager",
-    "ort": "Botkyrka",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": "2026-06-30",
-    "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-17",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.miljonbemanning.se/jobs/6946350-lia-account-manager/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20284919",
     "company": "Miljonbemanning AB",
     "role": "LIA - Account Manager",
@@ -114,20 +82,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.miljonbemanning.se/jobs/6946350-lia-account-manager/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20235014",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
+    "id": "js-20284922",
+    "company": "Miljonbemanning AB",
+    "role": "LIA - Account Manager",
+    "ort": "Botkyrka",
+    "utbildning": "Försäljning",
     "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "deadline": "2026-06-30",
+    "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-04-30",
+    "postedAt": "2026-05-17",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://jobb.miljonbemanning.se/jobs/6946350-lia-account-manager/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20225451",
@@ -142,6 +110,38 @@ window.JOBBSAFARI_DATA = [
     "email": "",
     "antal": 1,
     "postedAt": "2026-04-28",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20200926",
+    "company": "Atea",
+    "role": "LIA Atea Dalarna",
+    "ort": "Borlänge",
+    "utbildning": "HR och rekrytering",
+    "period": "",
+    "deadline": "2026-05-31",
+    "desc": "Är du baserad i Dalarna och nyfiken på hur det är att arbeta som konsult på Atea? Ta chansen att prova på! Tillsammans med våra konsulter får du jobba med spännande kunder och skaffa dig värdefull arbetslivserfarenhet.\n Din roll på Atea \nHos oss får du under den första tiden av din LIA följa med våra erfarna konsulter i deras arbete för att att skaffa dig inblick i Ateas olika teknikområden och vad det innebär att jobba som konsult inom it-branschen. Under senare delen av din LIA finns möjlighet att fördjupa sig mer inom ett område som exempelvis datacenter, dataintegritet, nätverkskommunikation, Microsoft 365, klienthantering och identitetshantering. Innehållet i praktiken kommer att anpass",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-20",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA+Atea+Dalarna&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20235014",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-30",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
@@ -242,6 +242,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/67b3cdce25aca324d57229b4?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-19888869",
+    "company": "Region Västernorrland",
+    "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
+    "ort": "Härnösand",
+    "utbildning": "Tandvård",
+    "period": "",
+    "deadline": "2026-06-14",
+    "desc": "Vi är en kraft som binder ihop, håller samman och utvecklar länet. Inom Region Västernorrland är vi alla en del av något större. \n\nFolktandvården Västernorrlands grundläggande uppdrag är att bidra till liv och hälsa i Västernorrland genom att verka för en god munhälsa på lika villkor. Vi erbjuder allmäntandvård och specialisttandvård inom samtliga specialiteter.\nArbetsuppgifter\n\nÅrligen tar Folktandvården i Region Västernorrland emot tandsköterskestuderande för lärande i arbetslivet, LIA. Vi erbjuder dig som studerar till tandsköterska LIA i mån av plats. Du har stöd av Folktandvårdens erfarna handledare. Vi har en nära dialog med skolans handledare under LIA-perioderna.\n\nRegion Västernorrla",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-01-12",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8212199005140678540&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20232184",
     "company": "Sokigo AB",
     "role": "Sokigo söker en LIA-praktikant inom test och kvalitet",
@@ -258,20 +274,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://karriar.sokigo.com/jobs/7609530-sokigo-soker-en-lia-praktikant-inom-test-och-kvalitet/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-19888869",
-    "company": "Region Västernorrland",
-    "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
-    "ort": "Härnösand",
-    "utbildning": "Tandvård",
+    "id": "js-20129473",
+    "company": "Eletive AB",
+    "role": "Sales Development Intern (LIA) - B2B SaaS",
+    "ort": "Malmö",
+    "utbildning": "Försäljning",
     "period": "",
-    "deadline": "2026-06-14",
-    "desc": "Vi är en kraft som binder ihop, håller samman och utvecklar länet. Inom Region Västernorrland är vi alla en del av något större. \n\nFolktandvården Västernorrlands grundläggande uppdrag är att bidra till liv och hälsa i Västernorrland genom att verka för en god munhälsa på lika villkor. Vi erbjuder allmäntandvård och specialisttandvård inom samtliga specialiteter.\nArbetsuppgifter\n\nÅrligen tar Folktandvården i Region Västernorrland emot tandsköterskestuderande för lärande i arbetslivet, LIA. Vi erbjuder dig som studerar till tandsköterska LIA i mån av plats. Du har stöd av Folktandvårdens erfarna handledare. Vi har en nära dialog med skolans handledare under LIA-perioderna.\n\nRegion Västernorrla",
+    "deadline": null,
+    "desc": "Join Eletive and learn how modern B2B SaaS sales works in practice \n\nDid you know that engaged employees feel a stronger sense of meaningfulness in their work and are 3x more likely to stay with their company? At Eletive, we believe engaged employees are the key to thriving organizations. That&#x27;s why our vision is simple: a world where people thrive at work and feel motivated and empowered to perform at their best.\n\nEletive is an intelligent People Success Platform that helps organizations measure and increase engagement, fostering workplaces where people truly thrive. \n\nWe are now looking for a curious and ambitious student who wants to complete their LIA or internship within Business D",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-01-12",
+    "postedAt": "2026-03-15",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8212199005140678540&utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://careers.eletive.com/jobs/7392234-sales-development-intern-lia-b2b-saas?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20105825",
@@ -290,22 +306,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/69bb3cb8a1803bcda6301ddc?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20270979",
-    "company": "Connecting Stockholm AB",
-    "role": "LIA-praktik inom Lön på Connecting Stockholm, ht 2026",
-    "ort": "Stockholm",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": "2026-05-31",
-    "desc": "Om Connecting Stockholm\n\nSom ansvariga för Stockholms tunnelbana driver vi en samhällsbärande verksamhet där säkerhet, tillgänglighet och punktlighet står i centrum. Vi kombinerar erfarenhet och nytänkande för att skapa en tunnelbana som är trygg idag och hållbar för framtiden.\n\nVårt uppdrag handlar om mer än trafik - det handlar om människor, ansvar och tillit. Varje dag möter vi hundratusentals resenärer, och genom ett varmt, respektfullt och professionellt bemötande skapar vi en reseupplevelse där alla känner sig varmt välkomna och trygga. Hos oss är kulturen en viktig del av uppdraget. Vi tror på samarbetets kraft, på relationer som bygger förtroende och på ett ledarskap som präglas av p",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-11",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://hire.vismatalent.com/spa/public/apply?guidAssignment=b23821aa-10ed-45e0-95fd-31a42ae61a5c&publishCode=PB&TK=28aca82a-d91f-4081-91af-c2bff6dab6d4&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-18246365",
     "company": "Conversionista!",
     "role": "Internship (LIA) at Conversionista - Inbound Marketer",
@@ -320,6 +320,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2024-05-23",
     "source": "jobbsafari.se",
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20270979",
+    "company": "Connecting Stockholm AB",
+    "role": "LIA-praktik inom Lön på Connecting Stockholm, ht 2026",
+    "ort": "Stockholm",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": "2026-05-31",
+    "desc": "Om Connecting Stockholm\n\nSom ansvariga för Stockholms tunnelbana driver vi en samhällsbärande verksamhet där säkerhet, tillgänglighet och punktlighet står i centrum. Vi kombinerar erfarenhet och nytänkande för att skapa en tunnelbana som är trygg idag och hållbar för framtiden.\n\nVårt uppdrag handlar om mer än trafik - det handlar om människor, ansvar och tillit. Varje dag möter vi hundratusentals resenärer, och genom ett varmt, respektfullt och professionellt bemötande skapar vi en reseupplevelse där alla känner sig varmt välkomna och trygga. Hos oss är kulturen en viktig del av uppdraget. Vi tror på samarbetets kraft, på relationer som bygger förtroende och på ett ledarskap som präglas av p",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-11",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://hire.vismatalent.com/spa/public/apply?guidAssignment=b23821aa-10ed-45e0-95fd-31a42ae61a5c&publishCode=PB&TK=28aca82a-d91f-4081-91af-c2bff6dab6d4&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20203128",
@@ -338,20 +354,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/15689?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20129417",
+    "id": "js-20123970",
     "company": "DHL Express (Sweden) AB",
-    "role": "LIA Praktikplats Freight Forwarding Specialist - AFR (flygspeditör)",
-    "ort": "Sverige",
+    "role": "LIA Praktikplats Freight Forwarding Specialist – AFR (flygspeditör)",
+    "ort": "Stockholms län",
     "utbildning": "Spedition",
     "period": "",
     "deadline": null,
-    "desc": "DHL är marknadsledande inom logistikbranschen och är &quot;logistikbolaget för hela världen&quot;. DHL erbjuder expertis inom internationell express-, flyg- och sjöfrakt, väg- och tågtransport, kontraktslogistik samt internationella brevtjänster. Med ett globalt nätverk som består av mer än 220 länder och territorier och med 550 000 medarbetare över hela världen erbjuds kunder högsta kvalitet kombinerat med god lokal kännedom. \n\n Allt för att på bästa sätt kunna tillgodose kundens behov av tjänster som täcker hela varuflödeskedjan. DHL tar sitt sociala ansvar genom att löpande arbeta med åtgärder för att minska klimatpåverkan och genom att bidra med katastrofhantering samt utbildning. DHL Gl",
+    "desc": "DHL är marknadsledande inom logistikbranschen och är &quot;logistikbolaget för hela världen&quot;. DHL erbjuder expertis inom internationell express-, flyg- och sjöfrakt, väg- och tågtransport, kontraktslogistik samt internationella brevtjänster. Med ett globalt nätverk som består av mer än 220 länder och territorier och med 550 000 medarbetare över hela världen erbjuds kunder högsta kvalitet kombinerat med god lokal kännedom.\n\nAllt för att på bästa sätt kunna tillgodose kundens behov av tjänster som täcker hela varuflödeskedjan. DHL tar sitt sociala ansvar genom att löpande arbeta med åtgärder för att minska klimatpåverkan och genom att bidra med katastrofhantering samt utbildning. DHL Glob",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-03-23",
+    "postedAt": "2026-03-25",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV344169ENGLOBALEXTERNAL/LIA-Praktikplats-Freight-Forwarding-Specialist-AFR-flygspedit%C3%B6r?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://dpdhlgroup.avature.net/sv_SE/jobs/ApplicationMethods?jobId=344169&source=careers.dhl.com&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19901880",
@@ -368,22 +384,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-01-12",
     "source": "jobbsafari.se",
     "sourceUrl": "https://ampsociety1.teamtailor.com/jobs/7045438-lia-praktik-inom-copy-content-till-techbolaget-amp-society?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20123970",
-    "company": "DHL Express (Sweden) AB",
-    "role": "LIA Praktikplats Freight Forwarding Specialist – AFR (flygspeditör)",
-    "ort": "Stockholms län",
-    "utbildning": "Spedition",
-    "period": "",
-    "deadline": null,
-    "desc": "DHL är marknadsledande inom logistikbranschen och är &quot;logistikbolaget för hela världen&quot;. DHL erbjuder expertis inom internationell express-, flyg- och sjöfrakt, väg- och tågtransport, kontraktslogistik samt internationella brevtjänster. Med ett globalt nätverk som består av mer än 220 länder och territorier och med 550 000 medarbetare över hela världen erbjuds kunder högsta kvalitet kombinerat med god lokal kännedom.\n\nAllt för att på bästa sätt kunna tillgodose kundens behov av tjänster som täcker hela varuflödeskedjan. DHL tar sitt sociala ansvar genom att löpande arbeta med åtgärder för att minska klimatpåverkan och genom att bidra med katastrofhantering samt utbildning. DHL Glob",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-03-25",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://dpdhlgroup.avature.net/sv_SE/jobs/ApplicationMethods?jobId=344169&source=careers.dhl.com&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20243217",
