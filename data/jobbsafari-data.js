@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-05-23T06:14:47.253Z
+// Autogenererad av scraper.js – 2026-05-24T06:39:16.140Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -18,22 +18,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.performiq.se/jobb/8692/ansok/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20202268",
-    "company": "Atea",
-    "role": "LIA",
-    "ort": "Borlänge",
-    "utbildning": "HR och rekrytering",
-    "period": "",
-    "deadline": "2026-05-31",
-    "desc": "Är du nyfiken på hur det är att arbeta som konsult på Atea? Ta chansen att prova på! Tillsammans med våra konsulter får du jobba med spännande kunder och skaffa dig värdefull arbetslivserfarenhet.\n Din roll på Atea\n \n Hos oss får du under den första tiden av din LIA följa med våra erfarna konsulter i deras arbete för att att skaffa dig inblick i Ateas olika teknikområden och vad det innebär att jobba som konsult inom it-branschen. Under senare delen av din LIA finns möjlighet att fördjupa sig mer inom ett område som exempelvis datacenter, dataintegritet, nätverkskommunikation, Microsoft 365, klienthantering och identitetshantering. Innehållet i praktiken kommer att anpassas utifrån din profi",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-21",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-19726864",
     "company": "Deutsche Windtechnik GmbH & Co. KG",
     "role": "LIA/PRAKTIK",
@@ -50,20 +34,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://deutsche-windtechnik.softgarden.io/job/60677372/LIA-PRAKTIK?jobDbPVId=272858969&l=en&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20258368",
-    "company": "Electrolux Group",
-    "role": "Branding Intern (LIA)",
-    "ort": "Stockholm",
-    "utbildning": "",
+    "id": "js-20202268",
+    "company": "Atea",
+    "role": "LIA",
+    "ort": "Borlänge",
+    "utbildning": "HR och rekrytering",
     "period": "",
-    "deadline": null,
-    "desc": "Marketing\n\nInternship / Global Electrolux Talent (GET)\n\nJob Description\n\nSolve complex problems. Decode the future.\n\nAt Electrolux Group, as a leading global appliance company, we strive every day to shape living for the better for our consumers, our people, and our planet. We share ideas and collaborate so that together, we can develop solutions that deliver enjoyable and sustainable living. Come join us as you are. We believe diverse perspectives make us stronger and more innovative. In our global community of people from 100+ countries, we listen to each other, actively contribute, and grow together.\n\nPurpose of the Internship \n\nThe internship is designed as a project-based assignment whe",
+    "deadline": "2026-05-31",
+    "desc": "Är du nyfiken på hur det är att arbeta som konsult på Atea? Ta chansen att prova på! Tillsammans med våra konsulter får du jobba med spännande kunder och skaffa dig värdefull arbetslivserfarenhet.\n Din roll på Atea\n \n Hos oss får du under den första tiden av din LIA följa med våra erfarna konsulter i deras arbete för att att skaffa dig inblick i Ateas olika teknikområden och vad det innebär att jobba som konsult inom it-branschen. Under senare delen av din LIA finns möjlighet att fördjupa sig mer inom ett område som exempelvis datacenter, dataintegritet, nätverkskommunikation, Microsoft 365, klienthantering och identitetshantering. Innehållet i praktiken kommer att anpassas utifrån din profi",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-05-06",
+    "postedAt": "2026-04-21",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://electrolux.wd3.myworkdayjobs.com/AdHocAfterAdvertising/job/Branding-Intern--LIA-_JR77884?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20284922",
@@ -114,22 +98,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20235014",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-30",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20200926",
     "company": "Atea",
     "role": "LIA Atea Dalarna",
@@ -144,6 +112,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-04-20",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA+Atea+Dalarna&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20235014",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-30",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-18827660",
@@ -274,6 +258,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/67b3cdce25aca324d57229b4?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20129417",
+    "company": "DHL Express (Sweden) AB",
+    "role": "LIA Praktikplats Freight Forwarding Specialist - AFR (flygspeditör)",
+    "ort": "Sverige",
+    "utbildning": "Spedition",
+    "period": "",
+    "deadline": null,
+    "desc": "DHL är marknadsledande inom logistikbranschen och är &quot;logistikbolaget för hela världen&quot;. DHL erbjuder expertis inom internationell express-, flyg- och sjöfrakt, väg- och tågtransport, kontraktslogistik samt internationella brevtjänster. Med ett globalt nätverk som består av mer än 220 länder och territorier och med 550 000 medarbetare över hela världen erbjuds kunder högsta kvalitet kombinerat med god lokal kännedom. \n\n Allt för att på bästa sätt kunna tillgodose kundens behov av tjänster som täcker hela varuflödeskedjan. DHL tar sitt sociala ansvar genom att löpande arbeta med åtgärder för att minska klimatpåverkan och genom att bidra med katastrofhantering samt utbildning. DHL Gl",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-19",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV344169ENGLOBALEXTERNAL/LIA-Praktikplats-Freight-Forwarding-Specialist-AFR-flygspedit%C3%B6r?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-19888869",
     "company": "Region Västernorrland",
     "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
@@ -322,6 +322,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/69bb3cb8a1803bcda6301ddc?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20129473",
+    "company": "Eletive AB",
+    "role": "Sales Development Intern (LIA) - B2B SaaS",
+    "ort": "Malmö",
+    "utbildning": "Försäljning",
+    "period": "",
+    "deadline": null,
+    "desc": "Join Eletive and learn how modern B2B SaaS sales works in practice \n\nDid you know that engaged employees feel a stronger sense of meaningfulness in their work and are 3x more likely to stay with their company? At Eletive, we believe engaged employees are the key to thriving organizations. That&#x27;s why our vision is simple: a world where people thrive at work and feel motivated and empowered to perform at their best.\n\nEletive is an intelligent People Success Platform that helps organizations measure and increase engagement, fostering workplaces where people truly thrive. \n\nWe are now looking for a curious and ambitious student who wants to complete their LIA or internship within Business D",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-03-15",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://careers.eletive.com/jobs/7392234-sales-development-intern-lia-b2b-saas?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-18246365",
     "company": "Conversionista!",
     "role": "Internship (LIA) at Conversionista - Inbound Marketer",
@@ -354,22 +370,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/15689?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20270979",
-    "company": "Connecting Stockholm AB",
-    "role": "LIA-praktik inom Lön på Connecting Stockholm, ht 2026",
-    "ort": "Stockholm",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": "2026-05-31",
-    "desc": "Om Connecting Stockholm\n\nSom ansvariga för Stockholms tunnelbana driver vi en samhällsbärande verksamhet där säkerhet, tillgänglighet och punktlighet står i centrum. Vi kombinerar erfarenhet och nytänkande för att skapa en tunnelbana som är trygg idag och hållbar för framtiden.\n\nVårt uppdrag handlar om mer än trafik - det handlar om människor, ansvar och tillit. Varje dag möter vi hundratusentals resenärer, och genom ett varmt, respektfullt och professionellt bemötande skapar vi en reseupplevelse där alla känner sig varmt välkomna och trygga. Hos oss är kulturen en viktig del av uppdraget. Vi tror på samarbetets kraft, på relationer som bygger förtroende och på ett ledarskap som präglas av p",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-11",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://hire.vismatalent.com/spa/public/apply?guidAssignment=b23821aa-10ed-45e0-95fd-31a42ae61a5c&publishCode=PB&TK=28aca82a-d91f-4081-91af-c2bff6dab6d4&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20233325",
     "company": "Tieto AB",
     "role": "LIA (internship) SW Developer - Tieto Caretech (m/f/d)",
@@ -384,6 +384,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-21",
     "source": "jobbsafari.se",
     "sourceUrl": "https://careers.tieto.com/job/lia-internship-sw-developer-tieto-caretech-m-f-d-in-lulea-sweden-jid-2201?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20270979",
+    "company": "Connecting Stockholm AB",
+    "role": "LIA-praktik inom Lön på Connecting Stockholm, ht 2026",
+    "ort": "Stockholm",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": "2026-05-31",
+    "desc": "Om Connecting Stockholm\n\nSom ansvariga för Stockholms tunnelbana driver vi en samhällsbärande verksamhet där säkerhet, tillgänglighet och punktlighet står i centrum. Vi kombinerar erfarenhet och nytänkande för att skapa en tunnelbana som är trygg idag och hållbar för framtiden.\n\nVårt uppdrag handlar om mer än trafik - det handlar om människor, ansvar och tillit. Varje dag möter vi hundratusentals resenärer, och genom ett varmt, respektfullt och professionellt bemötande skapar vi en reseupplevelse där alla känner sig varmt välkomna och trygga. Hos oss är kulturen en viktig del av uppdraget. Vi tror på samarbetets kraft, på relationer som bygger förtroende och på ett ledarskap som präglas av p",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-11",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://hire.vismatalent.com/spa/public/apply?guidAssignment=b23821aa-10ed-45e0-95fd-31a42ae61a5c&publishCode=PB&TK=28aca82a-d91f-4081-91af-c2bff6dab6d4&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20123970",
@@ -464,21 +480,5 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-04-20",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobs.dsv.com/job/Landskrona-S%C3%83%C2%B6k-din-Praktik-eller-LIA-hos-oss-p%C3%83%C2%A5-DSV-i-Landskrona!-(%C3%83-ppen-Ans%C3%83%C2%B6kan)-Skaa-261-51/1153217701/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20064970",
-    "company": "Devoteam",
-    "role": "Hösten 2026,\"Business Development Representative (BDR) \" LIA - Gör jobbet, lär dig spelet",
-    "ort": "Malmö",
-    "utbildning": "Ledande befattningar",
-    "period": "",
-    "deadline": null,
-    "desc": "Företagsbeskrivning\n\nDevoteam ger organisationer möjlighet att accelerera sin framgång genom att utnyttja de senaste framstegen inom moln, data, AI och moderna digitala tjänster. Vi går bortom trendiga termer och fokuserar på att leverera meningsfull och praktisk värde genom våra specialiserade enheter: Google Cloud, ServiceNow Platform och Creative Tech Sweden.\n\nVåra svenska kontor i Stockholm, Göteborg, Halmstad, Helsingborg och Malmö är en del av vår nordiska struktur: ambitiösa, samarbetsinriktade och resultatinriktade. Vi fattar beslut snabbt, vi stöttar varandra i teamen och vi förväntar oss att alla bidrar med verkligt ansvarstagande.\n\nOm du vill vara en del av en plats där lärandet s",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-03-04",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobs.smartrecruiters.com/Devoteam/744000112946910-hosten-2026-business-development-representative-bdr-lia-gor-jobbet-lar-dig-spelet?utm_source=jobbsafari.se&utm_medium=referral"
   }
 ];
