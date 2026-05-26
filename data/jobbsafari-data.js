@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-05-25T07:17:20.423Z
+// Autogenererad av scraper.js – 2026-05-26T06:50:38.544Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -50,20 +50,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA+Atea+Dalarna&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20235014",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
+    "id": "js-20284919",
+    "company": "Miljonbemanning AB",
+    "role": "LIA - Account Manager",
+    "ort": "Botkyrka",
+    "utbildning": "Försäljning",
     "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "deadline": "2026-06-28",
+    "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-04-30",
+    "postedAt": "2026-05-17",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://jobb.miljonbemanning.se/jobs/6946350-lia-account-manager/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20284922",
@@ -82,20 +82,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.miljonbemanning.se/jobs/6946350-lia-account-manager/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20284919",
-    "company": "Miljonbemanning AB",
-    "role": "LIA - Account Manager",
-    "ort": "Botkyrka",
-    "utbildning": "Försäljning",
+    "id": "js-20235014",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
     "period": "",
-    "deadline": "2026-06-28",
-    "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-05-17",
+    "postedAt": "2026-04-30",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.miljonbemanning.se/jobs/6946350-lia-account-manager/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20225451",
@@ -162,22 +162,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "http://www.performiq.se/job/8692/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20298286",
-    "company": "Lantmännen",
-    "role": "LIA student inom inköp & supplier analytics",
-    "ort": "Malmö",
-    "utbildning": "Praktikplatser",
-    "period": "",
-    "deadline": "2026-06-30",
-    "desc": "Vill du göra din LIA i en verksamhet som bidrar till ett hållbart lantbruk och samtidigt få praktisk erfarenhet av inköp, kategoristyrning och datadriven leverantörsuppföljning? Inom Lantmännen Division Lantbruk söker vi två LIA-studenter under perioden oktober- december, som vill vara med och stärka vår kategoristruktur och stötta spännande projekt kopplat till kategorierna förpackningsmaterial och underhåll. \n \nOm rollen\n \n1) Stärka kategoristrukturen och datakvaliteten\n \nDu arbetar nära kategoriansvariga och bidrar till att strukturera och kvalitetssäkra leverantörsdata i vårt nya koncernövergripande Supplier Analytics-verktyg. Målet är att skapa en tydligare och mer användbar kategoridat",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-11",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://emp.jobylon.com/applications/jobs/359627/create/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-19686553",
     "company": "Done",
     "role": "LiA/Praktik: B2B-försäljning",
@@ -192,6 +176,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2025-10-17",
     "source": "jobbsafari.se",
     "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20298286",
+    "company": "Lantmännen",
+    "role": "LIA student inom inköp & supplier analytics",
+    "ort": "Malmö",
+    "utbildning": "Praktikplatser",
+    "period": "",
+    "deadline": "2026-06-30",
+    "desc": "Vill du göra din LIA i en verksamhet som bidrar till ett hållbart lantbruk och samtidigt få praktisk erfarenhet av inköp, kategoristyrning och datadriven leverantörsuppföljning? Inom Lantmännen Division Lantbruk söker vi två LIA-studenter under perioden oktober- december, som vill vara med och stärka vår kategoristruktur och stötta spännande projekt kopplat till kategorierna förpackningsmaterial och underhåll. \n \nOm rollen\n \n1) Stärka kategoristrukturen och datakvaliteten\n \nDu arbetar nära kategoriansvariga och bidrar till att strukturera och kvalitetssäkra leverantörsdata i vårt nya koncernövergripande Supplier Analytics-verktyg. Målet är att skapa en tydligare och mer användbar kategoridat",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-11",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://emp.jobylon.com/applications/jobs/359627/create/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20301019",
@@ -274,22 +274,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8212199005140678540&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20105825",
-    "company": "Eletive AB",
-    "role": "Sales Development Intern (LIA) - B2B SaaS",
-    "ort": "Malmö",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": null,
-    "desc": "Join Eletive and learn how modern B2B SaaS sales works in practice 💜 \nDid you know that engaged employees feel a stronger sense of meaningfulness in their work and are 3x more likely to stay with their company? At Eletive, we believe engaged employees are the key to thriving organizations. That&#x27;s why our vision is simple: a world where people thrive at work and feel motivated and empowered to perform at their best.\n\nEletive is an intelligent People Success Platform that helps organizations measure and increase engagement, fostering workplaces where people truly thrive. \n\nWe are now looking for a curious and ambitious student who wants to complete their LIA or internship within Business",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-03-19",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://thehub.io/jobs/69bb3cb8a1803bcda6301ddc?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20232184",
     "company": "Sokigo AB",
     "role": "Sokigo söker en LIA-praktikant inom test och kvalitet",
@@ -306,20 +290,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://karriar.sokigo.com/jobs/7609530-sokigo-soker-en-lia-praktikant-inom-test-och-kvalitet/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-18246365",
-    "company": "Conversionista!",
-    "role": "Internship (LIA) at Conversionista - Inbound Marketer",
-    "ort": "Stockholm",
-    "utbildning": "Praktikplatser",
+    "id": "js-20105825",
+    "company": "Eletive AB",
+    "role": "Sales Development Intern (LIA) - B2B SaaS",
+    "ort": "Malmö",
+    "utbildning": "Försäljning",
     "period": "",
     "deadline": null,
-    "desc": "Internship Overview\n\nLocation: Conversionista, Stockholm \nDuration: 3 Months (with possibility of extension)\nStartdate: 19th of August \n\nAre you a marketing enthusiast with a passion for creating engaging content and driving organic growth? Do you have a talent for understanding customer journeys and converting visitors into leads? Join us at Conversionista as an Inbound Marketing Intern and kickstart your career in a dynamic, data-driven environment! \nAs an intern at Conversionista, you will work alongside our expert consultants, commercial team, and MarCom department, and get the opportunity to engage with established, well-known companies. This hands-on experience will allow you to apply ",
+    "desc": "Join Eletive and learn how modern B2B SaaS sales works in practice 💜 \nDid you know that engaged employees feel a stronger sense of meaningfulness in their work and are 3x more likely to stay with their company? At Eletive, we believe engaged employees are the key to thriving organizations. That&#x27;s why our vision is simple: a world where people thrive at work and feel motivated and empowered to perform at their best.\n\nEletive is an intelligent People Success Platform that helps organizations measure and increase engagement, fostering workplaces where people truly thrive. \n\nWe are now looking for a curious and ambitious student who wants to complete their LIA or internship within Business",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2024-05-23",
+    "postedAt": "2026-03-19",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://thehub.io/jobs/69bb3cb8a1803bcda6301ddc?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20129417",
@@ -338,20 +322,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV344169ENGLOBALEXTERNAL/LIA-Praktikplats-Freight-Forwarding-Specialist-AFR-flygspedit%C3%B6r?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20203128",
-    "company": "Corporation Service Company",
-    "role": "LIA 2 som Lönekonsult för internationella klienter - HT-26",
+    "id": "js-18246365",
+    "company": "Conversionista!",
+    "role": "Internship (LIA) at Conversionista - Inbound Marketer",
     "ort": "Stockholm",
-    "utbildning": "HR och rekrytering",
+    "utbildning": "Praktikplatser",
     "period": "",
     "deadline": null,
-    "desc": "Job Description\n\nLIA 2 som Lönekonsult för internationella klienter - HT-26\n\nRoll: LIA-praktikant, Client Payroll & HR Intern\nPlacering: Stockholm, Sverige. På kontoret under hela praktikperioden\nArbetstider: Heltid, måndag-fredag\nTyp av praktik: LIA 2 inom Yrkeshögskolan\nPeriod: Enligt utbildningens upplägg\n\nVill du få en djup inblick i hela löneprocessen och erfarenhet av att arbeta som konsult i ett internationellt bolag? Då kan en LIA-praktik hos oss på CSC vara det perfekta steget i din karriär inom lön!\n\nVi erbjuder en outsourcad lönefunktion för internationella företag som vill etablera sig och verka på den svenska marknaden. Tänk dig ett framgångsrikt retail-företag från Spanien som ",
+    "desc": "Internship Overview\n\nLocation: Conversionista, Stockholm \nDuration: 3 Months (with possibility of extension)\nStartdate: 19th of August \n\nAre you a marketing enthusiast with a passion for creating engaging content and driving organic growth? Do you have a talent for understanding customer journeys and converting visitors into leads? Join us at Conversionista as an Inbound Marketing Intern and kickstart your career in a dynamic, data-driven environment! \nAs an intern at Conversionista, you will work alongside our expert consultants, commercial team, and MarCom department, and get the opportunity to engage with established, well-known companies. This hands-on experience will allow you to apply ",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-04-19",
+    "postedAt": "2024-05-23",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/15689?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20270979",
@@ -370,36 +354,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://hire.vismatalent.com/spa/public/apply?guidAssignment=b23821aa-10ed-45e0-95fd-31a42ae61a5c&publishCode=PB&TK=28aca82a-d91f-4081-91af-c2bff6dab6d4&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-19901880",
-    "company": "AmpSociety",
-    "role": "LIA-praktik inom Copy & Content till techbolaget Amp Society",
-    "ort": "De nordiska länderna",
-    "utbildning": "Distansarbete",
+    "id": "js-20203128",
+    "company": "Corporation Service Company",
+    "role": "LIA 2 som Lönekonsult för internationella klienter - HT-26",
+    "ort": "Stockholm",
+    "utbildning": "HR och rekrytering",
     "period": "",
     "deadline": null,
-    "desc": "Amp Society är på en spännande resa för att elektrifiera samhället med transformativa, väldesignade och framtidssäkra laddlösningar. Nu bygger vi ett internationellt varumärke där ord, tonalitet och berättelser spelar en avgörande roll i hur vi kommunicerar innovation, teknik och hållbarhet.\n\nVi söker nu en copywriter-student för LIA-praktik som vill vara med och forma Amp Societys röst och bidra till att bygga ett tydligt, relevant och premiumbetonat varumärke från grunden.\n\nOm rollen\n\nSom LIA inom copywriting och marknad hos Amp Society arbetar du med ett varumärke i uppbyggnadsfas - där strategi, innehåll och affär möts. Du får möjlighet att skriva texter som används i verkliga projekt, k",
+    "desc": "Job Description\n\nLIA 2 som Lönekonsult för internationella klienter - HT-26\n\nRoll: LIA-praktikant, Client Payroll & HR Intern\nPlacering: Stockholm, Sverige. På kontoret under hela praktikperioden\nArbetstider: Heltid, måndag-fredag\nTyp av praktik: LIA 2 inom Yrkeshögskolan\nPeriod: Enligt utbildningens upplägg\n\nVill du få en djup inblick i hela löneprocessen och erfarenhet av att arbeta som konsult i ett internationellt bolag? Då kan en LIA-praktik hos oss på CSC vara det perfekta steget i din karriär inom lön!\n\nVi erbjuder en outsourcad lönefunktion för internationella företag som vill etablera sig och verka på den svenska marknaden. Tänk dig ett framgångsrikt retail-företag från Spanien som ",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-01-12",
+    "postedAt": "2026-04-19",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://ampsociety1.teamtailor.com/jobs/7045438-lia-praktik-inom-copy-content-till-techbolaget-amp-society?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-18917062",
-    "company": "DSV A/S",
-    "role": "Sök din Praktik eller LIA hos oss på DSV i Landskrona! (Öppen Ansökan)",
-    "ort": "Landskrona",
-    "utbildning": "Juniorbefattningar",
-    "period": "",
-    "deadline": "2026-06-22",
-    "desc": "Vi kan erbjuda dig en härlig arbetsmiljö med högt i tak, spännande arbetsuppgifter - och nära samarbete med kompetenta och erfarna kollegor. DSV är ett företag i som ständigt växer och där du får möjlighet att påverka utvecklingen.\n\nFrån vårt svenska huvudkontor i Landkrona hjälper vi både stora och små kunder med import och export av varor och vardagen präglas av viljan att alltid leverera Sveriges bästa logistiklösning till våra kunder Vi är ett engagerat och positivt team med varierad kompetens- och branscherfarenhet. Det vi har gemensamt är att vi brinner för våra kunder, lag-arbete och för att leverera logistiklösningar i världsklass.\n\nVi har stort fokus på flexibilitet i vardagen samt ",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-19",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobs.dsv.com/job/Landskrona-S%C3%83%C2%B6k-din-Praktik-eller-LIA-hos-oss-p%C3%83%C2%A5-DSV-i-Landskrona!-(%C3%83-ppen-Ans%C3%83%C2%B6kan)-Skaa-261-51/1153217701/?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/15689?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20123970",
@@ -418,6 +386,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://dpdhlgroup.avature.net/sv_SE/jobs/ApplicationMethods?jobId=344169&source=careers.dhl.com&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-19901880",
+    "company": "AmpSociety",
+    "role": "LIA-praktik inom Copy & Content till techbolaget Amp Society",
+    "ort": "De nordiska länderna",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": null,
+    "desc": "Amp Society är på en spännande resa för att elektrifiera samhället med transformativa, väldesignade och framtidssäkra laddlösningar. Nu bygger vi ett internationellt varumärke där ord, tonalitet och berättelser spelar en avgörande roll i hur vi kommunicerar innovation, teknik och hållbarhet.\n\nVi söker nu en copywriter-student för LIA-praktik som vill vara med och forma Amp Societys röst och bidra till att bygga ett tydligt, relevant och premiumbetonat varumärke från grunden.\n\nOm rollen\n\nSom LIA inom copywriting och marknad hos Amp Society arbetar du med ett varumärke i uppbyggnadsfas - där strategi, innehåll och affär möts. Du får möjlighet att skriva texter som används i verkliga projekt, k",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-01-12",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://ampsociety1.teamtailor.com/jobs/7045438-lia-praktik-inom-copy-content-till-techbolaget-amp-society?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20243217",
     "company": "+Moveco AB",
     "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
@@ -434,20 +418,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20257913",
-    "company": "Green Tech Andersson AB",
-    "role": "LIA-plats för studenter inom marknadsföring, SEO & sälj hos Recycletroop",
-    "ort": "Mölndal",
-    "utbildning": "Dataanalys och datahantering",
+    "id": "js-18917062",
+    "company": "DSV A/S",
+    "role": "Sök din Praktik eller LIA hos oss på DSV i Landskrona! (Öppen Ansökan)",
+    "ort": "Landskrona",
+    "utbildning": "Juniorbefattningar",
     "period": "",
-    "deadline": "2026-06-06",
-    "desc": "Vi på Green Tech Andersson AB driver varumärket Recycletroop, ett företag som kombinerar teknik och hållbarhet. Vi arbetar inom:\n\n📱 Försäljning av reservdelar för mobiltelefoner - till mobilreparationsföretag\n\n📲 Försäljning av begagnade mobiler - både till konsumenter via vår hemsida och till B2B-aktörer i Europa\n\n🔄 Renovering & återvinning av mobildelar - för att ge komponenter ett andra liv\n\nVi har ett tydligt miljöfokus: alla våra mobiltillbehör är miljövänliga, våra förpackningar är helt plastfria och vi samarbetar med en organisation som planterar träd. 🌱\n\n🎯 Vad vi erbjuder studenterna\n\nVi söker nu drivna LIA-studenter inom marknadsföring, SEO och sälj som vill vara med och växa ti",
+    "deadline": "2026-06-22",
+    "desc": "Vi kan erbjuda dig en härlig arbetsmiljö med högt i tak, spännande arbetsuppgifter - och nära samarbete med kompetenta och erfarna kollegor. DSV är ett företag i som ständigt växer och där du får möjlighet att påverka utvecklingen.\n\nFrån vårt svenska huvudkontor i Landkrona hjälper vi både stora och små kunder med import och export av varor och vardagen präglas av viljan att alltid leverera Sveriges bästa logistiklösning till våra kunder Vi är ett engagerat och positivt team med varierad kompetens- och branscherfarenhet. Det vi har gemensamt är att vi brinner för våra kunder, lag-arbete och för att leverera logistiklösningar i världsklass.\n\nVi har stort fokus på flexibilitet i vardagen samt ",
     "contact": "",
-    "email": "mailto:info@recycletroop.com",
+    "email": "",
     "antal": 1,
-    "postedAt": "2026-05-06",
+    "postedAt": "2026-05-19",
     "source": "jobbsafari.se",
-    "sourceUrl": "mailto:info@recycletroop.com"
+    "sourceUrl": "https://jobs.dsv.com/job/Landskrona-S%C3%83%C2%B6k-din-Praktik-eller-LIA-hos-oss-p%C3%83%C2%A5-DSV-i-Landskrona!-(%C3%83-ppen-Ans%C3%83%C2%B6kan)-Skaa-261-51/1153217701/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20233325",
@@ -464,6 +448,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-21",
     "source": "jobbsafari.se",
     "sourceUrl": "https://careers.tieto.com/job/lia-internship-sw-developer-tieto-caretech-m-f-d-in-lulea-sweden-jid-2201?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20257913",
+    "company": "Green Tech Andersson AB",
+    "role": "LIA-plats för studenter inom marknadsföring, SEO & sälj hos Recycletroop",
+    "ort": "Mölndal",
+    "utbildning": "Dataanalys och datahantering",
+    "period": "",
+    "deadline": "2026-06-06",
+    "desc": "Vi på Green Tech Andersson AB driver varumärket Recycletroop, ett företag som kombinerar teknik och hållbarhet. Vi arbetar inom:\n\n📱 Försäljning av reservdelar för mobiltelefoner - till mobilreparationsföretag\n\n📲 Försäljning av begagnade mobiler - både till konsumenter via vår hemsida och till B2B-aktörer i Europa\n\n🔄 Renovering & återvinning av mobildelar - för att ge komponenter ett andra liv\n\nVi har ett tydligt miljöfokus: alla våra mobiltillbehör är miljövänliga, våra förpackningar är helt plastfria och vi samarbetar med en organisation som planterar träd. 🌱\n\n🎯 Vad vi erbjuder studenterna\n\nVi söker nu drivna LIA-studenter inom marknadsföring, SEO och sälj som vill vara med och växa ti",
+    "contact": "",
+    "email": "mailto:info@recycletroop.com",
+    "antal": 1,
+    "postedAt": "2026-05-06",
+    "source": "jobbsafari.se",
+    "sourceUrl": "mailto:info@recycletroop.com"
   },
   {
     "id": "js-20064970",
