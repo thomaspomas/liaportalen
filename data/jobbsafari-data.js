@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-05-28T06:56:57.607Z
+// Autogenererad av scraper.js – 2026-05-29T06:57:24.150Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -16,22 +16,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-01-07",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobb.performiq.se/jobb/8692/ansok/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-19726864",
-    "company": "Deutsche Windtechnik GmbH & Co. KG",
-    "role": "LIA/PRAKTIK",
-    "ort": "De nordiska länderna",
-    "utbildning": "Energirelaterad verksamhet",
-    "period": "",
-    "deadline": "2028-05-12",
-    "desc": "LIA - Praktik inom vindkraft hos Deutsche Windtechnik\n\nPlats: Flera orter i Sverige\nPeriod: Enligt överenskommelse\nOmfattning: Heltid under praktikperioden\nVill du få praktisk erfarenhet i en framtidsbransch?\n\nDeutsche Windtechnik söker engagerade och nyfikna LIA-praktikanter som vill vara med och driva den gröna omställningen! Som praktikant hos oss får du en unik inblick i hur det är att arbeta som servicetekniker inom vindkraft.\nOm rollen\n\nUnder din LIA kommer du att:\nFölja och assistera erfarna servicetekniker vid service, felsökning och underhåll av vindkraftverk.Lära dig om säkerhetsrutiner, dokumentation och kvalitetssystem i en internationell organisation.Delta i arbetet med mekanisk",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-11",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://deutsche-windtechnik.softgarden.io/job/60677372/LIA-PRAKTIK?jobDbPVId=272858969&l=en&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20202268",
@@ -82,22 +66,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.miljonbemanning.se/jobs/6946350-lia-account-manager/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20235014",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-30",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20225451",
     "company": "Atea",
     "role": "Spontanansökan för LIA - Region Mitt",
@@ -110,6 +78,22 @@ window.JOBBSAFARI_DATA = [
     "email": "",
     "antal": 1,
     "postedAt": "2026-04-28",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20235014",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-30",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
@@ -166,7 +150,7 @@ window.JOBBSAFARI_DATA = [
     "company": "Lantmännen",
     "role": "LIA student inom inköp & supplier analytics",
     "ort": "Malmö",
-    "utbildning": "Praktikplatser",
+    "utbildning": "Försäljning",
     "period": "",
     "deadline": "2026-06-30",
     "desc": "Vill du göra din LIA i en verksamhet som bidrar till ett hållbart lantbruk och samtidigt få praktisk erfarenhet av inköp, kategoristyrning och datadriven leverantörsuppföljning? Inom Lantmännen Division Lantbruk söker vi två LIA-studenter under perioden oktober- december, som vill vara med och stärka vår kategoristruktur och stötta spännande projekt kopplat till kategorierna förpackningsmaterial och underhåll. \n \nOm rollen\n \n1) Stärka kategoristrukturen och datakvaliteten\n \nDu arbetar nära kategoriansvariga och bidrar till att strukturera och kvalitetssäkra leverantörsdata i vårt nya koncernövergripande Supplier Analytics-verktyg. Målet är att skapa en tydligare och mer användbar kategoridat",
@@ -176,22 +160,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-11",
     "source": "jobbsafari.se",
     "sourceUrl": "https://emp.jobylon.com/applications/jobs/359627/create/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20301019",
-    "company": "Lantmännen ek för",
-    "role": "LIA student inom inköp & supplier analytics",
-    "ort": "Malmö",
-    "utbildning": "Praktikplatser",
-    "period": "",
-    "deadline": "2026-06-30",
-    "desc": "Vill du göra din LIA i en verksamhet som bidrar till ett hållbart lantbruk och samtidigt få praktisk erfarenhet av inköp, kategoristyrning och datadriven leverantörsuppföljning? Inom Lantmännen Division Lantbruk söker vi två LIA-studenter under perioden oktober- december, som vill vara med och stärka vår kategoristruktur och stötta spännande projekt kopplat till kategorierna förpackningsmaterial och underhåll.\n\nOm rollen\n\n1) Stärka kategoristrukturen och datakvaliteten\n\nDu arbetar nära kategoriansvariga och bidrar till att strukturera och kvalitetssäkra leverantörsdata i vårt nya koncernövergripande Supplier Analytics-verktyg. Målet är att skapa en tydligare och mer användbar kategoridata so",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-21",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://easyapply.jobs/r/qHnshAq26wGa6q1Sxijc?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19686553",
@@ -208,6 +176,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2025-10-17",
     "source": "jobbsafari.se",
     "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20301019",
+    "company": "Lantmännen ek för",
+    "role": "LIA student inom inköp & supplier analytics",
+    "ort": "Malmö",
+    "utbildning": "Praktikplatser",
+    "period": "",
+    "deadline": "2026-06-30",
+    "desc": "Vill du göra din LIA i en verksamhet som bidrar till ett hållbart lantbruk och samtidigt få praktisk erfarenhet av inköp, kategoristyrning och datadriven leverantörsuppföljning? Inom Lantmännen Division Lantbruk söker vi två LIA-studenter under perioden oktober- december, som vill vara med och stärka vår kategoristruktur och stötta spännande projekt kopplat till kategorierna förpackningsmaterial och underhåll.\n\nOm rollen\n\n1) Stärka kategoristrukturen och datakvaliteten\n\nDu arbetar nära kategoriansvariga och bidrar till att strukturera och kvalitetssäkra leverantörsdata i vårt nya koncernövergripande Supplier Analytics-verktyg. Målet är att skapa en tydligare och mer användbar kategoridata so",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-21",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://easyapply.jobs/r/qHnshAq26wGa6q1Sxijc?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20037692",
@@ -258,54 +242,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/67b3cdce25aca324d57229b4?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20105825",
-    "company": "Eletive AB",
-    "role": "Sales Development Intern (LIA) - B2B SaaS",
-    "ort": "Malmö",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": null,
-    "desc": "Join Eletive and learn how modern B2B SaaS sales works in practice 💜 \nDid you know that engaged employees feel a stronger sense of meaningfulness in their work and are 3x more likely to stay with their company? At Eletive, we believe engaged employees are the key to thriving organizations. That&#x27;s why our vision is simple: a world where people thrive at work and feel motivated and empowered to perform at their best.\n\nEletive is an intelligent People Success Platform that helps organizations measure and increase engagement, fostering workplaces where people truly thrive. \n\nWe are now looking for a curious and ambitious student who wants to complete their LIA or internship within Business",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-03-19",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://thehub.io/jobs/69bb3cb8a1803bcda6301ddc?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-18246365",
-    "company": "Conversionista!",
-    "role": "Internship (LIA) at Conversionista - Inbound Marketer",
-    "ort": "Stockholm",
-    "utbildning": "Praktikplatser",
-    "period": "",
-    "deadline": null,
-    "desc": "Internship Overview\n\nLocation: Conversionista, Stockholm \nDuration: 3 Months (with possibility of extension)\nStartdate: 19th of August \n\nAre you a marketing enthusiast with a passion for creating engaging content and driving organic growth? Do you have a talent for understanding customer journeys and converting visitors into leads? Join us at Conversionista as an Inbound Marketing Intern and kickstart your career in a dynamic, data-driven environment! \nAs an intern at Conversionista, you will work alongside our expert consultants, commercial team, and MarCom department, and get the opportunity to engage with established, well-known companies. This hands-on experience will allow you to apply ",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2024-05-23",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20129417",
-    "company": "DHL Express (Sweden) AB",
-    "role": "LIA Praktikplats Freight Forwarding Specialist - AFR (flygspeditör)",
-    "ort": "Sverige",
-    "utbildning": "Spedition",
-    "period": "",
-    "deadline": null,
-    "desc": "DHL är marknadsledande inom logistikbranschen och är &quot;logistikbolaget för hela världen&quot;. DHL erbjuder expertis inom internationell express-, flyg- och sjöfrakt, väg- och tågtransport, kontraktslogistik samt internationella brevtjänster. Med ett globalt nätverk som består av mer än 220 länder och territorier och med 550 000 medarbetare över hela världen erbjuds kunder högsta kvalitet kombinerat med god lokal kännedom. \n\n Allt för att på bästa sätt kunna tillgodose kundens behov av tjänster som täcker hela varuflödeskedjan. DHL tar sitt sociala ansvar genom att löpande arbeta med åtgärder för att minska klimatpåverkan och genom att bidra med katastrofhantering samt utbildning. DHL Gl",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-19",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV344169ENGLOBALEXTERNAL/LIA-Praktikplats-Freight-Forwarding-Specialist-AFR-flygspedit%C3%B6r?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-19888869",
     "company": "Region Västernorrland",
     "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
@@ -354,52 +290,36 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/15689?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20129473",
+    "id": "js-20105825",
     "company": "Eletive AB",
     "role": "Sales Development Intern (LIA) - B2B SaaS",
     "ort": "Malmö",
     "utbildning": "Försäljning",
     "period": "",
     "deadline": null,
-    "desc": "Join Eletive and learn how modern B2B SaaS sales works in practice \n\nDid you know that engaged employees feel a stronger sense of meaningfulness in their work and are 3x more likely to stay with their company? At Eletive, we believe engaged employees are the key to thriving organizations. That&#x27;s why our vision is simple: a world where people thrive at work and feel motivated and empowered to perform at their best.\n\nEletive is an intelligent People Success Platform that helps organizations measure and increase engagement, fostering workplaces where people truly thrive. \n\nWe are now looking for a curious and ambitious student who wants to complete their LIA or internship within Business D",
+    "desc": "Join Eletive and learn how modern B2B SaaS sales works in practice 💜 \nDid you know that engaged employees feel a stronger sense of meaningfulness in their work and are 3x more likely to stay with their company? At Eletive, we believe engaged employees are the key to thriving organizations. That&#x27;s why our vision is simple: a world where people thrive at work and feel motivated and empowered to perform at their best.\n\nEletive is an intelligent People Success Platform that helps organizations measure and increase engagement, fostering workplaces where people truly thrive. \n\nWe are now looking for a curious and ambitious student who wants to complete their LIA or internship within Business",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-03-15",
+    "postedAt": "2026-03-19",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.eletive.com/jobs/7392234-sales-development-intern-lia-b2b-saas?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://thehub.io/jobs/69bb3cb8a1803bcda6301ddc?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20123970",
-    "company": "DHL Express (Sweden) AB",
-    "role": "LIA Praktikplats Freight Forwarding Specialist – AFR (flygspeditör)",
-    "ort": "Stockholms län",
-    "utbildning": "Spedition",
+    "id": "js-18246365",
+    "company": "Conversionista!",
+    "role": "Internship (LIA) at Conversionista - Inbound Marketer",
+    "ort": "Stockholm",
+    "utbildning": "Praktikplatser",
     "period": "",
     "deadline": null,
-    "desc": "DHL är marknadsledande inom logistikbranschen och är &quot;logistikbolaget för hela världen&quot;. DHL erbjuder expertis inom internationell express-, flyg- och sjöfrakt, väg- och tågtransport, kontraktslogistik samt internationella brevtjänster. Med ett globalt nätverk som består av mer än 220 länder och territorier och med 550 000 medarbetare över hela världen erbjuds kunder högsta kvalitet kombinerat med god lokal kännedom.\n\nAllt för att på bästa sätt kunna tillgodose kundens behov av tjänster som täcker hela varuflödeskedjan. DHL tar sitt sociala ansvar genom att löpande arbeta med åtgärder för att minska klimatpåverkan och genom att bidra med katastrofhantering samt utbildning. DHL Glob",
+    "desc": "Internship Overview\n\nLocation: Conversionista, Stockholm \nDuration: 3 Months (with possibility of extension)\nStartdate: 19th of August \n\nAre you a marketing enthusiast with a passion for creating engaging content and driving organic growth? Do you have a talent for understanding customer journeys and converting visitors into leads? Join us at Conversionista as an Inbound Marketing Intern and kickstart your career in a dynamic, data-driven environment! \nAs an intern at Conversionista, you will work alongside our expert consultants, commercial team, and MarCom department, and get the opportunity to engage with established, well-known companies. This hands-on experience will allow you to apply ",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-03-25",
+    "postedAt": "2024-05-23",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://dpdhlgroup.avature.net/sv_SE/jobs/ApplicationMethods?jobId=344169&source=careers.dhl.com&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-19901880",
-    "company": "AmpSociety",
-    "role": "LIA-praktik inom Copy & Content till techbolaget Amp Society",
-    "ort": "De nordiska länderna",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": null,
-    "desc": "Amp Society är på en spännande resa för att elektrifiera samhället med transformativa, väldesignade och framtidssäkra laddlösningar. Nu bygger vi ett internationellt varumärke där ord, tonalitet och berättelser spelar en avgörande roll i hur vi kommunicerar innovation, teknik och hållbarhet.\n\nVi söker nu en copywriter-student för LIA-praktik som vill vara med och forma Amp Societys röst och bidra till att bygga ett tydligt, relevant och premiumbetonat varumärke från grunden.\n\nOm rollen\n\nSom LIA inom copywriting och marknad hos Amp Society arbetar du med ett varumärke i uppbyggnadsfas - där strategi, innehåll och affär möts. Du får möjlighet att skriva texter som används i verkliga projekt, k",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-01-12",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://ampsociety1.teamtailor.com/jobs/7045438-lia-praktik-inom-copy-content-till-techbolaget-amp-society?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20270979",
@@ -432,6 +352,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-03",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20123970",
+    "company": "DHL Express (Sweden) AB",
+    "role": "LIA Praktikplats Freight Forwarding Specialist – AFR (flygspeditör)",
+    "ort": "Stockholms län",
+    "utbildning": "Spedition",
+    "period": "",
+    "deadline": null,
+    "desc": "DHL är marknadsledande inom logistikbranschen och är &quot;logistikbolaget för hela världen&quot;. DHL erbjuder expertis inom internationell express-, flyg- och sjöfrakt, väg- och tågtransport, kontraktslogistik samt internationella brevtjänster. Med ett globalt nätverk som består av mer än 220 länder och territorier och med 550 000 medarbetare över hela världen erbjuds kunder högsta kvalitet kombinerat med god lokal kännedom.\n\nAllt för att på bästa sätt kunna tillgodose kundens behov av tjänster som täcker hela varuflödeskedjan. DHL tar sitt sociala ansvar genom att löpande arbeta med åtgärder för att minska klimatpåverkan och genom att bidra med katastrofhantering samt utbildning. DHL Glob",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-03-25",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://dpdhlgroup.avature.net/sv_SE/jobs/ApplicationMethods?jobId=344169&source=careers.dhl.com&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-18917062",
@@ -480,5 +416,37 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-21",
     "source": "jobbsafari.se",
     "sourceUrl": "https://careers.tieto.com/job/lia-internship-sw-developer-tieto-caretech-m-f-d-in-lulea-sweden-jid-2201?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20064970",
+    "company": "Devoteam",
+    "role": "Hösten 2026,\"Business Development Representative (BDR) \" LIA - Gör jobbet, lär dig spelet",
+    "ort": "Malmö",
+    "utbildning": "Ledande befattningar",
+    "period": "",
+    "deadline": null,
+    "desc": "Företagsbeskrivning\n\nDevoteam ger organisationer möjlighet att accelerera sin framgång genom att utnyttja de senaste framstegen inom moln, data, AI och moderna digitala tjänster. Vi går bortom trendiga termer och fokuserar på att leverera meningsfull och praktisk värde genom våra specialiserade enheter: Google Cloud, ServiceNow Platform och Creative Tech Sweden.\n\nVåra svenska kontor i Stockholm, Göteborg, Halmstad, Helsingborg och Malmö är en del av vår nordiska struktur: ambitiösa, samarbetsinriktade och resultatinriktade. Vi fattar beslut snabbt, vi stöttar varandra i teamen och vi förväntar oss att alla bidrar med verkligt ansvarstagande.\n\nOm du vill vara en del av en plats där lärandet s",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-03-04",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobs.smartrecruiters.com/Devoteam/744000112946910-hosten-2026-business-development-representative-bdr-lia-gor-jobbet-lar-dig-spelet?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-18186921",
+    "company": "Conversionista!",
+    "role": "Internship (LIA) at Conversionista - Analytics, Data Quality, User Research, UX, and CRO",
+    "ort": "Stockholm",
+    "utbildning": "Design och produktutveckling",
+    "period": "",
+    "deadline": null,
+    "desc": "Internship Overview\n\nWe are excited to offer several internship positions across our dynamic teams in Stockholm, Gothenburg, and Malmö. We are looking for enthusiastic, talented and motivated interns that wants to learn and progress in one or several of the following areas:\nWeb Analytics / Data Analytics / Growth Analytics / Business Intelligence / Digital Analytics / Data ScienceData Quality / Tracking Implementation / Analytics Engineering / Data EngineeringUser ResearchUX DesignConversion Rate Optimization Specialist / Conversion ManagerDigital Marketing Manager / Marketing Coordinator / Marketing Automation / Inbound Marketing\nAs an intern at Conversionista, you will collaborate with our",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2024-05-07",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://emp.jobylon.com/jobs/236081-conversionista-internship-lia-at-conversionista-analytics-data-quality-user-research-ux-and-cro/?utm_source=jobbsafari.se&utm_medium=referral"
   }
 ];
