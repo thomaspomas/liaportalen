@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-05-30T06:25:37.891Z
+// Autogenererad av scraper.js – 2026-05-31T06:59:35.435Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -98,22 +98,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=3011&type=Common&name=LIA+Atea+Dalarna&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-18827660",
-    "company": "CBRE",
-    "role": "LIA praktikanter inom fastighetsdrift",
-    "ort": "Stockholm",
-    "utbildning": "Fastighetsförvaltning och underhåll",
-    "period": "",
-    "deadline": null,
-    "desc": "Nu söker vi på CBRE GWS LIA praktikanter inom fastighetsdrift med start januari/februari!\n\nTa chansen att göra din LIA praktik i ett internationellt företag med lokal förankring och familjär känsla! Här får du en aktiv och utbildande praktik i ett engagerat team där du får arbeta med både människor och struktur - och där ingen dag är den andra lik. Sök tjänsten idag då urval sker löpande! \n\nCBRE&#x27;s uppdrag är att leverera service och underhåll av fastigheter och utveckla de fastighetsrelaterade tjänsterna, allt för att säkerställa att vår kund och dess medarbetare har en väl fungerande arbetsplats. Genom att arbeta med ständiga förbättringar, utvecklar vi metoder och processer för att al",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2025-12-04",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.cbre.com/en_US/careers/JobDetail/LIA-praktikanter-inom-fastighetsdrift/197392?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20235014",
     "company": "Atea",
     "role": "Spontanansökan för LIA - Region Mitt",
@@ -128,6 +112,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-04-30",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-18827660",
+    "company": "CBRE",
+    "role": "LIA praktikanter inom fastighetsdrift",
+    "ort": "Stockholm",
+    "utbildning": "Fastighetsförvaltning och underhåll",
+    "period": "",
+    "deadline": null,
+    "desc": "Nu söker vi på CBRE GWS LIA praktikanter inom fastighetsdrift med start januari/februari!\n\nTa chansen att göra din LIA praktik i ett internationellt företag med lokal förankring och familjär känsla! Här får du en aktiv och utbildande praktik i ett engagerat team där du får arbeta med både människor och struktur - och där ingen dag är den andra lik. Sök tjänsten idag då urval sker löpande! \n\nCBRE&#x27;s uppdrag är att leverera service och underhåll av fastigheter och utveckla de fastighetsrelaterade tjänsterna, allt för att säkerställa att vår kund och dess medarbetare har en väl fungerande arbetsplats. Genom att arbeta med ständiga förbättringar, utvecklar vi metoder och processer för att al",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2025-12-04",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://careers.cbre.com/en_US/careers/JobDetail/LIA-praktikanter-inom-fastighetsdrift/197392?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19219738",
@@ -146,22 +146,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "http://www.performiq.se/job/8692/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20298286",
-    "company": "Lantmännen",
-    "role": "LIA student inom inköp & supplier analytics",
-    "ort": "Malmö",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": "2026-06-30",
-    "desc": "Vill du göra din LIA i en verksamhet som bidrar till ett hållbart lantbruk och samtidigt få praktisk erfarenhet av inköp, kategoristyrning och datadriven leverantörsuppföljning? Inom Lantmännen Division Lantbruk söker vi två LIA-studenter under perioden oktober- december, som vill vara med och stärka vår kategoristruktur och stötta spännande projekt kopplat till kategorierna förpackningsmaterial och underhåll. \n \nOm rollen\n \n1) Stärka kategoristrukturen och datakvaliteten\n \nDu arbetar nära kategoriansvariga och bidrar till att strukturera och kvalitetssäkra leverantörsdata i vårt nya koncernövergripande Supplier Analytics-verktyg. Målet är att skapa en tydligare och mer användbar kategoridat",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-11",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://emp.jobylon.com/applications/jobs/359627/create/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-19686553",
     "company": "Done",
     "role": "LiA/Praktik: B2B-försäljning",
@@ -176,6 +160,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2025-10-17",
     "source": "jobbsafari.se",
     "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20298286",
+    "company": "Lantmännen",
+    "role": "LIA student inom inköp & supplier analytics",
+    "ort": "Malmö",
+    "utbildning": "Försäljning",
+    "period": "",
+    "deadline": "2026-06-30",
+    "desc": "Vill du göra din LIA i en verksamhet som bidrar till ett hållbart lantbruk och samtidigt få praktisk erfarenhet av inköp, kategoristyrning och datadriven leverantörsuppföljning? Inom Lantmännen Division Lantbruk söker vi två LIA-studenter under perioden oktober- december, som vill vara med och stärka vår kategoristruktur och stötta spännande projekt kopplat till kategorierna förpackningsmaterial och underhåll. \n \nOm rollen\n \n1) Stärka kategoristrukturen och datakvaliteten\n \nDu arbetar nära kategoriansvariga och bidrar till att strukturera och kvalitetssäkra leverantörsdata i vårt nya koncernövergripande Supplier Analytics-verktyg. Målet är att skapa en tydligare och mer användbar kategoridat",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-11",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://emp.jobylon.com/applications/jobs/359627/create/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20301019",
@@ -274,22 +274,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20203128",
-    "company": "Corporation Service Company",
-    "role": "LIA 2 som Lönekonsult för internationella klienter - HT-26",
-    "ort": "Stockholm",
-    "utbildning": "HR och rekrytering",
-    "period": "",
-    "deadline": null,
-    "desc": "Job Description\n\nLIA 2 som Lönekonsult för internationella klienter - HT-26\n\nRoll: LIA-praktikant, Client Payroll & HR Intern\nPlacering: Stockholm, Sverige. På kontoret under hela praktikperioden\nArbetstider: Heltid, måndag-fredag\nTyp av praktik: LIA 2 inom Yrkeshögskolan\nPeriod: Enligt utbildningens upplägg\n\nVill du få en djup inblick i hela löneprocessen och erfarenhet av att arbeta som konsult i ett internationellt bolag? Då kan en LIA-praktik hos oss på CSC vara det perfekta steget i din karriär inom lön!\n\nVi erbjuder en outsourcad lönefunktion för internationella företag som vill etablera sig och verka på den svenska marknaden. Tänk dig ett framgångsrikt retail-företag från Spanien som ",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-19",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/15689?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20270979",
     "company": "Connecting Stockholm AB",
     "role": "LIA-praktik inom Lön på Connecting Stockholm, ht 2026",
@@ -304,22 +288,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-11",
     "source": "jobbsafari.se",
     "sourceUrl": "https://hire.vismatalent.com/spa/public/apply?guidAssignment=b23821aa-10ed-45e0-95fd-31a42ae61a5c&publishCode=PB&TK=28aca82a-d91f-4081-91af-c2bff6dab6d4&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20123970",
-    "company": "DHL Express (Sweden) AB",
-    "role": "LIA Praktikplats Freight Forwarding Specialist – AFR (flygspeditör)",
-    "ort": "Stockholms län",
-    "utbildning": "Spedition",
-    "period": "",
-    "deadline": null,
-    "desc": "DHL är marknadsledande inom logistikbranschen och är &quot;logistikbolaget för hela världen&quot;. DHL erbjuder expertis inom internationell express-, flyg- och sjöfrakt, väg- och tågtransport, kontraktslogistik samt internationella brevtjänster. Med ett globalt nätverk som består av mer än 220 länder och territorier och med 550 000 medarbetare över hela världen erbjuds kunder högsta kvalitet kombinerat med god lokal kännedom.\n\nAllt för att på bästa sätt kunna tillgodose kundens behov av tjänster som täcker hela varuflödeskedjan. DHL tar sitt sociala ansvar genom att löpande arbeta med åtgärder för att minska klimatpåverkan och genom att bidra med katastrofhantering samt utbildning. DHL Glob",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-03-25",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://dpdhlgroup.avature.net/sv_SE/jobs/ApplicationMethods?jobId=344169&source=careers.dhl.com&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20243217",
@@ -338,13 +306,29 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20123970",
+    "company": "DHL Express (Sweden) AB",
+    "role": "LIA Praktikplats Freight Forwarding Specialist – AFR (flygspeditör)",
+    "ort": "Stockholms län",
+    "utbildning": "Spedition",
+    "period": "",
+    "deadline": null,
+    "desc": "DHL är marknadsledande inom logistikbranschen och är &quot;logistikbolaget för hela världen&quot;. DHL erbjuder expertis inom internationell express-, flyg- och sjöfrakt, väg- och tågtransport, kontraktslogistik samt internationella brevtjänster. Med ett globalt nätverk som består av mer än 220 länder och territorier och med 550 000 medarbetare över hela världen erbjuds kunder högsta kvalitet kombinerat med god lokal kännedom.\n\nAllt för att på bästa sätt kunna tillgodose kundens behov av tjänster som täcker hela varuflödeskedjan. DHL tar sitt sociala ansvar genom att löpande arbeta med åtgärder för att minska klimatpåverkan och genom att bidra med katastrofhantering samt utbildning. DHL Glob",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-03-25",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://dpdhlgroup.avature.net/sv_SE/jobs/ApplicationMethods?jobId=344169&source=careers.dhl.com&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-18917062",
     "company": "DSV A/S",
     "role": "Sök din Praktik eller LIA hos oss på DSV i Landskrona! (Öppen Ansökan)",
     "ort": "Landskrona",
     "utbildning": "Juniorbefattningar",
     "period": "",
-    "deadline": "2026-06-24",
+    "deadline": "2026-06-27",
     "desc": "Vi kan erbjuda dig en härlig arbetsmiljö med högt i tak, spännande arbetsuppgifter - och nära samarbete med kompetenta och erfarna kollegor. DSV är ett företag i som ständigt växer och där du får möjlighet att påverka utvecklingen.\n\nFrån vårt svenska huvudkontor i Landkrona hjälper vi både stora och små kunder med import och export av varor och vardagen präglas av viljan att alltid leverera Sveriges bästa logistiklösning till våra kunder Vi är ett engagerat och positivt team med varierad kompetens- och branscherfarenhet. Det vi har gemensamt är att vi brinner för våra kunder, lag-arbete och för att leverera logistiklösningar i världsklass.\n\nVi har stort fokus på flexibilitet i vardagen samt ",
     "contact": "",
     "email": "",
