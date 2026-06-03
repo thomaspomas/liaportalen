@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-06-02T07:26:19.382Z
+// Autogenererad av scraper.js – 2026-06-03T08:20:56.228Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -18,13 +18,13 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.performiq.se/jobb/8692/ansok/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20284919",
+    "id": "js-20284922",
     "company": "Miljonbemanning AB",
     "role": "LIA - Account Manager",
     "ort": "Botkyrka",
     "utbildning": "Försäljning",
     "period": "",
-    "deadline": "2026-06-28",
+    "deadline": "2026-06-30",
     "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
     "contact": "",
     "email": "",
@@ -34,13 +34,13 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.miljonbemanning.se/jobs/6946350-lia-account-manager/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20284922",
+    "id": "js-20284919",
     "company": "Miljonbemanning AB",
     "role": "LIA - Account Manager",
     "ort": "Botkyrka",
     "utbildning": "Försäljning",
     "period": "",
-    "deadline": "2026-06-30",
+    "deadline": "2026-06-28",
     "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
     "contact": "",
     "email": "",
@@ -82,22 +82,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://careers.cbre.com/en_US/careers/JobDetail/LIA-praktikanter-inom-fastighetsdrift/197392?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20235014",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-30",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-19219738",
     "company": "Perfomiq",
     "role": "LIA-praktik för dig med idrottspuls och säljglöd!",
@@ -112,6 +96,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-01-08",
     "source": "jobbsafari.se",
     "sourceUrl": "http://www.performiq.se/job/8692/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20235014",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-30",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19686553",
@@ -258,38 +258,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://dpdhlgroup.avature.net/sv_SE/jobs/ApplicationMethods?jobId=344169&source=careers.dhl.com&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20233325",
-    "company": "Tieto AB",
-    "role": "LIA (internship) SW Developer - Tieto Caretech (m/f/d)",
-    "ort": "Luleå",
-    "utbildning": "Praktikplatser",
-    "period": "",
-    "deadline": null,
-    "desc": "Job Description\n\n🚀 We are looking for LIA interns for our office in Luleå 🚀\n\nAre you a Systems Development/Software Development student and looking for your LIA2 internship for fall 2026? We are now looking for driven and curious LIA interns who want to grow and develop together with us in Luleå. \n\nPlease note that this position is exclusively for students completing a mandatory LIA 2 internship as part of their education.\n\nWho we are \n\nAt Tieto Caretech, we build technology that supports healthcare professionals in their daily work - making systems smoother, processes smarter, and care better. This fall, we&#x27;re looking for curious and motivateds LIA-interns who want to learn, grow, an",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-21",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.tieto.com/job/lia-internship-sw-developer-tieto-caretech-m-f-d-in-lulea-sweden-jid-2201?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-18917062",
-    "company": "DSV A/S",
-    "role": "Sök din Praktik eller LIA hos oss på DSV i Landskrona! (Öppen Ansökan)",
-    "ort": "Landskrona",
-    "utbildning": "Juniorbefattningar",
-    "period": "",
-    "deadline": "2026-06-29",
-    "desc": "Vi kan erbjuda dig en härlig arbetsmiljö med högt i tak, spännande arbetsuppgifter - och nära samarbete med kompetenta och erfarna kollegor. DSV är ett företag i som ständigt växer och där du får möjlighet att påverka utvecklingen.\n\nFrån vårt svenska huvudkontor i Landkrona hjälper vi både stora och små kunder med import och export av varor och vardagen präglas av viljan att alltid leverera Sveriges bästa logistiklösning till våra kunder Vi är ett engagerat och positivt team med varierad kompetens- och branscherfarenhet. Det vi har gemensamt är att vi brinner för våra kunder, lag-arbete och för att leverera logistiklösningar i världsklass.\n\nVi har stort fokus på flexibilitet i vardagen samt ",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-19",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobs.dsv.com/job/Landskrona-S%C3%83%C2%B6k-din-Praktik-eller-LIA-hos-oss-p%C3%83%C2%A5-DSV-i-Landskrona!-(%C3%83-ppen-Ans%C3%83%C2%B6kan)-Skaa-261-51/1153217701/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20257913",
     "company": "Green Tech Andersson AB",
     "role": "LIA-plats för studenter inom marknadsföring, SEO & sälj hos Recycletroop",
@@ -304,6 +272,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-06",
     "source": "jobbsafari.se",
     "sourceUrl": "mailto:info@recycletroop.com"
+  },
+  {
+    "id": "js-20233325",
+    "company": "Tieto AB",
+    "role": "LIA (internship) SW Developer - Tieto Caretech (m/f/d)",
+    "ort": "Luleå",
+    "utbildning": "Praktikplatser",
+    "period": "",
+    "deadline": null,
+    "desc": "Job Description\n\n🚀 We are looking for LIA interns for our office in Luleå 🚀\n\nAre you a Systems Development/Software Development student and looking for your LIA2 internship for fall 2026? We are now looking for driven and curious LIA interns who want to grow and develop together with us in Luleå. \n\nPlease note that this position is exclusively for students completing a mandatory LIA 2 internship as part of their education.\n\nWho we are \n\nAt Tieto Caretech, we build technology that supports healthcare professionals in their daily work - making systems smoother, processes smarter, and care better. This fall, we&#x27;re looking for curious and motivateds LIA-interns who want to learn, grow, an",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-21",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://careers.tieto.com/job/lia-internship-sw-developer-tieto-caretech-m-f-d-in-lulea-sweden-jid-2201?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20064970",
