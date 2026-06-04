@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-06-03T08:20:56.228Z
+// Autogenererad av scraper.js – 2026-06-04T07:26:30.523Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -16,6 +16,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-01-07",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobb.performiq.se/jobb/8692/ansok/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20235014",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-30",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20284922",
@@ -98,20 +114,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "http://www.performiq.se/job/8692/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20235014",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
+    "id": "js-20298286",
+    "company": "Lantmännen",
+    "role": "LIA student inom inköp & supplier analytics",
+    "ort": "Malmö",
+    "utbildning": "Försäljning",
     "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "deadline": "2026-06-30",
+    "desc": "Vill du göra din LIA i en verksamhet som bidrar till ett hållbart lantbruk och samtidigt få praktisk erfarenhet av inköp, kategoristyrning och datadriven leverantörsuppföljning? Inom Lantmännen Division Lantbruk söker vi två LIA-studenter under perioden oktober- december, som vill vara med och stärka vår kategoristruktur och stötta spännande projekt kopplat till kategorierna förpackningsmaterial och underhåll. \n \nOm rollen\n \n1) Stärka kategoristrukturen och datakvaliteten\n \nDu arbetar nära kategoriansvariga och bidrar till att strukturera och kvalitetssäkra leverantörsdata i vårt nya koncernövergripande Supplier Analytics-verktyg. Målet är att skapa en tydligare och mer användbar kategoridat",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-04-30",
+    "postedAt": "2026-05-10",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://emp.jobylon.com/applications/jobs/359627/create/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19686553",
@@ -128,22 +144,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2025-10-17",
     "source": "jobbsafari.se",
     "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20298286",
-    "company": "Lantmännen",
-    "role": "LIA student inom inköp & supplier analytics",
-    "ort": "Malmö",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": "2026-06-30",
-    "desc": "Vill du göra din LIA i en verksamhet som bidrar till ett hållbart lantbruk och samtidigt få praktisk erfarenhet av inköp, kategoristyrning och datadriven leverantörsuppföljning? Inom Lantmännen Division Lantbruk söker vi två LIA-studenter under perioden oktober- december, som vill vara med och stärka vår kategoristruktur och stötta spännande projekt kopplat till kategorierna förpackningsmaterial och underhåll. \n \nOm rollen\n \n1) Stärka kategoristrukturen och datakvaliteten\n \nDu arbetar nära kategoriansvariga och bidrar till att strukturera och kvalitetssäkra leverantörsdata i vårt nya koncernövergripande Supplier Analytics-verktyg. Målet är att skapa en tydligare och mer användbar kategoridat",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-10",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://emp.jobylon.com/applications/jobs/359627/create/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20301019",
@@ -178,22 +178,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://careers.firstcamp.se/jobs/7176636-praktik-lia-inom-marknadsforing-pa-first-camp?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-19888869",
-    "company": "Region Västernorrland",
-    "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
-    "ort": "Härnösand",
-    "utbildning": "Tandvård",
-    "period": "",
-    "deadline": "2026-06-14",
-    "desc": "Vi är en kraft som binder ihop, håller samman och utvecklar länet. Inom Region Västernorrland är vi alla en del av något större. \n\nFolktandvården Västernorrlands grundläggande uppdrag är att bidra till liv och hälsa i Västernorrland genom att verka för en god munhälsa på lika villkor. Vi erbjuder allmäntandvård och specialisttandvård inom samtliga specialiteter.\nArbetsuppgifter\n\nÅrligen tar Folktandvården i Region Västernorrland emot tandsköterskestuderande för lärande i arbetslivet, LIA. Vi erbjuder dig som studerar till tandsköterska LIA i mån av plats. Du har stöd av Folktandvårdens erfarna handledare. Vi har en nära dialog med skolans handledare under LIA-perioderna.\n\nRegion Västernorrla",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-01-11",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8212199005140678540&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20243217",
     "company": "+Moveco AB",
     "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
@@ -210,6 +194,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-19888869",
+    "company": "Region Västernorrland",
+    "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
+    "ort": "Härnösand",
+    "utbildning": "Tandvård",
+    "period": "",
+    "deadline": "2026-06-14",
+    "desc": "Vi är en kraft som binder ihop, håller samman och utvecklar länet. Inom Region Västernorrland är vi alla en del av något större. \n\nFolktandvården Västernorrlands grundläggande uppdrag är att bidra till liv och hälsa i Västernorrland genom att verka för en god munhälsa på lika villkor. Vi erbjuder allmäntandvård och specialisttandvård inom samtliga specialiteter.\nArbetsuppgifter\n\nÅrligen tar Folktandvården i Region Västernorrland emot tandsköterskestuderande för lärande i arbetslivet, LIA. Vi erbjuder dig som studerar till tandsköterska LIA i mån av plats. Du har stöd av Folktandvårdens erfarna handledare. Vi har en nära dialog med skolans handledare under LIA-perioderna.\n\nRegion Västernorrla",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-01-11",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8212199005140678540&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20105825",
     "company": "Eletive AB",
     "role": "Sales Development Intern (LIA) - B2B SaaS",
@@ -224,6 +224,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-03-19",
     "source": "jobbsafari.se",
     "sourceUrl": "https://thehub.io/jobs/69bb3cb8a1803bcda6301ddc?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20129473",
+    "company": "Eletive AB",
+    "role": "Sales Development Intern (LIA) - B2B SaaS",
+    "ort": "Malmö",
+    "utbildning": "Försäljning",
+    "period": "",
+    "deadline": null,
+    "desc": "Join Eletive and learn how modern B2B SaaS sales works in practice \n\nDid you know that engaged employees feel a stronger sense of meaningfulness in their work and are 3x more likely to stay with their company? At Eletive, we believe engaged employees are the key to thriving organizations. That&#x27;s why our vision is simple: a world where people thrive at work and feel motivated and empowered to perform at their best.\n\nEletive is an intelligent People Success Platform that helps organizations measure and increase engagement, fostering workplaces where people truly thrive. \n\nWe are now looking for a curious and ambitious student who wants to complete their LIA or internship within Business D",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-03-15",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://careers.eletive.com/jobs/7392234-sales-development-intern-lia-b2b-saas?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-18246365",
@@ -288,22 +304,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-21",
     "source": "jobbsafari.se",
     "sourceUrl": "https://careers.tieto.com/job/lia-internship-sw-developer-tieto-caretech-m-f-d-in-lulea-sweden-jid-2201?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20064970",
-    "company": "Devoteam",
-    "role": "Hösten 2026,\"Business Development Representative (BDR) \" LIA - Gör jobbet, lär dig spelet",
-    "ort": "Malmö",
-    "utbildning": "Ledande befattningar",
-    "period": "",
-    "deadline": null,
-    "desc": "Företagsbeskrivning\n\nDevoteam ger organisationer möjlighet att accelerera sin framgång genom att utnyttja de senaste framstegen inom moln, data, AI och moderna digitala tjänster. Vi går bortom trendiga termer och fokuserar på att leverera meningsfull och praktisk värde genom våra specialiserade enheter: Google Cloud, ServiceNow Platform och Creative Tech Sweden.\n\nVåra svenska kontor i Stockholm, Göteborg, Halmstad, Helsingborg och Malmö är en del av vår nordiska struktur: ambitiösa, samarbetsinriktade och resultatinriktade. Vi fattar beslut snabbt, vi stöttar varandra i teamen och vi förväntar oss att alla bidrar med verkligt ansvarstagande.\n\nOm du vill vara en del av en plats där lärandet s",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-03-04",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobs.smartrecruiters.com/Devoteam/744000112946910-hosten-2026-business-development-representative-bdr-lia-gor-jobbet-lar-dig-spelet?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-18186921",
