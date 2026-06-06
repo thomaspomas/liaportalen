@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-06-05T07:10:15.328Z
+// Autogenererad av scraper.js – 2026-06-06T06:31:57.983Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -66,22 +66,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-19219738",
-    "company": "Perfomiq",
-    "role": "LIA-praktik för dig med idrottspuls och säljglöd!",
-    "ort": "Stockholm",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2026-06-30",
-    "desc": "Tjänstebeskrivning & erbjudande\nÄr du en tävlingsmänniska som trivs bäst när det finns mål att jaga? \n Har du svårt att sitta still och älskar när det händer grejer? \n Då har du hittat rätt.\n\nVi på PerformIQ letar efter LIA-praktikanter med idrottsbakgrund som vill få in en fot i näringslivet, utan att tappa bort lagkänslan. Här blir du en del av ett gäng som brinner för både försäljning och fredagsmatcher i pingisrummet (vi tar det på blodigt allvar).\n\nVad får du göra hos oss?\n • Vara en del av vårt säljteam på riktigt - ingen kaffe-och-kopiera-praktik här.\n • Lära dig hela säljprocessen: boka möten, gå på möten, snacka behov, förhandla och skriva offert.\n • Bidra till att fler företag får ",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-01-08",
-    "source": "jobbsafari.se",
-    "sourceUrl": "http://www.performiq.se/job/8692/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20235014",
     "company": "Atea",
     "role": "Spontanansökan för LIA - Region Mitt",
@@ -96,6 +80,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-04-30",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-19219738",
+    "company": "Perfomiq",
+    "role": "LIA-praktik för dig med idrottspuls och säljglöd!",
+    "ort": "Stockholm",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2026-06-30",
+    "desc": "Tjänstebeskrivning & erbjudande\nÄr du en tävlingsmänniska som trivs bäst när det finns mål att jaga? \n Har du svårt att sitta still och älskar när det händer grejer? \n Då har du hittat rätt.\n\nVi på PerformIQ letar efter LIA-praktikanter med idrottsbakgrund som vill få in en fot i näringslivet, utan att tappa bort lagkänslan. Här blir du en del av ett gäng som brinner för både försäljning och fredagsmatcher i pingisrummet (vi tar det på blodigt allvar).\n\nVad får du göra hos oss?\n • Vara en del av vårt säljteam på riktigt - ingen kaffe-och-kopiera-praktik här.\n • Lära dig hela säljprocessen: boka möten, gå på möten, snacka behov, förhandla och skriva offert.\n • Bidra till att fler företag får ",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-01-08",
+    "source": "jobbsafari.se",
+    "sourceUrl": "http://www.performiq.se/job/8692/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20298286",
@@ -258,22 +258,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://dpdhlgroup.avature.net/sv_SE/jobs/ApplicationMethods?jobId=344169&source=careers.dhl.com&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20233325",
-    "company": "Tieto AB",
-    "role": "LIA (internship) SW Developer - Tieto Caretech (m/f/d)",
-    "ort": "Luleå",
-    "utbildning": "Praktikplatser",
-    "period": "",
-    "deadline": null,
-    "desc": "Job Description\n\n🚀 We are looking for LIA interns for our office in Luleå 🚀\n\nAre you a Systems Development/Software Development student and looking for your LIA2 internship for fall 2026? We are now looking for driven and curious LIA interns who want to grow and develop together with us in Luleå. \n\nPlease note that this position is exclusively for students completing a mandatory LIA 2 internship as part of their education.\n\nWho we are \n\nAt Tieto Caretech, we build technology that supports healthcare professionals in their daily work - making systems smoother, processes smarter, and care better. This fall, we&#x27;re looking for curious and motivateds LIA-interns who want to learn, grow, an",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-21",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.tieto.com/job/lia-internship-sw-developer-tieto-caretech-m-f-d-in-lulea-sweden-jid-2201?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20257913",
     "company": "Green Tech Andersson AB",
     "role": "LIA-plats för studenter inom marknadsföring, SEO & sälj hos Recycletroop",
@@ -288,6 +272,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-06",
     "source": "jobbsafari.se",
     "sourceUrl": "mailto:info@recycletroop.com"
+  },
+  {
+    "id": "js-20233325",
+    "company": "Tieto AB",
+    "role": "LIA (internship) SW Developer - Tieto Caretech (m/f/d)",
+    "ort": "Luleå",
+    "utbildning": "Praktikplatser",
+    "period": "",
+    "deadline": null,
+    "desc": "Job Description\n\n🚀 We are looking for LIA interns for our office in Luleå 🚀\n\nAre you a Systems Development/Software Development student and looking for your LIA2 internship for fall 2026? We are now looking for driven and curious LIA interns who want to grow and develop together with us in Luleå. \n\nPlease note that this position is exclusively for students completing a mandatory LIA 2 internship as part of their education.\n\nWho we are \n\nAt Tieto Caretech, we build technology that supports healthcare professionals in their daily work - making systems smoother, processes smarter, and care better. This fall, we&#x27;re looking for curious and motivateds LIA-interns who want to learn, grow, an",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-21",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://careers.tieto.com/job/lia-internship-sw-developer-tieto-caretech-m-f-d-in-lulea-sweden-jid-2201?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-18186921",
