@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-06-07T07:07:06.100Z
+// Autogenererad av scraper.js – 2026-06-08T08:12:23.889Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -18,20 +18,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.performiq.se/jobb/8692/ansok/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20284922",
-    "company": "Miljonbemanning AB",
-    "role": "LIA - Account Manager",
-    "ort": "Botkyrka",
-    "utbildning": "Försäljning",
+    "id": "js-20347911",
+    "company": "BHG",
+    "role": "LIA-internship",
+    "ort": "Malmö",
+    "utbildning": "Praktikplatser",
     "period": "",
-    "deadline": "2026-06-30",
-    "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
+    "deadline": null,
+    "desc": "Bygghemma Nordic, part of BHG Group, is one of the Nordics&#x27; leading e-commerce players in home improvement. With Bygghemma.se in Sweden and Netrauta.fi in Finland, as one of our core brands, we bring together an unbeatable range online, inspiring showrooms, and a comprehensive service offering - creating a seamless customer experience across channels. Our ambition is to make home improvement easier, smarter, and more accessible for customers across the Nordics. \n \nYour Internship with us\n\nAt Bygghemma, we place great value in growth and learning. We believe that this is how we become a stronger company - by developing and growing together.\n\nAs an intern, you will gain insight into our i",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-05-17",
+    "postedAt": "2026-06-04",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.miljonbemanning.se/jobs/6946350-lia-account-manager/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://bygghemmase.teamtailor.com/jobs/7859740-lia-internship?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20284919",
@@ -41,6 +41,22 @@ window.JOBBSAFARI_DATA = [
     "utbildning": "Försäljning",
     "period": "",
     "deadline": "2026-06-28",
+    "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-17",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.miljonbemanning.se/jobs/6946350-lia-account-manager/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20284922",
+    "company": "Miljonbemanning AB",
+    "role": "LIA - Account Manager",
+    "ort": "Botkyrka",
+    "utbildning": "Försäljning",
+    "period": "",
+    "deadline": "2026-06-30",
     "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
     "contact": "",
     "email": "",
@@ -98,6 +114,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "http://www.performiq.se/job/8692/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-19686553",
+    "company": "Done",
+    "role": "LiA/Praktik: B2B-försäljning",
+    "ort": "Stockholm",
+    "utbildning": "Försäljning",
+    "period": "",
+    "deadline": null,
+    "desc": "Är du student inom B2B-försäljning och vill utveckla dina kunskaper inom försäljning, kundkommunikation och account management? Trivs du i en inspirerande miljö där det digitala står i fokus? Söker du praktikperiod under vintern/våren 2025/2026? Då kan du vara den vi letar efter!\n\nI rollen som säljare ansvarar du bland annat för att hitta, kontakta och följa upp med nya och existerande företag anknutna till Done. Då vi är en snabbväxande startup innebär rollen mycket eget ansvar och möjlighet att växa med bolaget även efter praktiken.\n\nExempel på arbetsuppgifter och projekt:Prospektering: hitta Sveriges bästa hantverkare.Nykundsbearbetning: från lead till aktiv hantverkare.Kontinuerlig uppfö",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2025-10-17",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20298286",
     "company": "Lantmännen",
     "role": "LIA student inom inköp & supplier analytics",
@@ -128,22 +160,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-06-04",
     "source": "jobbsafari.se",
     "sourceUrl": "https://goteborgenergi.varbi.com/se/what:job/jobID:940202/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-19686553",
-    "company": "Done",
-    "role": "LiA/Praktik: B2B-försäljning",
-    "ort": "Stockholm",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": null,
-    "desc": "Är du student inom B2B-försäljning och vill utveckla dina kunskaper inom försäljning, kundkommunikation och account management? Trivs du i en inspirerande miljö där det digitala står i fokus? Söker du praktikperiod under vintern/våren 2025/2026? Då kan du vara den vi letar efter!\n\nI rollen som säljare ansvarar du bland annat för att hitta, kontakta och följa upp med nya och existerande företag anknutna till Done. Då vi är en snabbväxande startup innebär rollen mycket eget ansvar och möjlighet att växa med bolaget även efter praktiken.\n\nExempel på arbetsuppgifter och projekt:Prospektering: hitta Sveriges bästa hantverkare.Nykundsbearbetning: från lead till aktiv hantverkare.Kontinuerlig uppfö",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2025-10-17",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20301019",
@@ -178,22 +194,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://careers.firstcamp.se/jobs/7176636-praktik-lia-inom-marknadsforing-pa-first-camp?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20243217",
-    "company": "+Moveco AB",
-    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
-    "ort": "Stockholm",
-    "utbildning": "Juniorbefattningar",
-    "period": "",
-    "deadline": "2026-10-31",
-    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-03",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-19888869",
     "company": "Region Västernorrland",
     "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
@@ -210,20 +210,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8212199005140678540&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20129473",
-    "company": "Eletive AB",
-    "role": "Sales Development Intern (LIA) - B2B SaaS",
-    "ort": "Malmö",
-    "utbildning": "Försäljning",
+    "id": "js-20243217",
+    "company": "+Moveco AB",
+    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
+    "ort": "Stockholm",
+    "utbildning": "Juniorbefattningar",
     "period": "",
-    "deadline": null,
-    "desc": "Join Eletive and learn how modern B2B SaaS sales works in practice \n\nDid you know that engaged employees feel a stronger sense of meaningfulness in their work and are 3x more likely to stay with their company? At Eletive, we believe engaged employees are the key to thriving organizations. That&#x27;s why our vision is simple: a world where people thrive at work and feel motivated and empowered to perform at their best.\n\nEletive is an intelligent People Success Platform that helps organizations measure and increase engagement, fostering workplaces where people truly thrive. \n\nWe are now looking for a curious and ambitious student who wants to complete their LIA or internship within Business D",
+    "deadline": "2026-10-31",
+    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-03-15",
+    "postedAt": "2026-05-03",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.eletive.com/jobs/7392234-sales-development-intern-lia-b2b-saas?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20105825",
