@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-06-09T06:52:39.033Z
+// Autogenererad av scraper.js – 2026-06-10T07:10:50.873Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -34,13 +34,13 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://bygghemmase.teamtailor.com/jobs/7859740-lia-internship?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20284919",
+    "id": "js-20284922",
     "company": "Miljonbemanning AB",
     "role": "LIA - Account Manager",
     "ort": "Botkyrka",
     "utbildning": "Försäljning",
     "period": "",
-    "deadline": "2026-06-28",
+    "deadline": "2026-06-30",
     "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
     "contact": "",
     "email": "",
@@ -50,13 +50,13 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.miljonbemanning.se/jobs/6946350-lia-account-manager/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20284922",
+    "id": "js-20284919",
     "company": "Miljonbemanning AB",
     "role": "LIA - Account Manager",
     "ort": "Botkyrka",
     "utbildning": "Försäljning",
     "period": "",
-    "deadline": "2026-06-30",
+    "deadline": "2026-06-28",
     "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
     "contact": "",
     "email": "",
@@ -82,22 +82,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20235014",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-30",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-19219738",
     "company": "Perfomiq",
     "role": "LIA-praktik för dig med idrottspuls och säljglöd!",
@@ -112,6 +96,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-01-08",
     "source": "jobbsafari.se",
     "sourceUrl": "http://www.performiq.se/job/8692/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20235014",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-30",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20298286",
@@ -224,22 +224,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-03",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20129473",
-    "company": "Eletive AB",
-    "role": "Sales Development Intern (LIA) - B2B SaaS",
-    "ort": "Malmö",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": null,
-    "desc": "Join Eletive and learn how modern B2B SaaS sales works in practice \n\nDid you know that engaged employees feel a stronger sense of meaningfulness in their work and are 3x more likely to stay with their company? At Eletive, we believe engaged employees are the key to thriving organizations. That&#x27;s why our vision is simple: a world where people thrive at work and feel motivated and empowered to perform at their best.\n\nEletive is an intelligent People Success Platform that helps organizations measure and increase engagement, fostering workplaces where people truly thrive. \n\nWe are now looking for a curious and ambitious student who wants to complete their LIA or internship within Business D",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-03-15",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.eletive.com/jobs/7392234-sales-development-intern-lia-b2b-saas?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20105825",
