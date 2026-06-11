@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-06-10T07:10:50.873Z
+// Autogenererad av scraper.js – 2026-06-11T08:06:00.827Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -82,22 +82,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-19219738",
-    "company": "Perfomiq",
-    "role": "LIA-praktik för dig med idrottspuls och säljglöd!",
-    "ort": "Stockholm",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2026-06-30",
-    "desc": "Tjänstebeskrivning & erbjudande\nÄr du en tävlingsmänniska som trivs bäst när det finns mål att jaga? \n Har du svårt att sitta still och älskar när det händer grejer? \n Då har du hittat rätt.\n\nVi på PerformIQ letar efter LIA-praktikanter med idrottsbakgrund som vill få in en fot i näringslivet, utan att tappa bort lagkänslan. Här blir du en del av ett gäng som brinner för både försäljning och fredagsmatcher i pingisrummet (vi tar det på blodigt allvar).\n\nVad får du göra hos oss?\n • Vara en del av vårt säljteam på riktigt - ingen kaffe-och-kopiera-praktik här.\n • Lära dig hela säljprocessen: boka möten, gå på möten, snacka behov, förhandla och skriva offert.\n • Bidra till att fler företag får ",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-01-08",
-    "source": "jobbsafari.se",
-    "sourceUrl": "http://www.performiq.se/job/8692/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20235014",
     "company": "Atea",
     "role": "Spontanansökan för LIA - Region Mitt",
@@ -114,20 +98,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20298286",
-    "company": "Lantmännen",
-    "role": "LIA student inom inköp & supplier analytics",
-    "ort": "Malmö",
-    "utbildning": "Försäljning",
+    "id": "js-19219738",
+    "company": "Perfomiq",
+    "role": "LIA-praktik för dig med idrottspuls och säljglöd!",
+    "ort": "Stockholm",
+    "utbildning": "",
     "period": "",
     "deadline": "2026-06-30",
-    "desc": "Vill du göra din LIA i en verksamhet som bidrar till ett hållbart lantbruk och samtidigt få praktisk erfarenhet av inköp, kategoristyrning och datadriven leverantörsuppföljning? Inom Lantmännen Division Lantbruk söker vi två LIA-studenter under perioden oktober- december, som vill vara med och stärka vår kategoristruktur och stötta spännande projekt kopplat till kategorierna förpackningsmaterial och underhåll. \n \nOm rollen\n \n1) Stärka kategoristrukturen och datakvaliteten\n \nDu arbetar nära kategoriansvariga och bidrar till att strukturera och kvalitetssäkra leverantörsdata i vårt nya koncernövergripande Supplier Analytics-verktyg. Målet är att skapa en tydligare och mer användbar kategoridat",
+    "desc": "Tjänstebeskrivning & erbjudande\nÄr du en tävlingsmänniska som trivs bäst när det finns mål att jaga? \n Har du svårt att sitta still och älskar när det händer grejer? \n Då har du hittat rätt.\n\nVi på PerformIQ letar efter LIA-praktikanter med idrottsbakgrund som vill få in en fot i näringslivet, utan att tappa bort lagkänslan. Här blir du en del av ett gäng som brinner för både försäljning och fredagsmatcher i pingisrummet (vi tar det på blodigt allvar).\n\nVad får du göra hos oss?\n • Vara en del av vårt säljteam på riktigt - ingen kaffe-och-kopiera-praktik här.\n • Lära dig hela säljprocessen: boka möten, gå på möten, snacka behov, förhandla och skriva offert.\n • Bidra till att fler företag får ",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-05-10",
+    "postedAt": "2026-01-08",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://emp.jobylon.com/applications/jobs/359627/create/?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "http://www.performiq.se/job/8692/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19686553",
@@ -144,6 +128,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2025-10-17",
     "source": "jobbsafari.se",
     "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20298286",
+    "company": "Lantmännen",
+    "role": "LIA student inom inköp & supplier analytics",
+    "ort": "Malmö",
+    "utbildning": "Försäljning",
+    "period": "",
+    "deadline": "2026-06-30",
+    "desc": "Vill du göra din LIA i en verksamhet som bidrar till ett hållbart lantbruk och samtidigt få praktisk erfarenhet av inköp, kategoristyrning och datadriven leverantörsuppföljning? Inom Lantmännen Division Lantbruk söker vi två LIA-studenter under perioden oktober- december, som vill vara med och stärka vår kategoristruktur och stötta spännande projekt kopplat till kategorierna förpackningsmaterial och underhåll. \n \nOm rollen\n \n1) Stärka kategoristrukturen och datakvaliteten\n \nDu arbetar nära kategoriansvariga och bidrar till att strukturera och kvalitetssäkra leverantörsdata i vårt nya koncernövergripande Supplier Analytics-verktyg. Målet är att skapa en tydligare och mer användbar kategoridat",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-10",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://emp.jobylon.com/applications/jobs/359627/create/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20301019",
@@ -194,22 +194,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://goteborgenergi.varbi.com/se/what:job/jobID:940202/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-19888869",
-    "company": "Region Västernorrland",
-    "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
-    "ort": "Härnösand",
-    "utbildning": "Tandvård",
-    "period": "",
-    "deadline": "2026-06-14",
-    "desc": "Vi är en kraft som binder ihop, håller samman och utvecklar länet. Inom Region Västernorrland är vi alla en del av något större. \n\nFolktandvården Västernorrlands grundläggande uppdrag är att bidra till liv och hälsa i Västernorrland genom att verka för en god munhälsa på lika villkor. Vi erbjuder allmäntandvård och specialisttandvård inom samtliga specialiteter.\nArbetsuppgifter\n\nÅrligen tar Folktandvården i Region Västernorrland emot tandsköterskestuderande för lärande i arbetslivet, LIA. Vi erbjuder dig som studerar till tandsköterska LIA i mån av plats. Du har stöd av Folktandvårdens erfarna handledare. Vi har en nära dialog med skolans handledare under LIA-perioderna.\n\nRegion Västernorrla",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-01-11",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8212199005140678540&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20243217",
     "company": "+Moveco AB",
     "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
@@ -224,6 +208,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-03",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-19888869",
+    "company": "Region Västernorrland",
+    "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
+    "ort": "Härnösand",
+    "utbildning": "Tandvård",
+    "period": "",
+    "deadline": "2026-06-14",
+    "desc": "Vi är en kraft som binder ihop, håller samman och utvecklar länet. Inom Region Västernorrland är vi alla en del av något större. \n\nFolktandvården Västernorrlands grundläggande uppdrag är att bidra till liv och hälsa i Västernorrland genom att verka för en god munhälsa på lika villkor. Vi erbjuder allmäntandvård och specialisttandvård inom samtliga specialiteter.\nArbetsuppgifter\n\nÅrligen tar Folktandvården i Region Västernorrland emot tandsköterskestuderande för lärande i arbetslivet, LIA. Vi erbjuder dig som studerar till tandsköterska LIA i mån av plats. Du har stöd av Folktandvårdens erfarna handledare. Vi har en nära dialog med skolans handledare under LIA-perioderna.\n\nRegion Västernorrla",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-01-11",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8212199005140678540&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20105825",
