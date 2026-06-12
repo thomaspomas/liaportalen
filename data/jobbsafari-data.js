@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-06-11T08:06:00.827Z
+// Autogenererad av scraper.js – 2026-06-12T07:25:21.345Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -22,7 +22,7 @@ window.JOBBSAFARI_DATA = [
     "company": "BHG",
     "role": "LIA-internship",
     "ort": "Malmö",
-    "utbildning": "Praktikplatser",
+    "utbildning": "Juniorbefattningar",
     "period": "",
     "deadline": null,
     "desc": "Bygghemma Nordic, part of BHG Group, is one of the Nordics&#x27; leading e-commerce players in home improvement. With Bygghemma.se in Sweden and Netrauta.fi in Finland, as one of our core brands, we bring together an unbeatable range online, inspiring showrooms, and a comprehensive service offering - creating a seamless customer experience across channels. Our ambition is to make home improvement easier, smarter, and more accessible for customers across the Nordics. \n \nYour Internship with us\n\nAt Bygghemma, we place great value in growth and learning. We believe that this is how we become a stronger company - by developing and growing together.\n\nAs an intern, you will gain insight into our i",
@@ -32,6 +32,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-06-04",
     "source": "jobbsafari.se",
     "sourceUrl": "https://bygghemmase.teamtailor.com/jobs/7859740-lia-internship?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20235014",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-30",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20284922",
@@ -78,22 +94,6 @@ window.JOBBSAFARI_DATA = [
     "email": "",
     "antal": 1,
     "postedAt": "2026-04-28",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20235014",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-30",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
@@ -162,22 +162,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://easyapply.jobs/r/qHnshAq26wGa6q1Sxijc?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20037692",
-    "company": "First Camp",
-    "role": "Praktik/LIA inom marknadsföring på First Camp",
-    "ort": "Göteborg",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": null,
-    "desc": "Studerar du marknadsföring och söker en lärorik och rolig praktikplats?\n\nVi tar emot spontanansökningar till vår marknadsavdelning på First Camp! Här skapar vi campinglycka varje dag genom kreativ kommunikation, innehåll och digital marknadsföring.\n\nVilka är First Camp? \n\nFirst Camp är norra Europas ledande campingkedja med över 70 destinationer i Sverige, Danmark, Norge, Finland, Schweiz och Tyskland. Vi är på en spännande tillväxtresa och har som mål att bli världens ledande campingkedja.\n\nTillsammans med över 2 500 medarbetare arbetar vi varje dag för att skapa minnesvärda upplevelser för våra gäster. Marknadsavdelningen spelar en viktig roll i att förmedla känslan av campinglycka, och ho",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-02-04",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.firstcamp.se/jobs/7176636-praktik-lia-inom-marknadsforing-pa-first-camp?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20339632",
     "company": "Göteborg Energi Aktiebolag",
     "role": "LIA-praktikant till Göteborg Energi Nät AB",
@@ -194,20 +178,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://goteborgenergi.varbi.com/se/what:job/jobID:940202/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20243217",
-    "company": "+Moveco AB",
-    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
-    "ort": "Stockholm",
-    "utbildning": "Juniorbefattningar",
+    "id": "js-20037692",
+    "company": "First Camp",
+    "role": "Praktik/LIA inom marknadsföring på First Camp",
+    "ort": "Göteborg",
+    "utbildning": "Distansarbete",
     "period": "",
-    "deadline": "2026-10-31",
-    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
+    "deadline": null,
+    "desc": "Studerar du marknadsföring och söker en lärorik och rolig praktikplats?\n\nVi tar emot spontanansökningar till vår marknadsavdelning på First Camp! Här skapar vi campinglycka varje dag genom kreativ kommunikation, innehåll och digital marknadsföring.\n\nVilka är First Camp? \n\nFirst Camp är norra Europas ledande campingkedja med över 70 destinationer i Sverige, Danmark, Norge, Finland, Schweiz och Tyskland. Vi är på en spännande tillväxtresa och har som mål att bli världens ledande campingkedja.\n\nTillsammans med över 2 500 medarbetare arbetar vi varje dag för att skapa minnesvärda upplevelser för våra gäster. Marknadsavdelningen spelar en viktig roll i att förmedla känslan av campinglycka, och ho",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-05-03",
+    "postedAt": "2026-02-04",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://careers.firstcamp.se/jobs/7176636-praktik-lia-inom-marknadsforing-pa-first-camp?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19888869",
@@ -224,6 +208,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-01-11",
     "source": "jobbsafari.se",
     "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8212199005140678540&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20243217",
+    "company": "+Moveco AB",
+    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
+    "ort": "Stockholm",
+    "utbildning": "Juniorbefattningar",
+    "period": "",
+    "deadline": "2026-10-31",
+    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-03",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20105825",
