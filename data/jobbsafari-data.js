@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-06-12T07:25:21.345Z
+// Autogenererad av scraper.js – 2026-06-13T07:00:08.634Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -32,22 +32,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-06-04",
     "source": "jobbsafari.se",
     "sourceUrl": "https://bygghemmase.teamtailor.com/jobs/7859740-lia-internship?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20235014",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-30",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20284922",
@@ -94,6 +78,22 @@ window.JOBBSAFARI_DATA = [
     "email": "",
     "antal": 1,
     "postedAt": "2026-04-28",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20235014",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-30",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
@@ -162,22 +162,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://easyapply.jobs/r/qHnshAq26wGa6q1Sxijc?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20339632",
-    "company": "Göteborg Energi Aktiebolag",
-    "role": "LIA-praktikant till Göteborg Energi Nät AB",
-    "ort": "Göteborg",
-    "utbildning": "Juniorbefattningar",
-    "period": "",
-    "deadline": "2026-06-14",
-    "desc": "Studerar du elkraft och vill arbeta med morgondagens hållbara energilösningar?\n\nVärlden är mitt uppe i en enorm energiomställning till förnyelsebart. Elnät har gått från en plats i bakgrunden till att ha fått en alltmer framskjuten placering som möjliggörare för utveckling. Kundernas krav på elnätet ökar i takt med elektrifieringen, samtidigt som staden växer. I denna omställning ska vi se till att sjukhus, förskolor och äldreboenden alltid har el i vägguttaget, är uppkopplade och har varmvatten i kranen. Vi jobbar med hållbar energiförsörjning i Göteborg.\n\nDin praktik\n\nVi erbjuder en unik inblick i din framtida yrkesroll och ett upplägg för din LIA som kommer att ge dig en mycket bred erfar",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-06-04",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://goteborgenergi.varbi.com/se/what:job/jobID:940202/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20037692",
     "company": "First Camp",
     "role": "Praktik/LIA inom marknadsföring på First Camp",
@@ -192,6 +176,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-02-04",
     "source": "jobbsafari.se",
     "sourceUrl": "https://careers.firstcamp.se/jobs/7176636-praktik-lia-inom-marknadsforing-pa-first-camp?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20339632",
+    "company": "Göteborg Energi Aktiebolag",
+    "role": "LIA-praktikant till Göteborg Energi Nät AB",
+    "ort": "Göteborg",
+    "utbildning": "Juniorbefattningar",
+    "period": "",
+    "deadline": "2026-06-14",
+    "desc": "Studerar du elkraft och vill arbeta med morgondagens hållbara energilösningar?\n\nVärlden är mitt uppe i en enorm energiomställning till förnyelsebart. Elnät har gått från en plats i bakgrunden till att ha fått en alltmer framskjuten placering som möjliggörare för utveckling. Kundernas krav på elnätet ökar i takt med elektrifieringen, samtidigt som staden växer. I denna omställning ska vi se till att sjukhus, förskolor och äldreboenden alltid har el i vägguttaget, är uppkopplade och har varmvatten i kranen. Vi jobbar med hållbar energiförsörjning i Göteborg.\n\nDin praktik\n\nVi erbjuder en unik inblick i din framtida yrkesroll och ett upplägg för din LIA som kommer att ge dig en mycket bred erfar",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-06-04",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://goteborgenergi.varbi.com/se/what:job/jobID:940202/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19888869",
