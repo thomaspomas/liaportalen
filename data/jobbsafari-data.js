@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-06-18T08:09:46.209Z
+// Autogenererad av scraper.js – 2026-06-19T08:33:44.449Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -50,22 +50,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20235014",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-30",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20284919",
     "company": "Miljonbemanning AB",
     "role": "LIA - Account Manager",
@@ -114,6 +98,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20235014",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-30",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-19219738",
     "company": "Perfomiq",
     "role": "LIA-praktik för dig med idrottspuls och säljglöd!",
@@ -144,22 +144,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-10",
     "source": "jobbsafari.se",
     "sourceUrl": "https://emp.jobylon.com/applications/jobs/359627/create/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20301019",
-    "company": "Lantmännen ek för",
-    "role": "LIA student inom inköp & supplier analytics",
-    "ort": "Malmö",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": "2026-06-30",
-    "desc": "Vill du göra din LIA i en verksamhet som bidrar till ett hållbart lantbruk och samtidigt få praktisk erfarenhet av inköp, kategoristyrning och datadriven leverantörsuppföljning? Inom Lantmännen Division Lantbruk söker vi två LIA-studenter under perioden oktober- december, som vill vara med och stärka vår kategoristruktur och stötta spännande projekt kopplat till kategorierna förpackningsmaterial och underhåll.\n\nOm rollen\n\n1) Stärka kategoristrukturen och datakvaliteten\n\nDu arbetar nära kategoriansvariga och bidrar till att strukturera och kvalitetssäkra leverantörsdata i vårt nya koncernövergripande Supplier Analytics-verktyg. Målet är att skapa en tydligare och mer användbar kategoridata so",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-21",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://easyapply.jobs/r/qHnshAq26wGa6q1Sxijc?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20374374",
@@ -194,6 +178,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://careers.firstcamp.se/jobs/7176636-praktik-lia-inom-marknadsforing-pa-first-camp?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20243217",
+    "company": "+Moveco AB",
+    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
+    "ort": "Stockholm",
+    "utbildning": "Juniorbefattningar",
+    "period": "",
+    "deadline": "2026-10-31",
+    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-03",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20105825",
     "company": "Eletive AB",
     "role": "Sales Development Intern (LIA) - B2B SaaS",
@@ -224,22 +224,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2024-05-23",
     "source": "jobbsafari.se",
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20243217",
-    "company": "+Moveco AB",
-    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
-    "ort": "Stockholm",
-    "utbildning": "Juniorbefattningar",
-    "period": "",
-    "deadline": "2026-10-31",
-    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-03",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-18186921",
