@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-06-23T06:52:33.028Z
+// Autogenererad av scraper.js – 2026-06-24T06:50:54.383Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -50,22 +50,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20381320",
-    "company": "Soros Consulting AB",
-    "role": "LIA-praktikant inom Offentlig Upphandling",
-    "ort": "Stockholm",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": "2026-07-21",
-    "desc": "Vill du få praktisk erfarenhet av offentlig upphandling och affärsutveckling?\n\nVi söker en engagerad LIA-praktikant som vill utvecklas inom offentlig upphandling och anbudsarbete. Hos oss får du möjlighet att arbeta nära erfarna konsulter och delta i hela processen från omvärldsbevakning till färdigt anbud.\n\nOm praktiken\n\nUnder din praktik kommer du bland annat att:\n\nBevaka och identifiera relevanta upphandlingar.\n\nStödja arbetet med anbudsunderlag och dokumentation.\n\nSammanställa information och kravspecifikationer.\n\nDelta i analyser av förfrågningsunderlag.\n\nBidra till utveckling av anbudsprocesser och mallar.\n\nUtföra research kring marknader, kunder och leverantörer.\n\nAdministrera dokumen",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-06-20",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://sorosconsulting.se/2026/06/21/lia-praktikant-inom-offentlig-upphandling/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20235014",
     "company": "Atea",
     "role": "Spontanansökan för LIA - Region Mitt",
@@ -80,6 +64,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-04-30",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20381320",
+    "company": "Soros Consulting AB",
+    "role": "LIA-praktikant inom Offentlig Upphandling",
+    "ort": "Stockholm",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": "2026-07-21",
+    "desc": "Vill du få praktisk erfarenhet av offentlig upphandling och affärsutveckling?\n\nVi söker en engagerad LIA-praktikant som vill utvecklas inom offentlig upphandling och anbudsarbete. Hos oss får du möjlighet att arbeta nära erfarna konsulter och delta i hela processen från omvärldsbevakning till färdigt anbud.\n\nOm praktiken\n\nUnder din praktik kommer du bland annat att:\n\nBevaka och identifiera relevanta upphandlingar.\n\nStödja arbetet med anbudsunderlag och dokumentation.\n\nSammanställa information och kravspecifikationer.\n\nDelta i analyser av förfrågningsunderlag.\n\nBidra till utveckling av anbudsprocesser och mallar.\n\nUtföra research kring marknader, kunder och leverantörer.\n\nAdministrera dokumen",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-06-20",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://sorosconsulting.se/2026/06/21/lia-praktikant-inom-offentlig-upphandling/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20284922",
@@ -162,22 +162,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "http://www.performiq.se/job/8692/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20381323",
-    "company": "Soros Consulting AB",
-    "role": "LIA inom AI, Content & Digital Marknadsföring",
-    "ort": "Stockholm",
-    "utbildning": "Marknadsföring",
-    "period": "",
-    "deadline": "2026-07-21",
-    "desc": "Vill du få praktisk erfarenhet av hur AI används för att skapa innehåll, bygga varumärken och driva digital tillväxt?\n\nSOROS Consulting söker nu flera LIA-praktikanter som vill utvecklas inom AI, content marketing, sociala medier och digital marknadsföring.\n\nHos oss får du möjlighet att arbeta med moderna AI-verktyg, skapa innehåll för verkliga verksamheter och vara en del av ett växande företag där dina idéer och insatser gör skillnad.\n\nUnder din LIA kommer du att få arbeta med\n\nAI-verktyg som ChatGPT, Claude, Perplexity och liknande\n\nInnehåll för LinkedIn och andra sociala medier\n\nResearch och omvärldsbevakning\n\nSkriva texter och skapa innehåll\n\nVideo- och innehållsproduktion\n\nSEO och digi",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-06-20",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://sorosconsulting.se/2026/06/21/lia-inom-ai-content-digital-marknadsforing/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20380796",
     "company": "Bredablick Förvaltning i Sverige AB",
     "role": "LIA till Bredablick förvaltning i Stockholm",
@@ -208,6 +192,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-10",
     "source": "jobbsafari.se",
     "sourceUrl": "https://emp.jobylon.com/applications/jobs/359627/create/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20381323",
+    "company": "Soros Consulting AB",
+    "role": "LIA inom AI, Content & Digital Marknadsföring",
+    "ort": "Stockholm",
+    "utbildning": "Marknadsföring",
+    "period": "",
+    "deadline": "2026-07-21",
+    "desc": "Vill du få praktisk erfarenhet av hur AI används för att skapa innehåll, bygga varumärken och driva digital tillväxt?\n\nSOROS Consulting söker nu flera LIA-praktikanter som vill utvecklas inom AI, content marketing, sociala medier och digital marknadsföring.\n\nHos oss får du möjlighet att arbeta med moderna AI-verktyg, skapa innehåll för verkliga verksamheter och vara en del av ett växande företag där dina idéer och insatser gör skillnad.\n\nUnder din LIA kommer du att få arbeta med\n\nAI-verktyg som ChatGPT, Claude, Perplexity och liknande\n\nInnehåll för LinkedIn och andra sociala medier\n\nResearch och omvärldsbevakning\n\nSkriva texter och skapa innehåll\n\nVideo- och innehållsproduktion\n\nSEO och digi",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-06-20",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://sorosconsulting.se/2026/06/21/lia-inom-ai-content-digital-marknadsforing/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20374374",
@@ -242,38 +242,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://careers.firstcamp.se/jobs/7176636-praktik-lia-inom-marknadsforing-pa-first-camp?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20243217",
-    "company": "+Moveco AB",
-    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
-    "ort": "Stockholm",
-    "utbildning": "Juniorbefattningar",
-    "period": "",
-    "deadline": "2026-10-31",
-    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-03",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20105825",
-    "company": "Eletive AB",
-    "role": "Sales Development Intern (LIA) - B2B SaaS",
-    "ort": "Malmö",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": null,
-    "desc": "Join Eletive and learn how modern B2B SaaS sales works in practice 💜 \nDid you know that engaged employees feel a stronger sense of meaningfulness in their work and are 3x more likely to stay with their company? At Eletive, we believe engaged employees are the key to thriving organizations. That&#x27;s why our vision is simple: a world where people thrive at work and feel motivated and empowered to perform at their best.\n\nEletive is an intelligent People Success Platform that helps organizations measure and increase engagement, fostering workplaces where people truly thrive. \n\nWe are now looking for a curious and ambitious student who wants to complete their LIA or internship within Business",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-03-19",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://thehub.io/jobs/69bb3cb8a1803bcda6301ddc?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-18246365",
     "company": "Conversionista!",
     "role": "Internship (LIA) at Conversionista - Inbound Marketer",
@@ -288,6 +256,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2024-05-23",
     "source": "jobbsafari.se",
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20243217",
+    "company": "+Moveco AB",
+    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
+    "ort": "Stockholm",
+    "utbildning": "Juniorbefattningar",
+    "period": "",
+    "deadline": "2026-10-31",
+    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-03",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20380488",
