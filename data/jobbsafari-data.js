@@ -1,6 +1,22 @@
-// Autogenererad av scraper.js – 2026-06-25T06:50:09.235Z
+// Autogenererad av scraper.js – 2026-06-26T06:57:17.374Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
+  {
+    "id": "js-20177613",
+    "company": "KONE Sweden",
+    "role": "LIA plats för studerande på Xenter Distansutbildning 2026/2027",
+    "ort": "Kista",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": null,
+    "desc": "ENDAST för nuvarande hiss-, rulltrapps-, port- och dörr -teknikerstudenter på Xenter Distansutbildning 2026/2027 \n\nVill du ta nästa steg i din teknikerresa? Sök din LIA hos KONE!\nVill du vara på en arbetsplats där du får praktisk erfarenhet, stöd av erfarna tekniker och en inspirerande introduktion till ett framtidsyrke?\nDå är LIA på KONE helt rätt för dig.\n\nHär får du komma ännu närmare verkligheten i rollen som hiss-, rulltrapps-, port- och dörrtekniker. Du har med dig kunskap från skolan och vi vill hjälpa dig ta nästa steg och bygga vidare på den.\n\nVad du kan förvänta dig under LIA hos oss\n\n✔ Fördjupad inblick i teknikerrollen\n✔ Praktiskt lärande i verklig miljö tillsammans med din handl",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-06-24",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://kone.wd3.myworkdayjobs.com/en-US/Careers/job/LIA-plats-fr-studerande-p-Xenter-Distansutbildning-2026-2027_R0659486-1?utm_source=jobbsafari.se&utm_medium=referral"
+  },
   {
     "id": "js-19404697",
     "company": "Performiq AB",
@@ -50,22 +66,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20388276",
-    "company": "EUSTAFF SWEDEN AB",
-    "role": "LIA - AM & SALES",
-    "ort": "Göteborg",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": "2026-07-23",
-    "desc": "Eustaff är ett företag som ser styrkan i mångfald och värdet av olika perspektiv. Med verksamhet i flera länder runt om i Europa och världen, har vi lång erfarenhet av att arbeta med och skapa framgångsrika team som drar nytta av sina medarbetares olika kulturer, bakgrunder och kompetenser.\n\nVi erbjuder möjligheter inom en rad olika branscher och ser till att varje kandidat och kund får den bästa lösningen utifrån sina unika behov. För oss är kvalitet, engagemang och långsiktighet grunden i allt vi gör.\n\nVill du bli en del av ett internationellt och dynamiskt team där du kan utvecklas och göra skillnad? Välkommen att söka jobb hos oss!\n\nLIA - AM & SALES\n\nOm Eustaff\n\nEustaff hjälper företag a",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-06-22",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://apply.recman.page/job_post.php?id=480776&apply_only=&sub_id=858&path=ams&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20235014",
     "company": "Atea",
     "role": "Spontanansökan för LIA - Region Mitt",
@@ -82,20 +82,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20284922",
-    "company": "Miljonbemanning AB",
-    "role": "LIA - Account Manager",
-    "ort": "Botkyrka",
+    "id": "js-20388276",
+    "company": "EUSTAFF SWEDEN AB",
+    "role": "LIA - AM & SALES",
+    "ort": "Göteborg",
     "utbildning": "Försäljning",
     "period": "",
-    "deadline": "2026-06-30",
-    "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
+    "deadline": "2026-07-23",
+    "desc": "Eustaff är ett företag som ser styrkan i mångfald och värdet av olika perspektiv. Med verksamhet i flera länder runt om i Europa och världen, har vi lång erfarenhet av att arbeta med och skapa framgångsrika team som drar nytta av sina medarbetares olika kulturer, bakgrunder och kompetenser.\n\nVi erbjuder möjligheter inom en rad olika branscher och ser till att varje kandidat och kund får den bästa lösningen utifrån sina unika behov. För oss är kvalitet, engagemang och långsiktighet grunden i allt vi gör.\n\nVill du bli en del av ett internationellt och dynamiskt team där du kan utvecklas och göra skillnad? Välkommen att söka jobb hos oss!\n\nLIA - AM & SALES\n\nOm Eustaff\n\nEustaff hjälper företag a",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-05-17",
+    "postedAt": "2026-06-22",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.miljonbemanning.se/jobs/6946350-lia-account-manager/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://apply.recman.page/job_post.php?id=480776&apply_only=&sub_id=858&path=ams&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20284919",
@@ -105,6 +105,22 @@ window.JOBBSAFARI_DATA = [
     "utbildning": "Försäljning",
     "period": "",
     "deadline": "2026-06-28",
+    "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-17",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.miljonbemanning.se/jobs/6946350-lia-account-manager/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20284922",
+    "company": "Miljonbemanning AB",
+    "role": "LIA - Account Manager",
+    "ort": "Botkyrka",
+    "utbildning": "Försäljning",
+    "period": "",
+    "deadline": "2026-06-30",
     "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
     "contact": "",
     "email": "",
@@ -146,22 +162,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-19219738",
-    "company": "Perfomiq",
-    "role": "LIA-praktik för dig med idrottspuls och säljglöd!",
-    "ort": "Stockholm",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2026-06-30",
-    "desc": "Tjänstebeskrivning & erbjudande\nÄr du en tävlingsmänniska som trivs bäst när det finns mål att jaga? \n Har du svårt att sitta still och älskar när det händer grejer? \n Då har du hittat rätt.\n\nVi på PerformIQ letar efter LIA-praktikanter med idrottsbakgrund som vill få in en fot i näringslivet, utan att tappa bort lagkänslan. Här blir du en del av ett gäng som brinner för både försäljning och fredagsmatcher i pingisrummet (vi tar det på blodigt allvar).\n\nVad får du göra hos oss?\n • Vara en del av vårt säljteam på riktigt - ingen kaffe-och-kopiera-praktik här.\n • Lära dig hela säljprocessen: boka möten, gå på möten, snacka behov, förhandla och skriva offert.\n • Bidra till att fler företag får ",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-01-08",
-    "source": "jobbsafari.se",
-    "sourceUrl": "http://www.performiq.se/job/8692/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-19686553",
     "company": "Done",
     "role": "LiA/Praktik: B2B-försäljning",
@@ -178,36 +178,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20380796",
-    "company": "Bredablick Förvaltning i Sverige AB",
-    "role": "LIA till Bredablick förvaltning i Stockholm",
+    "id": "js-19219738",
+    "company": "Perfomiq",
+    "role": "LIA-praktik för dig med idrottspuls och säljglöd!",
     "ort": "Stockholm",
     "utbildning": "",
     "period": "",
-    "deadline": "2026-09-01",
-    "desc": "Studerar du redovisning och vill omsätta dina kunskaper i praktiken? Nu söker vi på Bredablick Förvaltning i Stockholm en engagerad LIA-praktikant som vill utvecklas inom redovisning. \n\nOm oss\n\nBredablick Förvaltning är en rikstäckande aktör inom ekonomisk och teknisk fastighetsförvaltning. Vi på ekonomisk förvaltning arbetar främst med bostadsrättsföreningar och samfälligheter där vi nu söker en praktikant som kommer att stötta upp på våra kunder i Stockholm. Hos oss står kvalitet, långsiktighet och personlig service i centrum. Om tjänsten\n\nUnder din praktik blir du en del av vårt ekonomiteam och stöttar upp våra kundansvariga ekonomer med bland annat löpande redovisning, avstämningar, fakt",
+    "deadline": "2026-06-30",
+    "desc": "Tjänstebeskrivning & erbjudande\nÄr du en tävlingsmänniska som trivs bäst när det finns mål att jaga? \n Har du svårt att sitta still och älskar när det händer grejer? \n Då har du hittat rätt.\n\nVi på PerformIQ letar efter LIA-praktikanter med idrottsbakgrund som vill få in en fot i näringslivet, utan att tappa bort lagkänslan. Här blir du en del av ett gäng som brinner för både försäljning och fredagsmatcher i pingisrummet (vi tar det på blodigt allvar).\n\nVad får du göra hos oss?\n • Vara en del av vårt säljteam på riktigt - ingen kaffe-och-kopiera-praktik här.\n • Lära dig hela säljprocessen: boka möten, gå på möten, snacka behov, förhandla och skriva offert.\n • Bidra till att fler företag får ",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-06-17",
+    "postedAt": "2026-01-08",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://www.phmgroup.se/karriar/?jobid=315314&ref=platsbankenv2&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20381323",
-    "company": "Soros Consulting AB",
-    "role": "LIA inom AI, Content & Digital Marknadsföring",
-    "ort": "Stockholm",
-    "utbildning": "Marknadsföring",
-    "period": "",
-    "deadline": "2026-07-21",
-    "desc": "Vill du få praktisk erfarenhet av hur AI används för att skapa innehåll, bygga varumärken och driva digital tillväxt?\n\nSOROS Consulting söker nu flera LIA-praktikanter som vill utvecklas inom AI, content marketing, sociala medier och digital marknadsföring.\n\nHos oss får du möjlighet att arbeta med moderna AI-verktyg, skapa innehåll för verkliga verksamheter och vara en del av ett växande företag där dina idéer och insatser gör skillnad.\n\nUnder din LIA kommer du att få arbeta med\n\nAI-verktyg som ChatGPT, Claude, Perplexity och liknande\n\nInnehåll för LinkedIn och andra sociala medier\n\nResearch och omvärldsbevakning\n\nSkriva texter och skapa innehåll\n\nVideo- och innehållsproduktion\n\nSEO och digi",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-06-20",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://sorosconsulting.se/2026/06/21/lia-inom-ai-content-digital-marknadsforing/?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "http://www.performiq.se/job/8692/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20298286",
@@ -226,6 +210,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://emp.jobylon.com/applications/jobs/359627/create/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20381323",
+    "company": "Soros Consulting AB",
+    "role": "LIA inom AI, Content & Digital Marknadsföring",
+    "ort": "Stockholm",
+    "utbildning": "Marknadsföring",
+    "period": "",
+    "deadline": "2026-07-21",
+    "desc": "Vill du få praktisk erfarenhet av hur AI används för att skapa innehåll, bygga varumärken och driva digital tillväxt?\n\nSOROS Consulting söker nu flera LIA-praktikanter som vill utvecklas inom AI, content marketing, sociala medier och digital marknadsföring.\n\nHos oss får du möjlighet att arbeta med moderna AI-verktyg, skapa innehåll för verkliga verksamheter och vara en del av ett växande företag där dina idéer och insatser gör skillnad.\n\nUnder din LIA kommer du att få arbeta med\n\nAI-verktyg som ChatGPT, Claude, Perplexity och liknande\n\nInnehåll för LinkedIn och andra sociala medier\n\nResearch och omvärldsbevakning\n\nSkriva texter och skapa innehåll\n\nVideo- och innehållsproduktion\n\nSEO och digi",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-06-20",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://sorosconsulting.se/2026/06/21/lia-inom-ai-content-digital-marknadsforing/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20374374",
     "company": "itm8 Sweden",
     "role": "Praktik eller LIA hos itm8 Sverige",
@@ -242,22 +242,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://join.itm8.se/jobs/7427424-praktik-eller-lia-hos-itm8-sverige?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-18246365",
-    "company": "Conversionista!",
-    "role": "Internship (LIA) at Conversionista - Inbound Marketer",
-    "ort": "Stockholm",
-    "utbildning": "Praktikplatser",
-    "period": "",
-    "deadline": null,
-    "desc": "Internship Overview\n\nLocation: Conversionista, Stockholm \nDuration: 3 Months (with possibility of extension)\nStartdate: 19th of August \n\nAre you a marketing enthusiast with a passion for creating engaging content and driving organic growth? Do you have a talent for understanding customer journeys and converting visitors into leads? Join us at Conversionista as an Inbound Marketing Intern and kickstart your career in a dynamic, data-driven environment! \nAs an intern at Conversionista, you will work alongside our expert consultants, commercial team, and MarCom department, and get the opportunity to engage with established, well-known companies. This hands-on experience will allow you to apply ",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2024-05-23",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20037692",
     "company": "First Camp",
     "role": "Praktik/LIA inom marknadsföring på First Camp",
@@ -272,6 +256,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-02-04",
     "source": "jobbsafari.se",
     "sourceUrl": "https://careers.firstcamp.se/jobs/7176636-praktik-lia-inom-marknadsforing-pa-first-camp?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-18246365",
+    "company": "Conversionista!",
+    "role": "Internship (LIA) at Conversionista - Inbound Marketer",
+    "ort": "Stockholm",
+    "utbildning": "Praktikplatser",
+    "period": "",
+    "deadline": null,
+    "desc": "Internship Overview\n\nLocation: Conversionista, Stockholm \nDuration: 3 Months (with possibility of extension)\nStartdate: 19th of August \n\nAre you a marketing enthusiast with a passion for creating engaging content and driving organic growth? Do you have a talent for understanding customer journeys and converting visitors into leads? Join us at Conversionista as an Inbound Marketing Intern and kickstart your career in a dynamic, data-driven environment! \nAs an intern at Conversionista, you will work alongside our expert consultants, commercial team, and MarCom department, and get the opportunity to engage with established, well-known companies. This hands-on experience will allow you to apply ",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2024-05-23",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20243217",
