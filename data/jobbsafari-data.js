@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-06-26T06:57:17.374Z
+// Autogenererad av scraper.js – 2026-06-27T06:31:03.407Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -98,20 +98,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://apply.recman.page/job_post.php?id=480776&apply_only=&sub_id=858&path=ams&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20284919",
-    "company": "Miljonbemanning AB",
-    "role": "LIA - Account Manager",
-    "ort": "Botkyrka",
-    "utbildning": "Försäljning",
+    "id": "js-20381320",
+    "company": "Soros Consulting AB",
+    "role": "LIA-praktikant inom Offentlig Upphandling",
+    "ort": "Stockholm",
+    "utbildning": "Distansarbete",
     "period": "",
-    "deadline": "2026-06-28",
-    "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
+    "deadline": "2026-07-21",
+    "desc": "Vill du få praktisk erfarenhet av offentlig upphandling och affärsutveckling?\n\nVi söker en engagerad LIA-praktikant som vill utvecklas inom offentlig upphandling och anbudsarbete. Hos oss får du möjlighet att arbeta nära erfarna konsulter och delta i hela processen från omvärldsbevakning till färdigt anbud.\n\nOm praktiken\n\nUnder din praktik kommer du bland annat att:\n\nBevaka och identifiera relevanta upphandlingar.\n\nStödja arbetet med anbudsunderlag och dokumentation.\n\nSammanställa information och kravspecifikationer.\n\nDelta i analyser av förfrågningsunderlag.\n\nBidra till utveckling av anbudsprocesser och mallar.\n\nUtföra research kring marknader, kunder och leverantörer.\n\nAdministrera dokumen",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-05-17",
+    "postedAt": "2026-06-20",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.miljonbemanning.se/jobs/6946350-lia-account-manager/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://sorosconsulting.se/2026/06/21/lia-praktikant-inom-offentlig-upphandling/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20284922",
@@ -130,20 +130,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.miljonbemanning.se/jobs/6946350-lia-account-manager/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20381320",
-    "company": "Soros Consulting AB",
-    "role": "LIA-praktikant inom Offentlig Upphandling",
-    "ort": "Stockholm",
-    "utbildning": "Distansarbete",
+    "id": "js-20284919",
+    "company": "Miljonbemanning AB",
+    "role": "LIA - Account Manager",
+    "ort": "Botkyrka",
+    "utbildning": "Försäljning",
     "period": "",
-    "deadline": "2026-07-21",
-    "desc": "Vill du få praktisk erfarenhet av offentlig upphandling och affärsutveckling?\n\nVi söker en engagerad LIA-praktikant som vill utvecklas inom offentlig upphandling och anbudsarbete. Hos oss får du möjlighet att arbeta nära erfarna konsulter och delta i hela processen från omvärldsbevakning till färdigt anbud.\n\nOm praktiken\n\nUnder din praktik kommer du bland annat att:\n\nBevaka och identifiera relevanta upphandlingar.\n\nStödja arbetet med anbudsunderlag och dokumentation.\n\nSammanställa information och kravspecifikationer.\n\nDelta i analyser av förfrågningsunderlag.\n\nBidra till utveckling av anbudsprocesser och mallar.\n\nUtföra research kring marknader, kunder och leverantörer.\n\nAdministrera dokumen",
+    "deadline": "2026-06-28",
+    "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-06-20",
+    "postedAt": "2026-05-17",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://sorosconsulting.se/2026/06/21/lia-praktikant-inom-offentlig-upphandling/?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://jobb.miljonbemanning.se/jobs/6946350-lia-account-manager/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20225451",
@@ -224,22 +224,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-06-20",
     "source": "jobbsafari.se",
     "sourceUrl": "https://sorosconsulting.se/2026/06/21/lia-inom-ai-content-digital-marknadsforing/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20374374",
-    "company": "itm8 Sweden",
-    "role": "Praktik eller LIA hos itm8 Sverige",
-    "ort": "Helsingborg",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": null,
-    "desc": "Är du en nyfiken och teknikintresserad student som vill omsätta teori i praktik? Hos oss får du arbeta hands-on med modern teknik, utveckling och problemlösning i ett team som brinner för innovation.\n\nSom LIA-student får du möjlighet att testa, utveckla och bredda dina kunskaper - oavsett om du är inriktad på utveckling, IT-support, data/AI eller systemadministration. Du blir en del av riktiga projekt och får stöd av kollegor som gärna delar med sig av sin kompetens.\n\nVi söker dig som vill växa, vågar fråga och älskar att hitta smarta lösningar.\n\nSkicka in din intresseanmälan för din praktik eller LIA så kanske det är hos oss du tar nästa steg i din utveckling.\n\nCreating the Difference - tod",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-03-18",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://join.itm8.se/jobs/7427424-praktik-eller-lia-hos-itm8-sverige?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20037692",
