@@ -1,22 +1,6 @@
-// Autogenererad av scraper.js – 2026-06-27T06:31:03.407Z
+// Autogenererad av scraper.js – 2026-06-28T07:03:49.857Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
-  {
-    "id": "js-20177613",
-    "company": "KONE Sweden",
-    "role": "LIA plats för studerande på Xenter Distansutbildning 2026/2027",
-    "ort": "Kista",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": null,
-    "desc": "ENDAST för nuvarande hiss-, rulltrapps-, port- och dörr -teknikerstudenter på Xenter Distansutbildning 2026/2027 \n\nVill du ta nästa steg i din teknikerresa? Sök din LIA hos KONE!\nVill du vara på en arbetsplats där du får praktisk erfarenhet, stöd av erfarna tekniker och en inspirerande introduktion till ett framtidsyrke?\nDå är LIA på KONE helt rätt för dig.\n\nHär får du komma ännu närmare verkligheten i rollen som hiss-, rulltrapps-, port- och dörrtekniker. Du har med dig kunskap från skolan och vi vill hjälpa dig ta nästa steg och bygga vidare på den.\n\nVad du kan förvänta dig under LIA hos oss\n\n✔ Fördjupad inblick i teknikerrollen\n✔ Praktiskt lärande i verklig miljö tillsammans med din handl",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-06-24",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://kone.wd3.myworkdayjobs.com/en-US/Careers/job/LIA-plats-fr-studerande-p-Xenter-Distansutbildning-2026-2027_R0659486-1?utm_source=jobbsafari.se&utm_medium=referral"
-  },
   {
     "id": "js-19404697",
     "company": "Performiq AB",
@@ -98,29 +82,13 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://apply.recman.page/job_post.php?id=480776&apply_only=&sub_id=858&path=ams&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20381320",
-    "company": "Soros Consulting AB",
-    "role": "LIA-praktikant inom Offentlig Upphandling",
-    "ort": "Stockholm",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": "2026-07-21",
-    "desc": "Vill du få praktisk erfarenhet av offentlig upphandling och affärsutveckling?\n\nVi söker en engagerad LIA-praktikant som vill utvecklas inom offentlig upphandling och anbudsarbete. Hos oss får du möjlighet att arbeta nära erfarna konsulter och delta i hela processen från omvärldsbevakning till färdigt anbud.\n\nOm praktiken\n\nUnder din praktik kommer du bland annat att:\n\nBevaka och identifiera relevanta upphandlingar.\n\nStödja arbetet med anbudsunderlag och dokumentation.\n\nSammanställa information och kravspecifikationer.\n\nDelta i analyser av förfrågningsunderlag.\n\nBidra till utveckling av anbudsprocesser och mallar.\n\nUtföra research kring marknader, kunder och leverantörer.\n\nAdministrera dokumen",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-06-20",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://sorosconsulting.se/2026/06/21/lia-praktikant-inom-offentlig-upphandling/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20284922",
+    "id": "js-20284919",
     "company": "Miljonbemanning AB",
     "role": "LIA - Account Manager",
     "ort": "Botkyrka",
     "utbildning": "Försäljning",
     "period": "",
-    "deadline": "2026-06-30",
+    "deadline": "2026-06-28",
     "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
     "contact": "",
     "email": "",
@@ -130,13 +98,13 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.miljonbemanning.se/jobs/6946350-lia-account-manager/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20284919",
+    "id": "js-20284922",
     "company": "Miljonbemanning AB",
     "role": "LIA - Account Manager",
     "ort": "Botkyrka",
     "utbildning": "Försäljning",
     "period": "",
-    "deadline": "2026-06-28",
+    "deadline": "2026-06-30",
     "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
     "contact": "",
     "email": "",
@@ -160,6 +128,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-04-28",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20381320",
+    "company": "Soros Consulting AB",
+    "role": "LIA-praktikant inom Offentlig Upphandling",
+    "ort": "Stockholm",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": "2026-07-21",
+    "desc": "Vill du få praktisk erfarenhet av offentlig upphandling och affärsutveckling?\n\nVi söker en engagerad LIA-praktikant som vill utvecklas inom offentlig upphandling och anbudsarbete. Hos oss får du möjlighet att arbeta nära erfarna konsulter och delta i hela processen från omvärldsbevakning till färdigt anbud.\n\nOm praktiken\n\nUnder din praktik kommer du bland annat att:\n\nBevaka och identifiera relevanta upphandlingar.\n\nStödja arbetet med anbudsunderlag och dokumentation.\n\nSammanställa information och kravspecifikationer.\n\nDelta i analyser av förfrågningsunderlag.\n\nBidra till utveckling av anbudsprocesser och mallar.\n\nUtföra research kring marknader, kunder och leverantörer.\n\nAdministrera dokumen",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-06-20",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://sorosconsulting.se/2026/06/21/lia-praktikant-inom-offentlig-upphandling/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19686553",
