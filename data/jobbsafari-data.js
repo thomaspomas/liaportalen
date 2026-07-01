@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-06-30T06:57:31.795Z
+// Autogenererad av scraper.js – 2026-07-01T07:13:50.487Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -50,22 +50,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20284922",
-    "company": "Miljonbemanning AB",
-    "role": "LIA - Account Manager",
-    "ort": "Botkyrka",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": "2026-06-30",
-    "desc": "LIA: Account Manager B2B till Miljonbemanning\n\nVill du lära dig försäljning på riktigt? Inte sitta bredvid och titta, utan vara med där affärer faktiskt skapas.\n\nVi söker LIA-studenter som vill kliva rakt in i en B2B-säljroll och bygga praktisk erfarenhet som håller även efter examen. Hos Miljonbemanning blir du en del av säljteamet från dag ett och arbetar nära erfarna Account Managers som lär dig hantverket bakom långsiktiga kundrelationer.\n\nRollen har tydligt fokus på B2B-försäljning. Du får arbeta med prospektering, mötesbokning och kunddialoger, och steg för steg förstå hur kundbehov blir till affärer.\n\nHos oss bygger allt på tre saker: kvalitet, öppenhet och passion. Det gäller även hu",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-17",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.miljonbemanning.se/jobs/6946350-lia-account-manager/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20225451",
     "company": "Atea",
     "role": "Spontanansökan för LIA - Region Mitt",
@@ -80,22 +64,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-04-28",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-19219738",
-    "company": "Perfomiq",
-    "role": "LIA-praktik för dig med idrottspuls och säljglöd!",
-    "ort": "Stockholm",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2026-06-30",
-    "desc": "Tjänstebeskrivning & erbjudande\nÄr du en tävlingsmänniska som trivs bäst när det finns mål att jaga? \n Har du svårt att sitta still och älskar när det händer grejer? \n Då har du hittat rätt.\n\nVi på PerformIQ letar efter LIA-praktikanter med idrottsbakgrund som vill få in en fot i näringslivet, utan att tappa bort lagkänslan. Här blir du en del av ett gäng som brinner för både försäljning och fredagsmatcher i pingisrummet (vi tar det på blodigt allvar).\n\nVad får du göra hos oss?\n • Vara en del av vårt säljteam på riktigt - ingen kaffe-och-kopiera-praktik här.\n • Lära dig hela säljprocessen: boka möten, gå på möten, snacka behov, förhandla och skriva offert.\n • Bidra till att fler företag får ",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-01-08",
-    "source": "jobbsafari.se",
-    "sourceUrl": "http://www.performiq.se/job/8692/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20381320",
@@ -146,6 +114,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20243217",
+    "company": "+Moveco AB",
+    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
+    "ort": "Stockholm",
+    "utbildning": "Juniorbefattningar",
+    "period": "",
+    "deadline": "2026-10-31",
+    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-03",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20381323",
     "company": "Soros Consulting AB",
     "role": "LIA inom AI, Content & Digital Marknadsföring",
@@ -160,22 +144,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-06-20",
     "source": "jobbsafari.se",
     "sourceUrl": "https://sorosconsulting.se/2026/06/21/lia-inom-ai-content-digital-marknadsforing/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20298286",
-    "company": "Lantmännen",
-    "role": "LIA student inom inköp & supplier analytics",
-    "ort": "Malmö",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": "2026-06-30",
-    "desc": "Vill du göra din LIA i en verksamhet som bidrar till ett hållbart lantbruk och samtidigt få praktisk erfarenhet av inköp, kategoristyrning och datadriven leverantörsuppföljning? Inom Lantmännen Division Lantbruk söker vi två LIA-studenter under perioden oktober- december, som vill vara med och stärka vår kategoristruktur och stötta spännande projekt kopplat till kategorierna förpackningsmaterial och underhåll. \n \nOm rollen\n \n1) Stärka kategoristrukturen och datakvaliteten\n \nDu arbetar nära kategoriansvariga och bidrar till att strukturera och kvalitetssäkra leverantörsdata i vårt nya koncernövergripande Supplier Analytics-verktyg. Målet är att skapa en tydligare och mer användbar kategoridat",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-10",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://emp.jobylon.com/applications/jobs/359627/create/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-18246365",
@@ -194,6 +162,38 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20401155",
+    "company": "Sweco",
+    "role": "LIA-praktik inom järnväg till flertalet orter hösten 2026",
+    "ort": "Sverige",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": "2026-09-30",
+    "desc": "Sweco är Sveriges ledande teknikkonsult inom järnväg och tillhandahåller tjänster i alla typer av uppdrag, från små utredningar till stora multidisciplinära infrastrukturuppdrag. Vi erbjuder projektering, design och specialisttjänster - av samtliga ingående komponenter och tekniker - för planering, byggande samt drift och underhåll av anläggningar för spårburen trafik.\n\nVarför ha LIA-praktik hos oss?\nOm du som student söker en spännande, utmanade och studierelaterad praktik är Sweco rätt plats för dig. Inför hösten 2026 erbjuder vi ett antal studenter LIA-praktik hos oss i Stockholm, Norrköping och Västerås. En del av praktiken kommer också att kunna ske på distans. \n\nDina uppgifter blir att",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-06-30",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.sweco.se/karriar/ansok-har/?rmpage=apply&rmjob=25277&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20374374",
+    "company": "itm8 Sweden",
+    "role": "Praktik eller LIA hos itm8 Sverige",
+    "ort": "Helsingborg",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": null,
+    "desc": "Är du en nyfiken och teknikintresserad student som vill omsätta teori i praktik? Hos oss får du arbeta hands-on med modern teknik, utveckling och problemlösning i ett team som brinner för innovation.\n\nSom LIA-student får du möjlighet att testa, utveckla och bredda dina kunskaper - oavsett om du är inriktad på utveckling, IT-support, data/AI eller systemadministration. Du blir en del av riktiga projekt och får stöd av kollegor som gärna delar med sig av sin kompetens.\n\nVi söker dig som vill växa, vågar fråga och älskar att hitta smarta lösningar.\n\nSkicka in din intresseanmälan för din praktik eller LIA så kanske det är hos oss du tar nästa steg i din utveckling.\n\nCreating the Difference - tod",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-03-18",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://join.itm8.se/jobs/7427424-praktik-eller-lia-hos-itm8-sverige?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20037692",
     "company": "First Camp",
     "role": "Praktik/LIA inom marknadsföring på First Camp",
@@ -210,20 +210,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://careers.firstcamp.se/jobs/7176636-praktik-lia-inom-marknadsforing-pa-first-camp?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20243217",
-    "company": "+Moveco AB",
-    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
-    "ort": "Stockholm",
-    "utbildning": "Juniorbefattningar",
+    "id": "js-20403063",
+    "company": "SWECO Sverige AB",
+    "role": "LIA-praktik inom järnväg till flertalet orter hösten 2026",
+    "ort": "De nordiska länderna",
+    "utbildning": "Distansarbete",
     "period": "",
-    "deadline": "2026-10-31",
-    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
+    "deadline": null,
+    "desc": "LIA-praktik inom järnväg till flertalet orter hösten 2026\nSweco är Sveriges ledande teknikkonsult inom järnväg och tillhandahåller tjänster i alla typer av uppdrag, från små utredningar till stora multidisciplinära infrastrukturuppdrag. Vi erbjuder projektering, design och specialisttjänster - av samtliga ingående komponenter och tekniker - för planering, byggande samt drift och underhåll av anläggningar för spårburen trafik.\n\nVarför ha LIA-praktik hos oss?\nOm du som student söker en spännande, utmanade och studierelaterad praktik är Sweco rätt plats för dig. Inför hösten 2026 erbjuder vi ett antal studenter LIA-praktik hos oss i Stockholm, Norrköping och Västerås. En del av praktiken kommer",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-05-03",
+    "postedAt": "2026-07-01",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://www.sweco.se/karriar/lediga-tjanster/lia-praktik-inom-jarnvag-till-flertalet-orter-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20380488",
