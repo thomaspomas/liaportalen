@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-07-05T06:42:15.213Z
+// Autogenererad av scraper.js – 2026-07-06T07:14:53.627Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -16,22 +16,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-06-04",
     "source": "jobbsafari.se",
     "sourceUrl": "https://bygghemmase.teamtailor.com/jobs/7859740-lia-internship?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20409248",
-    "company": "Consid AB",
-    "role": "LIA för hösten 2026",
-    "ort": "Linköping",
-    "utbildning": "",
-    "period": "",
-    "deadline": null,
-    "desc": "Är du en vass problemlösare som gillar att gräva i kod för att hitta buggarna innan de ens uppstår? Vill du ta dina kunskaper inom testautomatisering från skolbänken direkt ut i skarpa konsultuppdrag? Då har vi på Consid din nästa LIA-plats!\n \nOm rollen\n \nSom LIA-student hos oss blir du en del av vårt team där vi hjälper kunder att bygga robusta och kvalitetssäkrade IT-system. Vi söker dig som har en tydlig teknisk profil inom test. Du kommer inte bara att klicka runt i ett gränssnitt - du kommer att läsa kod, analysera arkitektur och bygga smarta, automatiserade testflöden.\n \nUnder din LIA-period kommer du bland annat att få:\n  Skriva, underhålla och köra automatiserade tester. Göra kodgran",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-07-02",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.consid.com/sv/karriar/lediga-tjanster/test-qa/lia-for-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20225451",
@@ -64,6 +48,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-06-17",
     "source": "jobbsafari.se",
     "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20409248",
+    "company": "Consid AB",
+    "role": "LIA för hösten 2026",
+    "ort": "Linköping",
+    "utbildning": "",
+    "period": "",
+    "deadline": null,
+    "desc": "Är du en vass problemlösare som gillar att gräva i kod för att hitta buggarna innan de ens uppstår? Vill du ta dina kunskaper inom testautomatisering från skolbänken direkt ut i skarpa konsultuppdrag? Då har vi på Consid din nästa LIA-plats!\n \nOm rollen\n \nSom LIA-student hos oss blir du en del av vårt team där vi hjälper kunder att bygga robusta och kvalitetssäkrade IT-system. Vi söker dig som har en tydlig teknisk profil inom test. Du kommer inte bara att klicka runt i ett gränssnitt - du kommer att läsa kod, analysera arkitektur och bygga smarta, automatiserade testflöden.\n \nUnder din LIA-period kommer du bland annat att få:\n  Skriva, underhålla och köra automatiserade tester. Göra kodgran",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-07-02",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.consid.com/sv/karriar/lediga-tjanster/test-qa/lia-for-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20235014",
@@ -210,22 +210,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.sweco.se/karriar/ansok-har/?rmpage=apply&rmjob=25277&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20403063",
-    "company": "SWECO Sverige AB",
-    "role": "LIA-praktik inom järnväg till flertalet orter hösten 2026",
-    "ort": "De nordiska länderna",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": null,
-    "desc": "LIA-praktik inom järnväg till flertalet orter hösten 2026\nSweco är Sveriges ledande teknikkonsult inom järnväg och tillhandahåller tjänster i alla typer av uppdrag, från små utredningar till stora multidisciplinära infrastrukturuppdrag. Vi erbjuder projektering, design och specialisttjänster - av samtliga ingående komponenter och tekniker - för planering, byggande samt drift och underhåll av anläggningar för spårburen trafik.\n\nVarför ha LIA-praktik hos oss?\nOm du som student söker en spännande, utmanade och studierelaterad praktik är Sweco rätt plats för dig. Inför hösten 2026 erbjuder vi ett antal studenter LIA-praktik hos oss i Stockholm, Norrköping och Västerås. En del av praktiken kommer",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-07-01",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.sweco.se/karriar/lediga-tjanster/lia-praktik-inom-jarnvag-till-flertalet-orter-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20243217",
     "company": "+Moveco AB",
     "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
@@ -240,6 +224,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-03",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20403063",
+    "company": "SWECO Sverige AB",
+    "role": "LIA-praktik inom järnväg till flertalet orter hösten 2026",
+    "ort": "De nordiska länderna",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": null,
+    "desc": "LIA-praktik inom järnväg till flertalet orter hösten 2026\nSweco är Sveriges ledande teknikkonsult inom järnväg och tillhandahåller tjänster i alla typer av uppdrag, från små utredningar till stora multidisciplinära infrastrukturuppdrag. Vi erbjuder projektering, design och specialisttjänster - av samtliga ingående komponenter och tekniker - för planering, byggande samt drift och underhåll av anläggningar för spårburen trafik.\n\nVarför ha LIA-praktik hos oss?\nOm du som student söker en spännande, utmanade och studierelaterad praktik är Sweco rätt plats för dig. Inför hösten 2026 erbjuder vi ett antal studenter LIA-praktik hos oss i Stockholm, Norrköping och Västerås. En del av praktiken kommer",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-07-01",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.sweco.se/karriar/lediga-tjanster/lia-praktik-inom-jarnvag-till-flertalet-orter-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20380488",
