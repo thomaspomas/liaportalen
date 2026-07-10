@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-07-09T06:47:10.133Z
+// Autogenererad av scraper.js – 2026-07-10T06:48:00.751Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -130,20 +130,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20381323",
-    "company": "Soros Consulting AB",
-    "role": "LIA inom AI, Content & Digital Marknadsföring",
+    "id": "js-20424135",
+    "company": "Hemglass i Sverige AB",
+    "role": "LIA-praktik & timanställning inom IT-support på Hemglass!",
     "ort": "Stockholm",
-    "utbildning": "Marknadsföring",
+    "utbildning": "Teknisk support",
     "period": "",
-    "deadline": "2026-07-21",
-    "desc": "Vill du få praktisk erfarenhet av hur AI används för att skapa innehåll, bygga varumärken och driva digital tillväxt?\n\nSOROS Consulting söker nu flera LIA-praktikanter som vill utvecklas inom AI, content marketing, sociala medier och digital marknadsföring.\n\nHos oss får du möjlighet att arbeta med moderna AI-verktyg, skapa innehåll för verkliga verksamheter och vara en del av ett växande företag där dina idéer och insatser gör skillnad.\n\nUnder din LIA kommer du att få arbeta med\n\nAI-verktyg som ChatGPT, Claude, Perplexity och liknande\n\nInnehåll för LinkedIn och andra sociala medier\n\nResearch och omvärldsbevakning\n\nSkriva texter och skapa innehåll\n\nVideo- och innehållsproduktion\n\nSEO och digi",
+    "deadline": "2026-08-31",
+    "desc": "Har du pågående studier inom IT och söker praktikplats i Stockholm? Kanske älskar du inte bara IT utan även glass och att hjälpa människor? Varmt välkommen att söka till Hemglass IT för kombinerad praktikplats och därutöver &quot;timanställning&quot; inom IT-support! 🍦\n\nPå Hemglass IT blir du en del av ett litet men mycket engagerat team som brinner för att varje dag leverera och bidra till en så bra digital upplevelse som möjligt för alla kunder och medarbetare! Vi har en modern infrastruktur med en mängd olika verksamhetsnära IT-system från antingen leverantörer eller som vi utvecklar själva. IT-supporten fyller en viktig roll för att stötta medarbetare i vardagen och att avlasta resteran",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-06-20",
+    "postedAt": "2026-07-07",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://sorosconsulting.se/2026/06/21/lia-inom-ai-content-digital-marknadsforing/?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://easyapply.jobs/r/DIbfLVD26OEp0D42w2yg?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-18246365",
@@ -160,6 +160,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2024-05-23",
     "source": "jobbsafari.se",
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20381323",
+    "company": "Soros Consulting AB",
+    "role": "LIA inom AI, Content & Digital Marknadsföring",
+    "ort": "Stockholm",
+    "utbildning": "Marknadsföring",
+    "period": "",
+    "deadline": "2026-07-21",
+    "desc": "Vill du få praktisk erfarenhet av hur AI används för att skapa innehåll, bygga varumärken och driva digital tillväxt?\n\nSOROS Consulting söker nu flera LIA-praktikanter som vill utvecklas inom AI, content marketing, sociala medier och digital marknadsföring.\n\nHos oss får du möjlighet att arbeta med moderna AI-verktyg, skapa innehåll för verkliga verksamheter och vara en del av ett växande företag där dina idéer och insatser gör skillnad.\n\nUnder din LIA kommer du att få arbeta med\n\nAI-verktyg som ChatGPT, Claude, Perplexity och liknande\n\nInnehåll för LinkedIn och andra sociala medier\n\nResearch och omvärldsbevakning\n\nSkriva texter och skapa innehåll\n\nVideo- och innehållsproduktion\n\nSEO och digi",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-06-20",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://sorosconsulting.se/2026/06/21/lia-inom-ai-content-digital-marknadsforing/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20408011",
@@ -194,20 +210,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://careers.firstcamp.se/jobs/7176636-praktik-lia-inom-marknadsforing-pa-first-camp?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20418144",
-    "company": "Badfors AB",
-    "role": "E-commerce Manager Internship - LIA-praktik för student",
-    "ort": "De nordiska länderna",
+    "id": "js-20401155",
+    "company": "Sweco",
+    "role": "LIA-praktik inom järnväg till flertalet orter hösten 2026",
+    "ort": "Sverige",
     "utbildning": "Distansarbete",
     "period": "",
-    "deadline": "2026-08-31",
-    "desc": "LIA-praktik för E-commerce Manager (Shopify)\n\nVill du få praktisk erfarenhet av att driva en växande e-handel?\n\nByggöverskott.se söker en engagerad LIA-praktikant som vill utvecklas inom e-handel och vara med och bygga ett snabbt växande företag.\n\nHos oss får du arbeta med verkliga projekt där ditt arbete gör skillnad. Du får insyn i hela e-handelsprocessen allt från produktpublicering och SEO till marknadsföring och konverteringsoptimering.\n\nOm bolaget:\n\nVi köper in begagnat och överskott av byggmaterial för att sedan sälja det vidare till marknadens lägsta pris. På så sätt kan vi erbjuda våra kunder låga priser, högt kvalitet av välkända märken och samtidigt göra en stor insats för miljlön",
+    "deadline": "2026-09-30",
+    "desc": "Sweco är Sveriges ledande teknikkonsult inom järnväg och tillhandahåller tjänster i alla typer av uppdrag, från små utredningar till stora multidisciplinära infrastrukturuppdrag. Vi erbjuder projektering, design och specialisttjänster - av samtliga ingående komponenter och tekniker - för planering, byggande samt drift och underhåll av anläggningar för spårburen trafik.\n\nVarför ha LIA-praktik hos oss?\nOm du som student söker en spännande, utmanade och studierelaterad praktik är Sweco rätt plats för dig. Inför hösten 2026 erbjuder vi ett antal studenter LIA-praktik hos oss i Stockholm, Norrköping och Västerås. En del av praktiken kommer också att kunna ske på distans. \n\nDina uppgifter blir att",
     "contact": "",
-    "email": "mailto:jobb@byggoverskott.se",
+    "email": "",
     "antal": 1,
-    "postedAt": "2026-07-05",
+    "postedAt": "2026-06-30",
     "source": "jobbsafari.se",
-    "sourceUrl": "mailto:jobb@byggoverskott.se"
+    "sourceUrl": "https://www.sweco.se/karriar/ansok-har/?rmpage=apply&rmjob=25277&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20243217",
@@ -226,20 +242,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20401155",
-    "company": "Sweco",
-    "role": "LIA-praktik inom järnväg till flertalet orter hösten 2026",
-    "ort": "Sverige",
+    "id": "js-20418144",
+    "company": "Badfors AB",
+    "role": "E-commerce Manager Internship - LIA-praktik för student",
+    "ort": "De nordiska länderna",
     "utbildning": "Distansarbete",
     "period": "",
-    "deadline": "2026-09-30",
-    "desc": "Sweco är Sveriges ledande teknikkonsult inom järnväg och tillhandahåller tjänster i alla typer av uppdrag, från små utredningar till stora multidisciplinära infrastrukturuppdrag. Vi erbjuder projektering, design och specialisttjänster - av samtliga ingående komponenter och tekniker - för planering, byggande samt drift och underhåll av anläggningar för spårburen trafik.\n\nVarför ha LIA-praktik hos oss?\nOm du som student söker en spännande, utmanade och studierelaterad praktik är Sweco rätt plats för dig. Inför hösten 2026 erbjuder vi ett antal studenter LIA-praktik hos oss i Stockholm, Norrköping och Västerås. En del av praktiken kommer också att kunna ske på distans. \n\nDina uppgifter blir att",
+    "deadline": "2026-08-31",
+    "desc": "LIA-praktik för E-commerce Manager (Shopify)\n\nVill du få praktisk erfarenhet av att driva en växande e-handel?\n\nByggöverskott.se söker en engagerad LIA-praktikant som vill utvecklas inom e-handel och vara med och bygga ett snabbt växande företag.\n\nHos oss får du arbeta med verkliga projekt där ditt arbete gör skillnad. Du får insyn i hela e-handelsprocessen allt från produktpublicering och SEO till marknadsföring och konverteringsoptimering.\n\nOm bolaget:\n\nVi köper in begagnat och överskott av byggmaterial för att sedan sälja det vidare till marknadens lägsta pris. På så sätt kan vi erbjuda våra kunder låga priser, högt kvalitet av välkända märken och samtidigt göra en stor insats för miljlön",
     "contact": "",
-    "email": "",
+    "email": "mailto:jobb@byggoverskott.se",
     "antal": 1,
-    "postedAt": "2026-06-30",
+    "postedAt": "2026-07-05",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://www.sweco.se/karriar/ansok-har/?rmpage=apply&rmjob=25277&utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "mailto:jobb@byggoverskott.se"
   },
   {
     "id": "js-20403063",
