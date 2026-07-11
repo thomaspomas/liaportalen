@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-07-10T06:48:00.751Z
+// Autogenererad av scraper.js – 2026-07-11T05:42:37.589Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -50,22 +50,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20380998",
-    "company": "A.P. Møller - Maersk A/S",
-    "role": "Praktik/LIA - Underhållstekniker",
-    "ort": "Göteborg",
-    "utbildning": "Installation, drift och underhåll",
-    "period": "",
-    "deadline": null,
-    "desc": "APM Terminals\n\nPraktik / LIA - Underhållstekniker\n\nVill du få praktisk erfarenhet av teknik och arbeta med stora maskiner i en samhällsviktig industrimiljö? Nu söker vi praktikanter till vår underhållsverksamhet under hösten 2026 och vintern 2027.\n\nHos oss får du vara med i det dagliga arbetet i verkstaden och lära dig yrket på riktigt - tillsammans med erfarna tekniker.\n\nVad du får göra\n\nSom praktikant deltar du i underhållsarbetet och får testa på uppgifter som att:\nAssistera vid service och underhåll av maskinerVara med vid felsökning och enklare reparationerArbeta med el, mekanik och hydraulik (utifrån din nivå)Bidra till ordning och säkerhet i verkstaden\nVad vi erbjuder\nPraktisk erfaren",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-06-17",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20225451",
     "company": "Atea",
     "role": "Spontanansökan för LIA - Region Mitt",
@@ -80,6 +64,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-04-28",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20380998",
+    "company": "A.P. Møller - Maersk A/S",
+    "role": "Praktik/LIA - Underhållstekniker",
+    "ort": "Göteborg",
+    "utbildning": "Installation, drift och underhåll",
+    "period": "",
+    "deadline": null,
+    "desc": "APM Terminals\n\nPraktik / LIA - Underhållstekniker\n\nVill du få praktisk erfarenhet av teknik och arbeta med stora maskiner i en samhällsviktig industrimiljö? Nu söker vi praktikanter till vår underhållsverksamhet under hösten 2026 och vintern 2027.\n\nHos oss får du vara med i det dagliga arbetet i verkstaden och lära dig yrket på riktigt - tillsammans med erfarna tekniker.\n\nVad du får göra\n\nSom praktikant deltar du i underhållsarbetet och får testa på uppgifter som att:\nAssistera vid service och underhåll av maskinerVara med vid felsökning och enklare reparationerArbeta med el, mekanik och hydraulik (utifrån din nivå)Bidra till ordning och säkerhet i verkstaden\nVad vi erbjuder\nPraktisk erfaren",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-06-17",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20388276",
@@ -130,20 +130,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20424135",
-    "company": "Hemglass i Sverige AB",
-    "role": "LIA-praktik & timanställning inom IT-support på Hemglass!",
+    "id": "js-20381323",
+    "company": "Soros Consulting AB",
+    "role": "LIA inom AI, Content & Digital Marknadsföring",
     "ort": "Stockholm",
-    "utbildning": "Teknisk support",
+    "utbildning": "Marknadsföring",
     "period": "",
-    "deadline": "2026-08-31",
-    "desc": "Har du pågående studier inom IT och söker praktikplats i Stockholm? Kanske älskar du inte bara IT utan även glass och att hjälpa människor? Varmt välkommen att söka till Hemglass IT för kombinerad praktikplats och därutöver &quot;timanställning&quot; inom IT-support! 🍦\n\nPå Hemglass IT blir du en del av ett litet men mycket engagerat team som brinner för att varje dag leverera och bidra till en så bra digital upplevelse som möjligt för alla kunder och medarbetare! Vi har en modern infrastruktur med en mängd olika verksamhetsnära IT-system från antingen leverantörer eller som vi utvecklar själva. IT-supporten fyller en viktig roll för att stötta medarbetare i vardagen och att avlasta resteran",
+    "deadline": "2026-07-21",
+    "desc": "Vill du få praktisk erfarenhet av hur AI används för att skapa innehåll, bygga varumärken och driva digital tillväxt?\n\nSOROS Consulting söker nu flera LIA-praktikanter som vill utvecklas inom AI, content marketing, sociala medier och digital marknadsföring.\n\nHos oss får du möjlighet att arbeta med moderna AI-verktyg, skapa innehåll för verkliga verksamheter och vara en del av ett växande företag där dina idéer och insatser gör skillnad.\n\nUnder din LIA kommer du att få arbeta med\n\nAI-verktyg som ChatGPT, Claude, Perplexity och liknande\n\nInnehåll för LinkedIn och andra sociala medier\n\nResearch och omvärldsbevakning\n\nSkriva texter och skapa innehåll\n\nVideo- och innehållsproduktion\n\nSEO och digi",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-07-07",
+    "postedAt": "2026-06-20",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://easyapply.jobs/r/DIbfLVD26OEp0D42w2yg?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://sorosconsulting.se/2026/06/21/lia-inom-ai-content-digital-marknadsforing/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-18246365",
@@ -162,20 +162,36 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20381323",
-    "company": "Soros Consulting AB",
-    "role": "LIA inom AI, Content & Digital Marknadsföring",
+    "id": "js-20424135",
+    "company": "Hemglass i Sverige AB",
+    "role": "LIA-praktik & timanställning inom IT-support på Hemglass!",
     "ort": "Stockholm",
-    "utbildning": "Marknadsföring",
+    "utbildning": "Teknisk support",
     "period": "",
-    "deadline": "2026-07-21",
-    "desc": "Vill du få praktisk erfarenhet av hur AI används för att skapa innehåll, bygga varumärken och driva digital tillväxt?\n\nSOROS Consulting söker nu flera LIA-praktikanter som vill utvecklas inom AI, content marketing, sociala medier och digital marknadsföring.\n\nHos oss får du möjlighet att arbeta med moderna AI-verktyg, skapa innehåll för verkliga verksamheter och vara en del av ett växande företag där dina idéer och insatser gör skillnad.\n\nUnder din LIA kommer du att få arbeta med\n\nAI-verktyg som ChatGPT, Claude, Perplexity och liknande\n\nInnehåll för LinkedIn och andra sociala medier\n\nResearch och omvärldsbevakning\n\nSkriva texter och skapa innehåll\n\nVideo- och innehållsproduktion\n\nSEO och digi",
+    "deadline": "2026-08-31",
+    "desc": "Har du pågående studier inom IT och söker praktikplats i Stockholm? Kanske älskar du inte bara IT utan även glass och att hjälpa människor? Varmt välkommen att söka till Hemglass IT för kombinerad praktikplats och därutöver &quot;timanställning&quot; inom IT-support! 🍦\n\nPå Hemglass IT blir du en del av ett litet men mycket engagerat team som brinner för att varje dag leverera och bidra till en så bra digital upplevelse som möjligt för alla kunder och medarbetare! Vi har en modern infrastruktur med en mängd olika verksamhetsnära IT-system från antingen leverantörer eller som vi utvecklar själva. IT-supporten fyller en viktig roll för att stötta medarbetare i vardagen och att avlasta resteran",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-06-20",
+    "postedAt": "2026-07-07",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://sorosconsulting.se/2026/06/21/lia-inom-ai-content-digital-marknadsforing/?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://easyapply.jobs/r/DIbfLVD26OEp0D42w2yg?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20425610",
+    "company": "Hemglass i Sverige AB",
+    "role": "LIA-praktik & timanställning inom IT-support på Hemglass!",
+    "ort": "Stockholm",
+    "utbildning": "Teknisk support",
+    "period": "",
+    "deadline": null,
+    "desc": "Har du pågående studier inom IT och söker praktikplats i Stockholm? Kanske älskar du inte bara IT utan även glass och att hjälpa människor? Varmt välkommen att söka till Hemglass IT för kombinerad praktikplats och därutöver &quot;timanställning&quot; inom IT-support! 🍦\n\nPå Hemglass IT blir du en del av ett litet men mycket engagerat team som brinner för att varje dag leverera och bidra till en så bra digital upplevelse som möjligt för alla kunder och medarbetare! Vi har en modern infrastruktur med en mängd olika verksamhetsnära IT-system från antingen leverantörer eller som vi utvecklar själva. IT-supporten fyller en viktig roll för att stötta medarbetare i vardagen och att avlasta resteran",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-07-07",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://emp.jobylon.com/jobs/349176-hemglass-i-sverige-ab-lia-praktik-timanstallning-inom-it-support-pa-hemglass/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20408011",
@@ -226,22 +242,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.sweco.se/karriar/ansok-har/?rmpage=apply&rmjob=25277&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20243217",
-    "company": "+Moveco AB",
-    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
-    "ort": "Stockholm",
-    "utbildning": "Juniorbefattningar",
-    "period": "",
-    "deadline": "2026-10-31",
-    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-03",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20418144",
     "company": "Badfors AB",
     "role": "E-commerce Manager Internship - LIA-praktik för student",
@@ -256,6 +256,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-07-05",
     "source": "jobbsafari.se",
     "sourceUrl": "mailto:jobb@byggoverskott.se"
+  },
+  {
+    "id": "js-20243217",
+    "company": "+Moveco AB",
+    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
+    "ort": "Stockholm",
+    "utbildning": "Juniorbefattningar",
+    "period": "",
+    "deadline": "2026-10-31",
+    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-03",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20403063",
