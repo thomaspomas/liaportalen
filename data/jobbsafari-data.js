@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-07-14T05:32:48.001Z
+// Autogenererad av scraper.js – 2026-07-15T05:33:54.363Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -82,6 +82,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20432084",
+    "company": "Soros Consulting AB",
+    "role": "LIA-praktikant inom Offentlig Upphandling",
+    "ort": "Stockholm",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": "2026-08-13",
+    "desc": "Vill du få praktisk erfarenhet av offentlig upphandling och affärsutveckling?\n\nVi söker en engagerad LIA-praktikant som vill utvecklas inom offentlig upphandling och anbudsarbete. Hos oss får du möjlighet att arbeta nära erfarna konsulter och delta i hela processen från omvärldsbevakning till färdigt anbud.\n\nOm praktiken\n\nUnder din praktik kommer du bland annat att:\n\nBevaka och identifiera relevanta upphandlingar.\n\nStödja arbetet med anbudsunderlag och dokumentation.\n\nSammanställa information och kravspecifikationer.\n\nDelta i analyser av förfrågningsunderlag.\n\nBidra till utveckling av anbudsprocesser och mallar.\n\nUtföra research kring marknader, kunder och leverantörer.\n\nAdministrera dokumen",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-07-13",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://sorosconsulting.se/2026/06/21/lia-praktikant-inom-offentlig-upphandling/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20388276",
     "company": "EUSTAFF SWEDEN AB",
     "role": "LIA - AM & SALES",
@@ -96,22 +112,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-06-22",
     "source": "jobbsafari.se",
     "sourceUrl": "https://apply.recman.page/job_post.php?id=480776&apply_only=&sub_id=858&path=ams&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20381320",
-    "company": "Soros Consulting AB",
-    "role": "LIA-praktikant inom Offentlig Upphandling",
-    "ort": "Stockholm",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": "2026-07-21",
-    "desc": "Vill du få praktisk erfarenhet av offentlig upphandling och affärsutveckling?\n\nVi söker en engagerad LIA-praktikant som vill utvecklas inom offentlig upphandling och anbudsarbete. Hos oss får du möjlighet att arbeta nära erfarna konsulter och delta i hela processen från omvärldsbevakning till färdigt anbud.\n\nOm praktiken\n\nUnder din praktik kommer du bland annat att:\n\nBevaka och identifiera relevanta upphandlingar.\n\nStödja arbetet med anbudsunderlag och dokumentation.\n\nSammanställa information och kravspecifikationer.\n\nDelta i analyser av förfrågningsunderlag.\n\nBidra till utveckling av anbudsprocesser och mallar.\n\nUtföra research kring marknader, kunder och leverantörer.\n\nAdministrera dokumen",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-06-20",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://sorosconsulting.se/2026/06/21/lia-praktikant-inom-offentlig-upphandling/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19686553",
@@ -130,22 +130,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20381323",
-    "company": "Soros Consulting AB",
-    "role": "LIA inom AI, Content & Digital Marknadsföring",
-    "ort": "Stockholm",
-    "utbildning": "Marknadsföring",
-    "period": "",
-    "deadline": "2026-07-21",
-    "desc": "Vill du få praktisk erfarenhet av hur AI används för att skapa innehåll, bygga varumärken och driva digital tillväxt?\n\nSOROS Consulting söker nu flera LIA-praktikanter som vill utvecklas inom AI, content marketing, sociala medier och digital marknadsföring.\n\nHos oss får du möjlighet att arbeta med moderna AI-verktyg, skapa innehåll för verkliga verksamheter och vara en del av ett växande företag där dina idéer och insatser gör skillnad.\n\nUnder din LIA kommer du att få arbeta med\n\nAI-verktyg som ChatGPT, Claude, Perplexity och liknande\n\nInnehåll för LinkedIn och andra sociala medier\n\nResearch och omvärldsbevakning\n\nSkriva texter och skapa innehåll\n\nVideo- och innehållsproduktion\n\nSEO och digi",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-06-20",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://sorosconsulting.se/2026/06/21/lia-inom-ai-content-digital-marknadsforing/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-18246365",
     "company": "Conversionista!",
     "role": "Internship (LIA) at Conversionista - Inbound Marketer",
@@ -160,6 +144,38 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2024-05-23",
     "source": "jobbsafari.se",
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20037692",
+    "company": "First Camp",
+    "role": "Praktik/LIA inom marknadsföring på First Camp",
+    "ort": "Göteborg",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": null,
+    "desc": "Studerar du marknadsföring och söker en lärorik och rolig praktikplats?\n\nVi tar emot spontanansökningar till vår marknadsavdelning på First Camp! Här skapar vi campinglycka varje dag genom kreativ kommunikation, innehåll och digital marknadsföring.\n\nVilka är First Camp? \n\nFirst Camp är norra Europas ledande campingkedja med över 70 destinationer i Sverige, Danmark, Norge, Finland, Schweiz och Tyskland. Vi är på en spännande tillväxtresa och har som mål att bli världens ledande campingkedja.\n\nTillsammans med över 2 500 medarbetare arbetar vi varje dag för att skapa minnesvärda upplevelser för våra gäster. Marknadsavdelningen spelar en viktig roll i att förmedla känslan av campinglycka, och ho",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-02-04",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://careers.firstcamp.se/jobs/7176636-praktik-lia-inom-marknadsforing-pa-first-camp?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20424135",
+    "company": "Hemglass i Sverige AB",
+    "role": "LIA-praktik & timanställning inom IT-support på Hemglass!",
+    "ort": "Stockholm",
+    "utbildning": "Teknisk support",
+    "period": "",
+    "deadline": "2026-08-31",
+    "desc": "Har du pågående studier inom IT och söker praktikplats i Stockholm? Kanske älskar du inte bara IT utan även glass och att hjälpa människor? Varmt välkommen att söka till Hemglass IT för kombinerad praktikplats och därutöver &quot;timanställning&quot; inom IT-support! 🍦\n\nPå Hemglass IT blir du en del av ett litet men mycket engagerat team som brinner för att varje dag leverera och bidra till en så bra digital upplevelse som möjligt för alla kunder och medarbetare! Vi har en modern infrastruktur med en mängd olika verksamhetsnära IT-system från antingen leverantörer eller som vi utvecklar själva. IT-supporten fyller en viktig roll för att stötta medarbetare i vardagen och att avlasta resteran",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-07-07",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://easyapply.jobs/r/DIbfLVD26OEp0D42w2yg?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20425610",
@@ -192,38 +208,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-07-02",
     "source": "jobbsafari.se",
     "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8362534385162066079&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20424135",
-    "company": "Hemglass i Sverige AB",
-    "role": "LIA-praktik & timanställning inom IT-support på Hemglass!",
-    "ort": "Stockholm",
-    "utbildning": "Teknisk support",
-    "period": "",
-    "deadline": "2026-08-31",
-    "desc": "Har du pågående studier inom IT och söker praktikplats i Stockholm? Kanske älskar du inte bara IT utan även glass och att hjälpa människor? Varmt välkommen att söka till Hemglass IT för kombinerad praktikplats och därutöver &quot;timanställning&quot; inom IT-support! 🍦\n\nPå Hemglass IT blir du en del av ett litet men mycket engagerat team som brinner för att varje dag leverera och bidra till en så bra digital upplevelse som möjligt för alla kunder och medarbetare! Vi har en modern infrastruktur med en mängd olika verksamhetsnära IT-system från antingen leverantörer eller som vi utvecklar själva. IT-supporten fyller en viktig roll för att stötta medarbetare i vardagen och att avlasta resteran",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-07-07",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://easyapply.jobs/r/DIbfLVD26OEp0D42w2yg?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20037692",
-    "company": "First Camp",
-    "role": "Praktik/LIA inom marknadsföring på First Camp",
-    "ort": "Göteborg",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": null,
-    "desc": "Studerar du marknadsföring och söker en lärorik och rolig praktikplats?\n\nVi tar emot spontanansökningar till vår marknadsavdelning på First Camp! Här skapar vi campinglycka varje dag genom kreativ kommunikation, innehåll och digital marknadsföring.\n\nVilka är First Camp? \n\nFirst Camp är norra Europas ledande campingkedja med över 70 destinationer i Sverige, Danmark, Norge, Finland, Schweiz och Tyskland. Vi är på en spännande tillväxtresa och har som mål att bli världens ledande campingkedja.\n\nTillsammans med över 2 500 medarbetare arbetar vi varje dag för att skapa minnesvärda upplevelser för våra gäster. Marknadsavdelningen spelar en viktig roll i att förmedla känslan av campinglycka, och ho",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-02-04",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.firstcamp.se/jobs/7176636-praktik-lia-inom-marknadsforing-pa-first-camp?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20401155",
