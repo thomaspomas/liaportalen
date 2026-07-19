@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-07-18T05:28:04.801Z
+// Autogenererad av scraper.js – 2026-07-19T05:56:00.059Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -146,22 +146,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20424135",
-    "company": "Hemglass i Sverige AB",
-    "role": "LIA-praktik & timanställning inom IT-support på Hemglass!",
-    "ort": "Stockholm",
-    "utbildning": "Teknisk support",
-    "period": "",
-    "deadline": "2026-08-31",
-    "desc": "Har du pågående studier inom IT och söker praktikplats i Stockholm? Kanske älskar du inte bara IT utan även glass och att hjälpa människor? Varmt välkommen att söka till Hemglass IT för kombinerad praktikplats och därutöver &quot;timanställning&quot; inom IT-support! 🍦\n\nPå Hemglass IT blir du en del av ett litet men mycket engagerat team som brinner för att varje dag leverera och bidra till en så bra digital upplevelse som möjligt för alla kunder och medarbetare! Vi har en modern infrastruktur med en mängd olika verksamhetsnära IT-system från antingen leverantörer eller som vi utvecklar själva. IT-supporten fyller en viktig roll för att stötta medarbetare i vardagen och att avlasta resteran",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-07-07",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://easyapply.jobs/r/DIbfLVD26OEp0D42w2yg?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20037692",
     "company": "First Camp",
     "role": "Praktik/LIA inom marknadsföring på First Camp",
@@ -176,6 +160,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-02-04",
     "source": "jobbsafari.se",
     "sourceUrl": "https://careers.firstcamp.se/jobs/7176636-praktik-lia-inom-marknadsforing-pa-first-camp?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20424135",
+    "company": "Hemglass i Sverige AB",
+    "role": "LIA-praktik & timanställning inom IT-support på Hemglass!",
+    "ort": "Stockholm",
+    "utbildning": "Teknisk support",
+    "period": "",
+    "deadline": "2026-08-31",
+    "desc": "Har du pågående studier inom IT och söker praktikplats i Stockholm? Kanske älskar du inte bara IT utan även glass och att hjälpa människor? Varmt välkommen att söka till Hemglass IT för kombinerad praktikplats och därutöver &quot;timanställning&quot; inom IT-support! 🍦\n\nPå Hemglass IT blir du en del av ett litet men mycket engagerat team som brinner för att varje dag leverera och bidra till en så bra digital upplevelse som möjligt för alla kunder och medarbetare! Vi har en modern infrastruktur med en mängd olika verksamhetsnära IT-system från antingen leverantörer eller som vi utvecklar själva. IT-supporten fyller en viktig roll för att stötta medarbetare i vardagen och att avlasta resteran",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-07-07",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://easyapply.jobs/r/DIbfLVD26OEp0D42w2yg?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20408011",
