@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-07-19T05:56:00.059Z
+// Autogenererad av scraper.js – 2026-07-20T06:19:46.123Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -226,22 +226,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.sweco.se/karriar/ansok-har/?rmpage=apply&rmjob=25277&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20418144",
-    "company": "Badfors AB",
-    "role": "E-commerce Manager Internship - LIA-praktik för student",
-    "ort": "De nordiska länderna",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": "2026-08-31",
-    "desc": "LIA-praktik för E-commerce Manager (Shopify)\n\nVill du få praktisk erfarenhet av att driva en växande e-handel?\n\nByggöverskott.se söker en engagerad LIA-praktikant som vill utvecklas inom e-handel och vara med och bygga ett snabbt växande företag.\n\nHos oss får du arbeta med verkliga projekt där ditt arbete gör skillnad. Du får insyn i hela e-handelsprocessen allt från produktpublicering och SEO till marknadsföring och konverteringsoptimering.\n\nOm bolaget:\n\nVi köper in begagnat och överskott av byggmaterial för att sedan sälja det vidare till marknadens lägsta pris. På så sätt kan vi erbjuda våra kunder låga priser, högt kvalitet av välkända märken och samtidigt göra en stor insats för miljlön",
-    "contact": "",
-    "email": "mailto:jobb@byggoverskott.se",
-    "antal": 1,
-    "postedAt": "2026-07-05",
-    "source": "jobbsafari.se",
-    "sourceUrl": "mailto:jobb@byggoverskott.se"
-  },
-  {
     "id": "js-20243217",
     "company": "+Moveco AB",
     "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
@@ -256,6 +240,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-03",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20418144",
+    "company": "Badfors AB",
+    "role": "E-commerce Manager Internship - LIA-praktik för student",
+    "ort": "De nordiska länderna",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": "2026-08-31",
+    "desc": "LIA-praktik för E-commerce Manager (Shopify)\n\nVill du få praktisk erfarenhet av att driva en växande e-handel?\n\nByggöverskott.se söker en engagerad LIA-praktikant som vill utvecklas inom e-handel och vara med och bygga ett snabbt växande företag.\n\nHos oss får du arbeta med verkliga projekt där ditt arbete gör skillnad. Du får insyn i hela e-handelsprocessen allt från produktpublicering och SEO till marknadsföring och konverteringsoptimering.\n\nOm bolaget:\n\nVi köper in begagnat och överskott av byggmaterial för att sedan sälja det vidare till marknadens lägsta pris. På så sätt kan vi erbjuda våra kunder låga priser, högt kvalitet av välkända märken och samtidigt göra en stor insats för miljlön",
+    "contact": "",
+    "email": "mailto:jobb@byggoverskott.se",
+    "antal": 1,
+    "postedAt": "2026-07-05",
+    "source": "jobbsafari.se",
+    "sourceUrl": "mailto:jobb@byggoverskott.se"
   },
   {
     "id": "js-20403063",
