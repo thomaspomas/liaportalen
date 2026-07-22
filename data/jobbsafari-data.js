@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-07-21T05:52:57.580Z
+// Autogenererad av scraper.js – 2026-07-22T05:52:04.098Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -146,22 +146,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20037692",
-    "company": "First Camp",
-    "role": "Praktik/LIA inom marknadsföring på First Camp",
-    "ort": "Göteborg",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": null,
-    "desc": "Studerar du marknadsföring och söker en lärorik och rolig praktikplats?\n\nVi tar emot spontanansökningar till vår marknadsavdelning på First Camp! Här skapar vi campinglycka varje dag genom kreativ kommunikation, innehåll och digital marknadsföring.\n\nVilka är First Camp? \n\nFirst Camp är norra Europas ledande campingkedja med över 70 destinationer i Sverige, Danmark, Norge, Finland, Schweiz och Tyskland. Vi är på en spännande tillväxtresa och har som mål att bli världens ledande campingkedja.\n\nTillsammans med över 2 500 medarbetare arbetar vi varje dag för att skapa minnesvärda upplevelser för våra gäster. Marknadsavdelningen spelar en viktig roll i att förmedla känslan av campinglycka, och ho",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-02-04",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.firstcamp.se/jobs/7176636-praktik-lia-inom-marknadsforing-pa-first-camp?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20424135",
     "company": "Hemglass i Sverige AB",
     "role": "LIA-praktik & timanställning inom IT-support på Hemglass!",
@@ -192,6 +176,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-07-02",
     "source": "jobbsafari.se",
     "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8362534385162066079&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20037692",
+    "company": "First Camp",
+    "role": "Praktik/LIA inom marknadsföring på First Camp",
+    "ort": "Göteborg",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": null,
+    "desc": "Studerar du marknadsföring och söker en lärorik och rolig praktikplats?\n\nVi tar emot spontanansökningar till vår marknadsavdelning på First Camp! Här skapar vi campinglycka varje dag genom kreativ kommunikation, innehåll och digital marknadsföring.\n\nVilka är First Camp? \n\nFirst Camp är norra Europas ledande campingkedja med över 70 destinationer i Sverige, Danmark, Norge, Finland, Schweiz och Tyskland. Vi är på en spännande tillväxtresa och har som mål att bli världens ledande campingkedja.\n\nTillsammans med över 2 500 medarbetare arbetar vi varje dag för att skapa minnesvärda upplevelser för våra gäster. Marknadsavdelningen spelar en viktig roll i att förmedla känslan av campinglycka, och ho",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-02-04",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://careers.firstcamp.se/jobs/7176636-praktik-lia-inom-marknadsforing-pa-first-camp?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20425610",
