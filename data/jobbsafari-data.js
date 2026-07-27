@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-07-26T06:07:39.676Z
+// Autogenererad av scraper.js – 2026-07-27T06:32:25.642Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -18,22 +18,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://bygghemmase.teamtailor.com/jobs/7859740-lia-internship?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20235014",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-30",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20409248",
     "company": "Consid AB",
     "role": "LIA för hösten 2026",
@@ -48,6 +32,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-07-02",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.consid.com/sv/karriar/lediga-tjanster/test-qa/lia-for-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20235014",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-30",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20225451",
@@ -194,22 +194,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8362534385162066079&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20401155",
-    "company": "Sweco",
-    "role": "LIA-praktik inom järnväg till flertalet orter hösten 2026",
-    "ort": "Sverige",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": "2026-09-30",
-    "desc": "Sweco är Sveriges ledande teknikkonsult inom järnväg och tillhandahåller tjänster i alla typer av uppdrag, från små utredningar till stora multidisciplinära infrastrukturuppdrag. Vi erbjuder projektering, design och specialisttjänster - av samtliga ingående komponenter och tekniker - för planering, byggande samt drift och underhåll av anläggningar för spårburen trafik.\n\nVarför ha LIA-praktik hos oss?\nOm du som student söker en spännande, utmanade och studierelaterad praktik är Sweco rätt plats för dig. Inför hösten 2026 erbjuder vi ett antal studenter LIA-praktik hos oss i Stockholm, Norrköping och Västerås. En del av praktiken kommer också att kunna ske på distans. \n\nDina uppgifter blir att",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-06-30",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.sweco.se/karriar/ansok-har/?rmpage=apply&rmjob=25277&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20425610",
     "company": "Hemglass i Sverige AB",
     "role": "LIA-praktik & timanställning inom IT-support på Hemglass!",
@@ -226,20 +210,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://emp.jobylon.com/jobs/349176-hemglass-i-sverige-ab-lia-praktik-timanstallning-inom-it-support-pa-hemglass/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20243217",
-    "company": "+Moveco AB",
-    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
-    "ort": "Stockholm",
-    "utbildning": "Juniorbefattningar",
+    "id": "js-20401155",
+    "company": "Sweco",
+    "role": "LIA-praktik inom järnväg till flertalet orter hösten 2026",
+    "ort": "Sverige",
+    "utbildning": "Distansarbete",
     "period": "",
-    "deadline": "2026-10-31",
-    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
+    "deadline": "2026-09-30",
+    "desc": "Sweco är Sveriges ledande teknikkonsult inom järnväg och tillhandahåller tjänster i alla typer av uppdrag, från små utredningar till stora multidisciplinära infrastrukturuppdrag. Vi erbjuder projektering, design och specialisttjänster - av samtliga ingående komponenter och tekniker - för planering, byggande samt drift och underhåll av anläggningar för spårburen trafik.\n\nVarför ha LIA-praktik hos oss?\nOm du som student söker en spännande, utmanade och studierelaterad praktik är Sweco rätt plats för dig. Inför hösten 2026 erbjuder vi ett antal studenter LIA-praktik hos oss i Stockholm, Norrköping och Västerås. En del av praktiken kommer också att kunna ske på distans. \n\nDina uppgifter blir att",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-05-03",
+    "postedAt": "2026-06-30",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://www.sweco.se/karriar/ansok-har/?rmpage=apply&rmjob=25277&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20418144",
@@ -256,6 +240,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-07-05",
     "source": "jobbsafari.se",
     "sourceUrl": "mailto:jobb@byggoverskott.se"
+  },
+  {
+    "id": "js-20243217",
+    "company": "+Moveco AB",
+    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
+    "ort": "Stockholm",
+    "utbildning": "Juniorbefattningar",
+    "period": "",
+    "deadline": "2026-10-31",
+    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-03",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20403063",
