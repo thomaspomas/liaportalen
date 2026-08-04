@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-08-03T06:25:44.242Z
+// Autogenererad av scraper.js – 2026-08-04T05:48:22.552Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -18,22 +18,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://bygghemmase.teamtailor.com/jobs/7859740-lia-internship?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20409248",
-    "company": "Consid AB",
-    "role": "LIA för hösten 2026",
-    "ort": "Linköping",
-    "utbildning": "",
-    "period": "",
-    "deadline": null,
-    "desc": "Är du en vass problemlösare som gillar att gräva i kod för att hitta buggarna innan de ens uppstår? Vill du ta dina kunskaper inom testautomatisering från skolbänken direkt ut i skarpa konsultuppdrag? Då har vi på Consid din nästa LIA-plats!\n \nOm rollen\n \nSom LIA-student hos oss blir du en del av vårt team där vi hjälper kunder att bygga robusta och kvalitetssäkrade IT-system. Vi söker dig som har en tydlig teknisk profil inom test. Du kommer inte bara att klicka runt i ett gränssnitt - du kommer att läsa kod, analysera arkitektur och bygga smarta, automatiserade testflöden.\n \nUnder din LIA-period kommer du bland annat att få:\n  Skriva, underhålla och köra automatiserade tester. Göra kodgran",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-07-02",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.consid.com/sv/karriar/lediga-tjanster/test-qa/lia-for-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20235014",
     "company": "Atea",
     "role": "Spontanansökan för LIA - Region Mitt",
@@ -48,6 +32,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-04-30",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20409248",
+    "company": "Consid AB",
+    "role": "LIA för hösten 2026",
+    "ort": "Linköping",
+    "utbildning": "",
+    "period": "",
+    "deadline": null,
+    "desc": "Är du en vass problemlösare som gillar att gräva i kod för att hitta buggarna innan de ens uppstår? Vill du ta dina kunskaper inom testautomatisering från skolbänken direkt ut i skarpa konsultuppdrag? Då har vi på Consid din nästa LIA-plats!\n \nOm rollen\n \nSom LIA-student hos oss blir du en del av vårt team där vi hjälper kunder att bygga robusta och kvalitetssäkrade IT-system. Vi söker dig som har en tydlig teknisk profil inom test. Du kommer inte bara att klicka runt i ett gränssnitt - du kommer att läsa kod, analysera arkitektur och bygga smarta, automatiserade testflöden.\n \nUnder din LIA-period kommer du bland annat att få:\n  Skriva, underhålla och köra automatiserade tester. Göra kodgran",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-07-02",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.consid.com/sv/karriar/lediga-tjanster/test-qa/lia-for-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20225451",
@@ -98,6 +98,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://apply.recman.page/job_post.php?id=480776&apply_only=&sub_id=858&path=ams&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20461306",
+    "company": "Jobway AB",
+    "role": "LIA inom Digital Marknadsföring - Content & SEO/AEO",
+    "ort": "Stockholm",
+    "utbildning": "Dataanalys och datahantering",
+    "period": "",
+    "deadline": "2026-09-03",
+    "desc": "LIA inom Digital Marknadsföring - Content & SEO/AEO (2 platser)\n\nVill du få praktisk erfarenhet av hur digital marknadsföring faktiskt driver trafik och affär? Vi söker nu 2 LIA-praktikanter som vill utvecklas inom content, SEO och AI-sök (AEO).\n\nDet här kommer du jobba med:\n\nSkapa content och optimera texter för både Google och AI-sök\n\nGöra enklare analyser av trafik, ranking och innehållets prestation\n\nStötta i produktion av content och utskick inom email marknadsföring\n\nVara med och testa vad som faktiskt fungerar och iterera därefter\n\nDu kommer få lära dig:\n\nHur digital marknadsföring driver trafik, leads och affär\n\nHur man optimerar för att ranka på Google \n\nHur man optimerar content fö",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-08-02",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://pnty-apply.ponty-system.se/jobway?id=5604&pnty_src=platsbanken&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-19686553",
     "company": "Done",
     "role": "LiA/Praktik: B2B-försäljning",
@@ -130,20 +146,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20424135",
-    "company": "Hemglass i Sverige AB",
-    "role": "LIA-praktik & timanställning inom IT-support på Hemglass!",
-    "ort": "Stockholm",
-    "utbildning": "Teknisk support",
+    "id": "js-20037692",
+    "company": "First Camp",
+    "role": "Praktik/LIA inom marknadsföring på First Camp",
+    "ort": "Göteborg",
+    "utbildning": "Distansarbete",
     "period": "",
-    "deadline": "2026-08-31",
-    "desc": "Har du pågående studier inom IT och söker praktikplats i Stockholm? Kanske älskar du inte bara IT utan även glass och att hjälpa människor? Varmt välkommen att söka till Hemglass IT för kombinerad praktikplats och därutöver &quot;timanställning&quot; inom IT-support! 🍦\n\nPå Hemglass IT blir du en del av ett litet men mycket engagerat team som brinner för att varje dag leverera och bidra till en så bra digital upplevelse som möjligt för alla kunder och medarbetare! Vi har en modern infrastruktur med en mängd olika verksamhetsnära IT-system från antingen leverantörer eller som vi utvecklar själva. IT-supporten fyller en viktig roll för att stötta medarbetare i vardagen och att avlasta resteran",
+    "deadline": null,
+    "desc": "Studerar du marknadsföring och söker en lärorik och rolig praktikplats?\n\nVi tar emot spontanansökningar till vår marknadsavdelning på First Camp! Här skapar vi campinglycka varje dag genom kreativ kommunikation, innehåll och digital marknadsföring.\n\nVilka är First Camp? \n\nFirst Camp är norra Europas ledande campingkedja med över 70 destinationer i Sverige, Danmark, Norge, Finland, Schweiz och Tyskland. Vi är på en spännande tillväxtresa och har som mål att bli världens ledande campingkedja.\n\nTillsammans med över 2 500 medarbetare arbetar vi varje dag för att skapa minnesvärda upplevelser för våra gäster. Marknadsavdelningen spelar en viktig roll i att förmedla känslan av campinglycka, och ho",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-07-07",
+    "postedAt": "2026-02-04",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://easyapply.jobs/r/DIbfLVD26OEp0D42w2yg?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://careers.firstcamp.se/jobs/7176636-praktik-lia-inom-marknadsforing-pa-first-camp?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20408011",
@@ -178,22 +194,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://emp.jobylon.com/jobs/349176-hemglass-i-sverige-ab-lia-praktik-timanstallning-inom-it-support-pa-hemglass/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20037692",
-    "company": "First Camp",
-    "role": "Praktik/LIA inom marknadsföring på First Camp",
-    "ort": "Göteborg",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": null,
-    "desc": "Studerar du marknadsföring och söker en lärorik och rolig praktikplats?\n\nVi tar emot spontanansökningar till vår marknadsavdelning på First Camp! Här skapar vi campinglycka varje dag genom kreativ kommunikation, innehåll och digital marknadsföring.\n\nVilka är First Camp? \n\nFirst Camp är norra Europas ledande campingkedja med över 70 destinationer i Sverige, Danmark, Norge, Finland, Schweiz och Tyskland. Vi är på en spännande tillväxtresa och har som mål att bli världens ledande campingkedja.\n\nTillsammans med över 2 500 medarbetare arbetar vi varje dag för att skapa minnesvärda upplevelser för våra gäster. Marknadsavdelningen spelar en viktig roll i att förmedla känslan av campinglycka, och ho",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-02-04",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://careers.firstcamp.se/jobs/7176636-praktik-lia-inom-marknadsforing-pa-first-camp?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20452347",
     "company": "Preventai AB",
     "role": "LIA Internship Sales Development Representative (SDR)",
@@ -208,22 +208,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-07-27",
     "source": "jobbsafari.se",
     "sourceUrl": "mailto:ludvig@antrinolabs.com"
-  },
-  {
-    "id": "js-20452169",
-    "company": "Preventai AB",
-    "role": "LIA Internship  Social Media & Content Creator (AI)",
-    "ort": "Stockholm",
-    "utbildning": "Praktikplatser",
-    "period": "",
-    "deadline": "2026-08-27",
-    "desc": "Are you passionate about creating content that people actually want to watch? Interested in AI, emerging technology and being part of building a brand?\n\nWe are looking for a creative and driven LIA Intern to help grow our presence across Instagram, TikTok, Snapchat, X and LinkedIn.\n\nAbout Us\n\nAt Antrino Labs, we&#x27;re building the next generation of AI powered visual intelligence. Our technology transforms cameras into intelligent systems capable of understanding what&#x27;s happening in the real world using advanced Video Language Models (VLMs) and Computer Vision.\n\nWhat You&#x27;ll Do\n\nAs our Social Media & Content Intern, you&#x27;ll work closely with our team to:\n\nCreate engaging conte",
-    "contact": "",
-    "email": "mailto:amanda@antrinolabs.com",
-    "antal": 1,
-    "postedAt": "2026-07-27",
-    "source": "jobbsafari.se",
-    "sourceUrl": "mailto:amanda@antrinolabs.com"
   },
   {
     "id": "js-20401155",
@@ -256,6 +240,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-07-05",
     "source": "jobbsafari.se",
     "sourceUrl": "mailto:jobb@byggoverskott.se"
+  },
+  {
+    "id": "js-20452169",
+    "company": "Preventai AB",
+    "role": "LIA Internship  Social Media & Content Creator (AI)",
+    "ort": "Stockholm",
+    "utbildning": "Praktikplatser",
+    "period": "",
+    "deadline": "2026-08-27",
+    "desc": "Are you passionate about creating content that people actually want to watch? Interested in AI, emerging technology and being part of building a brand?\n\nWe are looking for a creative and driven LIA Intern to help grow our presence across Instagram, TikTok, Snapchat, X and LinkedIn.\n\nAbout Us\n\nAt Antrino Labs, we&#x27;re building the next generation of AI powered visual intelligence. Our technology transforms cameras into intelligent systems capable of understanding what&#x27;s happening in the real world using advanced Video Language Models (VLMs) and Computer Vision.\n\nWhat You&#x27;ll Do\n\nAs our Social Media & Content Intern, you&#x27;ll work closely with our team to:\n\nCreate engaging conte",
+    "contact": "",
+    "email": "mailto:amanda@antrinolabs.com",
+    "antal": 1,
+    "postedAt": "2026-07-27",
+    "source": "jobbsafari.se",
+    "sourceUrl": "mailto:amanda@antrinolabs.com"
   },
   {
     "id": "js-20243217",
