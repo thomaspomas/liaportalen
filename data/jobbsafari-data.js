@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-08-07T04:56:01.292Z
+// Autogenererad av scraper.js – 2026-08-08T04:11:53.307Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -34,22 +34,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20409248",
-    "company": "Consid AB",
-    "role": "LIA för hösten 2026",
-    "ort": "Linköping",
-    "utbildning": "",
-    "period": "",
-    "deadline": null,
-    "desc": "Är du en vass problemlösare som gillar att gräva i kod för att hitta buggarna innan de ens uppstår? Vill du ta dina kunskaper inom testautomatisering från skolbänken direkt ut i skarpa konsultuppdrag? Då har vi på Consid din nästa LIA-plats!\n \nOm rollen\n \nSom LIA-student hos oss blir du en del av vårt team där vi hjälper kunder att bygga robusta och kvalitetssäkrade IT-system. Vi söker dig som har en tydlig teknisk profil inom test. Du kommer inte bara att klicka runt i ett gränssnitt - du kommer att läsa kod, analysera arkitektur och bygga smarta, automatiserade testflöden.\n \nUnder din LIA-period kommer du bland annat att få:\n  Skriva, underhålla och köra automatiserade tester. Göra kodgran",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-07-02",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.consid.com/sv/karriar/lediga-tjanster/test-qa/lia-for-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20225451",
     "company": "Atea",
     "role": "Spontanansökan för LIA - Region Mitt",
@@ -64,6 +48,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-04-28",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20409248",
+    "company": "Consid AB",
+    "role": "LIA för hösten 2026",
+    "ort": "Linköping",
+    "utbildning": "",
+    "period": "",
+    "deadline": null,
+    "desc": "Är du en vass problemlösare som gillar att gräva i kod för att hitta buggarna innan de ens uppstår? Vill du ta dina kunskaper inom testautomatisering från skolbänken direkt ut i skarpa konsultuppdrag? Då har vi på Consid din nästa LIA-plats!\n \nOm rollen\n \nSom LIA-student hos oss blir du en del av vårt team där vi hjälper kunder att bygga robusta och kvalitetssäkrade IT-system. Vi söker dig som har en tydlig teknisk profil inom test. Du kommer inte bara att klicka runt i ett gränssnitt - du kommer att läsa kod, analysera arkitektur och bygga smarta, automatiserade testflöden.\n \nUnder din LIA-period kommer du bland annat att få:\n  Skriva, underhålla och köra automatiserade tester. Göra kodgran",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-07-02",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.consid.com/sv/karriar/lediga-tjanster/test-qa/lia-for-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20380998",
@@ -162,36 +162,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8362534385162066079&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20425610",
-    "company": "Hemglass i Sverige AB",
-    "role": "LIA-praktik & timanställning inom IT-support på Hemglass!",
-    "ort": "Stockholm",
-    "utbildning": "Teknisk support",
+    "id": "js-20418144",
+    "company": "Badfors AB",
+    "role": "E-commerce Manager Internship - LIA-praktik för student",
+    "ort": "De nordiska länderna",
+    "utbildning": "Distansarbete",
     "period": "",
-    "deadline": null,
-    "desc": "Har du pågående studier inom IT och söker praktikplats i Stockholm? Kanske älskar du inte bara IT utan även glass och att hjälpa människor? Varmt välkommen att söka till Hemglass IT för kombinerad praktikplats och därutöver &quot;timanställning&quot; inom IT-support! 🍦\n\nPå Hemglass IT blir du en del av ett litet men mycket engagerat team som brinner för att varje dag leverera och bidra till en så bra digital upplevelse som möjligt för alla kunder och medarbetare! Vi har en modern infrastruktur med en mängd olika verksamhetsnära IT-system från antingen leverantörer eller som vi utvecklar själva. IT-supporten fyller en viktig roll för att stötta medarbetare i vardagen och att avlasta resteran",
+    "deadline": "2026-08-31",
+    "desc": "LIA-praktik för E-commerce Manager (Shopify)\n\nVill du få praktisk erfarenhet av att driva en växande e-handel?\n\nByggöverskott.se söker en engagerad LIA-praktikant som vill utvecklas inom e-handel och vara med och bygga ett snabbt växande företag.\n\nHos oss får du arbeta med verkliga projekt där ditt arbete gör skillnad. Du får insyn i hela e-handelsprocessen allt från produktpublicering och SEO till marknadsföring och konverteringsoptimering.\n\nOm bolaget:\n\nVi köper in begagnat och överskott av byggmaterial för att sedan sälja det vidare till marknadens lägsta pris. På så sätt kan vi erbjuda våra kunder låga priser, högt kvalitet av välkända märken och samtidigt göra en stor insats för miljlön",
     "contact": "",
-    "email": "",
+    "email": "mailto:jobb@byggoverskott.se",
     "antal": 1,
-    "postedAt": "2026-07-07",
+    "postedAt": "2026-07-05",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://emp.jobylon.com/jobs/349176-hemglass-i-sverige-ab-lia-praktik-timanstallning-inom-it-support-pa-hemglass/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20452347",
-    "company": "Preventai AB",
-    "role": "LIA Internship Sales Development Representative (SDR)",
-    "ort": "Stockholm",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": "2026-09-01",
-    "desc": "Do you get a kick out of opening doors that were closed five minutes ago? Interested in AI, emerging technology and learning how enterprise deals actually get done?\n\nWe are looking for a driven and curious LIA Intern to help us build pipeline and drive revenue as we scale across Europe.\n\nAbout Us\n\nAt Antrino Labs, we&#x27;re building the next generation of AI powered visual intelligence. Our technology transforms cameras into intelligent systems capable of understanding what&#x27;s happening in the real world using advanced Video Language Models (VLMs) and Computer Vision.\n\nWhat You&#x27;ll Do\n\nAs our SDR Intern, you&#x27;ll work closely with our team to:\n\nProspect and research target accoun",
-    "contact": "",
-    "email": "mailto:ludvig@antrinolabs.com",
-    "antal": 1,
-    "postedAt": "2026-07-27",
-    "source": "jobbsafari.se",
-    "sourceUrl": "mailto:ludvig@antrinolabs.com"
+    "sourceUrl": "mailto:jobb@byggoverskott.se"
   },
   {
     "id": "js-20401155",
@@ -210,20 +194,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.sweco.se/karriar/ansok-har/?rmpage=apply&rmjob=25277&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20418144",
-    "company": "Badfors AB",
-    "role": "E-commerce Manager Internship - LIA-praktik för student",
-    "ort": "De nordiska länderna",
-    "utbildning": "Distansarbete",
+    "id": "js-20452347",
+    "company": "Preventai AB",
+    "role": "LIA Internship Sales Development Representative (SDR)",
+    "ort": "Stockholm",
+    "utbildning": "Försäljning",
     "period": "",
-    "deadline": "2026-08-31",
-    "desc": "LIA-praktik för E-commerce Manager (Shopify)\n\nVill du få praktisk erfarenhet av att driva en växande e-handel?\n\nByggöverskott.se söker en engagerad LIA-praktikant som vill utvecklas inom e-handel och vara med och bygga ett snabbt växande företag.\n\nHos oss får du arbeta med verkliga projekt där ditt arbete gör skillnad. Du får insyn i hela e-handelsprocessen allt från produktpublicering och SEO till marknadsföring och konverteringsoptimering.\n\nOm bolaget:\n\nVi köper in begagnat och överskott av byggmaterial för att sedan sälja det vidare till marknadens lägsta pris. På så sätt kan vi erbjuda våra kunder låga priser, högt kvalitet av välkända märken och samtidigt göra en stor insats för miljlön",
+    "deadline": "2026-09-01",
+    "desc": "Do you get a kick out of opening doors that were closed five minutes ago? Interested in AI, emerging technology and learning how enterprise deals actually get done?\n\nWe are looking for a driven and curious LIA Intern to help us build pipeline and drive revenue as we scale across Europe.\n\nAbout Us\n\nAt Antrino Labs, we&#x27;re building the next generation of AI powered visual intelligence. Our technology transforms cameras into intelligent systems capable of understanding what&#x27;s happening in the real world using advanced Video Language Models (VLMs) and Computer Vision.\n\nWhat You&#x27;ll Do\n\nAs our SDR Intern, you&#x27;ll work closely with our team to:\n\nProspect and research target accoun",
     "contact": "",
-    "email": "mailto:jobb@byggoverskott.se",
+    "email": "mailto:ludvig@antrinolabs.com",
     "antal": 1,
-    "postedAt": "2026-07-05",
+    "postedAt": "2026-07-27",
     "source": "jobbsafari.se",
-    "sourceUrl": "mailto:jobb@byggoverskott.se"
+    "sourceUrl": "mailto:ludvig@antrinolabs.com"
   },
   {
     "id": "js-20452169",
