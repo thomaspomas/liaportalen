@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-08-08T04:11:53.307Z
+// Autogenererad av scraper.js – 2026-08-09T04:18:53.084Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -34,22 +34,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20225451",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n\nViktigt att veta:\n\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-28",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20409248",
     "company": "Consid AB",
     "role": "LIA för hösten 2026",
@@ -64,6 +48,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-07-02",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.consid.com/sv/karriar/lediga-tjanster/test-qa/lia-for-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20225451",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n\nViktigt att veta:\n\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-28",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20380998",
@@ -114,22 +114,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20461306",
-    "company": "Jobway AB",
-    "role": "LIA inom Digital Marknadsföring - Content & SEO/AEO",
-    "ort": "Stockholm",
-    "utbildning": "Dataanalys och datahantering",
-    "period": "",
-    "deadline": "2026-09-03",
-    "desc": "LIA inom Digital Marknadsföring - Content & SEO/AEO (2 platser)\n\nVill du få praktisk erfarenhet av hur digital marknadsföring faktiskt driver trafik och affär? Vi söker nu 2 LIA-praktikanter som vill utvecklas inom content, SEO och AI-sök (AEO).\n\nDet här kommer du jobba med:\n\nSkapa content och optimera texter för både Google och AI-sök\n\nGöra enklare analyser av trafik, ranking och innehållets prestation\n\nStötta i produktion av content och utskick inom email marknadsföring\n\nVara med och testa vad som faktiskt fungerar och iterera därefter\n\nDu kommer få lära dig:\n\nHur digital marknadsföring driver trafik, leads och affär\n\nHur man optimerar för att ranka på Google \n\nHur man optimerar content fö",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-08-02",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://pnty-apply.ponty-system.se/jobway?id=5604&pnty_src=platsbanken&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-18246365",
     "company": "Conversionista!",
     "role": "Internship (LIA) at Conversionista - Inbound Marketer",
@@ -178,6 +162,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "mailto:jobb@byggoverskott.se"
   },
   {
+    "id": "js-20452169",
+    "company": "Preventai AB",
+    "role": "LIA Internship  Social Media & Content Creator (AI)",
+    "ort": "Stockholm",
+    "utbildning": "Praktikplatser",
+    "period": "",
+    "deadline": "2026-08-27",
+    "desc": "Are you passionate about creating content that people actually want to watch? Interested in AI, emerging technology and being part of building a brand?\n\nWe are looking for a creative and driven LIA Intern to help grow our presence across Instagram, TikTok, Snapchat, X and LinkedIn.\n\nAbout Us\n\nAt Antrino Labs, we&#x27;re building the next generation of AI powered visual intelligence. Our technology transforms cameras into intelligent systems capable of understanding what&#x27;s happening in the real world using advanced Video Language Models (VLMs) and Computer Vision.\n\nWhat You&#x27;ll Do\n\nAs our Social Media & Content Intern, you&#x27;ll work closely with our team to:\n\nCreate engaging conte",
+    "contact": "",
+    "email": "mailto:amanda@antrinolabs.com",
+    "antal": 1,
+    "postedAt": "2026-07-27",
+    "source": "jobbsafari.se",
+    "sourceUrl": "mailto:amanda@antrinolabs.com"
+  },
+  {
     "id": "js-20401155",
     "company": "Sweco",
     "role": "LIA-praktik inom järnväg till flertalet orter hösten 2026",
@@ -208,22 +208,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-07-27",
     "source": "jobbsafari.se",
     "sourceUrl": "mailto:ludvig@antrinolabs.com"
-  },
-  {
-    "id": "js-20452169",
-    "company": "Preventai AB",
-    "role": "LIA Internship  Social Media & Content Creator (AI)",
-    "ort": "Stockholm",
-    "utbildning": "Praktikplatser",
-    "period": "",
-    "deadline": "2026-08-27",
-    "desc": "Are you passionate about creating content that people actually want to watch? Interested in AI, emerging technology and being part of building a brand?\n\nWe are looking for a creative and driven LIA Intern to help grow our presence across Instagram, TikTok, Snapchat, X and LinkedIn.\n\nAbout Us\n\nAt Antrino Labs, we&#x27;re building the next generation of AI powered visual intelligence. Our technology transforms cameras into intelligent systems capable of understanding what&#x27;s happening in the real world using advanced Video Language Models (VLMs) and Computer Vision.\n\nWhat You&#x27;ll Do\n\nAs our Social Media & Content Intern, you&#x27;ll work closely with our team to:\n\nCreate engaging conte",
-    "contact": "",
-    "email": "mailto:amanda@antrinolabs.com",
-    "antal": 1,
-    "postedAt": "2026-07-27",
-    "source": "jobbsafari.se",
-    "sourceUrl": "mailto:amanda@antrinolabs.com"
   },
   {
     "id": "js-20243217",
