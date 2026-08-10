@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-08-09T04:18:53.084Z
+// Autogenererad av scraper.js – 2026-08-10T04:39:00.417Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -18,22 +18,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://bygghemmase.teamtailor.com/jobs/7859740-lia-internship?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20235014",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-30",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20409248",
     "company": "Consid AB",
     "role": "LIA för hösten 2026",
@@ -48,6 +32,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-07-02",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.consid.com/sv/karriar/lediga-tjanster/test-qa/lia-for-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20235014",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-30",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20225451",
