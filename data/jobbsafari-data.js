@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-08-10T04:39:00.417Z
+// Autogenererad av scraper.js – 2026-08-11T04:20:42.256Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -146,38 +146,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8362534385162066079&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20418144",
-    "company": "Badfors AB",
-    "role": "E-commerce Manager Internship - LIA-praktik för student",
-    "ort": "De nordiska länderna",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": "2026-08-31",
-    "desc": "LIA-praktik för E-commerce Manager (Shopify)\n\nVill du få praktisk erfarenhet av att driva en växande e-handel?\n\nByggöverskott.se söker en engagerad LIA-praktikant som vill utvecklas inom e-handel och vara med och bygga ett snabbt växande företag.\n\nHos oss får du arbeta med verkliga projekt där ditt arbete gör skillnad. Du får insyn i hela e-handelsprocessen allt från produktpublicering och SEO till marknadsföring och konverteringsoptimering.\n\nOm bolaget:\n\nVi köper in begagnat och överskott av byggmaterial för att sedan sälja det vidare till marknadens lägsta pris. På så sätt kan vi erbjuda våra kunder låga priser, högt kvalitet av välkända märken och samtidigt göra en stor insats för miljlön",
-    "contact": "",
-    "email": "mailto:jobb@byggoverskott.se",
-    "antal": 1,
-    "postedAt": "2026-07-05",
-    "source": "jobbsafari.se",
-    "sourceUrl": "mailto:jobb@byggoverskott.se"
-  },
-  {
-    "id": "js-20452169",
-    "company": "Preventai AB",
-    "role": "LIA Internship  Social Media & Content Creator (AI)",
-    "ort": "Stockholm",
-    "utbildning": "Praktikplatser",
-    "period": "",
-    "deadline": "2026-08-27",
-    "desc": "Are you passionate about creating content that people actually want to watch? Interested in AI, emerging technology and being part of building a brand?\n\nWe are looking for a creative and driven LIA Intern to help grow our presence across Instagram, TikTok, Snapchat, X and LinkedIn.\n\nAbout Us\n\nAt Antrino Labs, we&#x27;re building the next generation of AI powered visual intelligence. Our technology transforms cameras into intelligent systems capable of understanding what&#x27;s happening in the real world using advanced Video Language Models (VLMs) and Computer Vision.\n\nWhat You&#x27;ll Do\n\nAs our Social Media & Content Intern, you&#x27;ll work closely with our team to:\n\nCreate engaging conte",
-    "contact": "",
-    "email": "mailto:amanda@antrinolabs.com",
-    "antal": 1,
-    "postedAt": "2026-07-27",
-    "source": "jobbsafari.se",
-    "sourceUrl": "mailto:amanda@antrinolabs.com"
-  },
-  {
     "id": "js-20401155",
     "company": "Sweco",
     "role": "LIA-praktik inom järnväg till flertalet orter hösten 2026",
@@ -208,6 +176,38 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-07-27",
     "source": "jobbsafari.se",
     "sourceUrl": "mailto:ludvig@antrinolabs.com"
+  },
+  {
+    "id": "js-20418144",
+    "company": "Badfors AB",
+    "role": "E-commerce Manager Internship - LIA-praktik för student",
+    "ort": "De nordiska länderna",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": "2026-08-31",
+    "desc": "LIA-praktik för E-commerce Manager (Shopify)\n\nVill du få praktisk erfarenhet av att driva en växande e-handel?\n\nByggöverskott.se söker en engagerad LIA-praktikant som vill utvecklas inom e-handel och vara med och bygga ett snabbt växande företag.\n\nHos oss får du arbeta med verkliga projekt där ditt arbete gör skillnad. Du får insyn i hela e-handelsprocessen allt från produktpublicering och SEO till marknadsföring och konverteringsoptimering.\n\nOm bolaget:\n\nVi köper in begagnat och överskott av byggmaterial för att sedan sälja det vidare till marknadens lägsta pris. På så sätt kan vi erbjuda våra kunder låga priser, högt kvalitet av välkända märken och samtidigt göra en stor insats för miljlön",
+    "contact": "",
+    "email": "mailto:jobb@byggoverskott.se",
+    "antal": 1,
+    "postedAt": "2026-07-05",
+    "source": "jobbsafari.se",
+    "sourceUrl": "mailto:jobb@byggoverskott.se"
+  },
+  {
+    "id": "js-20452169",
+    "company": "Preventai AB",
+    "role": "LIA Internship  Social Media & Content Creator (AI)",
+    "ort": "Stockholm",
+    "utbildning": "Praktikplatser",
+    "period": "",
+    "deadline": "2026-08-27",
+    "desc": "Are you passionate about creating content that people actually want to watch? Interested in AI, emerging technology and being part of building a brand?\n\nWe are looking for a creative and driven LIA Intern to help grow our presence across Instagram, TikTok, Snapchat, X and LinkedIn.\n\nAbout Us\n\nAt Antrino Labs, we&#x27;re building the next generation of AI powered visual intelligence. Our technology transforms cameras into intelligent systems capable of understanding what&#x27;s happening in the real world using advanced Video Language Models (VLMs) and Computer Vision.\n\nWhat You&#x27;ll Do\n\nAs our Social Media & Content Intern, you&#x27;ll work closely with our team to:\n\nCreate engaging conte",
+    "contact": "",
+    "email": "mailto:amanda@antrinolabs.com",
+    "antal": 1,
+    "postedAt": "2026-07-27",
+    "source": "jobbsafari.se",
+    "sourceUrl": "mailto:amanda@antrinolabs.com"
   },
   {
     "id": "js-20243217",
