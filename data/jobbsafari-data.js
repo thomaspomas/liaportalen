@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-08-12T04:47:45.488Z
+// Autogenererad av scraper.js – 2026-08-13T04:51:45.257Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -16,22 +16,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-06-04",
     "source": "jobbsafari.se",
     "sourceUrl": "https://bygghemmase.teamtailor.com/jobs/7859740-lia-internship?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20235014",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-30",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20409248",
@@ -64,6 +48,38 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-04-28",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20235014",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-30",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20483152",
+    "company": "Consort Nordic AB",
+    "role": "LIA - Account Manager inom Försäljning",
+    "ort": "Göteborg",
+    "utbildning": "Försäljning",
+    "period": "",
+    "deadline": "2027-02-07",
+    "desc": "Vill du lära dig komplex tjänsteförsäljning på riktigt och samtidigt vara med och forma framtidens AI-drivna erbjudande?\n\nVi söker nu två LIA-studenter till vårt säljteam, som under sin praktikperiod kommer att jobba med både Consort Nordics tjänsteportfölj och vårt AI-bolag Alida One. Det är en unik chans att gå från traditionell tjänsteförsäljning till att sälja morgondagens AI-lösningar - ofta till samma kunder, samma dag.\n\nOm oss\n\nConsort är ett tillväxtbolag med kunder utspridda över hela Norden. Vi tror på uppföljning, träning och att ge dig verktygen att bygga ditt eget sätt att sälja inte en mall du ska följa. Hos oss är det högt i tak, socialt på kontoret och kort väg från idé till ",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-08-10",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.consortnordic.se/jobs/8187024-lia-account-manager-inom-forsaljning/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20380998",
@@ -114,20 +130,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-18246365",
-    "company": "Conversionista!",
-    "role": "Internship (LIA) at Conversionista - Inbound Marketer",
+    "id": "js-20483959",
+    "company": "Swedish for Professionals",
+    "role": "LIA inom Content & Digital Marketing 🚀",
     "ort": "Stockholm",
-    "utbildning": "Praktikplatser",
+    "utbildning": "",
     "period": "",
     "deadline": null,
-    "desc": "Internship Overview\n\nLocation: Conversionista, Stockholm \nDuration: 3 Months (with possibility of extension)\nStartdate: 19th of August \n\nAre you a marketing enthusiast with a passion for creating engaging content and driving organic growth? Do you have a talent for understanding customer journeys and converting visitors into leads? Join us at Conversionista as an Inbound Marketing Intern and kickstart your career in a dynamic, data-driven environment! \nAs an intern at Conversionista, you will work alongside our expert consultants, commercial team, and MarCom department, and get the opportunity to engage with established, well-known companies. This hands-on experience will allow you to apply ",
+    "desc": "LIA inom Content & Digital Marketing 🚀 \nÄr du en driven och nyfiken person med intresse för content, kommunikation och digital marknadsföring? Då kanske din LIA-period hos oss på SpeakCharlie är något för dig!\n\nHos oss får du chansen att omsätta dina kunskaper i praktiken, testa dina idéer och utvecklas inom content och digital marknadsföring - samtidigt som du är med och bidrar till vårt varumärke och vår mission att hjälpa fler internationella talanger att lyckas i Sverige. 🌍\n\nUnder din LIA får du:\n👉 Vara med och skapa content för våra digitala kanaler \n\n👉 Utveckla dina färdigheter inom copywriting och sociala medier \n\n👉 Ta eget ansvar och driva egna idéer \n\n👉 Få nära handledning, fe",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2024-05-23",
+    "postedAt": "2026-08-12",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://thehub.io/jobs/6a7bb7f76cd84825d6ab3dcc?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20408011",
@@ -146,6 +162,38 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8362534385162066079&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-18246365",
+    "company": "Conversionista!",
+    "role": "Internship (LIA) at Conversionista - Inbound Marketer",
+    "ort": "Stockholm",
+    "utbildning": "Praktikplatser",
+    "period": "",
+    "deadline": null,
+    "desc": "Internship Overview\n\nLocation: Conversionista, Stockholm \nDuration: 3 Months (with possibility of extension)\nStartdate: 19th of August \n\nAre you a marketing enthusiast with a passion for creating engaging content and driving organic growth? Do you have a talent for understanding customer journeys and converting visitors into leads? Join us at Conversionista as an Inbound Marketing Intern and kickstart your career in a dynamic, data-driven environment! \nAs an intern at Conversionista, you will work alongside our expert consultants, commercial team, and MarCom department, and get the opportunity to engage with established, well-known companies. This hands-on experience will allow you to apply ",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2024-05-23",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20374374",
+    "company": "itm8 Sweden",
+    "role": "Praktik eller LIA hos itm8 Sverige",
+    "ort": "Helsingborg",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": null,
+    "desc": "Är du en nyfiken och teknikintresserad student som vill omsätta teori i praktik? Hos oss får du arbeta hands-on med modern teknik, utveckling och problemlösning i ett team som brinner för innovation.\n\nSom LIA-student får du möjlighet att testa, utveckla och bredda dina kunskaper - oavsett om du är inriktad på utveckling, IT-support, data/AI eller systemadministration. Du blir en del av riktiga projekt och får stöd av kollegor som gärna delar med sig av sin kompetens.\n\nVi söker dig som vill växa, vågar fråga och älskar att hitta smarta lösningar.\n\nSkicka in din intresseanmälan för din praktik eller LIA så kanske det är hos oss du tar nästa steg i din utveckling.\n\nCreating the Difference - tod",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-03-18",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://join.itm8.se/jobs/7427424-praktik-eller-lia-hos-itm8-sverige?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20418144",
     "company": "Badfors AB",
     "role": "E-commerce Manager Internship - LIA-praktik för student",
@@ -160,22 +208,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-07-05",
     "source": "jobbsafari.se",
     "sourceUrl": "mailto:jobb@byggoverskott.se"
-  },
-  {
-    "id": "js-20401155",
-    "company": "Sweco",
-    "role": "LIA-praktik inom järnväg till flertalet orter hösten 2026",
-    "ort": "Sverige",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": "2026-09-30",
-    "desc": "Sweco är Sveriges ledande teknikkonsult inom järnväg och tillhandahåller tjänster i alla typer av uppdrag, från små utredningar till stora multidisciplinära infrastrukturuppdrag. Vi erbjuder projektering, design och specialisttjänster - av samtliga ingående komponenter och tekniker - för planering, byggande samt drift och underhåll av anläggningar för spårburen trafik.\n\nVarför ha LIA-praktik hos oss?\nOm du som student söker en spännande, utmanade och studierelaterad praktik är Sweco rätt plats för dig. Inför hösten 2026 erbjuder vi ett antal studenter LIA-praktik hos oss i Stockholm, Norrköping och Västerås. En del av praktiken kommer också att kunna ske på distans. \n\nDina uppgifter blir att",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-06-30",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.sweco.se/karriar/ansok-har/?rmpage=apply&rmjob=25277&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20452169",
@@ -194,20 +226,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "mailto:amanda@antrinolabs.com"
   },
   {
-    "id": "js-20452347",
-    "company": "Preventai AB",
-    "role": "LIA Internship Sales Development Representative (SDR)",
-    "ort": "Stockholm",
-    "utbildning": "Försäljning",
+    "id": "js-20401155",
+    "company": "Sweco",
+    "role": "LIA-praktik inom järnväg till flertalet orter hösten 2026",
+    "ort": "Sverige",
+    "utbildning": "Distansarbete",
     "period": "",
-    "deadline": "2026-09-01",
-    "desc": "Do you get a kick out of opening doors that were closed five minutes ago? Interested in AI, emerging technology and learning how enterprise deals actually get done?\n\nWe are looking for a driven and curious LIA Intern to help us build pipeline and drive revenue as we scale across Europe.\n\nAbout Us\n\nAt Antrino Labs, we&#x27;re building the next generation of AI powered visual intelligence. Our technology transforms cameras into intelligent systems capable of understanding what&#x27;s happening in the real world using advanced Video Language Models (VLMs) and Computer Vision.\n\nWhat You&#x27;ll Do\n\nAs our SDR Intern, you&#x27;ll work closely with our team to:\n\nProspect and research target accoun",
+    "deadline": "2026-09-30",
+    "desc": "Sweco är Sveriges ledande teknikkonsult inom järnväg och tillhandahåller tjänster i alla typer av uppdrag, från små utredningar till stora multidisciplinära infrastrukturuppdrag. Vi erbjuder projektering, design och specialisttjänster - av samtliga ingående komponenter och tekniker - för planering, byggande samt drift och underhåll av anläggningar för spårburen trafik.\n\nVarför ha LIA-praktik hos oss?\nOm du som student söker en spännande, utmanade och studierelaterad praktik är Sweco rätt plats för dig. Inför hösten 2026 erbjuder vi ett antal studenter LIA-praktik hos oss i Stockholm, Norrköping och Västerås. En del av praktiken kommer också att kunna ske på distans. \n\nDina uppgifter blir att",
     "contact": "",
-    "email": "mailto:ludvig@antrinolabs.com",
+    "email": "",
     "antal": 1,
-    "postedAt": "2026-07-27",
+    "postedAt": "2026-06-30",
     "source": "jobbsafari.se",
-    "sourceUrl": "mailto:ludvig@antrinolabs.com"
+    "sourceUrl": "https://www.sweco.se/karriar/ansok-har/?rmpage=apply&rmjob=25277&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20243217",
@@ -224,6 +256,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-05-03",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20452347",
+    "company": "Preventai AB",
+    "role": "LIA Internship Sales Development Representative (SDR)",
+    "ort": "Stockholm",
+    "utbildning": "Försäljning",
+    "period": "",
+    "deadline": "2026-09-01",
+    "desc": "Do you get a kick out of opening doors that were closed five minutes ago? Interested in AI, emerging technology and learning how enterprise deals actually get done?\n\nWe are looking for a driven and curious LIA Intern to help us build pipeline and drive revenue as we scale across Europe.\n\nAbout Us\n\nAt Antrino Labs, we&#x27;re building the next generation of AI powered visual intelligence. Our technology transforms cameras into intelligent systems capable of understanding what&#x27;s happening in the real world using advanced Video Language Models (VLMs) and Computer Vision.\n\nWhat You&#x27;ll Do\n\nAs our SDR Intern, you&#x27;ll work closely with our team to:\n\nProspect and research target accoun",
+    "contact": "",
+    "email": "mailto:ludvig@antrinolabs.com",
+    "antal": 1,
+    "postedAt": "2026-07-27",
+    "source": "jobbsafari.se",
+    "sourceUrl": "mailto:ludvig@antrinolabs.com"
   },
   {
     "id": "js-20403063",
