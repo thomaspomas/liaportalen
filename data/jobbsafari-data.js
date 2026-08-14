@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-08-13T04:51:45.257Z
+// Autogenererad av scraper.js – 2026-08-14T04:49:08.051Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -66,22 +66,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20483152",
-    "company": "Consort Nordic AB",
-    "role": "LIA - Account Manager inom Försäljning",
-    "ort": "Göteborg",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": "2027-02-07",
-    "desc": "Vill du lära dig komplex tjänsteförsäljning på riktigt och samtidigt vara med och forma framtidens AI-drivna erbjudande?\n\nVi söker nu två LIA-studenter till vårt säljteam, som under sin praktikperiod kommer att jobba med både Consort Nordics tjänsteportfölj och vårt AI-bolag Alida One. Det är en unik chans att gå från traditionell tjänsteförsäljning till att sälja morgondagens AI-lösningar - ofta till samma kunder, samma dag.\n\nOm oss\n\nConsort är ett tillväxtbolag med kunder utspridda över hela Norden. Vi tror på uppföljning, träning och att ge dig verktygen att bygga ditt eget sätt att sälja inte en mall du ska följa. Hos oss är det högt i tak, socialt på kontoret och kort väg från idé till ",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-08-10",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.consortnordic.se/jobs/8187024-lia-account-manager-inom-forsaljning/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20380998",
     "company": "A.P. Møller - Maersk A/S",
     "role": "Praktik/LIA - Underhållstekniker",
@@ -96,6 +80,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-06-17",
     "source": "jobbsafari.se",
     "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20483152",
+    "company": "Consort Nordic AB",
+    "role": "LIA - Account Manager inom Försäljning",
+    "ort": "Göteborg",
+    "utbildning": "Försäljning",
+    "period": "",
+    "deadline": "2027-02-07",
+    "desc": "Vill du lära dig komplex tjänsteförsäljning på riktigt och samtidigt vara med och forma framtidens AI-drivna erbjudande?\n\nVi söker nu två LIA-studenter till vårt säljteam, som under sin praktikperiod kommer att jobba med både Consort Nordics tjänsteportfölj och vårt AI-bolag Alida One. Det är en unik chans att gå från traditionell tjänsteförsäljning till att sälja morgondagens AI-lösningar - ofta till samma kunder, samma dag.\n\nOm oss\n\nConsort är ett tillväxtbolag med kunder utspridda över hela Norden. Vi tror på uppföljning, träning och att ge dig verktygen att bygga ditt eget sätt att sälja inte en mall du ska följa. Hos oss är det högt i tak, socialt på kontoret och kort väg från idé till ",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-08-10",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.consortnordic.se/jobs/8187024-lia-account-manager-inom-forsaljning/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20388276",
