@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-08-14T04:49:08.051Z
+// Autogenererad av scraper.js – 2026-08-15T03:40:16.878Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -34,6 +34,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.consid.com/sv/karriar/lediga-tjanster/test-qa/lia-for-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20380998",
+    "company": "A.P. Møller - Maersk A/S",
+    "role": "Praktik/LIA - Underhållstekniker",
+    "ort": "Göteborg",
+    "utbildning": "Installation, drift och underhåll",
+    "period": "",
+    "deadline": null,
+    "desc": "APM Terminals\n\nPraktik / LIA - Underhållstekniker\n\nVill du få praktisk erfarenhet av teknik och arbeta med stora maskiner i en samhällsviktig industrimiljö? Nu söker vi praktikanter till vår underhållsverksamhet under hösten 2026 och vintern 2027.\n\nHos oss får du vara med i det dagliga arbetet i verkstaden och lära dig yrket på riktigt - tillsammans med erfarna tekniker.\n\nVad du får göra\n\nSom praktikant deltar du i underhållsarbetet och får testa på uppgifter som att:\nAssistera vid service och underhåll av maskinerVara med vid felsökning och enklare reparationerArbeta med el, mekanik och hydraulik (utifrån din nivå)Bidra till ordning och säkerhet i verkstaden\nVad vi erbjuder\nPraktisk erfaren",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-06-17",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20225451",
     "company": "Atea",
     "role": "Spontanansökan för LIA - Region Mitt",
@@ -66,22 +82,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20380998",
-    "company": "A.P. Møller - Maersk A/S",
-    "role": "Praktik/LIA - Underhållstekniker",
-    "ort": "Göteborg",
-    "utbildning": "Installation, drift och underhåll",
-    "period": "",
-    "deadline": null,
-    "desc": "APM Terminals\n\nPraktik / LIA - Underhållstekniker\n\nVill du få praktisk erfarenhet av teknik och arbeta med stora maskiner i en samhällsviktig industrimiljö? Nu söker vi praktikanter till vår underhållsverksamhet under hösten 2026 och vintern 2027.\n\nHos oss får du vara med i det dagliga arbetet i verkstaden och lära dig yrket på riktigt - tillsammans med erfarna tekniker.\n\nVad du får göra\n\nSom praktikant deltar du i underhållsarbetet och får testa på uppgifter som att:\nAssistera vid service och underhåll av maskinerVara med vid felsökning och enklare reparationerArbeta med el, mekanik och hydraulik (utifrån din nivå)Bidra till ordning och säkerhet i verkstaden\nVad vi erbjuder\nPraktisk erfaren",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-06-17",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20483152",
     "company": "Consort Nordic AB",
     "role": "LIA - Account Manager inom Försäljning",
@@ -96,22 +96,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-08-10",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobb.consortnordic.se/jobs/8187024-lia-account-manager-inom-forsaljning/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20388276",
-    "company": "EUSTAFF SWEDEN AB",
-    "role": "LIA - AM & SALES",
-    "ort": "Göteborg",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": "2026-09-30",
-    "desc": "Eustaff är ett företag som ser styrkan i mångfald och värdet av olika perspektiv. Med verksamhet i flera länder runt om i Europa och världen, har vi lång erfarenhet av att arbeta med och skapa framgångsrika team som drar nytta av sina medarbetares olika kulturer, bakgrunder och kompetenser.\n\nVi erbjuder möjligheter inom en rad olika branscher och ser till att varje kandidat och kund får den bästa lösningen utifrån sina unika behov. För oss är kvalitet, engagemang och långsiktighet grunden i allt vi gör.\n\nVill du bli en del av ett internationellt och dynamiskt team där du kan utvecklas och göra skillnad? Välkommen att söka jobb hos oss!\n\nLIA-praktik inom B2B-försäljning & Account Management\n\n",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-06-22",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://apply.recman.page/job_post.php?id=480776&apply_only=&sub_id=858&path=ams&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-19686553",
@@ -130,6 +114,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20388276",
+    "company": "EUSTAFF SWEDEN AB",
+    "role": "LIA - AM & SALES",
+    "ort": "Göteborg",
+    "utbildning": "Försäljning",
+    "period": "",
+    "deadline": "2026-09-30",
+    "desc": "Eustaff är ett företag som ser styrkan i mångfald och värdet av olika perspektiv. Med verksamhet i flera länder runt om i Europa och världen, har vi lång erfarenhet av att arbeta med och skapa framgångsrika team som drar nytta av sina medarbetares olika kulturer, bakgrunder och kompetenser.\n\nVi erbjuder möjligheter inom en rad olika branscher och ser till att varje kandidat och kund får den bästa lösningen utifrån sina unika behov. För oss är kvalitet, engagemang och långsiktighet grunden i allt vi gör.\n\nVill du bli en del av ett internationellt och dynamiskt team där du kan utvecklas och göra skillnad? Välkommen att söka jobb hos oss!\n\nLIA-praktik inom B2B-försäljning & Account Management\n\n",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-06-22",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://apply.recman.page/job_post.php?id=480776&apply_only=&sub_id=858&path=ams&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20483959",
     "company": "Swedish for Professionals",
     "role": "LIA inom Content & Digital Marketing 🚀",
@@ -137,7 +137,7 @@ window.JOBBSAFARI_DATA = [
     "utbildning": "",
     "period": "",
     "deadline": null,
-    "desc": "LIA inom Content & Digital Marketing 🚀 \nÄr du en driven och nyfiken person med intresse för content, kommunikation och digital marknadsföring? Då kanske din LIA-period hos oss på SpeakCharlie är något för dig!\n\nHos oss får du chansen att omsätta dina kunskaper i praktiken, testa dina idéer och utvecklas inom content och digital marknadsföring - samtidigt som du är med och bidrar till vårt varumärke och vår mission att hjälpa fler internationella talanger att lyckas i Sverige. 🌍\n\nUnder din LIA får du:\n👉 Vara med och skapa content för våra digitala kanaler \n\n👉 Utveckla dina färdigheter inom copywriting och sociala medier \n\n👉 Ta eget ansvar och driva egna idéer \n\n👉 Få nära handledning, fe",
+    "desc": "LIA inom Content & Digital Marketing 🚀 \n Är du en driven och nyfiken person med intresse för content, kommunikation och digital marknadsföring? Då kanske din LIA-period hos oss på SpeakCharlie är något för dig! \n\n Hos oss får du chansen att omsätta dina kunskaper i praktiken, testa dina idéer och utvecklas inom content och digital marknadsföring - samtidigt som du är med och bidrar till vårt varumärke och vår mission att hjälpa fler internationella talanger att lyckas i Sverige. 🌍 \n\nUnder din LIA får du:\n 👉 Vara med och skapa content för våra digitala kanaler \n 👉 Utveckla dina färdigheter inom copywriting och sociala medier \n 👉 Ta eget ansvar och driva egna idéer \n 👉 Få nära handlednin",
     "contact": "",
     "email": "",
     "antal": 1,
@@ -178,22 +178,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20374374",
-    "company": "itm8 Sweden",
-    "role": "Praktik eller LIA hos itm8 Sverige",
-    "ort": "Helsingborg",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": null,
-    "desc": "Är du en nyfiken och teknikintresserad student som vill omsätta teori i praktik? Hos oss får du arbeta hands-on med modern teknik, utveckling och problemlösning i ett team som brinner för innovation.\n\nSom LIA-student får du möjlighet att testa, utveckla och bredda dina kunskaper - oavsett om du är inriktad på utveckling, IT-support, data/AI eller systemadministration. Du blir en del av riktiga projekt och får stöd av kollegor som gärna delar med sig av sin kompetens.\n\nVi söker dig som vill växa, vågar fråga och älskar att hitta smarta lösningar.\n\nSkicka in din intresseanmälan för din praktik eller LIA så kanske det är hos oss du tar nästa steg i din utveckling.\n\nCreating the Difference - tod",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-03-18",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://join.itm8.se/jobs/7427424-praktik-eller-lia-hos-itm8-sverige?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20418144",
     "company": "Badfors AB",
     "role": "E-commerce Manager Internship - LIA-praktik för student",
@@ -210,20 +194,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "mailto:jobb@byggoverskott.se"
   },
   {
-    "id": "js-20452169",
-    "company": "Preventai AB",
-    "role": "LIA Internship  Social Media & Content Creator (AI)",
+    "id": "js-20243217",
+    "company": "+Moveco AB",
+    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
     "ort": "Stockholm",
-    "utbildning": "Praktikplatser",
+    "utbildning": "Juniorbefattningar",
     "period": "",
-    "deadline": "2026-08-27",
-    "desc": "Are you passionate about creating content that people actually want to watch? Interested in AI, emerging technology and being part of building a brand?\n\nWe are looking for a creative and driven LIA Intern to help grow our presence across Instagram, TikTok, Snapchat, X and LinkedIn.\n\nAbout Us\n\nAt Antrino Labs, we&#x27;re building the next generation of AI powered visual intelligence. Our technology transforms cameras into intelligent systems capable of understanding what&#x27;s happening in the real world using advanced Video Language Models (VLMs) and Computer Vision.\n\nWhat You&#x27;ll Do\n\nAs our Social Media & Content Intern, you&#x27;ll work closely with our team to:\n\nCreate engaging conte",
+    "deadline": "2026-10-31",
+    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
     "contact": "",
-    "email": "mailto:amanda@antrinolabs.com",
+    "email": "",
     "antal": 1,
-    "postedAt": "2026-07-27",
+    "postedAt": "2026-05-03",
     "source": "jobbsafari.se",
-    "sourceUrl": "mailto:amanda@antrinolabs.com"
+    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20401155",
@@ -240,22 +224,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-06-30",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.sweco.se/karriar/ansok-har/?rmpage=apply&rmjob=25277&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20243217",
-    "company": "+Moveco AB",
-    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
-    "ort": "Stockholm",
-    "utbildning": "Juniorbefattningar",
-    "period": "",
-    "deadline": "2026-10-31",
-    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-03",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20452347",
