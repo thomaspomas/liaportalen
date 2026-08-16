@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-08-15T03:40:16.878Z
+// Autogenererad av scraper.js – 2026-08-16T03:49:35.315Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -34,22 +34,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.consid.com/sv/karriar/lediga-tjanster/test-qa/lia-for-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20380998",
-    "company": "A.P. Møller - Maersk A/S",
-    "role": "Praktik/LIA - Underhållstekniker",
-    "ort": "Göteborg",
-    "utbildning": "Installation, drift och underhåll",
-    "period": "",
-    "deadline": null,
-    "desc": "APM Terminals\n\nPraktik / LIA - Underhållstekniker\n\nVill du få praktisk erfarenhet av teknik och arbeta med stora maskiner i en samhällsviktig industrimiljö? Nu söker vi praktikanter till vår underhållsverksamhet under hösten 2026 och vintern 2027.\n\nHos oss får du vara med i det dagliga arbetet i verkstaden och lära dig yrket på riktigt - tillsammans med erfarna tekniker.\n\nVad du får göra\n\nSom praktikant deltar du i underhållsarbetet och får testa på uppgifter som att:\nAssistera vid service och underhåll av maskinerVara med vid felsökning och enklare reparationerArbeta med el, mekanik och hydraulik (utifrån din nivå)Bidra till ordning och säkerhet i verkstaden\nVad vi erbjuder\nPraktisk erfaren",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-06-17",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20225451",
     "company": "Atea",
     "role": "Spontanansökan för LIA - Region Mitt",
@@ -64,6 +48,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-04-28",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20380998",
+    "company": "A.P. Møller - Maersk A/S",
+    "role": "Praktik/LIA - Underhållstekniker",
+    "ort": "Göteborg",
+    "utbildning": "Installation, drift och underhåll",
+    "period": "",
+    "deadline": null,
+    "desc": "APM Terminals\n\nPraktik / LIA - Underhållstekniker\n\nVill du få praktisk erfarenhet av teknik och arbeta med stora maskiner i en samhällsviktig industrimiljö? Nu söker vi praktikanter till vår underhållsverksamhet under hösten 2026 och vintern 2027.\n\nHos oss får du vara med i det dagliga arbetet i verkstaden och lära dig yrket på riktigt - tillsammans med erfarna tekniker.\n\nVad du får göra\n\nSom praktikant deltar du i underhållsarbetet och får testa på uppgifter som att:\nAssistera vid service och underhåll av maskinerVara med vid felsökning och enklare reparationerArbeta med el, mekanik och hydraulik (utifrån din nivå)Bidra till ordning och säkerhet i verkstaden\nVad vi erbjuder\nPraktisk erfaren",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-06-17",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20235014",
@@ -98,22 +98,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.consortnordic.se/jobs/8187024-lia-account-manager-inom-forsaljning/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-19686553",
-    "company": "Done",
-    "role": "LiA/Praktik: B2B-försäljning",
-    "ort": "Stockholm",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": null,
-    "desc": "Är du student inom B2B-försäljning och vill utveckla dina kunskaper inom försäljning, kundkommunikation och account management? Trivs du i en inspirerande miljö där det digitala står i fokus? Söker du praktikperiod under vintern/våren 2025/2026? Då kan du vara den vi letar efter!\n\nI rollen som säljare ansvarar du bland annat för att hitta, kontakta och följa upp med nya och existerande företag anknutna till Done. Då vi är en snabbväxande startup innebär rollen mycket eget ansvar och möjlighet att växa med bolaget även efter praktiken.\n\nExempel på arbetsuppgifter och projekt:Prospektering: hitta Sveriges bästa hantverkare.Nykundsbearbetning: från lead till aktiv hantverkare.Kontinuerlig uppfö",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2025-10-17",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20388276",
     "company": "EUSTAFF SWEDEN AB",
     "role": "LIA - AM & SALES",
@@ -128,6 +112,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-06-22",
     "source": "jobbsafari.se",
     "sourceUrl": "https://apply.recman.page/job_post.php?id=480776&apply_only=&sub_id=858&path=ams&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-19686553",
+    "company": "Done",
+    "role": "LiA/Praktik: B2B-försäljning",
+    "ort": "Stockholm",
+    "utbildning": "Försäljning",
+    "period": "",
+    "deadline": null,
+    "desc": "Är du student inom B2B-försäljning och vill utveckla dina kunskaper inom försäljning, kundkommunikation och account management? Trivs du i en inspirerande miljö där det digitala står i fokus? Söker du praktikperiod under vintern/våren 2025/2026? Då kan du vara den vi letar efter!\n\nI rollen som säljare ansvarar du bland annat för att hitta, kontakta och följa upp med nya och existerande företag anknutna till Done. Då vi är en snabbväxande startup innebär rollen mycket eget ansvar och möjlighet att växa med bolaget även efter praktiken.\n\nExempel på arbetsuppgifter och projekt:Prospektering: hitta Sveriges bästa hantverkare.Nykundsbearbetning: från lead till aktiv hantverkare.Kontinuerlig uppfö",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2025-10-17",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20483959",
@@ -194,22 +194,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "mailto:jobb@byggoverskott.se"
   },
   {
-    "id": "js-20243217",
-    "company": "+Moveco AB",
-    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
-    "ort": "Stockholm",
-    "utbildning": "Juniorbefattningar",
-    "period": "",
-    "deadline": "2026-10-31",
-    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-05-03",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20401155",
     "company": "Sweco",
     "role": "LIA-praktik inom järnväg till flertalet orter hösten 2026",
@@ -242,6 +226,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "mailto:ludvig@antrinolabs.com"
   },
   {
+    "id": "js-20243217",
+    "company": "+Moveco AB",
+    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
+    "ort": "Stockholm",
+    "utbildning": "Juniorbefattningar",
+    "period": "",
+    "deadline": "2026-10-31",
+    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-05-03",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20403063",
     "company": "SWECO Sverige AB",
     "role": "LIA-praktik inom järnväg till flertalet orter hösten 2026",
@@ -256,22 +256,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-07-01",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.sweco.se/karriar/lediga-tjanster/lia-praktik-inom-jarnvag-till-flertalet-orter-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20380488",
-    "company": "Devoteam",
-    "role": "Hösten 2026,\"Business Development Representative (BDR) \" LIA - Gör jobbet, lär dig spelet",
-    "ort": "Malmö",
-    "utbildning": "Ledande befattningar",
-    "period": "",
-    "deadline": null,
-    "desc": "Company Description\n\nDevoteam ger organisationer möjlighet att accelerera sin framgång genom att utnyttja de senaste framstegen inom moln, data, AI och moderna digitala tjänster. Vi går bortom trendiga termer och fokuserar på att leverera meningsfull och praktisk värde genom våra specialiserade enheter: Google Cloud, ServiceNow Platform och Creative Tech Sweden.\n\nVåra svenska kontor i Stockholm, Göteborg, Halmstad, Helsingborg och Malmö är en del av vår nordiska struktur: ambitiösa, samarbetsinriktade och resultatinriktade. Vi fattar beslut snabbt, vi stöttar varandra i teamen och vi förväntar oss att alla bidrar med verkligt ansvarstagande.\n\nOm du vill vara en del av en plats där lärandet s",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-06-16",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobs.smartrecruiters.com/Devoteam/744000132623719-hosten-2026-business-development-representative-bdr-lia-gor-jobbet-lar-dig-spelet?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-18186921",
