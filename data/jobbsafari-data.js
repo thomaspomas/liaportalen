@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-08-18T03:45:22.576Z
+// Autogenererad av scraper.js – 2026-08-19T03:48:06.634Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -34,22 +34,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.consid.com/sv/karriar/lediga-tjanster/test-qa/lia-for-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20380998",
-    "company": "A.P. Møller - Maersk A/S",
-    "role": "Praktik/LIA - Underhållstekniker",
-    "ort": "Göteborg",
-    "utbildning": "Installation, drift och underhåll",
-    "period": "",
-    "deadline": null,
-    "desc": "APM Terminals\n\nPraktik / LIA - Underhållstekniker\n\nVill du få praktisk erfarenhet av teknik och arbeta med stora maskiner i en samhällsviktig industrimiljö? Nu söker vi praktikanter till vår underhållsverksamhet under hösten 2026 och vintern 2027.\n\nHos oss får du vara med i det dagliga arbetet i verkstaden och lära dig yrket på riktigt - tillsammans med erfarna tekniker.\n\nVad du får göra\n\nSom praktikant deltar du i underhållsarbetet och får testa på uppgifter som att:\nAssistera vid service och underhåll av maskinerVara med vid felsökning och enklare reparationerArbeta med el, mekanik och hydraulik (utifrån din nivå)Bidra till ordning och säkerhet i verkstaden\nVad vi erbjuder\nPraktisk erfaren",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-06-17",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20225451",
     "company": "Atea",
     "role": "Spontanansökan för LIA - Region Mitt",
@@ -64,6 +48,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-04-28",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20380998",
+    "company": "A.P. Møller - Maersk A/S",
+    "role": "Praktik/LIA - Underhållstekniker",
+    "ort": "Göteborg",
+    "utbildning": "Installation, drift och underhåll",
+    "period": "",
+    "deadline": null,
+    "desc": "APM Terminals\n\nPraktik / LIA - Underhållstekniker\n\nVill du få praktisk erfarenhet av teknik och arbeta med stora maskiner i en samhällsviktig industrimiljö? Nu söker vi praktikanter till vår underhållsverksamhet under hösten 2026 och vintern 2027.\n\nHos oss får du vara med i det dagliga arbetet i verkstaden och lära dig yrket på riktigt - tillsammans med erfarna tekniker.\n\nVad du får göra\n\nSom praktikant deltar du i underhållsarbetet och får testa på uppgifter som att:\nAssistera vid service och underhåll av maskinerVara med vid felsökning och enklare reparationerArbeta med el, mekanik och hydraulik (utifrån din nivå)Bidra till ordning och säkerhet i verkstaden\nVad vi erbjuder\nPraktisk erfaren",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-06-17",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20235014",
@@ -82,20 +82,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-19686553",
-    "company": "Done",
-    "role": "LiA/Praktik: B2B-försäljning",
-    "ort": "Stockholm",
+    "id": "js-20483152",
+    "company": "Consort Nordic AB",
+    "role": "LIA - Account Manager inom Försäljning",
+    "ort": "Göteborg",
     "utbildning": "Försäljning",
     "period": "",
-    "deadline": null,
-    "desc": "Är du student inom B2B-försäljning och vill utveckla dina kunskaper inom försäljning, kundkommunikation och account management? Trivs du i en inspirerande miljö där det digitala står i fokus? Söker du praktikperiod under vintern/våren 2025/2026? Då kan du vara den vi letar efter!\n\nI rollen som säljare ansvarar du bland annat för att hitta, kontakta och följa upp med nya och existerande företag anknutna till Done. Då vi är en snabbväxande startup innebär rollen mycket eget ansvar och möjlighet att växa med bolaget även efter praktiken.\n\nExempel på arbetsuppgifter och projekt:Prospektering: hitta Sveriges bästa hantverkare.Nykundsbearbetning: från lead till aktiv hantverkare.Kontinuerlig uppfö",
+    "deadline": "2027-02-07",
+    "desc": "Vill du lära dig komplex tjänsteförsäljning på riktigt och samtidigt vara med och forma framtidens AI-drivna erbjudande?\n\nVi söker nu två LIA-studenter till vårt säljteam, som under sin praktikperiod kommer att jobba med både Consort Nordics tjänsteportfölj och vårt AI-bolag Alida One. Det är en unik chans att gå från traditionell tjänsteförsäljning till att sälja morgondagens AI-lösningar - ofta till samma kunder, samma dag.\n\nOm oss\n\nConsort är ett tillväxtbolag med kunder utspridda över hela Norden. Vi tror på uppföljning, träning och att ge dig verktygen att bygga ditt eget sätt att sälja inte en mall du ska följa. Hos oss är det högt i tak, socialt på kontoret och kort väg från idé till ",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2025-10-17",
+    "postedAt": "2026-08-10",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://jobb.consortnordic.se/jobs/8187024-lia-account-manager-inom-forsaljning/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20492079",
@@ -130,36 +130,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://apply.recman.page/job_post.php?id=480776&apply_only=&sub_id=858&path=ams&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20483152",
-    "company": "Consort Nordic AB",
-    "role": "LIA - Account Manager inom Försäljning",
-    "ort": "Göteborg",
+    "id": "js-19686553",
+    "company": "Done",
+    "role": "LiA/Praktik: B2B-försäljning",
+    "ort": "Stockholm",
     "utbildning": "Försäljning",
     "period": "",
-    "deadline": "2027-02-07",
-    "desc": "Vill du lära dig komplex tjänsteförsäljning på riktigt och samtidigt vara med och forma framtidens AI-drivna erbjudande?\n\nVi söker nu två LIA-studenter till vårt säljteam, som under sin praktikperiod kommer att jobba med både Consort Nordics tjänsteportfölj och vårt AI-bolag Alida One. Det är en unik chans att gå från traditionell tjänsteförsäljning till att sälja morgondagens AI-lösningar - ofta till samma kunder, samma dag.\n\nOm oss\n\nConsort är ett tillväxtbolag med kunder utspridda över hela Norden. Vi tror på uppföljning, träning och att ge dig verktygen att bygga ditt eget sätt att sälja inte en mall du ska följa. Hos oss är det högt i tak, socialt på kontoret och kort väg från idé till ",
+    "deadline": null,
+    "desc": "Är du student inom B2B-försäljning och vill utveckla dina kunskaper inom försäljning, kundkommunikation och account management? Trivs du i en inspirerande miljö där det digitala står i fokus? Söker du praktikperiod under vintern/våren 2025/2026? Då kan du vara den vi letar efter!\n\nI rollen som säljare ansvarar du bland annat för att hitta, kontakta och följa upp med nya och existerande företag anknutna till Done. Då vi är en snabbväxande startup innebär rollen mycket eget ansvar och möjlighet att växa med bolaget även efter praktiken.\n\nExempel på arbetsuppgifter och projekt:Prospektering: hitta Sveriges bästa hantverkare.Nykundsbearbetning: från lead till aktiv hantverkare.Kontinuerlig uppfö",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-08-10",
+    "postedAt": "2025-10-17",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.consortnordic.se/jobs/8187024-lia-account-manager-inom-forsaljning/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20408011",
-    "company": "Region Västernorrland",
-    "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
-    "ort": "Härnösand",
-    "utbildning": "Tandvård",
-    "period": "",
-    "deadline": "2026-12-15",
-    "desc": "Vi är en kraft som binder ihop, håller samman och utvecklar länet. Inom Region Västernorrland är vi alla en del av något större. \n\nFolktandvården Västernorrlands grundläggande uppdrag är att bidra till liv och hälsa i Västernorrland genom att verka för en god munhälsa på lika villkor. Vi erbjuder allmäntandvård och specialisttandvård inom samtliga specialiteter.\nArbetsuppgifterÅrligen tar Folktandvården i Region Västernorrland emot tandsköterskestuderande för lärande i arbetslivet, LIA. Vi erbjuder dig som studerar till tandsköterska LIA i mån av plats. Du har stöd av Folktandvårdens erfarna handledare. Vi har en nära dialog med skolans handledare under LIA-perioderna.\nRegion Västernorrland ",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-07-02",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8362534385162066079&utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20483959",
@@ -178,6 +162,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/6a7bb7f76cd84825d6ab3dcc?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20408011",
+    "company": "Region Västernorrland",
+    "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
+    "ort": "Härnösand",
+    "utbildning": "Tandvård",
+    "period": "",
+    "deadline": "2026-12-15",
+    "desc": "Vi är en kraft som binder ihop, håller samman och utvecklar länet. Inom Region Västernorrland är vi alla en del av något större. \n\nFolktandvården Västernorrlands grundläggande uppdrag är att bidra till liv och hälsa i Västernorrland genom att verka för en god munhälsa på lika villkor. Vi erbjuder allmäntandvård och specialisttandvård inom samtliga specialiteter.\nArbetsuppgifterÅrligen tar Folktandvården i Region Västernorrland emot tandsköterskestuderande för lärande i arbetslivet, LIA. Vi erbjuder dig som studerar till tandsköterska LIA i mån av plats. Du har stöd av Folktandvårdens erfarna handledare. Vi har en nära dialog med skolans handledare under LIA-perioderna.\nRegion Västernorrland ",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-07-02",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8362534385162066079&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-18246365",
     "company": "Conversionista!",
     "role": "Internship (LIA) at Conversionista - Inbound Marketer",
@@ -194,6 +194,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20374374",
+    "company": "itm8 Sweden",
+    "role": "Praktik eller LIA hos itm8 Sverige",
+    "ort": "Helsingborg",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": null,
+    "desc": "Är du en nyfiken och teknikintresserad student som vill omsätta teori i praktik? Hos oss får du arbeta hands-on med modern teknik, utveckling och problemlösning i ett team som brinner för innovation.\n\nSom LIA-student får du möjlighet att testa, utveckla och bredda dina kunskaper - oavsett om du är inriktad på utveckling, IT-support, data/AI eller systemadministration. Du blir en del av riktiga projekt och får stöd av kollegor som gärna delar med sig av sin kompetens.\n\nVi söker dig som vill växa, vågar fråga och älskar att hitta smarta lösningar.\n\nSkicka in din intresseanmälan för din praktik eller LIA så kanske det är hos oss du tar nästa steg i din utveckling.\n\nCreating the Difference - tod",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-03-18",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://join.itm8.se/jobs/7427424-praktik-eller-lia-hos-itm8-sverige?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20418144",
     "company": "Badfors AB",
     "role": "E-commerce Manager Internship - LIA-praktik för student",
@@ -208,6 +224,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-07-05",
     "source": "jobbsafari.se",
     "sourceUrl": "mailto:jobb@byggoverskott.se"
+  },
+  {
+    "id": "js-20498102",
+    "company": "+Moveco AB",
+    "role": "LIA-praktikant Sociala medier, AI-optimering och SEO - Höst 2026",
+    "ort": "Stockholm",
+    "utbildning": "Dataanalys och datahantering",
+    "period": "",
+    "deadline": "2027-02-14",
+    "desc": "Moveco söker en LIA-praktikant hösten 2026 som vill växa och utvecklas inom digital marknadsföring, sociala medier, AI-optimering och kommunikation. Är du affärsdriven, kreativ och vill göra skillnad i ett växande entreprenörsbolag utsedda till ett av Sveriges bästa solcellsföretag? Då är det dig vi söker!\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolt",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-08-17",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.moveco.se/jobs/8234856-lia-praktikant-sociala-medier-ai-optimering-och-seo-host-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20401155",
