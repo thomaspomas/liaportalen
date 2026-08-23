@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-08-22T03:42:55.983Z
+// Autogenererad av scraper.js – 2026-08-23T03:51:39.002Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -34,20 +34,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.consid.com/sv/karriar/lediga-tjanster/test-qa/lia-for-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20503303",
-    "company": "Ansvar och Säkerhet i Europa AB",
-    "role": "Praktik / LIA (Praktikplats)",
-    "ort": "Stockholm",
-    "utbildning": "Tidsbegränsat arbete",
+    "id": "js-20380998",
+    "company": "A.P. Møller - Maersk A/S",
+    "role": "Praktik/LIA - Underhållstekniker",
+    "ort": "Göteborg",
+    "utbildning": "Installation, drift och underhåll",
     "period": "",
-    "deadline": "2026-09-18",
-    "desc": "Går du en utbildning inom säkerhet? Har du erfarenhet av säkerhetsbranschen?\n\nVi välkomnar elever på högskolenivå/universitetsnivå att ansöka om LIA-period/Praktikperiod hos oss!\n\nVi är ett växande säkerhets- och granskningsföretag som arbetar mot arbetslivskriminalitet - för att förebygga och motverka osund konkurrens, fusk och människoexploatering i arbetsmarknaden.\n\nGenom förstärkande tilläggsklausuler i upphandling, bakgrundskontroll och arbetsplatskontroll hjälper ANSVAR SÄKERHET verksamheter och förvaltningar med att undanröja risker och skapa trygga, vita och säkra arbetsplatser.\n\nArbetsuppgifter under en praktikperiod hos oss är varierande beroende på hur arbetsbelastningen ser ut fö",
+    "deadline": null,
+    "desc": "APM Terminals\n\nPraktik / LIA - Underhållstekniker\n\nVill du få praktisk erfarenhet av teknik och arbeta med stora maskiner i en samhällsviktig industrimiljö? Nu söker vi praktikanter till vår underhållsverksamhet under hösten 2026 och vintern 2027.\n\nHos oss får du vara med i det dagliga arbetet i verkstaden och lära dig yrket på riktigt - tillsammans med erfarna tekniker.\n\nVad du får göra\n\nSom praktikant deltar du i underhållsarbetet och får testa på uppgifter som att:\nAssistera vid service och underhåll av maskinerVara med vid felsökning och enklare reparationerArbeta med el, mekanik och hydraulik (utifrån din nivå)Bidra till ordning och säkerhet i verkstaden\nVad vi erbjuder\nPraktisk erfaren",
     "contact": "",
-    "email": "mailto:rekrytering@ansvarsakerhet.se",
+    "email": "",
     "antal": 1,
-    "postedAt": "2026-08-18",
+    "postedAt": "2026-06-17",
     "source": "jobbsafari.se",
-    "sourceUrl": "mailto:rekrytering@ansvarsakerhet.se"
+    "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20225451",
@@ -66,20 +66,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20380998",
-    "company": "A.P. Møller - Maersk A/S",
-    "role": "Praktik/LIA - Underhållstekniker",
-    "ort": "Göteborg",
-    "utbildning": "Installation, drift och underhåll",
+    "id": "js-20503303",
+    "company": "Ansvar och Säkerhet i Europa AB",
+    "role": "Praktik / LIA (Praktikplats)",
+    "ort": "Stockholm",
+    "utbildning": "Juniorbefattningar",
     "period": "",
-    "deadline": null,
-    "desc": "APM Terminals\n\nPraktik / LIA - Underhållstekniker\n\nVill du få praktisk erfarenhet av teknik och arbeta med stora maskiner i en samhällsviktig industrimiljö? Nu söker vi praktikanter till vår underhållsverksamhet under hösten 2026 och vintern 2027.\n\nHos oss får du vara med i det dagliga arbetet i verkstaden och lära dig yrket på riktigt - tillsammans med erfarna tekniker.\n\nVad du får göra\n\nSom praktikant deltar du i underhållsarbetet och får testa på uppgifter som att:\nAssistera vid service och underhåll av maskinerVara med vid felsökning och enklare reparationerArbeta med el, mekanik och hydraulik (utifrån din nivå)Bidra till ordning och säkerhet i verkstaden\nVad vi erbjuder\nPraktisk erfaren",
+    "deadline": "2026-09-18",
+    "desc": "Går du en utbildning inom säkerhet? Har du erfarenhet av säkerhetsbranschen?\n\nVi välkomnar elever på högskolenivå/universitetsnivå att ansöka om LIA-period/Praktikperiod hos oss!\n\nVi är ett växande säkerhets- och granskningsföretag som arbetar mot arbetslivskriminalitet - för att förebygga och motverka osund konkurrens, fusk och människoexploatering i arbetsmarknaden.\n\nGenom förstärkande tilläggsklausuler i upphandling, bakgrundskontroll och arbetsplatskontroll hjälper ANSVAR SÄKERHET verksamheter och förvaltningar med att undanröja risker och skapa trygga, vita och säkra arbetsplatser.\n\nArbetsuppgifter under en praktikperiod hos oss är varierande beroende på hur arbetsbelastningen ser ut fö",
     "contact": "",
-    "email": "",
+    "email": "mailto:rekrytering@ansvarsakerhet.se",
     "antal": 1,
-    "postedAt": "2026-06-17",
+    "postedAt": "2026-08-18",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "mailto:rekrytering@ansvarsakerhet.se"
   },
   {
     "id": "js-20235014",
