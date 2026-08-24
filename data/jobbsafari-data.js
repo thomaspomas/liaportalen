@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-08-23T03:51:39.002Z
+// Autogenererad av scraper.js – 2026-08-24T03:55:32.387Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -50,22 +50,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20225451",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n\nViktigt att veta:\n\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-28",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20503303",
     "company": "Ansvar och Säkerhet i Europa AB",
     "role": "Praktik / LIA (Praktikplats)",
@@ -80,6 +64,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-08-18",
     "source": "jobbsafari.se",
     "sourceUrl": "mailto:rekrytering@ansvarsakerhet.se"
+  },
+  {
+    "id": "js-20225451",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n\nViktigt att veta:\n\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-28",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20235014",
@@ -130,6 +130,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20501377",
+    "company": "BWH Hotels Scandinavia",
+    "role": "LIA-praktikant till BWH Hotels",
+    "ort": "Stockholm",
+    "utbildning": "Juniorbefattningar",
+    "period": "",
+    "deadline": null,
+    "desc": "Nu söker vi en LIA-praktikant som vill jobba med digital marknadsföring hos oss på BWH Hotels. \n\n Här får du skapa content för våra hotell, fota och filma ute på plats och jobba med allt från sociala medier till SEO, nyhetsbrev och uppföljning. \n\n Vad får du göra? \n\n Under din LIA-praktik blir du en del av vår marknadsavdelning och får arbeta praktiskt med flera delar av vår digitala marknadsföring. \n\n Du kommer bland annat att: \nArbeta med sociala medier för ett antal av våra hotellPlanera, skapa och publicera innehållBesöka hotell för att fotografera och filma innehåll (med mobilen) till sociala medier och andra digitala kanalerSkriva och optimera innehåll på hotellens hemsidor utifrån SEO",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-08-17",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://career.bwhscandinavia.com/jobs/8236709-lia-praktikant-till-bwh-hotels?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20483152",
     "company": "Consort Nordic AB",
     "role": "LIA - Account Manager inom Försäljning",
@@ -144,38 +160,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-08-10",
     "source": "jobbsafari.se",
     "sourceUrl": "https://jobb.consortnordic.se/jobs/8187024-lia-account-manager-inom-forsaljning/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20492079",
-    "company": "Göteborg Energi Aktiebolag",
-    "role": "LIA - Driftpraktik med inriktning kraftvärmeproduktion",
-    "ort": "Göteborg",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2026-10-15",
-    "desc": "Läser du till drifttekniker med kraftvärmeinriktning? Grattis - du har gjort ett klok val och kommer att ha goda karriärmöjligheter! Energibranschen behöver rätt kompetens för att lyckas leverera hållbara och stabila energilösningar. Som göteborgarnas eget energibolag är Göteborg Energi kraften i energiomställningen i Västsverige. Göteborgs industrier, företag och invånare är helt beroende av att vi levererar klimatsmart och effektivt. Varmt välkommen att söka praktik hos oss! \n\nDin praktik\n\nEn praktik hos oss ger dig en inblick i din framtida yrkesroll och en meriterande möjlighet att omsätta den teori du fått i skolan till praktisk erfarenhet. \n\nVi har två olika typer av praktikplatser; so",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-08-16",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://goteborgenergi.varbi.com/en/what:job/jobID:959336/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20508484",
-    "company": "Boxflow AB",
-    "role": "LIA-praktik inom HR & Rekrytering - hösten 2026",
-    "ort": "Halmstad",
-    "utbildning": "HR och rekrytering",
-    "period": "",
-    "deadline": null,
-    "desc": "Om tjänsten \n\nVi söker nu LIA-praktikanter till våra verksamheter i Kristianstad och Halmstad inför hösten 2026.\n\nSom LIA-praktikant hos oss får du möjlighet att omsätta dina teoretiska kunskaper i praktiken och få en inblick i hur det dagliga arbetet inom HR, rekrytering och bemanning fungerar. Du kommer att arbeta nära vår konsultchef och vara en del av det dagliga arbetet på kontoret.\n\nLIA-perioden genomförs på heltid, måndag till fredag, dagtid, under hösten 2026.\n\nArbetsuppgifter \n\nUnder din LIA-period kommer du bland annat att få:\nVara delaktig i olika delar av rekryteringsprocessenStötta konsultchefen i rekryteringsarbetetArbeta med urval och kandidatkontaktAdministrera och uppdatera ",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-08-13",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.boxflow.com/jobs/8221823-lia-praktik-inom-hr-rekrytering-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20483959",
@@ -210,6 +194,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8362534385162066079&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20508484",
+    "company": "Boxflow AB",
+    "role": "LIA-praktik inom HR & Rekrytering - hösten 2026",
+    "ort": "Halmstad",
+    "utbildning": "HR och rekrytering",
+    "period": "",
+    "deadline": null,
+    "desc": "Om tjänsten \n\nVi söker nu LIA-praktikanter till våra verksamheter i Kristianstad och Halmstad inför hösten 2026.\n\nSom LIA-praktikant hos oss får du möjlighet att omsätta dina teoretiska kunskaper i praktiken och få en inblick i hur det dagliga arbetet inom HR, rekrytering och bemanning fungerar. Du kommer att arbeta nära vår konsultchef och vara en del av det dagliga arbetet på kontoret.\n\nLIA-perioden genomförs på heltid, måndag till fredag, dagtid, under hösten 2026.\n\nArbetsuppgifter \n\nUnder din LIA-period kommer du bland annat att få:\nVara delaktig i olika delar av rekryteringsprocessenStötta konsultchefen i rekryteringsarbetetArbeta med urval och kandidatkontaktAdministrera och uppdatera ",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-08-13",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.boxflow.com/jobs/8221823-lia-praktik-inom-hr-rekrytering-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-18246365",
     "company": "Conversionista!",
     "role": "Internship (LIA) at Conversionista - Inbound Marketer",
@@ -224,22 +224,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2024-05-23",
     "source": "jobbsafari.se",
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20418144",
-    "company": "Badfors AB",
-    "role": "E-commerce Manager Internship - LIA-praktik för student",
-    "ort": "De nordiska länderna",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": "2026-08-31",
-    "desc": "LIA-praktik för E-commerce Manager (Shopify)\n\nVill du få praktisk erfarenhet av att driva en växande e-handel?\n\nByggöverskott.se söker en engagerad LIA-praktikant som vill utvecklas inom e-handel och vara med och bygga ett snabbt växande företag.\n\nHos oss får du arbeta med verkliga projekt där ditt arbete gör skillnad. Du får insyn i hela e-handelsprocessen allt från produktpublicering och SEO till marknadsföring och konverteringsoptimering.\n\nOm bolaget:\n\nVi köper in begagnat och överskott av byggmaterial för att sedan sälja det vidare till marknadens lägsta pris. På så sätt kan vi erbjuda våra kunder låga priser, högt kvalitet av välkända märken och samtidigt göra en stor insats för miljlön",
-    "contact": "",
-    "email": "mailto:jobb@byggoverskott.se",
-    "antal": 1,
-    "postedAt": "2026-07-05",
-    "source": "jobbsafari.se",
-    "sourceUrl": "mailto:jobb@byggoverskott.se"
   },
   {
     "id": "js-20401155",
@@ -290,20 +274,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20498102",
-    "company": "+Moveco AB",
-    "role": "LIA-praktikant Sociala medier, AI-optimering och SEO - Höst 2026",
-    "ort": "Stockholm",
-    "utbildning": "Dataanalys och datahantering",
+    "id": "js-20418144",
+    "company": "Badfors AB",
+    "role": "E-commerce Manager Internship - LIA-praktik för student",
+    "ort": "De nordiska länderna",
+    "utbildning": "Distansarbete",
     "period": "",
-    "deadline": "2027-02-14",
-    "desc": "Moveco söker en LIA-praktikant hösten 2026 som vill växa och utvecklas inom digital marknadsföring, sociala medier, AI-optimering och kommunikation. Är du affärsdriven, kreativ och vill göra skillnad i ett växande entreprenörsbolag utsedda till ett av Sveriges bästa solcellsföretag? Då är det dig vi söker!\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolt",
+    "deadline": "2026-08-31",
+    "desc": "LIA-praktik för E-commerce Manager (Shopify)\n\nVill du få praktisk erfarenhet av att driva en växande e-handel?\n\nByggöverskott.se söker en engagerad LIA-praktikant som vill utvecklas inom e-handel och vara med och bygga ett snabbt växande företag.\n\nHos oss får du arbeta med verkliga projekt där ditt arbete gör skillnad. Du får insyn i hela e-handelsprocessen allt från produktpublicering och SEO till marknadsföring och konverteringsoptimering.\n\nOm bolaget:\n\nVi köper in begagnat och överskott av byggmaterial för att sedan sälja det vidare till marknadens lägsta pris. På så sätt kan vi erbjuda våra kunder låga priser, högt kvalitet av välkända märken och samtidigt göra en stor insats för miljlön",
     "contact": "",
-    "email": "",
+    "email": "mailto:jobb@byggoverskott.se",
     "antal": 1,
-    "postedAt": "2026-08-17",
+    "postedAt": "2026-07-05",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.moveco.se/jobs/8234856-lia-praktikant-sociala-medier-ai-optimering-och-seo-host-2026?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "mailto:jobb@byggoverskott.se"
   },
   {
     "id": "js-20403063",
@@ -320,6 +304,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-07-01",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.sweco.se/karriar/lediga-tjanster/lia-praktik-inom-jarnvag-till-flertalet-orter-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20498102",
+    "company": "+Moveco AB",
+    "role": "LIA-praktikant Sociala medier, AI-optimering och SEO - Höst 2026",
+    "ort": "Stockholm",
+    "utbildning": "Dataanalys och datahantering",
+    "period": "",
+    "deadline": "2027-02-14",
+    "desc": "Moveco söker en LIA-praktikant hösten 2026 som vill växa och utvecklas inom digital marknadsföring, sociala medier, AI-optimering och kommunikation. Är du affärsdriven, kreativ och vill göra skillnad i ett växande entreprenörsbolag utsedda till ett av Sveriges bästa solcellsföretag? Då är det dig vi söker!\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolt",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-08-17",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.moveco.se/jobs/8234856-lia-praktikant-sociala-medier-ai-optimering-och-seo-host-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-18186921",
