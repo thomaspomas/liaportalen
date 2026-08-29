@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-08-28T15:06:29.059Z
+// Autogenererad av scraper.js – 2026-08-29T09:48:38.632Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -18,22 +18,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://kone.wd3.myworkdayjobs.com/en-US/Careers/job/LIA-plats-fr-studerande-p-Xenter-2026-2027_R0663914?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20347911",
-    "company": "BHG",
-    "role": "LIA-internship",
-    "ort": "Malmö",
-    "utbildning": "Juniorbefattningar",
-    "period": "",
-    "deadline": null,
-    "desc": "Bygghemma Nordic, part of BHG Group, is one of the Nordics&#x27; leading e-commerce players in home improvement. With Bygghemma.se in Sweden and Netrauta.fi in Finland, as one of our core brands, we bring together an unbeatable range online, inspiring showrooms, and a comprehensive service offering - creating a seamless customer experience across channels. Our ambition is to make home improvement easier, smarter, and more accessible for customers across the Nordics. \n \nYour Internship with us\n\nAt Bygghemma, we place great value in growth and learning. We believe that this is how we become a stronger company - by developing and growing together.\n\nAs an intern, you will gain insight into our i",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-06-04",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://bygghemmase.teamtailor.com/jobs/7859740-lia-internship?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20409248",
     "company": "Consid AB",
     "role": "LIA för hösten 2026",
@@ -48,6 +32,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-07-02",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.consid.com/sv/karriar/lediga-tjanster/test-qa/lia-for-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20347911",
+    "company": "BHG",
+    "role": "LIA-internship",
+    "ort": "Malmö",
+    "utbildning": "Juniorbefattningar",
+    "period": "",
+    "deadline": null,
+    "desc": "Bygghemma Nordic, part of BHG Group, is one of the Nordics&#x27; leading e-commerce players in home improvement. With Bygghemma.se in Sweden and Netrauta.fi in Finland, as one of our core brands, we bring together an unbeatable range online, inspiring showrooms, and a comprehensive service offering - creating a seamless customer experience across channels. Our ambition is to make home improvement easier, smarter, and more accessible for customers across the Nordics. \n \nYour Internship with us\n\nAt Bygghemma, we place great value in growth and learning. We believe that this is how we become a stronger company - by developing and growing together.\n\nAs an intern, you will gain insight into our i",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-06-04",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://bygghemmase.teamtailor.com/jobs/7859740-lia-internship?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20514976",
@@ -66,20 +66,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://pnty-apply.ponty-system.se/avantirekryteringinterim?id=504&pnty_src=platsbanken&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20225451",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
+    "id": "js-20503303",
+    "company": "Ansvar och Säkerhet i Europa AB",
+    "role": "Praktik / LIA (Praktikplats)",
+    "ort": "Stockholm",
+    "utbildning": "Juniorbefattningar",
     "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n\nViktigt att veta:\n\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "deadline": "2026-09-18",
+    "desc": "Går du en utbildning inom säkerhet? Har du erfarenhet av säkerhetsbranschen?\n\nVi välkomnar elever på högskolenivå/universitetsnivå att ansöka om LIA-period/Praktikperiod hos oss!\n\nVi är ett växande säkerhets- och granskningsföretag som arbetar mot arbetslivskriminalitet - för att förebygga och motverka osund konkurrens, fusk och människoexploatering i arbetsmarknaden.\n\nGenom förstärkande tilläggsklausuler i upphandling, bakgrundskontroll och arbetsplatskontroll hjälper ANSVAR SÄKERHET verksamheter och förvaltningar med att undanröja risker och skapa trygga, vita och säkra arbetsplatser.\n\nArbetsuppgifter under en praktikperiod hos oss är varierande beroende på hur arbetsbelastningen ser ut fö",
     "contact": "",
-    "email": "",
+    "email": "mailto:rekrytering@ansvarsakerhet.se",
     "antal": 1,
-    "postedAt": "2026-04-28",
+    "postedAt": "2026-08-18",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "mailto:rekrytering@ansvarsakerhet.se"
   },
   {
     "id": "js-20380998",
@@ -98,22 +98,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20503303",
-    "company": "Ansvar och Säkerhet i Europa AB",
-    "role": "Praktik / LIA (Praktikplats)",
-    "ort": "Stockholm",
-    "utbildning": "Juniorbefattningar",
-    "period": "",
-    "deadline": "2026-09-18",
-    "desc": "Går du en utbildning inom säkerhet? Har du erfarenhet av säkerhetsbranschen?\n\nVi välkomnar elever på högskolenivå/universitetsnivå att ansöka om LIA-period/Praktikperiod hos oss!\n\nVi är ett växande säkerhets- och granskningsföretag som arbetar mot arbetslivskriminalitet - för att förebygga och motverka osund konkurrens, fusk och människoexploatering i arbetsmarknaden.\n\nGenom förstärkande tilläggsklausuler i upphandling, bakgrundskontroll och arbetsplatskontroll hjälper ANSVAR SÄKERHET verksamheter och förvaltningar med att undanröja risker och skapa trygga, vita och säkra arbetsplatser.\n\nArbetsuppgifter under en praktikperiod hos oss är varierande beroende på hur arbetsbelastningen ser ut fö",
-    "contact": "",
-    "email": "mailto:rekrytering@ansvarsakerhet.se",
-    "antal": 1,
-    "postedAt": "2026-08-18",
-    "source": "jobbsafari.se",
-    "sourceUrl": "mailto:rekrytering@ansvarsakerhet.se"
-  },
-  {
     "id": "js-20235014",
     "company": "Atea",
     "role": "Spontanansökan för LIA - Region Mitt",
@@ -126,6 +110,22 @@ window.JOBBSAFARI_DATA = [
     "email": "",
     "antal": 1,
     "postedAt": "2026-04-30",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20225451",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n\nViktigt att veta:\n\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-28",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
@@ -146,22 +146,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://apply.recman.page/job_post.php?id=480776&apply_only=&sub_id=858&path=ams&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-19686553",
-    "company": "Done",
-    "role": "LiA/Praktik: B2B-försäljning",
-    "ort": "Stockholm",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": null,
-    "desc": "Är du student inom B2B-försäljning och vill utveckla dina kunskaper inom försäljning, kundkommunikation och account management? Trivs du i en inspirerande miljö där det digitala står i fokus? Söker du praktikperiod under vintern/våren 2025/2026? Då kan du vara den vi letar efter!\n\nI rollen som säljare ansvarar du bland annat för att hitta, kontakta och följa upp med nya och existerande företag anknutna till Done. Då vi är en snabbväxande startup innebär rollen mycket eget ansvar och möjlighet att växa med bolaget även efter praktiken.\n\nExempel på arbetsuppgifter och projekt:Prospektering: hitta Sveriges bästa hantverkare.Nykundsbearbetning: från lead till aktiv hantverkare.Kontinuerlig uppfö",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2025-10-17",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20524531",
     "company": "OnePartnerGroup Väst AB",
     "role": "Söker du LIA/praktik inom rekrytering HT26?",
@@ -176,6 +160,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-08-26",
     "source": "jobbsafari.se",
     "sourceUrl": "https://apply.recman.page/job_post.php?id=485544&apply_only=&sub_id=462&path=ams&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20501377",
+    "company": "BWH Hotels Scandinavia",
+    "role": "LIA-praktikant till BWH Hotels",
+    "ort": "Stockholm",
+    "utbildning": "Juniorbefattningar",
+    "period": "",
+    "deadline": null,
+    "desc": "Nu söker vi en LIA-praktikant som vill jobba med digital marknadsföring hos oss på BWH Hotels. \n\n Här får du skapa content för våra hotell, fota och filma ute på plats och jobba med allt från sociala medier till SEO, nyhetsbrev och uppföljning. \n\n Vad får du göra? \n\n Under din LIA-praktik blir du en del av vår marknadsavdelning och får arbeta praktiskt med flera delar av vår digitala marknadsföring. \n\n Du kommer bland annat att: \nArbeta med sociala medier för ett antal av våra hotellPlanera, skapa och publicera innehållBesöka hotell för att fotografera och filma innehåll (med mobilen) till sociala medier och andra digitala kanalerSkriva och optimera innehåll på hotellens hemsidor utifrån SEO",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-08-17",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://career.bwhscandinavia.com/jobs/8236709-lia-praktikant-till-bwh-hotels?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20483152",
@@ -194,20 +194,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.consortnordic.se/jobs/8187024-lia-account-manager-inom-forsaljning/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20492079",
-    "company": "Göteborg Energi Aktiebolag",
-    "role": "LIA - Driftpraktik med inriktning kraftvärmeproduktion",
-    "ort": "Göteborg",
-    "utbildning": "",
+    "id": "js-19686553",
+    "company": "Done",
+    "role": "LiA/Praktik: B2B-försäljning",
+    "ort": "Stockholm",
+    "utbildning": "Försäljning",
     "period": "",
-    "deadline": "2026-10-15",
-    "desc": "Läser du till drifttekniker med kraftvärmeinriktning? Grattis - du har gjort ett klok val och kommer att ha goda karriärmöjligheter! Energibranschen behöver rätt kompetens för att lyckas leverera hållbara och stabila energilösningar. Som göteborgarnas eget energibolag är Göteborg Energi kraften i energiomställningen i Västsverige. Göteborgs industrier, företag och invånare är helt beroende av att vi levererar klimatsmart och effektivt. Varmt välkommen att söka praktik hos oss! \n\nDin praktik\n\nEn praktik hos oss ger dig en inblick i din framtida yrkesroll och en meriterande möjlighet att omsätta den teori du fått i skolan till praktisk erfarenhet. \n\nVi har två olika typer av praktikplatser; so",
+    "deadline": null,
+    "desc": "Är du student inom B2B-försäljning och vill utveckla dina kunskaper inom försäljning, kundkommunikation och account management? Trivs du i en inspirerande miljö där det digitala står i fokus? Söker du praktikperiod under vintern/våren 2025/2026? Då kan du vara den vi letar efter!\n\nI rollen som säljare ansvarar du bland annat för att hitta, kontakta och följa upp med nya och existerande företag anknutna till Done. Då vi är en snabbväxande startup innebär rollen mycket eget ansvar och möjlighet att växa med bolaget även efter praktiken.\n\nExempel på arbetsuppgifter och projekt:Prospektering: hitta Sveriges bästa hantverkare.Nykundsbearbetning: från lead till aktiv hantverkare.Kontinuerlig uppfö",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-08-16",
+    "postedAt": "2025-10-17",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://goteborgenergi.varbi.com/en/what:job/jobID:959336/?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20483959",
@@ -226,22 +226,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/6a7bb7f76cd84825d6ab3dcc?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20508484",
-    "company": "Boxflow AB",
-    "role": "LIA-praktik inom HR & Rekrytering - hösten 2026",
-    "ort": "Halmstad",
-    "utbildning": "HR och rekrytering",
-    "period": "",
-    "deadline": null,
-    "desc": "Om tjänsten \n\nVi söker nu LIA-praktikanter till våra verksamheter i Kristianstad och Halmstad inför hösten 2026.\n\nSom LIA-praktikant hos oss får du möjlighet att omsätta dina teoretiska kunskaper i praktiken och få en inblick i hur det dagliga arbetet inom HR, rekrytering och bemanning fungerar. Du kommer att arbeta nära vår konsultchef och vara en del av det dagliga arbetet på kontoret.\n\nLIA-perioden genomförs på heltid, måndag till fredag, dagtid, under hösten 2026.\n\nArbetsuppgifter \n\nUnder din LIA-period kommer du bland annat att få:\nVara delaktig i olika delar av rekryteringsprocessenStötta konsultchefen i rekryteringsarbetetArbeta med urval och kandidatkontaktAdministrera och uppdatera ",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-08-13",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.boxflow.com/jobs/8221823-lia-praktik-inom-hr-rekrytering-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20408011",
     "company": "Region Västernorrland",
     "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
@@ -258,20 +242,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8362534385162066079&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20401155",
-    "company": "Sweco",
-    "role": "LIA-praktik inom järnväg till flertalet orter hösten 2026",
-    "ort": "Sverige",
-    "utbildning": "Distansarbete",
+    "id": "js-20508484",
+    "company": "Boxflow AB",
+    "role": "LIA-praktik inom HR & Rekrytering - hösten 2026",
+    "ort": "Halmstad",
+    "utbildning": "HR och rekrytering",
     "period": "",
-    "deadline": "2026-09-30",
-    "desc": "Sweco är Sveriges ledande teknikkonsult inom järnväg och tillhandahåller tjänster i alla typer av uppdrag, från små utredningar till stora multidisciplinära infrastrukturuppdrag. Vi erbjuder projektering, design och specialisttjänster - av samtliga ingående komponenter och tekniker - för planering, byggande samt drift och underhåll av anläggningar för spårburen trafik.\n\nVarför ha LIA-praktik hos oss?\nOm du som student söker en spännande, utmanade och studierelaterad praktik är Sweco rätt plats för dig. Inför hösten 2026 erbjuder vi ett antal studenter LIA-praktik hos oss i Stockholm, Norrköping och Västerås. En del av praktiken kommer också att kunna ske på distans. \n\nDina uppgifter blir att",
+    "deadline": null,
+    "desc": "Om tjänsten \n\nVi söker nu LIA-praktikanter till våra verksamheter i Kristianstad och Halmstad inför hösten 2026.\n\nSom LIA-praktikant hos oss får du möjlighet att omsätta dina teoretiska kunskaper i praktiken och få en inblick i hur det dagliga arbetet inom HR, rekrytering och bemanning fungerar. Du kommer att arbeta nära vår konsultchef och vara en del av det dagliga arbetet på kontoret.\n\nLIA-perioden genomförs på heltid, måndag till fredag, dagtid, under hösten 2026.\n\nArbetsuppgifter \n\nUnder din LIA-period kommer du bland annat att få:\nVara delaktig i olika delar av rekryteringsprocessenStötta konsultchefen i rekryteringsarbetetArbeta med urval och kandidatkontaktAdministrera och uppdatera ",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-06-30",
+    "postedAt": "2026-08-13",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://www.sweco.se/karriar/ansok-har/?rmpage=apply&rmjob=25277&utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://jobb.boxflow.com/jobs/8221823-lia-praktik-inom-hr-rekrytering-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-18246365",
@@ -288,6 +272,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2024-05-23",
     "source": "jobbsafari.se",
     "sourceUrl": "https://emp.jobylon.com/jobs/238493-conversionista-internship-lia-at-conversionista-inbound-marketer/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20401155",
+    "company": "Sweco",
+    "role": "LIA-praktik inom järnväg till flertalet orter hösten 2026",
+    "ort": "Sverige",
+    "utbildning": "Distansarbete",
+    "period": "",
+    "deadline": "2026-09-30",
+    "desc": "Sweco är Sveriges ledande teknikkonsult inom järnväg och tillhandahåller tjänster i alla typer av uppdrag, från små utredningar till stora multidisciplinära infrastrukturuppdrag. Vi erbjuder projektering, design och specialisttjänster - av samtliga ingående komponenter och tekniker - för planering, byggande samt drift och underhåll av anläggningar för spårburen trafik.\n\nVarför ha LIA-praktik hos oss?\nOm du som student söker en spännande, utmanade och studierelaterad praktik är Sweco rätt plats för dig. Inför hösten 2026 erbjuder vi ett antal studenter LIA-praktik hos oss i Stockholm, Norrköping och Västerås. En del av praktiken kommer också att kunna ske på distans. \n\nDina uppgifter blir att",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-06-30",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.sweco.se/karriar/ansok-har/?rmpage=apply&rmjob=25277&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20452347",
