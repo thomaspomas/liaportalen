@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-08-29T09:48:38.632Z
+// Autogenererad av scraper.js – 2026-08-30T08:59:45.289Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -18,22 +18,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://kone.wd3.myworkdayjobs.com/en-US/Careers/job/LIA-plats-fr-studerande-p-Xenter-2026-2027_R0663914?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20409248",
-    "company": "Consid AB",
-    "role": "LIA för hösten 2026",
-    "ort": "Linköping",
-    "utbildning": "",
-    "period": "",
-    "deadline": null,
-    "desc": "Är du en vass problemlösare som gillar att gräva i kod för att hitta buggarna innan de ens uppstår? Vill du ta dina kunskaper inom testautomatisering från skolbänken direkt ut i skarpa konsultuppdrag? Då har vi på Consid din nästa LIA-plats!\n \nOm rollen\n \nSom LIA-student hos oss blir du en del av vårt team där vi hjälper kunder att bygga robusta och kvalitetssäkrade IT-system. Vi söker dig som har en tydlig teknisk profil inom test. Du kommer inte bara att klicka runt i ett gränssnitt - du kommer att läsa kod, analysera arkitektur och bygga smarta, automatiserade testflöden.\n \nUnder din LIA-period kommer du bland annat att få:\n  Skriva, underhålla och köra automatiserade tester. Göra kodgran",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-07-02",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.consid.com/sv/karriar/lediga-tjanster/test-qa/lia-for-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20347911",
     "company": "BHG",
     "role": "LIA-internship",
@@ -48,6 +32,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-06-04",
     "source": "jobbsafari.se",
     "sourceUrl": "https://bygghemmase.teamtailor.com/jobs/7859740-lia-internship?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20409248",
+    "company": "Consid AB",
+    "role": "LIA för hösten 2026",
+    "ort": "Linköping",
+    "utbildning": "",
+    "period": "",
+    "deadline": null,
+    "desc": "Är du en vass problemlösare som gillar att gräva i kod för att hitta buggarna innan de ens uppstår? Vill du ta dina kunskaper inom testautomatisering från skolbänken direkt ut i skarpa konsultuppdrag? Då har vi på Consid din nästa LIA-plats!\n \nOm rollen\n \nSom LIA-student hos oss blir du en del av vårt team där vi hjälper kunder att bygga robusta och kvalitetssäkrade IT-system. Vi söker dig som har en tydlig teknisk profil inom test. Du kommer inte bara att klicka runt i ett gränssnitt - du kommer att läsa kod, analysera arkitektur och bygga smarta, automatiserade testflöden.\n \nUnder din LIA-period kommer du bland annat att få:\n  Skriva, underhålla och köra automatiserade tester. Göra kodgran",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-07-02",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.consid.com/sv/karriar/lediga-tjanster/test-qa/lia-for-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20514976",
@@ -98,22 +98,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20235014",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-30",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20225451",
     "company": "Atea",
     "role": "Spontanansökan för LIA - Region Mitt",
@@ -126,6 +110,22 @@ window.JOBBSAFARI_DATA = [
     "email": "",
     "antal": 1,
     "postedAt": "2026-04-28",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20235014",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-30",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
@@ -144,38 +144,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-06-22",
     "source": "jobbsafari.se",
     "sourceUrl": "https://apply.recman.page/job_post.php?id=480776&apply_only=&sub_id=858&path=ams&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20524531",
-    "company": "OnePartnerGroup Väst AB",
-    "role": "Söker du LIA/praktik inom rekrytering HT26?",
-    "ort": "Göteborg",
-    "utbildning": "HR och rekrytering",
-    "period": "",
-    "deadline": "2026-09-13",
-    "desc": "Studerar du personalvetarprogrammet, beteendevetenskap, försäljning eller likvärdig utbildning och är intresserad av personalfrågor samt rekrytering? Gör din LIA/praktik hos oss på OnePartnerGroup i Göteborg!\n\nOm tjänsten\n\nVi erbjuder dig en praktikplats där du får vara delaktig i och arbeta med hela rekryteringsprocessen. Du får en unik möjlighet att följa det dagliga arbetet som konsultchef och kandidatansvarig samt lära dig mer om bemannings- och rekryteringsbranschen i praktiken. Hos oss får du en bred förståelse för hela processen, från behovsanalys till tillsättning av uppdrag.\n\nPraktiken kommer främst att vara kopplad till våra bemanningsuppdrag inom lager, logistik, industri och tran",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-08-26",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://apply.recman.page/job_post.php?id=485544&apply_only=&sub_id=462&path=ams&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20501377",
-    "company": "BWH Hotels Scandinavia",
-    "role": "LIA-praktikant till BWH Hotels",
-    "ort": "Stockholm",
-    "utbildning": "Juniorbefattningar",
-    "period": "",
-    "deadline": null,
-    "desc": "Nu söker vi en LIA-praktikant som vill jobba med digital marknadsföring hos oss på BWH Hotels. \n\n Här får du skapa content för våra hotell, fota och filma ute på plats och jobba med allt från sociala medier till SEO, nyhetsbrev och uppföljning. \n\n Vad får du göra? \n\n Under din LIA-praktik blir du en del av vår marknadsavdelning och får arbeta praktiskt med flera delar av vår digitala marknadsföring. \n\n Du kommer bland annat att: \nArbeta med sociala medier för ett antal av våra hotellPlanera, skapa och publicera innehållBesöka hotell för att fotografera och filma innehåll (med mobilen) till sociala medier och andra digitala kanalerSkriva och optimera innehåll på hotellens hemsidor utifrån SEO",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-08-17",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://career.bwhscandinavia.com/jobs/8236709-lia-praktikant-till-bwh-hotels?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20483152",
@@ -208,6 +176,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2025-10-17",
     "source": "jobbsafari.se",
     "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20524531",
+    "company": "OnePartnerGroup Väst AB",
+    "role": "Söker du LIA/praktik inom rekrytering HT26?",
+    "ort": "Göteborg",
+    "utbildning": "HR och rekrytering",
+    "period": "",
+    "deadline": "2026-09-13",
+    "desc": "Studerar du personalvetarprogrammet, beteendevetenskap, försäljning eller likvärdig utbildning och är intresserad av personalfrågor samt rekrytering? Gör din LIA/praktik hos oss på OnePartnerGroup i Göteborg!\n\nOm tjänsten\n\nVi erbjuder dig en praktikplats där du får vara delaktig i och arbeta med hela rekryteringsprocessen. Du får en unik möjlighet att följa det dagliga arbetet som konsultchef och kandidatansvarig samt lära dig mer om bemannings- och rekryteringsbranschen i praktiken. Hos oss får du en bred förståelse för hela processen, från behovsanalys till tillsättning av uppdrag.\n\nPraktiken kommer främst att vara kopplad till våra bemanningsuppdrag inom lager, logistik, industri och tran",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-08-26",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://apply.recman.page/job_post.php?id=485544&apply_only=&sub_id=462&path=ams&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20483959",
