@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-09-01T08:24:04.684Z
+// Autogenererad av scraper.js – 2026-09-02T07:42:52.595Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -16,22 +16,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-08-25",
     "source": "jobbsafari.se",
     "sourceUrl": "https://kone.wd3.myworkdayjobs.com/en-US/Careers/job/LIA-plats-fr-studerande-p-Xenter-2026-2027_R0663914?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20409248",
-    "company": "Consid AB",
-    "role": "LIA för hösten 2026",
-    "ort": "Linköping",
-    "utbildning": "",
-    "period": "",
-    "deadline": null,
-    "desc": "Är du en vass problemlösare som gillar att gräva i kod för att hitta buggarna innan de ens uppstår? Vill du ta dina kunskaper inom testautomatisering från skolbänken direkt ut i skarpa konsultuppdrag? Då har vi på Consid din nästa LIA-plats!\n \nOm rollen\n \nSom LIA-student hos oss blir du en del av vårt team där vi hjälper kunder att bygga robusta och kvalitetssäkrade IT-system. Vi söker dig som har en tydlig teknisk profil inom test. Du kommer inte bara att klicka runt i ett gränssnitt - du kommer att läsa kod, analysera arkitektur och bygga smarta, automatiserade testflöden.\n \nUnder din LIA-period kommer du bland annat att få:\n  Skriva, underhålla och köra automatiserade tester. Göra kodgran",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-07-02",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.consid.com/sv/karriar/lediga-tjanster/test-qa/lia-for-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20347911",
@@ -66,22 +50,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://pnty-apply.ponty-system.se/avantirekryteringinterim?id=504&pnty_src=platsbanken&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20225451",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n\nViktigt att veta:\n\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-28",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20380998",
     "company": "A.P. Møller - Maersk A/S",
     "role": "Praktik/LIA - Underhållstekniker",
@@ -96,6 +64,22 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-06-17",
     "source": "jobbsafari.se",
     "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20225451",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n\nViktigt att veta:\n\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-28",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20503303",
@@ -162,6 +146,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://career.bwhscandinavia.com/jobs/8236709-lia-praktikant-till-bwh-hotels?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20492079",
+    "company": "Göteborg Energi Aktiebolag",
+    "role": "LIA - Driftpraktik med inriktning kraftvärmeproduktion",
+    "ort": "Göteborg",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2026-10-15",
+    "desc": "Läser du till drifttekniker med kraftvärmeinriktning? Grattis - du har gjort ett klok val och kommer att ha goda karriärmöjligheter! Energibranschen behöver rätt kompetens för att lyckas leverera hållbara och stabila energilösningar. Som göteborgarnas eget energibolag är Göteborg Energi kraften i energiomställningen i Västsverige. Göteborgs industrier, företag och invånare är helt beroende av att vi levererar klimatsmart och effektivt. Varmt välkommen att söka praktik hos oss! \n\nDin praktik\n\nEn praktik hos oss ger dig en inblick i din framtida yrkesroll och en meriterande möjlighet att omsätta den teori du fått i skolan till praktisk erfarenhet. \n\nVi har två olika typer av praktikplatser; so",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-08-16",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://goteborgenergi.varbi.com/en/what:job/jobID:959336/?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-19686553",
     "company": "Done",
     "role": "LiA/Praktik: B2B-försäljning",
@@ -226,20 +226,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/6a7bb7f76cd84825d6ab3dcc?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20508484",
-    "company": "Boxflow AB",
-    "role": "LIA-praktik inom HR & Rekrytering - hösten 2026",
-    "ort": "Halmstad",
-    "utbildning": "HR och rekrytering",
+    "id": "js-20243217",
+    "company": "+Moveco AB",
+    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
+    "ort": "Stockholm",
+    "utbildning": "Juniorbefattningar",
     "period": "",
-    "deadline": null,
-    "desc": "Om tjänsten \n\nVi söker nu LIA-praktikanter till våra verksamheter i Kristianstad och Halmstad inför hösten 2026.\n\nSom LIA-praktikant hos oss får du möjlighet att omsätta dina teoretiska kunskaper i praktiken och få en inblick i hur det dagliga arbetet inom HR, rekrytering och bemanning fungerar. Du kommer att arbeta nära vår konsultchef och vara en del av det dagliga arbetet på kontoret.\n\nLIA-perioden genomförs på heltid, måndag till fredag, dagtid, under hösten 2026.\n\nArbetsuppgifter \n\nUnder din LIA-period kommer du bland annat att få:\nVara delaktig i olika delar av rekryteringsprocessenStötta konsultchefen i rekryteringsarbetetArbeta med urval och kandidatkontaktAdministrera och uppdatera ",
+    "deadline": "2026-10-31",
+    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-08-13",
+    "postedAt": "2026-05-03",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.boxflow.com/jobs/8221823-lia-praktik-inom-hr-rekrytering-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20408011",
@@ -258,20 +258,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8362534385162066079&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20243217",
-    "company": "+Moveco AB",
-    "role": "Moveco söker LIA-praktikant inom projekt & teknik - hösten 2026",
-    "ort": "Stockholm",
-    "utbildning": "Juniorbefattningar",
+    "id": "js-20508484",
+    "company": "Boxflow AB",
+    "role": "LIA-praktik inom HR & Rekrytering - hösten 2026",
+    "ort": "Halmstad",
+    "utbildning": "HR och rekrytering",
     "period": "",
-    "deadline": "2026-10-31",
-    "desc": "Vill du få praktisk erfarenhet av hur stora installationsprojekt drivs från första kundkontakt till färdig anläggning? Är du affärsdriven, strukturerad och nyfiken på både teknik och projektledning? Då kan detta vara rätt praktik för dig.\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolta över att våra kunders förtroende speglas i branschens betyg och ran",
+    "deadline": null,
+    "desc": "Om tjänsten \n\nVi söker nu LIA-praktikanter till våra verksamheter i Kristianstad och Halmstad inför hösten 2026.\n\nSom LIA-praktikant hos oss får du möjlighet att omsätta dina teoretiska kunskaper i praktiken och få en inblick i hur det dagliga arbetet inom HR, rekrytering och bemanning fungerar. Du kommer att arbeta nära vår konsultchef och vara en del av det dagliga arbetet på kontoret.\n\nLIA-perioden genomförs på heltid, måndag till fredag, dagtid, under hösten 2026.\n\nArbetsuppgifter \n\nUnder din LIA-period kommer du bland annat att få:\nVara delaktig i olika delar av rekryteringsprocessenStötta konsultchefen i rekryteringsarbetetArbeta med urval och kandidatkontaktAdministrera och uppdatera ",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-05-03",
+    "postedAt": "2026-08-13",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://jobb.boxflow.com/jobs/8221823-lia-praktik-inom-hr-rekrytering-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20401155",
@@ -288,22 +288,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-06-30",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.sweco.se/karriar/ansok-har/?rmpage=apply&rmjob=25277&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20452347",
-    "company": "Preventai AB",
-    "role": "LIA Internship Sales Development Representative (SDR)",
-    "ort": "Stockholm",
-    "utbildning": "Försäljning",
-    "period": "",
-    "deadline": "2026-09-01",
-    "desc": "Do you get a kick out of opening doors that were closed five minutes ago? Interested in AI, emerging technology and learning how enterprise deals actually get done?\n\nWe are looking for a driven and curious LIA Intern to help us build pipeline and drive revenue as we scale across Europe.\n\nAbout Us\n\nAt Antrino Labs, we&#x27;re building the next generation of AI powered visual intelligence. Our technology transforms cameras into intelligent systems capable of understanding what&#x27;s happening in the real world using advanced Video Language Models (VLMs) and Computer Vision.\n\nWhat You&#x27;ll Do\n\nAs our SDR Intern, you&#x27;ll work closely with our team to:\n\nProspect and research target accoun",
-    "contact": "",
-    "email": "mailto:ludvig@antrinolabs.com",
-    "antal": 1,
-    "postedAt": "2026-07-27",
-    "source": "jobbsafari.se",
-    "sourceUrl": "mailto:ludvig@antrinolabs.com"
   },
   {
     "id": "js-18246365",
