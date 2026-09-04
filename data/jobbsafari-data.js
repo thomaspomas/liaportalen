@@ -1,4 +1,4 @@
-// Autogenererad av scraper.js – 2026-09-03T07:52:03.187Z
+// Autogenererad av scraper.js – 2026-09-04T07:47:54.420Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [
   {
@@ -50,6 +50,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://pnty-apply.ponty-system.se/avantirekryteringinterim?id=504&pnty_src=platsbanken&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20380998",
+    "company": "A.P. Møller - Maersk A/S",
+    "role": "Praktik/LIA - Underhållstekniker",
+    "ort": "Göteborg",
+    "utbildning": "Installation, drift och underhåll",
+    "period": "",
+    "deadline": null,
+    "desc": "APM Terminals\n\nPraktik / LIA - Underhållstekniker\n\nVill du få praktisk erfarenhet av teknik och arbeta med stora maskiner i en samhällsviktig industrimiljö? Nu söker vi praktikanter till vår underhållsverksamhet under hösten 2026 och vintern 2027.\n\nHos oss får du vara med i det dagliga arbetet i verkstaden och lära dig yrket på riktigt - tillsammans med erfarna tekniker.\n\nVad du får göra\n\nSom praktikant deltar du i underhållsarbetet och får testa på uppgifter som att:\nAssistera vid service och underhåll av maskinerVara med vid felsökning och enklare reparationerArbeta med el, mekanik och hydraulik (utifrån din nivå)Bidra till ordning och säkerhet i verkstaden\nVad vi erbjuder\nPraktisk erfaren",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-06-17",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20225451",
     "company": "Atea",
     "role": "Spontanansökan för LIA - Region Mitt",
@@ -62,6 +78,38 @@ window.JOBBSAFARI_DATA = [
     "email": "",
     "antal": 1,
     "postedAt": "2026-04-28",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
+    "id": "js-20503303",
+    "company": "Ansvar och Säkerhet i Europa AB",
+    "role": "Praktik / LIA (Praktikplats)",
+    "ort": "Stockholm",
+    "utbildning": "Juniorbefattningar",
+    "period": "",
+    "deadline": "2026-09-18",
+    "desc": "Går du en utbildning inom säkerhet? Har du erfarenhet av säkerhetsbranschen?\n\nVi välkomnar elever på högskolenivå/universitetsnivå att ansöka om LIA-period/Praktikperiod hos oss!\n\nVi är ett växande säkerhets- och granskningsföretag som arbetar mot arbetslivskriminalitet - för att förebygga och motverka osund konkurrens, fusk och människoexploatering i arbetsmarknaden.\n\nGenom förstärkande tilläggsklausuler i upphandling, bakgrundskontroll och arbetsplatskontroll hjälper ANSVAR SÄKERHET verksamheter och förvaltningar med att undanröja risker och skapa trygga, vita och säkra arbetsplatser.\n\nArbetsuppgifter under en praktikperiod hos oss är varierande beroende på hur arbetsbelastningen ser ut fö",
+    "contact": "",
+    "email": "mailto:rekrytering@ansvarsakerhet.se",
+    "antal": 1,
+    "postedAt": "2026-08-18",
+    "source": "jobbsafari.se",
+    "sourceUrl": "mailto:rekrytering@ansvarsakerhet.se"
+  },
+  {
+    "id": "js-20235014",
+    "company": "Atea",
+    "role": "Spontanansökan för LIA - Region Mitt",
+    "ort": "Eskilstuna",
+    "utbildning": "",
+    "period": "",
+    "deadline": "2027-05-28",
+    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-04-30",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
   },
@@ -82,84 +130,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://apply.recman.page/job_post.php?id=480776&apply_only=&sub_id=858&path=ams&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20503303",
-    "company": "Ansvar och Säkerhet i Europa AB",
-    "role": "Praktik / LIA (Praktikplats)",
+    "id": "js-19686553",
+    "company": "Done",
+    "role": "LiA/Praktik: B2B-försäljning",
     "ort": "Stockholm",
-    "utbildning": "Juniorbefattningar",
-    "period": "",
-    "deadline": "2026-09-18",
-    "desc": "Går du en utbildning inom säkerhet? Har du erfarenhet av säkerhetsbranschen?\n\nVi välkomnar elever på högskolenivå/universitetsnivå att ansöka om LIA-period/Praktikperiod hos oss!\n\nVi är ett växande säkerhets- och granskningsföretag som arbetar mot arbetslivskriminalitet - för att förebygga och motverka osund konkurrens, fusk och människoexploatering i arbetsmarknaden.\n\nGenom förstärkande tilläggsklausuler i upphandling, bakgrundskontroll och arbetsplatskontroll hjälper ANSVAR SÄKERHET verksamheter och förvaltningar med att undanröja risker och skapa trygga, vita och säkra arbetsplatser.\n\nArbetsuppgifter under en praktikperiod hos oss är varierande beroende på hur arbetsbelastningen ser ut fö",
-    "contact": "",
-    "email": "mailto:rekrytering@ansvarsakerhet.se",
-    "antal": 1,
-    "postedAt": "2026-08-18",
-    "source": "jobbsafari.se",
-    "sourceUrl": "mailto:rekrytering@ansvarsakerhet.se"
-  },
-  {
-    "id": "js-20380998",
-    "company": "A.P. Møller - Maersk A/S",
-    "role": "Praktik/LIA - Underhållstekniker",
-    "ort": "Göteborg",
-    "utbildning": "Installation, drift och underhåll",
+    "utbildning": "Försäljning",
     "period": "",
     "deadline": null,
-    "desc": "APM Terminals\n\nPraktik / LIA - Underhållstekniker\n\nVill du få praktisk erfarenhet av teknik och arbeta med stora maskiner i en samhällsviktig industrimiljö? Nu söker vi praktikanter till vår underhållsverksamhet under hösten 2026 och vintern 2027.\n\nHos oss får du vara med i det dagliga arbetet i verkstaden och lära dig yrket på riktigt - tillsammans med erfarna tekniker.\n\nVad du får göra\n\nSom praktikant deltar du i underhållsarbetet och får testa på uppgifter som att:\nAssistera vid service och underhåll av maskinerVara med vid felsökning och enklare reparationerArbeta med el, mekanik och hydraulik (utifrån din nivå)Bidra till ordning och säkerhet i verkstaden\nVad vi erbjuder\nPraktisk erfaren",
+    "desc": "Är du student inom B2B-försäljning och vill utveckla dina kunskaper inom försäljning, kundkommunikation och account management? Trivs du i en inspirerande miljö där det digitala står i fokus? Söker du praktikperiod under vintern/våren 2025/2026? Då kan du vara den vi letar efter!\n\nI rollen som säljare ansvarar du bland annat för att hitta, kontakta och följa upp med nya och existerande företag anknutna till Done. Då vi är en snabbväxande startup innebär rollen mycket eget ansvar och möjlighet att växa med bolaget även efter praktiken.\n\nExempel på arbetsuppgifter och projekt:Prospektering: hitta Sveriges bästa hantverkare.Nykundsbearbetning: från lead till aktiv hantverkare.Kontinuerlig uppfö",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-06-17",
+    "postedAt": "2025-10-17",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Praktik-LIA---Underhllstekniker_R184704-1?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20235014",
-    "company": "Atea",
-    "role": "Spontanansökan för LIA - Region Mitt",
-    "ort": "Eskilstuna",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2027-05-28",
-    "desc": "Studerar du it, teknik, digitalisering, försäljning eller närliggande områden och söker en LIA-plats där du får omsätta teori i praktiken? På Atea Region Mitt tar vi löpande emot spontanansökningar från LIA-studenter som är nyfikna på hur det är att arbeta i ett it-bolag.\n\nEn LIA-period på Atea kan innebära möjlighet att få inblick i exempelvis konsultverksamhet, teknik, kunddialoger, projekt, förvaltning eller andra delar av vår verksamhet, beroende på behov och tillgängliga handledare.\n \nViktigt att veta:\nDetta är en spontanansökan och ingen garanterad LIA-plats. Det finns även risk att det inte finns något behov av LIA i ditt önskade tekniska område, i ditt geografiska område, eller under",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-04-30",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.atea.se/karriar/ledigt-jobb/?id=2909&type=Common&name=Spontanansokan+for+LIA+-+Region+Mitt&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20501377",
-    "company": "BWH Hotels Scandinavia",
-    "role": "LIA-praktikant till BWH Hotels",
-    "ort": "Stockholm",
-    "utbildning": "Juniorbefattningar",
-    "period": "",
-    "deadline": null,
-    "desc": "Nu söker vi en LIA-praktikant som vill jobba med digital marknadsföring hos oss på BWH Hotels. \n\n Här får du skapa content för våra hotell, fota och filma ute på plats och jobba med allt från sociala medier till SEO, nyhetsbrev och uppföljning. \n\n Vad får du göra? \n\n Under din LIA-praktik blir du en del av vår marknadsavdelning och får arbeta praktiskt med flera delar av vår digitala marknadsföring. \n\n Du kommer bland annat att: \nArbeta med sociala medier för ett antal av våra hotellPlanera, skapa och publicera innehållBesöka hotell för att fotografera och filma innehåll (med mobilen) till sociala medier och andra digitala kanalerSkriva och optimera innehåll på hotellens hemsidor utifrån SEO",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-08-17",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://career.bwhscandinavia.com/jobs/8236709-lia-praktikant-till-bwh-hotels?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20492079",
-    "company": "Göteborg Energi Aktiebolag",
-    "role": "LIA - Driftpraktik med inriktning kraftvärmeproduktion",
-    "ort": "Göteborg",
-    "utbildning": "",
-    "period": "",
-    "deadline": "2026-10-15",
-    "desc": "Läser du till drifttekniker med kraftvärmeinriktning? Grattis - du har gjort ett klok val och kommer att ha goda karriärmöjligheter! Energibranschen behöver rätt kompetens för att lyckas leverera hållbara och stabila energilösningar. Som göteborgarnas eget energibolag är Göteborg Energi kraften i energiomställningen i Västsverige. Göteborgs industrier, företag och invånare är helt beroende av att vi levererar klimatsmart och effektivt. Varmt välkommen att söka praktik hos oss! \n\nDin praktik\n\nEn praktik hos oss ger dig en inblick i din framtida yrkesroll och en meriterande möjlighet att omsätta den teori du fått i skolan till praktisk erfarenhet. \n\nVi har två olika typer av praktikplatser; so",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-08-16",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://goteborgenergi.varbi.com/en/what:job/jobID:959336/?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20483152",
@@ -178,20 +162,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.consortnordic.se/jobs/8187024-lia-account-manager-inom-forsaljning/applications/new?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-19686553",
-    "company": "Done",
-    "role": "LiA/Praktik: B2B-försäljning",
-    "ort": "Stockholm",
-    "utbildning": "Försäljning",
+    "id": "js-20492079",
+    "company": "Göteborg Energi Aktiebolag",
+    "role": "LIA - Driftpraktik med inriktning kraftvärmeproduktion",
+    "ort": "Göteborg",
+    "utbildning": "",
     "period": "",
-    "deadline": null,
-    "desc": "Är du student inom B2B-försäljning och vill utveckla dina kunskaper inom försäljning, kundkommunikation och account management? Trivs du i en inspirerande miljö där det digitala står i fokus? Söker du praktikperiod under vintern/våren 2025/2026? Då kan du vara den vi letar efter!\n\nI rollen som säljare ansvarar du bland annat för att hitta, kontakta och följa upp med nya och existerande företag anknutna till Done. Då vi är en snabbväxande startup innebär rollen mycket eget ansvar och möjlighet att växa med bolaget även efter praktiken.\n\nExempel på arbetsuppgifter och projekt:Prospektering: hitta Sveriges bästa hantverkare.Nykundsbearbetning: från lead till aktiv hantverkare.Kontinuerlig uppfö",
+    "deadline": "2026-10-15",
+    "desc": "Läser du till drifttekniker med kraftvärmeinriktning? Grattis - du har gjort ett klok val och kommer att ha goda karriärmöjligheter! Energibranschen behöver rätt kompetens för att lyckas leverera hållbara och stabila energilösningar. Som göteborgarnas eget energibolag är Göteborg Energi kraften i energiomställningen i Västsverige. Göteborgs industrier, företag och invånare är helt beroende av att vi levererar klimatsmart och effektivt. Varmt välkommen att söka praktik hos oss! \n\nDin praktik\n\nEn praktik hos oss ger dig en inblick i din framtida yrkesroll och en meriterande möjlighet att omsätta den teori du fått i skolan till praktisk erfarenhet. \n\nVi har två olika typer av praktikplatser; so",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2025-10-17",
+    "postedAt": "2026-08-16",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://thehub.io/jobs/68f1876a18ed90a2a87b13c6?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://goteborgenergi.varbi.com/en/what:job/jobID:959336/?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20524531",
@@ -210,6 +194,22 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://apply.recman.page/job_post.php?id=485544&apply_only=&sub_id=462&path=ams&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
+    "id": "js-20538519",
+    "company": "Bengt Dahlgren AB",
+    "role": "Välkommen att söka LIA praktik hos oss - Våren 2027!",
+    "ort": "De nordiska länderna",
+    "utbildning": "",
+    "period": "",
+    "deadline": null,
+    "desc": "Vi är samhällsbyggnadskonsulterna som genom ett nyfiket mindset vågar hitta nya lösningar för att möta de utmaningar våra kunder, samhället och planeten står inför. Vi är stora nog för de mest spännande helhetsuppdragen och lagom små för att behålla den familjära känslan. Vi välkomnar gärna fler Bengtar som vill utvecklas tillsammans med oss. \n\n Vill du prova på att vara en Bengt på jobbet? Välkommen att ansöka praktik hos oss Våren 2027. \n\n Vi erbjuder \n\n Kunder vänder sig ofta till oss när det är extra svårt och komplext. Det tolkar vi som ett tecken på att vi har en hög teknisk kompetens och vi är stolta över att vi just därför ofta får de mest prestigefulla, spännande projekten. Projekt ",
+    "contact": "",
+    "email": "",
+    "antal": 1,
+    "postedAt": "2026-09-01",
+    "source": "jobbsafari.se",
+    "sourceUrl": "https://jobb.bengtdahlgren.se/jobs/8311562-valkommen-att-soka-lia-praktik-hos-oss-varen-2027?utm_source=jobbsafari.se&utm_medium=referral"
+  },
+  {
     "id": "js-20483959",
     "company": "Swedish for Professionals",
     "role": "LIA inom Content & Digital Marketing 🚀",
@@ -226,20 +226,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://thehub.io/jobs/6a7bb7f76cd84825d6ab3dcc?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20538519",
-    "company": "Bengt Dahlgren AB",
-    "role": "Välkommen att söka LIA praktik hos oss - Våren 2027!",
-    "ort": "De nordiska länderna",
-    "utbildning": "",
+    "id": "js-20408011",
+    "company": "Region Västernorrland",
+    "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
+    "ort": "Härnösand",
+    "utbildning": "Tandvård",
     "period": "",
-    "deadline": null,
-    "desc": "Vi är samhällsbyggnadskonsulterna som genom ett nyfiket mindset vågar hitta nya lösningar för att möta de utmaningar våra kunder, samhället och planeten står inför. Vi är stora nog för de mest spännande helhetsuppdragen och lagom små för att behålla den familjära känslan. Vi välkomnar gärna fler Bengtar som vill utvecklas tillsammans med oss. \n\n Vill du prova på att vara en Bengt på jobbet? Välkommen att ansöka praktik hos oss Våren 2027. \n\n Vi erbjuder \n\n Kunder vänder sig ofta till oss när det är extra svårt och komplext. Det tolkar vi som ett tecken på att vi har en hög teknisk kompetens och vi är stolta över att vi just därför ofta får de mest prestigefulla, spännande projekten. Projekt ",
+    "deadline": "2026-12-15",
+    "desc": "Vi är en kraft som binder ihop, håller samman och utvecklar länet. Inom Region Västernorrland är vi alla en del av något större. \n\nFolktandvården Västernorrlands grundläggande uppdrag är att bidra till liv och hälsa i Västernorrland genom att verka för en god munhälsa på lika villkor. Vi erbjuder allmäntandvård och specialisttandvård inom samtliga specialiteter.\nArbetsuppgifterÅrligen tar Folktandvården i Region Västernorrland emot tandsköterskestuderande för lärande i arbetslivet, LIA. Vi erbjuder dig som studerar till tandsköterska LIA i mån av plats. Du har stöd av Folktandvårdens erfarna handledare. Vi har en nära dialog med skolans handledare under LIA-perioderna.\nRegion Västernorrland ",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-09-01",
+    "postedAt": "2026-07-02",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.bengtdahlgren.se/jobs/8311562-valkommen-att-soka-lia-praktik-hos-oss-varen-2027?utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8362534385162066079&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-20243217",
@@ -258,22 +258,6 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.moveco.se/jobs/7674768-moveco-soker-lia-praktikant-inom-projekt-teknik-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20401155",
-    "company": "Sweco",
-    "role": "LIA-praktik inom järnväg till flertalet orter hösten 2026",
-    "ort": "Sverige",
-    "utbildning": "Distansarbete",
-    "period": "",
-    "deadline": "2026-09-30",
-    "desc": "Sweco är Sveriges ledande teknikkonsult inom järnväg och tillhandahåller tjänster i alla typer av uppdrag, från små utredningar till stora multidisciplinära infrastrukturuppdrag. Vi erbjuder projektering, design och specialisttjänster - av samtliga ingående komponenter och tekniker - för planering, byggande samt drift och underhåll av anläggningar för spårburen trafik.\n\nVarför ha LIA-praktik hos oss?\nOm du som student söker en spännande, utmanade och studierelaterad praktik är Sweco rätt plats för dig. Inför hösten 2026 erbjuder vi ett antal studenter LIA-praktik hos oss i Stockholm, Norrköping och Västerås. En del av praktiken kommer också att kunna ske på distans. \n\nDina uppgifter blir att",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-06-30",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://www.sweco.se/karriar/ansok-har/?rmpage=apply&rmjob=25277&utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
     "id": "js-20508484",
     "company": "Boxflow AB",
     "role": "LIA-praktik inom HR & Rekrytering - hösten 2026",
@@ -290,20 +274,20 @@ window.JOBBSAFARI_DATA = [
     "sourceUrl": "https://jobb.boxflow.com/jobs/8221823-lia-praktik-inom-hr-rekrytering-hosten-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
-    "id": "js-20408011",
-    "company": "Region Västernorrland",
-    "role": "Läser du till tandsköterska? Sök LIA- plats i Region Västernorrland!",
-    "ort": "Härnösand",
-    "utbildning": "Tandvård",
+    "id": "js-20401155",
+    "company": "Sweco",
+    "role": "LIA-praktik inom järnväg till flertalet orter hösten 2026",
+    "ort": "Sverige",
+    "utbildning": "Distansarbete",
     "period": "",
-    "deadline": "2026-12-15",
-    "desc": "Vi är en kraft som binder ihop, håller samman och utvecklar länet. Inom Region Västernorrland är vi alla en del av något större. \n\nFolktandvården Västernorrlands grundläggande uppdrag är att bidra till liv och hälsa i Västernorrland genom att verka för en god munhälsa på lika villkor. Vi erbjuder allmäntandvård och specialisttandvård inom samtliga specialiteter.\nArbetsuppgifterÅrligen tar Folktandvården i Region Västernorrland emot tandsköterskestuderande för lärande i arbetslivet, LIA. Vi erbjuder dig som studerar till tandsköterska LIA i mån av plats. Du har stöd av Folktandvårdens erfarna handledare. Vi har en nära dialog med skolans handledare under LIA-perioderna.\nRegion Västernorrland ",
+    "deadline": "2026-09-30",
+    "desc": "Sweco är Sveriges ledande teknikkonsult inom järnväg och tillhandahåller tjänster i alla typer av uppdrag, från små utredningar till stora multidisciplinära infrastrukturuppdrag. Vi erbjuder projektering, design och specialisttjänster - av samtliga ingående komponenter och tekniker - för planering, byggande samt drift och underhåll av anläggningar för spårburen trafik.\n\nVarför ha LIA-praktik hos oss?\nOm du som student söker en spännande, utmanade och studierelaterad praktik är Sweco rätt plats för dig. Inför hösten 2026 erbjuder vi ett antal studenter LIA-praktik hos oss i Stockholm, Norrköping och Västerås. En del av praktiken kommer också att kunna ske på distans. \n\nDina uppgifter blir att",
     "contact": "",
     "email": "",
     "antal": 1,
-    "postedAt": "2026-07-02",
+    "postedAt": "2026-06-30",
     "source": "jobbsafari.se",
-    "sourceUrl": "https://lvn.heroma.se/prod/lvnpp01/externwebbv2/ansokan/EW2OnePageJobApplication.aspx?jobpostingid=8362534385162066079&utm_source=jobbsafari.se&utm_medium=referral"
+    "sourceUrl": "https://www.sweco.se/karriar/ansok-har/?rmpage=apply&rmjob=25277&utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-18246365",
@@ -336,22 +320,6 @@ window.JOBBSAFARI_DATA = [
     "postedAt": "2026-07-01",
     "source": "jobbsafari.se",
     "sourceUrl": "https://www.sweco.se/karriar/lediga-tjanster/lia-praktik-inom-jarnvag-till-flertalet-orter-hosten-2026/?utm_source=jobbsafari.se&utm_medium=referral"
-  },
-  {
-    "id": "js-20498102",
-    "company": "+Moveco AB",
-    "role": "LIA-praktikant Sociala medier, AI-optimering och SEO - Höst 2026",
-    "ort": "Stockholm",
-    "utbildning": "Dataanalys och datahantering",
-    "period": "",
-    "deadline": "2027-02-14",
-    "desc": "Moveco söker en LIA-praktikant hösten 2026 som vill växa och utvecklas inom digital marknadsföring, sociala medier, AI-optimering och kommunikation. Är du affärsdriven, kreativ och vill göra skillnad i ett växande entreprenörsbolag utsedda till ett av Sveriges bästa solcellsföretag? Då är det dig vi söker!\n\nOm Moveco  På Moveco arbetar vi inte bara med energilösningar, vi är ett team som bygger framtiden. Vi levererar solceller, elbilsladdning och energilösningar till villaägare som vill ta kontroll över sina elkostnader och framtidssäkra sitt hem. Vår ambition? Att bli Sveriges mest drivna bolag inom grön energi - inte bara bäst för kunden, utan även bästa platsen att jobba på.\n\nVi är stolt",
-    "contact": "",
-    "email": "",
-    "antal": 1,
-    "postedAt": "2026-08-17",
-    "source": "jobbsafari.se",
-    "sourceUrl": "https://jobb.moveco.se/jobs/8234856-lia-praktikant-sociala-medier-ai-optimering-och-seo-host-2026?utm_source=jobbsafari.se&utm_medium=referral"
   },
   {
     "id": "js-18186921",
