@@ -1,3 +1,3 @@
-// Autogenererad av scraper.js – 2026-10-06T09:51:14.204Z
+// Autogenererad av scraper.js – 2026-10-07T09:57:22.466Z
 // Kör "node scraper.js" för att uppdatera
 window.JOBBSAFARI_DATA = [];
